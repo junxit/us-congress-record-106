@@ -1,0 +1,64 @@
+---
+granule: CREC-2000-09-21-pt1-PgS8959-2
+date: 2000-09-21
+edition: CREC
+section: SENATE
+page: S8959
+citation: 146 Cong. Rec. S8959
+---
+
+# SENATE RESOLUTION 359--DESIGNATING OCTOBER 16, 2000, TO OCTOBER 20, 2000, AS "NATIONAL TEACH FOR AMERICA WEEK"
+
+**Measures:** S.Res. 359
+
+```
+  SENATE RESOLUTION 359--DESIGNATING OCTOBER 16, 2000, TO OCTOBER 20, 
+              2000, AS ``NATIONAL TEACH FOR AMERICA WEEK''
+
+  Mr. SCHUMER submitted the following resolution; which was referred to 
+the Committee on the Judiciary:
+
+                              S. Res. 359
+
+       Whereas while the United States will need to hire over 
+     2,000,000 new teachers over the next decade, Teach For 
+     America has proven itself an effective alternative means of 
+     recruiting gifted college graduates into the field of 
+     education;
+       Whereas in its decade of existence, Teach For America's 
+     6,000 corps members have aided 1,000,000 low-income students 
+     at urban and rural sites across the United States;
+       Whereas Teach For America's popularity continues to 
+     skyrocket, with a record-breaking number of men and women 
+     applying to become corps members for the 2000-2001 school 
+     year;
+       Whereas over half of all Teach For America alumni continue 
+     to work within the field of education after their two years 
+     of service are complete;
+       Whereas Teach For America corps members leave their service 
+     committed to life-long advocacy for low-income, underserved 
+     children;
+       Whereas over 100,000 schoolchildren are being taught by 
+     Teach For America corps members in 2000; and
+       Whereas October 16th through 20th will be Teach For 
+     America's fourth annual ``Teach For America'' week, during 
+     which government members, artists, historians, athletes, and 
+     other prominent community leaders will visit underserved 
+     classrooms served by Teach For America corps members: Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) commends the Teach For America program, and its past 
+     and present participants, for its contribution to our 
+     Nation's public school system;
+
+[[Page S8960]]
+
+       (2) designates the week beginning on October 16, 2000, and 
+     ending on October 20, 2000, as ``National Teach For America 
+     Week''; and
+       (3) encourages Senators and all community leaders to 
+     participate in classroom visits to take place during the 
+     week.
+
+                          ____________________
+```
