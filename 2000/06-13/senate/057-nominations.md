@@ -1,0 +1,53 @@
+---
+granule: CRECB-2000-pt8-Pg10492-3
+date: 2000-06-13
+edition: CRECB
+section: SENATE
+page: 10492
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate June 13, 2000:
+
+
+                      DEPARTMENT OF TRANSPORTATION
+
+       FRANCISCO J. SANCHEZ, OF FLORIDA, TO BE AN ASSISTANT 
+     SECRETARY OF TRANSPORTATION, VICE CHARLES A. HUNNICUTT, 
+     RESIGNED.
+
+
+                          DEPARTMENT OF STATE
+
+       RICHARD A. BOUCHER, OF MARYLAND, A CAREER MEMBER OF THE 
+     SENIOR FOREIGN SERVICE, CLASS OF MINISTER-COUNSELOR, TO BE AN 
+     ASSISTANT SECRETARY OF STATE (PUBLIC AFFAIRS), VICE JAMES P. 
+     RUBIN.
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                             To be general
+
+LT. GEN. WILLIAM F. KERNAN, 0000
+
+
+
+
+             CONGRESSIONAL RECORD 
+
+                United States
+                 of America
+
+
+June 13, 2000
+```
