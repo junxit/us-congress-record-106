@@ -1,0 +1,21 @@
+---
+granule: CREC-1999-05-04-pt1-PgH2560
+date: 1999-05-04
+edition: CREC
+section: HOUSE
+page: H2560
+citation: 145 Cong. Rec. H2560
+---
+
+# RECESS
+
+```
+                                 RECESS
+
+  The SPEAKER pro tempore. Pursuant to clause 12 of rule I, the Chair 
+declares the House in recess until 2 p.m.
+  Accordingly (at 1 o'clock and 11 minutes p.m.), the House stood in 
+recess until 2 p.m.
+
+                          ____________________
+```
