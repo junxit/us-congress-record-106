@@ -1,0 +1,1974 @@
+---
+granule: CREC-1999-02-11-pt1-PgS1439-2
+date: 1999-02-11
+edition: CREC
+section: SENATE
+page: S1439
+citation: 145 Cong. Rec. S1439
+---
+
+# STATEMENTS ON INTRODUCED BILLS AND JOINT RESOULTIONS
+
+**Speaking:** Brownback, Sam (B000953) [R-KS], Grassley, Chuck (G000386) [R-IA], Burns, Conrad R. (B001126) [R-MT], Lott, Trent (L000447) [R-MS], Murkowski, Frank H. (M001085) [R-AK], Enzi, Michael B. (E000285) [R-WY], Abraham, Spencer (A000355) [R-MI], Conrad, Kent (C000705) [D-ND], Hatch, Orrin G. (H000338) [R-UT], Baucus, Max (B000243) [D-MT], Graham, Bob (G000352) [D-FL], Thurmond, Strom (T000254) [R-SC], Thomas, Craig (T000162) [R-WY], Roth Jr., William V. (R000460) [R-DE], Kyl, Jon (K000352) [R-AZ], Smith, Gordon H. (S001142) [R-OR], Moynihan, Daniel Patrick (M001054) [D-NY], Snowe, Olympia J. (S000663) [R-ME], Collins, Susan M. (C001035) [R-ME], McCain, John (M000303) [R-AZ], Coverdell, Paul (C000813) [R-GA], Ashcroft, John (A000356) [R-MO]
+
+**Measures:** S. 410, S. 414, S. 415, S. 416, S. 417, S. 418, S. 420, S. 421, S. 422, S. 423, S. 424, S. 425, S. 439, S. 1007, S. 1018, S. 1459
+
+```
+          STATEMENTS ON INTRODUCED BILLS AND JOINT RESOULTIONS
+
+      By Mr. BROWNBACK (for himself, Mr. Grams, Mr. Smith of New 
+        Hampshire, Mr. Ashcroft, Mr. Inhofe, Mr. Kyl, Mr. Allard, Mr. 
+        Helms, Mr. Sessions, Mr. Abraham, Mr. Nickles, Mr. Santorum, 
+        and Mr. Hagel):
+  S. 410. A bill to provide for offsetting tax cuts whenever there is 
+an elimination of a discretionary spending program; to the Committee on 
+the Budget and the Committee on Governmental Affairs, jointly, pursuant 
+to order of August 4, 1977, with instructions that if one Committee 
+reports, the other Committee have thirty days to report or be 
+discharged.
+
+
+                              paygo reform
+
+● Mr. BROWNBACK. Mr. President, today I am introducing a bill, 
+cosponsored by several of my colleagues that would reform the current 
+pay-as-you-go financing mechanism of our federal government.
+  As a critical step to help reform the federal government, I believe 
+that we need to change Congressional Budget Rules that make it illegal 
+to use cuts in inefficient government spending to pay for tax cuts. 
+Over the past century, our budget rules have been written in a way that 
+favors spending over savings. We must fundamentally reform Pay-as-you-
+go (PAYGO) financing this year beyond the current law understanding 
+which effectively turns PAYGO off during periods of an on-budget 
+surplus.
+  Currently, according to PAYGO, Congress cannot make cuts in wasteful, 
+even harmful government discretionary spending programs in order to 
+finance tax cuts. For example, we can't cut the Advanced Technology 
+Program in the Department of Commerce to pay for a capital gains tax 
+cut. Rather, Congress has to make cuts in popular mandatory spending 
+programs like Social Security and Medicare in order to pay for its tax 
+cuts. I believe it is wrong to pit Social Security and Medicare against 
+tax cuts. We need to flip the table on this false trade off by pitting 
+tax cuts against wasteful big government spending.
+  Such a change would amount to a paradigm shift in how government 
+functions and would help limit the size of government while at the same 
+time providing additional resources for meaningful tax relief. The 
+machinery of government is constructed to spend. We need reengineering 
+of government so that the machinery produces savings.
+  My bill would change budget law in order to allow for tax cuts to be 
+implemented in the amount of program eliminations. In practice, if we 
+are able to eliminate a program during consideration of an 
+appropriations measure, that money would be credited to the PAYGO 
+scorecard and reserved for tax cuts.
+  Therefore, should my bill be enacted, we could eliminate programs 
+like the Advance Technology Program, the National Endowment for the 
+Arts, the Department of Commerce, and a whole host of other government 
+programs while at the same time giving the taxpayers the tax relief 
+they deserve--and we can do it without making draconian cuts to 
+mandatory spending programs that ultimately do little to save the 
+programs and much to simply prolong the crisis.
+  Mr. President, I look forward to the coming debate on budget process 
+reforms. I look forward to the bill that is being considered jointly by 
+the Governmental Affairs and Budget Committees, and I look forward to 
+working with the chairmen of each in order to accomplish the type of 
+budget reform that we truly need.●
+                                 ______
+                                 
+      By Mr. GRASSLEY (for himself, Mr. Jeffords, Mr. Conrad, Mr. 
+        Leahy, Mr. Murkowski, Mr. Smith of Oregon, Mr. Wellstone, Mr. 
+        Chafee, Mr. Breaux, Mr. Graham, Mr. Mack, Mr. Daschle, Mr. 
+        Dorgan, and Mr. Burns).
+  S. 414. A bill to amend the Internal Revenue Code of 1986 to provide 
+a 5-year extension of the credit for producing electricity from wind, 
+and for other purposes; to the Committee on Finance.
+
+
+                         wind energy tax credit
+
+● Mr. GRASSLEY. Mr. President, I rise today to introduce 
+important tax legislation for myself and Senators Jeffords, Conrad, 
+Murkowski, Leahy, Wellstone, Chafee, Smith of Oregon, Breaux, Graham, 
+Mack, Daschle, and Dorgan.
+  Our legislation extends the production tax credit for energy 
+generated by wind. This proposed bill resembles bi-partisan legislation 
+introduced in November of 1998 that, unfortunately, was not enacted.
+  As original author of the Wind Energy Incentives Act of 1993, I 
+strongly believe that the expansion and development of wind energy must 
+be facilitated by this production tax credit.
+  The Senate has previously supported wind energy production tax credit 
+legislation. I would therefore like to request that Senators again 
+consider this valuable initiative that would help secure this untapped 
+potential for clean power.
+  Wind, unlike most energy sources, is an efficient and environmentally 
+safe form of energy use. Wind is renewable and does not obligate the 
+United States to rely on unstable foreign states for sources of energy.
+  This legislation extends the production tax credit through the month 
+of June, 2004. We all know the damaging effects fossil fuels have on 
+our environment. Wind energy, by contrast, is clean, safe, and abundant 
+within the United States.
+  Every 10,000 megawatts of wind energy can reduce carbon monoxide 
+emissions by 33 million metric tons. Today, the United States produces 
+only 1,700
+
+[[Page S1440]]
+
+megawatts of wind energy. However, experts estimate that American wind 
+capacity can produce up to 30,000 megawatts by the year 2010--that is 
+enough energy to meet the demands of over 10 million homes, while 
+reducing pollution in every state.
+  The production tax credit has brought wind power generation costs 
+almost down to the same as coal and gas energy levels. In order to 
+continue this investment in America's energy future, we must extend the 
+production tax credit.
+  Currently, my own state of Iowa has 5 new wind power projects ready 
+to go online just this year. These 5 projects, with the megawatt 
+capacity of over 240, join the already existing 6 facilities in Iowa. 
+Even large petroleum producing states like Texas, ranked 2nd in the 
+nation in wind energy potential, recognize the growing significance of 
+wind power.
+  Renewing the wind tax credit would allow for greater expansion into 
+the wind energy field. These projects take a long time to develop and 
+assured tax breaks would help facilitate more wind power construction 
+contracts. Withhold the tax credit and investment will surely decline 
+for new wind projects. This is because it takes as much as 3 years to 
+obtain financing and permitting to build a new facility.
+  Wind is a domestic natural resource, found abundant in almost every 
+state. Wind is homegrown energy, that cannot be controlled by any 
+foreign state or power. American lives need not be put at risk to 
+protect overseas sources of wind energy.
+  Wind energy can be harnessed without the detrimental effects of 
+fossil fuel pollution. Wind is a stable and reliable form of power that 
+is renewable and inextinguishable. This legislation ensures that wind 
+energy does not fall by the wayside as a productive alternative energy 
+source. The Senate needs to extend this important legislation and I 
+encourage all my colleagues to join us in this effort.
+  Mr. President, I ask that the bill be printed in the Record.
+  The bill follows:
+
+                                 S. 414
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. 5-YEAR EXTENSION OF CREDIT FOR PRODUCING 
+                   ELECTRICITY FROM WIND.
+
+       (a) In General.--Paragraph (3) of section 45(c) of the 
+     Internal Revenue Code of 1986 (defining qualified facility) 
+     is amended to read as follows:
+       ``(3) Qualified facility.--The term `qualified facility' 
+     means any facility owned by the taxpayer which is originally 
+     placed in service--
+       ``(A) in the case of a facility using wind to produce 
+     electricity, after December 31, 1993, and before July 1, 
+     2004, and
+       ``(B) in the case of a facility using closed-loop biomass 
+     to produce electricity, after December 31, 1992, and before 
+     July 1, 1999.''.
+       (b) Credit Not To Apply to Electricity Sold to Utilities 
+     Under Certain Contracts.--Subsection (b) of section 45 of 
+     such Code is amended by adding at the end the following new 
+     paragraph:
+       ``(4) Credit not to apply to electricity sold to utilities 
+     under certain contracts.--
+       ``(A) In general.--The credit determined under subsection 
+     (a) shall not apply to electricity--
+       ``(i) produced at a qualified facility placed in service by 
+     the taxpayer after June 30, 1999, and
+       ``(ii) sold to a utility pursuant to a contract originally 
+     entered into before January 1, 1987 (whether or not amended 
+     or restated after that date).
+       ``(B) Exception.--Subparagraph (A) shall not apply if--
+       ``(i) the prices for energy and capacity from such facility 
+     are established pursuant to an amendment to the contract 
+     referred to in subparagraph (A)(ii);
+       ``(ii) such amendment provides that the prices set forth in 
+     the contract which exceed avoided cost prices determined at 
+     the time of delviery shall apply only to annual quantities of 
+     electricity (prorated for partial years) which do not exceed 
+     the greater of--
+       ``(I) the average annual quantity of electricity sold to 
+     the utility under the contract during calendar years 1994, 
+     1995, 1996, 1997, and 1998, or
+       ``(II) the estimate of the annual electricity production 
+     set forth in the contract, or, if there is no such estimate, 
+     the greatest annual quantity of electricity sold to the 
+     utility under the contract in any of the calendar years 1996, 
+     1997, or 1998; and
+       ``(iii) such amendment provides that energy and capacity in 
+     excess of the limitation in clause (ii) may be--
+       ``(I) sold to the utility only at prices that do not exceed 
+     avoided cost prices determined at the time of delivery, or
+       ``(II) sold to a third party subject to a mutually agreed 
+     upon advance notice to the utility.
+
+     For purposes of this subparagraph, avoided cost prices shall 
+     be determined as provided for in 18 CFR 292.304(d)(1) or any 
+     successor regulation.''.●
+
+● Mr. BURNS. Mr. President, I stand today with my colleague from 
+Iowa, Senator Grassley and others, as an original co-sponsor of a bill, 
+S. 414, that would provide alternative energy tax credits that will 
+help our nation become a leader in environmentally sound energy usages.
+  As a nation, we consume more energy per capita than any other country 
+in the world. However, because of available technology and efficient 
+use of our resources, we are also a leader in the use of 
+environmentally-friendly practices.
+  Last year, President Clinton and Vice-President Gore expressed their 
+interest in ratification of the Kyoto Treaty. I am concerned about the 
+implications of applying the Kyoto Treaty to the U.S. economy.
+  The treaty, negotiated by 160 countries in December 1997, would 
+require the United States to reduce its energy-related emissions 30-40 
+percent below levels otherwise projected for the years 2008-2012.
+  To enter into force, at least 55 nations representing 55 percent of 
+the industrial world's 1990 emissions must ratify the agreement. The 
+U.S. plays a pivotal role. If the U.S. does not ratify, neither Japan 
+nor the European Union will do so.
+  In July 1997, the Senate passed, 95-0, a resolution opposing any 
+agreement that exempts developing countries from emission limits. The 
+Treaty does so exempt such countries. Key developing countries such as 
+China, India, Brazil, Mexico and South Korea have refused to limit 
+their emissions. These countries create a proportionately larger share 
+of emissions than developed countries.
+  Therefore it would be unfair for the Congress to subject the Treaty 
+on the American taxpayer. I am further concerned that the Clinton 
+Administration led by Vice-President Gore signed the Kyoto Protocol 
+announcing plans to launch new Kyoto-friendly federal energy 
+procurement and transportation initiatives.
+  If implemented, Kyoto could: Increase gasoline prices up to 53% (up 
+to $1.91/gallon); Increase electricity prices up to 86%; Eliminate up 
+to 16 million U.S. jobs over the next six years.
+  The Department of Energy's Energy Information Administration 
+concludes that natural gas market share will increase from 14% to 33% 
+by 2020 and coal market share will decrease dramatically.
+  Mr. President, I am very committed to reducing global emissions but I 
+am also convinced that such actions must not be at the expense of U.S. 
+energy consumers. We have not given proper attention to a largely 
+untapped and unlimited resource--that resource being wind generated 
+power and other alternative energy sources.
+  If you drive through our State, you will feel the power of our 
+unharnessed wind. Our Northerly wind can at times present a danger 
+along the Rocky Mountain front, and certainly makes it's presence felt 
+just about any time of the year.
+  The vast majority of wind development has been in California. 
+However, many states have a much greater wind potential than 
+California. Montana has an annual wind energy potential of 1,020 
+billion kilo Watt hours and little has been done to harness that 
+energy. Such potential deserves exploration and that exploration needs 
+to be fostered.
+  Congress is also responsible to help foster such growths in other 
+alternative energy sources. Last year, I was very active in efforts to 
+provide for an extension of the ``placed-in-service'' date of the 
+Section 29 tax credit. Although this tax credit does not expire until 
+2008, it is important for Congress to allow new entrants to develop 
+their technologies and build their facilities.
+  I look forward to pursuing this issue again this year. It will be a 
+great addition to current legislation supporting energy tax credits for 
+oil and gas development. I would like to request the attached colloquy 
+from last year regarding Section 29 tax credits between me and twelve 
+of my colleagues be entered into the Record.
+  The colloquy follows:
+
+       Mr. BURNS. Mr. President, I would like to clarify the 
+     intent of Congress regarding tax
+
+[[Page S1441]]
+
+     incentives for alternative fuels. These incentives are 
+     important tools for our nation's long-term energy policy.
+       Starting with the energy crisis in the 1970s, Congress has 
+     acted on numerous occasions to provide tax credits intended 
+     to develop alternative fuels. Prior Congresses took these 
+     steps in recognition of the need to encourage the development 
+     and use of alternative fuels which promise that we as a 
+     nation will never be dependent on others for our energy 
+     resources. For example, Section 29, which expired earlier 
+     this year, and Section 45, which is due to expire next June, 
+     were both intended to encourage the development of 
+     nonconventional fuels.
+       Today, our nation not only needs to continue its efforts to 
+     develop alternative fuel resources, but given our ever 
+     growing energy requirements, we must consider the 
+     environmental impact that conventional and nonconventional 
+     fuels have on our environment, particularly in light of the 
+     Clean Air Act.
+       In order to maximize the most efficient use of our nation's 
+     resources, Congress needs to commit to the development of 
+     clean alternative fuels. We need also to use our nation's 
+     technologies to develop environmentally clean alternative 
+     liquid fuels from coal.
+       In Montana, we have vast coal reserves. There are 
+     technologies that can upgrade the coal from these reserves 
+     and reduce current difficulties associated with the 
+     development of these fields. However, these technologies are 
+     not likely to be developed, and therefore these vast natural 
+     resources are not likely to be used, unless Congress provides 
+     incentives to develop clean alternative fuels.
+       I am concerned that we have not been able to fully discuss 
+     the merits of such incentives in our budget debate this past 
+     month. For example, an extension of Section 29 was included 
+     in the Senate version of the tax extenders, but that 
+     provision was not included in the final package.
+       I would urge my colleagues to bring this debate to the 
+     floor in the 106th Congress to ensure that the issue of 
+     encouraging the development of clean alternative fuels is a 
+     priority in our nation's energy policy.
+       Mr. LOTT. I agree with my colleague from Montana. As our 
+     nation continues to seek ways to improve environmental 
+     quality and to reduce the need for imported energy, several 
+     new technologies run the risk of not being developed if 
+     Congress does not act to provide incentives to develop clean 
+     alternative fuels.
+       These technologies provide two significant benefits to our 
+     nation. First, the use of alternative fuels reduces our 
+     reliance on foreign energy sources. Second, the technologies 
+     provide cleaner results for our environment.
+       For these reasons, I want to assure my colleague from 
+     Montana that I will make a priority of addressing the need 
+     for tax incentives to produce clean alternative fuels.
+       Mr. GRASSLEY. I agree with my colleagues from Montana and 
+     Mississippi about this very important issue. The development 
+     and use of alternative fuels are important to this nation, 
+     and we must encourage their use and development.
+       Wind energy has long been recognized as an abundant 
+     potential source of electric power. A detailed analysis by 
+     the Department of Energy's Pacific Northwest Laboratory in 
+     1991 estimated the energy potential of the U.S. wind resource 
+     at 10.8 trillion kilowatt hours annually, or more than three 
+     times total current U.S. electricity consumption. Wind energy 
+     is a clean resource that produces electricity with virtually 
+     no carbon dioxide emissions. There is nothing limited or 
+     controversial about this source of energy. Americans need 
+     only to make the necessary investments in order to capture it 
+     for power.
+       The Production Tax Credit, section 45 of the Internal 
+     Revenue Code was enacted as part of the Energy Policy Act of 
+     1992. This tax credit is a sound low-cost investment in an 
+     emerging sector of the energy industry. I introduced the 
+     first bill that contained this tax credit, so you can be sure 
+     that I am sincere in my belief in the need to develop this 
+     resource. This tax credit currently provides a 1.5 cent per 
+     kilowatt hour credit for energy produced from a new facility 
+     brought on-line after December 31, 1993 and before July 1, 
+     1999 for the first ten years of the facility's existence. 
+     Last Fall, I introduced a bill to extend this tax credit for 
+     five years. My legislation, S. 1459, currently has 22 
+     cosponsors, including half of the Finance Committee. The 
+     House companion legislation, introduced by Congressman 
+     Thomas, currently has 90 cosponsors, including over half of 
+     the Ways and Means Committee. These numbers are a strong 
+     testament to the importance of the section 45, and renewable 
+     fuels in general.
+       In addition, I plan to work to expand this tax credit to 
+     allow use of the closed-loop biomass portion of this tax 
+     credit. Switchgrass from my state and other Midwestern 
+     states, eucalyptus from the South, and other biomass, can be 
+     grown for the exclusive purpose of producting energy. This is 
+     a productive use of our land, and will be an important step 
+     in our use and development of alternative and renewable 
+     fuels.
+       I was very pleased to see that Congress expressed its 
+     understanding of the importance of alternative and renewable 
+     fuels by extending the ethanol tax credit in this year's T-2 
+     legislation. These tax credits are a successful way of 
+     promoting alternative sources of energy. These tax credits 
+     are a cheap investment with high returns for ourselves, our 
+     children, our grandchildren and even their grandchildren. 
+     Congress needs to again pass this important legislation to 
+     ensure that these energy tax credits are extended into the 
+     century.
+       Mr. MURKOWSKI. I concur with my colleagues. Implementation 
+     of the 1990 Clean Air Act amendments is creating a real need 
+     to develop clean alternative fuels.
+       For example, of the 64 remaining U.S. coke batteries, 58 
+     are subject to closure as a result of the Clean Air Act. The 
+     steel industry can either use limited capital to build new 
+     clean coking facilities  or they can choose to import coke 
+     from China, which uses 50 year old highly pollutant 
+     technologies. Restoring the section 29 credit to encourage 
+     cleaner coker technologies will greatly reduce emissions 
+     and will slow our increasing dependence on foreign coke, 
+     at the same time creating jobs in the United States in 
+     both the steel and coal mining industries.
+       In addition, the United States has rich deposits of lignite 
+     and sub-bituminous coals. There are new technologies that can 
+     upgrade these coals to make them burn efficiently and 
+     economically, while at the same time significantly reducing 
+     air pollution.
+       This is proven technology, but to make the development of 
+     this technology throughout the nation feasible, the Congress 
+     needs to provide tax incentives.
+       Mr. ENZI. The people of Wyoming have always had very strong 
+     ties to our land. That is why the words ``Livestock, Oil, 
+     Grain and Mines'' appear on our state seal. Those words 
+     clearly reflect the importance of our natural resources to 
+     the people of my state, and our commitment to using our 
+     abundant natural resources wisely and for the benefit of 
+     current and future generations of Wyomingites and the people 
+     of this country.
+       Congress has determined the need to find newer and cleaner 
+     technologies. Wyoming is blessed with an abundance of clean 
+     burning coal reserves. It would seem to be a perfect match. 
+     We are eager to provide what is needed for our country's 
+     present and future fuel needs. But those reserves aren't 
+     likely to be developed unless we provide the incentives 
+     necessary to make it possible for the coal to be harvested in 
+     a safe and environmentally friendly manner.
+       Mr. ABRAHAM. I concur with my colleagues. The development 
+     and production of alternative fuels provides a real 
+     opportunity for the country to improve the environment while 
+     ensuring a constant, reasonably priced fuel supply. But 
+     recent efforts to provide such assurances have been hampered. 
+     For example, in the Small Business Job Protection Act of 
+     1996, Congress extended the placed-in-service date for 
+     facilities producing synthetic fuels from coal, and gas from 
+     biomass for eighteen months.
+       However, progress in bringing certain facilities up to full 
+     production has been hampered by the Administration's 1997 
+     proposal to shorten the placed-in-service date and because, 
+     in many cases, the technology used to produce the fuels is 
+     new. Such delays have created uncertainty regarding the 
+     facilities eligibility under the placed-in-service 
+     requirement of section 29.
+       While it is important that the Congress consider again this 
+     issue in the 106th Congress, I would also urge the Secretary 
+     to consider the facilities I mentioned qualified under 
+     Section 29 if they met the Service's criteria for placed-in-
+     service by June 30, 1998 whether or not such facilities were 
+     consistently producing commercial quantities of marketable 
+     products on a daily basis.
+       Mr. CONRAD. I agree with my colleagues. Through the section 
+     29 tax credit for nonconventional fuels, Congress has 
+     supported the development of environmentally friendly 
+     fuels from domestic biomass and coal resources. There are 
+     lignite resources in my state that could compete in the 
+     energy marketplace if we can find a reasonable incentive 
+     for the investment in the necessary technology. As soon as 
+     possible in the 106th Congress, I hope we will give this 
+     crucial subject the attention it deserves.
+       Mr. HATCH. I concur with my colleagues. This is a very 
+     important tax credit for alternative fuels. It is an issue of 
+     fairness, not one of corporate welfare.
+       Earlier this year I, along with 18 of my colleagues, 
+     introduced a bill that would extend for eight months the 
+     placed-in-service date for coal and biomass facilities. The 
+     need still exists to extend this date and I am very 
+     disappointed that this was not included.
+       Mr. BAUCUS. Mr. President, I want to join my colleagues in 
+     supporting tax incentives for alternative fuels. Our country 
+     has assumed a leadership role in the reduction of greenhouse 
+     gases because of the global importance of pollution 
+     reduction. As my colleagues have also pointed out, promotion 
+     of alternative fuels is not just an environmental issue, but 
+     an issue important to our domestic economy and independence 
+     as well. We cannot afford to slip back toward policies which 
+     will leave us dependent upon foreign sources of oil for our 
+     economic growth.
+       With the huge reserves of coal and lignite in the United 
+     States and around the world, as well as the tremendous 
+     potential for use of biomass, wind energy, and other 
+     alternatives, it is particularly important to our economy and 
+     the world's environment that new, more environmentally 
+     friendly fuels are brought to market here and in developing 
+     nations.
+       But bringing new technologies to market is financially 
+     risky. In particular, finding investors to take a new 
+     technology from the laboratory to the market is difficult 
+     because so many technical problems need full-scale testing 
+     and operations to resolve. Few investors are prepared to take 
+     on the risks associated with bringing a first-of-a-kind, 
+     full-
+
+[[Page S1442]]
+
+     sized alternative energy production facility on-line without 
+     some level of security provided by a partnership with the 
+     federal government.
+       Tax incentives represent our government's willingness to 
+     work with the private sector as a partner to bring new, clean 
+     energy technologies to the market. These incentives 
+     demonstrate our country's commitment to the future.
+       Mr. GRAHAM. There are two principal reasons I support 
+     extension of sections 29 and 45. First, in a period where 
+     America is continuing to increase its dependence on foreign 
+     oil, we need to develop alternative fuel technologies to 
+     prepare for the day when foreign supply of oil is reduced. 
+     These tax credits have spurred the production of fuel from 
+     sources as diverse as biomass, coal, and wind. America will 
+     desperately need fuel from these domestic sources when 
+     foreign producers reduce imports. Second, the alternative 
+     fuels that earn these tax credits are clean fuels. For 
+     example, the capture and reuse of landfill methane 
+     prevents the methane from escaping into the atmosphere. I 
+     will support my colleagues in an effort next year to 
+     extend these provisions.
+       Mr. THURMOND. I join my colleagues in support of extending 
+     the tax credit for Fuel Production from Nonconventional 
+     Sources. Through this credit, Congress has emphasized the 
+     importance of establishing alternative energy sources, 
+     furthering economic development, and protecting the 
+     environment. The alternative fuels credit strikes a proper 
+     balance between each of these objectives. I support efforts 
+     to bring this issue to a satisfactory conclusion, early in 
+     the next Congress.
+       Mr. THOMAS. I strongly agree with my colleagues regarding 
+     the importance of the Section 29 tax credit. Wyoming has some 
+     of the nation's largest coal reserves and this tax credit 
+     gives producers an incentive to develop new and innovative 
+     technologies for the use of coal. I am disappointed that an 
+     extension of the Section 29 tax credit was not included in 
+     the Omnibus Appropriations package and urge my colleagues to 
+     make this matter a top priority during the 106th Congress.
+       Mr. ROTH. I understand my colleagues' concerns. For some 
+     time now I have been studying how to provide targeted 
+     incentives to develop clean alternative fuels. It is 
+     essential for Congress to develop sound tax policy for 
+     alternative energy to help protect our environment. Several 
+     weeks ago, I introduced legislation to provide such 
+     incentives for facilities that produce energy from poultry 
+     waste. I look forward to working with my colleagues on these 
+     issues early in the 106th Congress.●
+                                 ______
+                                 
+      By Mr. KYL (for himself and Mr. McCain):
+  S. 415. A bill to protect the permanent trust funds of the State of 
+Arizona from erosion due to inflation and modify the basis on which 
+distributions are made from those funds; to the Committee on Energy and 
+Natural Resources.
+
+
+             ARIZONA STATEHOOD AND ENABLING ACT AMENDMENTS
+
+● Mr. KYL. Mr. President, this Sunday, February 14, 1999, marks 
+the eighty-seventh anniversary of the granting of statehood to the 
+great state of Arizona. On this historic occasion, I propose to amend, 
+with the attached bill, the act of Congress which in 1910 set in motion 
+Arizona's entry into the Union. The proposed amendment makes two small 
+but important modifications to the Arizona Enabling Act relating to the 
+administration of state trust funds. These changes have been requested 
+by Governor Hull, the state legislature, and the citizens of Arizona.
+  Mr. President, the Arizona Enabling Act required the state to 
+establish a permanent fund collecting the proceeds of the sale of trust 
+land and the land's mineral and other natural products. The principal 
+of the fund is not expendable for any purpose. Instead, it is invested 
+in interest-bearing securities, and the interest is used to support the 
+financial needs of the beneficiaries.
+  Mr. President, Arizona is currently prevented from maximizing the 
+benefits of the permanent fund. The state could improve management, and 
+generate more revenues for the beneficiaries, by gaining authorization 
+to invest part of the fund in stocks, and to reinvest some earnings to 
+offset inflation. This amendment would allow the state treasurer to 
+preserve the real value of the fund by reinvesting an amount equal to 
+the rate of inflation, thereby providing higher payments to 
+beneficiaries over time. This amendment is similar to the change that 
+was granted to New Mexico in 1997. It was approved by Arizona voters on 
+November 3, 1998.
+  Mr. President, the second modification to the Arizona Enabling Act 
+contained in this bill would allow the state to expend monies from the 
+Miners' Hospital Endowment Fund to benefit the Arizona Pioneers' Home. 
+Current law prohibits the commingling of funds associated with state-
+trust lands. Insufficient funds exist in the Miners' Hospital Endowment 
+Fund to build and operate a separate hospital for disabled miners, but 
+disabled miners have been cared for at the Arizona Pioneers' Home since 
+1929. Miners who meet the statutory admission requirements for the 
+Hospital for Disabled Miners will continue to be admitted to the 
+Arizona Pioneers' Home on a priority basis.
+  Mr. President, I ask that the bill be printed in the Record.
+  The bill follows:
+
+                                 S. 415
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Arizona Statehood and 
+     Enabling Act Amendments of 1999''.
+
+     SEC. 2. PROTECTION OF TRUST FUNDS OF STATE OF ARIZONA.
+
+       (a) In General.--Section 28 of the Act of June 20, 1910 (36 
+     Stat. 574, chapter 310) (as amended by section 2 of Public 
+     Law 85-180 (71 Stat. 457)) is amended in the first paragraph 
+     by adding at the end the following: ``The trust funds 
+     (including all interest, dividends, other income, and 
+     appreciation in the market value of assets of the funds) 
+     shall be prudently invested on a total rate of return basis. 
+     Distributions from the trust funds shall be made as provided 
+     in Article 10, Section 7 of the Constitution of the State of 
+     Arizona.''.
+       (b) Conforming Amendments.--
+       (1) Section 25 of the Act of June 20, 1910 (36 Stat. 573, 
+     chapter 310), is amended in the proviso of the second 
+     paragraph by striking ``the income therefrom only to be 
+     used'' and inserting ``distributions from which shall be made 
+     in accordance with the first paragraph of section 28 and 
+     shall be used''.
+       (2) Section 27 of the Act of June 20, 1910 (36 Stat. 574, 
+     chapter 310), is amended by striking ``the interest of which 
+     only shall be expended'' and inserting ``distributions from 
+     which shall be made in accordance with the first paragraph of 
+     section 28 and shall be expended''.
+
+     SEC. 3. USE OF MINERS' HOSPITAL ENDOWMENT FUND FOR ARIZONA 
+                   PIONEERS' HOME.
+
+       (a) In General.--Section 28 of the Act of June 20, 1910 (36 
+     Stat. 574, chapter 310) (as amended by section 2 of Public 
+     Law 85-180 (71 Stat. 457)) is amended in the second paragraph 
+     by inserting before the period at the end the following: ``, 
+     except that amounts in the Miners' Hospital Endowment Fund 
+     may be used for the benefit of the Arizona Pioneers' Home''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     takes effect on June 20, 1910.
+
+     SEC. 4. CONSENT OF CONGRESS TO AMENDMENTS TO CONSTITUTION OF 
+                   STATE OF ARIZONA.
+
+       Congress consents to the amendments to the Constitution of 
+     the State of Arizona proposed by Senate Concurrent Resolution 
+     1007 of the 43rd Legislature of the State of Arizona, Second 
+     Regular Session, 1998, entitled ``Senate Concurrent 
+     Resolution requesting the Secretary of State to return Senate 
+     Concurrent Resolution 1018, Forty-Third Legislature, First 
+     Regular Session, to the Legislature and submit the 
+     Proposition contained in Sections 3, 4, and 5 of this 
+     Resolution of the proposed amendments to Article IX, Section 
+     7, Article X, Section 7, and Article XI, Section 8, 
+     Constitution of Arizona, to the voters; relating to 
+     investment of State monies'', approved by the voters of the 
+     State of Arizona on November 3, 1998.●
+                                 ______
+                                 
+      By Mr. SMITH of Oregon (for himself and Mr. Wyden):
+  S. 416. A bill to direct the Secretary of Agriculture to convey the 
+city of Sisters, Oregon, a certain parcel of land for use in connection 
+with a sewage treatment facility; to the Committee on Energy and 
+Natural Resources.
+
+
+                         a solution for sisters
+
+● Mr. SMITH of Oregon. Mr. President, today I am proud to 
+introduce legislation that will enable the city of Sisters, Oregon, to 
+obtain Federal lands for the purpose of constructing a sewage treatment 
+facility. The federal government will benefit directly from this 
+facility, and we have the opportunity to show that we can be good 
+neighbors and help solve local problems. This legislation, and the 
+approach I have taken to provide a funding mechanism to benefit natural 
+resources in the area, has broad support in the local community and the 
+surrounding region.
+  The city of Sisters, Oregon, is facing both environmental and public 
+health problems due to the lack of a sewer system. Currently, all of 
+the homes and businesses inside the city limits must use septic 
+systems. In the summer, in order to accommodate tourists who often 
+recreate in the surrounding federal lands, the city must place 
+approximately sixty portable toilets throughout the town. Deschutes 
+County has
+
+[[Page S1443]]
+
+had to develop alternatives to established regulations for septic 
+systems in order to continue use of some properties.
+  There are ongoing concerns about a possible outbreak of infectious 
+diseases from failed and leaking septic systems, and of groundwater 
+contamination. Obviously, this is a situation that cannot continue.
+  Fortunately, the city has risen to the challenge. In 1998, the 775 
+residents of Sisters voted to issue up to seven million dollars in 
+bonds to construct a sewer system and a wastewater treatment facility 
+to service their municipality. This vote was noteworthy because Sisters 
+is the fourth most economically depressed city in Oregon. Sixty-one 
+percent of the town's residents are considered low to moderate income 
+and the average annual income is $17,188.
+  While the city has put together a financing package of approximately 
+twelve million dollars, this financing package does not include funds 
+for land acquisition. Additional funds to acquire the land for the 
+treatment facility and for the disposition of the treated wastewater 
+are beyond the resident's ability to pay, and pose a huge financial 
+burden. There is a long-standing recognition in federal law, both in 
+the Townsite Act and in the Recreation and Public Purposes Act, that in 
+some instances the transfer of land out of federal ownership to serve 
+community objectives outweighs the goals of maintaining such a tract in 
+federal ownership.
+  This is definitely one of those cases. The city of Sisters is 
+literally surrounded by land managed by the Forest Service. After 
+examining numerous other non-federal sites in or near the city, it was 
+determined that this parcel is large enough, and has the proper soil 
+conditions for disposing of the treated wastewater.
+  I am proud to sponsor legislation that will not only resolve the 
+city's public health threat, but will benefit all the parties involved. 
+My bill calls for the Forest Service to convey land for the facilities 
+at no cost to the city of Sisters. The legislation also stipulates 
+that, at the option of the United States, the land would revert to the 
+Forest Service upon termination of the specified uses.
+  In return, the Forest Service will benefit from the treatment 
+facilities themselves, as well as from improved environmental 
+conditions. The Forest Service currently maintains eleven separate 
+septic systems in the city to serve existing administrative buildings. 
+Since the Forest Service administers seventy-seven acres of land within 
+the city limits, the federal government will benefit from the expected 
+increase in land values directly attributable to the sewer system.
+  In order to capture some of this enhanced value for the benefit of 
+the environment, the Forest Service will also be required to sell no 
+less than six acres of the unimproved administrative lands within the 
+city limits. The bill stipulates that the sale be at fair market value 
+within three years of the enactment of the Act.
+  Most of the revenue from this sale will be used for activities which 
+are directly related to improving the long-term conditions in the 
+watershed of Squaw Creek, a tributary of the Deschutes River. The 
+remainder, not to exceed twenty-five percent, may be used for 
+administrative improvements by the Sisters Ranger District.
+  My legislation makes sense. It is a win-win solution that helps both 
+the community of Sisters and the environment. I urge my colleagues to 
+support its early consideration by the Senate.
+  Mr. President, I ask that the text of the bill be included in the 
+Record.
+  The bill follows:
+
+                                 S. 416
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. FINDINGS.
+
+       Congress finds that--
+       (1) the city of Sisters, Oregon, faces a public health 
+     threat from a major outbreak of infectious diseases due to 
+     the lack of a sewer system;
+       (2) the lack of a sewer system also threatens groundwater 
+     and surface water resources in the area;
+       (3) the city is surrounded by Forest Service land and has 
+     no reasonable access to non-Federal parcels of land large 
+     enough, and with the proper soil conditions, for the 
+     development of a sewage treatment facility;
+       (4) the Forest Service currently must operate, maintain, 
+     and replace 11 separate septic systems to serve existing 
+     Forest Service facilities in the city of Sisters; and
+       (5) the Forest Service currently administers 77 acres of 
+     land within the city limits that would increase in value as a 
+     result of construction of a sewer system.
+
+     SEC. 2. CONVEYANCE.
+
+       (a) In General.--Not later than 1 year after the date of 
+     enactment of this Act, the Secretary of Agriculture shall 
+     convey to the city of Sisters, Oregon, at no cost to the city 
+     except the cost of preparation of any documents required by 
+     any environmental law in connection with the conveyance, the 
+     parcel of land described in subsection (b).
+       (b) Land Description.--The land described in this 
+     subsection is the parcel of land located in--
+       (1) the SE quarter of section 09, township 15 south, range 
+     10 west, W.M., Deschutes, Oregon, and the portion of the SW 
+     quarter of section 09, township 15 south, range 10 west, 
+     W.M., Deschutes, Oregon, that lies east of Three Creeks Lake 
+     Road, but not including the westernmost 500 feet of that 
+     portion; and
+       (2) the portion of the SW quarter of section 09, township 
+     15 south, range 10 west, W.M., Deschutes County, Oregon, 
+     lying easterly of Three Creeks Lake Road.
+       (c) Condition.--The conveyance under subsection (a) shall 
+     be made on the condition that the city agree to conduct a 
+     public process before the final determination is made 
+     regarding land use for the disposition of treated effluent.
+       (d) Special Use Permit.--Not later than 120 days after the 
+     date of enactment of this Act, in compliance with applicable 
+     environmental laws (including regulations), the Secretary 
+     shall issue a special use permit for the land conveyed under 
+     subsection (a) that allows the city access to the land for 
+     the purpose of commencing construction of the sewage 
+     treatment plant.
+       (e) Use of Land.--
+       (1) In general.--The land conveyed under subsection (a) 
+     shall be used by the city for a sewage treatment facility and 
+     for the disposal of treated effluent.
+       (2) Optional reverter.--If at any time the land conveyed 
+     under subsection (a) ceases to be used for a purpose 
+     described in paragraph (1), at the option of the United 
+     States, title to the land shall revert to the United States.
+
+     SEC. 3. SALE OF ADMINISTRATIVE LAND.
+
+       (a) In General.--Not later than 3 years after the date of 
+     enactment of the Act, and notwithstanding any other provision 
+     of law, the Secretary shall sell, at fair market value, not 
+     less than a total of 6 acres of unimproved land in the city 
+     that is currently designated for administrative use. There 
+     are authorized to be appropriated such sums as are necessary 
+     to prepare the sale.
+       (b) Deposit of Proceeds.--The Secretary shall deposit the 
+     proceeds of a sale under subsection (a) in the fund 
+     established by Public Law 90-171 (commonly known as the 
+     ``Sisk Act'') (16 U.S.C. 484a).
+       (c) Use of Proceeds.--
+       (1) In general.--Funds deposited under subsection (b) shall 
+     be available for expenditure, without further Act of 
+     appropriation, as follows:
+       (A) Not more than 25 percent shall be available for 
+     administrative improvements at the Sisters Ranger District.
+       (B) The remainder shall be available for purposes that are 
+     directly related to improving the long-term condition of the 
+     watershed of Squaw Creek, a tributary of the Deschutes River, 
+     Oregon.
+       (2) Method of expenditure.--The supervisor of the Deschutes 
+     National Forest may expend funds deposited under subsection 
+     (b) directly or may provide the funds in the form of grants 
+     to local watershed councils, including the Working Group (as 
+     defined in section 1025(a) of division I of the Omnibus Parks 
+     and Public Lands Management Act of 1996 (110 Stat. 
+     4226)).●
+                                 ______
+                                 
+      By Mr. MOYNIHAN:
+  S. 417. A bill to amend title 28 of the United States Code to bar any 
+civil trial involving the President until after the President vacates 
+office, but to allow for sealed discovery during the time the President 
+is in office; to the Committee on the Judiciary.
+
+
+  LEGISLATION TO LIMIT FUTURE PRESIDENTS' EXPOSURE TO CIVIL LAWSUITS 
+                          WHILE HOLDING OFFICE
+
+● Mr. MOYNIHAN. Mr. President, today I rise to introduce a bill 
+that is aimed at averting much of what has happened over nearly two 
+months of this year and all of the last by amending Title 28 of the 
+United States Code. Modeled on our existing Soldiers and Sailors Civil 
+Relief Act of 1940 that forbids civil lawsuits being filed by or 
+against our men and women while they are in uniform, my bill seeks to 
+protect future sitting Presidents from the ravages of civil litigation 
+arising from acts taken or deeds done before they assumed office.
+  I do not do this to insulate our current President but to accept an 
+invitation Justice Stevens and his colleagues extended to us nearly two 
+years ago in the case of Jones versus Clinton when the Supreme Court 
+held that a sitting President could be sued civilly for acts he 
+allegedly committed before assuming office. In that opinion, Justice 
+Stevens wrote that it was up to Congress,
+
+[[Page S1444]]
+
+not the Supreme Court, to afford a sitting President more protection 
+from civil lawsuits.
+  But this bill is not about President Clinton. For as Edmund Burke 
+observed when analyzing the causes of the political discontents of the 
+1760s in England ``this system has not arisen soley from the ambitions 
+of Lord Butte . . . we should have been tried with it if the Earl of 
+Butte had never existed.''
+  As Justice Robert Jackson pointed out over forty years ago, the 
+Presidency concentrates this nation's Executive authority in a single 
+person whose choice the entire nation has a part, making him the force 
+of public hope and expectations and whose decisions so far overshadow 
+any other that ``almost alone he fills the public eye and ear.'' The 
+Founders fashioned this kind of Presidency because they wanted to 
+focus, not spread, executive responsibility in the hands of a single, 
+constitutionally indispensable, individual. They realized that any 
+interference with a President's ability to carry out his public 
+responsibilities is constitutionally equal to interfering with the 
+ability of the entire Congress or the whole Judiciary to carry out 
+their public obligations.
+  Moreover, the Presidency is the only office that the Constitution 
+requires to be always functioning. It knows no recesses or terms. 
+Because of this and the singular import of a President's duties, the 
+diversion of his energies by litigation raises unique risks to the 
+effective functioning of our government.
+  As Thomas Jefferson warned in a June 20, 1807, letter to George Hay 
+in the midst of Aaron Burr's trial in Richmond, unfettered litigation 
+can pull a sitting President from pillar to post and keep him 
+constantly trudging from north to south and east to west, withdrawing 
+him from his constitutional duties.
+  On the other hand, I do not believe in the ancient prerogatives of 
+the monarchs who asserted ``the King can do no wrong.'' We rejected 
+this when we formed our republic over 200 years ago. Under my bill, a 
+litigant can still file his or her claim and exercise his or her 
+discovery rights. This will preserve the litigant's claims and evidence 
+but stay his or her ability to conduct a full-blown trial. This can be 
+done after a sitting President leaves office. Then, like any other 
+citizen, he will be subject to the full sway of our courts and their 
+processes.
+  I do not want to truncate anyone's legal rights or privileges, and my 
+bill does not do so. Rather, it aims to balance these rights with our 
+country's vital need for a focused Chief Executive not being dragged 
+from pillar to post.●
+                                 ______
+                                 
+      By Ms. SNOWE (for herself and Ms. Collins):
+  S. 418. A bill for the relief of Nancy B. Wilson; to the Committee on 
+Finance.
+
+
+                          private relief bill
+
+● Ms. COLLINS. Mr. President, I am pleased to join the 
+distinguished senior Senator from the State of Maine, Senator Snowe, in 
+introducing private relief legislation for Nancy B. Wilson.
+  By way of background, Al Wilson worked for Liberty Mutual Insurance 
+Company, and he and his wife Edna had two children. In 1945, tragedy 
+stuck the family when Edna suffered a severe mental breakdown and was 
+permanently placed in a mental institution, leaving Al to care for the 
+children.
+  Five years later, Al met Nancy Butler, who immediately began caring 
+for Al's two young children, as well as her son. Nancy took residence 
+with Al and soon began to raise the children as her own. The eldest 
+child has written that Nancy ``is the person who brought me up in place 
+of my biological mother, who was institutionalized. I think of Nancy as 
+my real mother.''
+  Al and Nancy wanted to get married, but Al was prohibited from 
+divorcing Edna by a Massachusetts state law. The law barred a divorce 
+for reasons of insanity or institutionalization for insanity. The 
+Congressional Research Service confirmed that a ``divorce could not 
+have been granted under Massachusetts law during the 1960's and 1970's 
+solely because one spouse was insane.''
+  On April 12, 1969, Edna Wilson died. Twenty days later, on May 2, 
+1969, Nancy and Al were married. Al died of cancer seven months later 
+on December 5, 1969. Nancy had lived with Al for 19 years.
+  Upon turning sixty-four years old on March 21, 1991, Nancy applied to 
+the Social Security Administration for survivor insurance benefits from 
+Al's wage earnings. She was refused benefits based upon the limited 
+term of her legal marriage. According to Social Security regulations, a 
+couple must be married for at least nine months for a spouse to collect 
+survivor benefits.
+  Nancy has exhausted the available legal remedies, taking full 
+advantage of the administrative appeals process. Nancy filed a request 
+for reconsideration and appeared at a hearing before an administrative 
+law judge. On January 28, 1992, the Social Security Administration 
+issued its final decision denying her claim for benefits.
+  The private relief bill we are introducing would allow Nancy to 
+receive widow's benefits from her husband's earnings. Nancy Wilson was, 
+for all practical purposes, married to Al Wilson. She cohabited with 
+him for nineteen years prior to their marriage. She raised his 
+children, allowing him to work and accumulate a Social Security 
+benefit. Nancy and Al were legally prevented from marrying by 
+Massachusetts state law, even though his marriage with his first wife 
+had essentially ended.
+  Mr. President, the unique circumstances of Mrs. Wilson epitomize why 
+Congress has the power to enact private relief legislation. Her 
+situation fulfills the intent of the Social Security Act. Al and Nancy 
+were prohibited from marrying; clearly they would have if the law 
+allowed them to do so. This unique situation is an exception that will 
+not be repeated. Since their marriage, a no-fault divorce statute has 
+been enacted in Massachusetts, which prevents this situation from 
+occurring again. Mrs. Wilson's case is a compelling one which we 
+believe the Senate should alleviate.●
+                                 ______
+                                 
+      By Ms. SNOWE:
+  S. 420. A bill to provide a mandatory minimum sentence for State 
+crimes involving the use of a firearm, impose work requirements for 
+prisoners, and prohibit the provision of luxury items to prisoners; to 
+the Committee on the Judiciary.
+
+
+ Legislation to establish mandatory minimum sentences for State crimes 
+                    involving the use of a firearm.
+
+● Ms. SNOWE. Mr. President, I rise today to introduce a bill 
+which will establish a mandatory minimum sentence for State crimes 
+involving the use of a firearm. This bill also imposes work 
+requirements for prisoners and prohibits the government from providing 
+such amenities as televisions, stereos, or other amenities in the cell 
+of any inmate.
+  As a staunch supporter of the 2nd Amendment, I believe laws are 
+needed to punish criminals, without imposing on a law-abiding person's 
+right to own a firearm. This legislation would not apply to individuals 
+who use a firearm in self-defense. It applies only to criminals who are 
+convicted of committing a crime of violence which is punishable for a 
+year in jail. Because it is not illegal to defend oneself, individuals 
+who use firearms in self-defense are not subject to the provisions of 
+this bill, nor would they be incarcerated for a year or more for 
+properly defending themselves. This bill states clearly that the 
+sentences apply only after a criminal is convicted of a crime. As such, 
+this bill poses absolutely no threat to individuals who use firearms 
+legally, including as a means to defend themselves.
+  The most important domestic function of the Federal government is the 
+protection of the personal security of individual Americans through the 
+enactment and enforcement of laws against criminal behavior. Tough 
+Federal laws, such as mandatory minimum prison sentences for violent 
+crimes committed with a firearm and truth-in-sentencing, would serve as 
+deterrents to persons who might be disposed to commit violent crimes.
+  It is also important to keep in mind, the penalties of this bill 
+apply only after a criminal has been convicted, they are not available 
+to a prosecutor until after the state investigation has been completed 
+and the case is closed. Therefore, federal law enforcement agencies are 
+given no role in the state's investigation and no authority in state 
+jurisdictions. This prevents Federal
+
+[[Page S1445]]
+
+Agencies from imposing itself on the jurisdictions of the states. In 
+addition, my bill clearly states that the bill is not intended to 
+supplant the efforts of states to curtail violent crime and that the 
+Attorney General must given ``due deference'' to state and local 
+prosecutors in their work.
+  This legislation is also needed to ensure prisons remain punitive and 
+do not digress further into vacation locations. With passage of this 
+legislation, the Attorney General will implement and enforce 
+regulations mandating prison work for all able-bodied inmates in 
+Federal correctional institutions. These regulations will also prohibit 
+the Federal Government from providing televisions, radios, stereos, and 
+other similar amenities in the cell of any inmate.
+  I would encourage my colleagues, who are serious about combating 
+crime, to join me as a co-sponsor of this important 
+legislation.●
+                                 ______
+                                 
+      By Mr. KYL (by request):
+  S. 421. A bill to approve a mutual settlement of the Water Rights of 
+the Gila River Indian Community and the United States, on behalf of the 
+Community and the Allottees, and Phelps Dodge Corporation, and for 
+other purposes; to the Committee on Indian Affairs.
+
+
+The Gila River Indian Community--Phelps Dodge Corporation Water Rights 
+                         Settlement Act of 1999
+
+● Mr. KYL. Mr. President, I rise today to introduce a bill to 
+authorize an Indian water rights settlement agreement that was entered 
+into on May 4, 1998 by the Gila River Indian Community of Arizona and 
+the Phelps Dodge Corporation.
+  This bill is identical to the legislation I introduced in the last 
+session of Congress. As I said upon introduction last year, this 
+particular settlement is part of a much larger, comprehensive 
+settlement process that will eventually settle all claims of the Gila 
+River Indian Community. I strongly endorse the settlement process and 
+want to encourage all parties to continue their negotiations. Although 
+I am introducing this measure today as free-standing legislation, it is 
+inextricably linked to the outcome of the rest of the negotiations. So 
+while I am encouraged by the settlement process, I am not yet 
+comfortable with pieces of it moving independently.
+  As I did last session, I put this bill on the table so that all 
+interested parties may have a document around which to gather and 
+continue their conversations. While this particular piece of the 
+settlement may be further along than others, I do not want to see 
+pieces move separately. My preference is that the parties arrive at a 
+comprehensive settlement that fully and finally addresses all aspects 
+of the Gila River Indian Community's claim.
+  Mr. President, I ask that the text of the bill be printed in the 
+Record.
+  The bill follows:
+
+                                 S. 421
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This title may be cited as the ``Gila River Indian 
+     Community-Phelps Dodge Corporation Water Rights Settlement 
+     Act of 1999'' and is herein referred to as ``this Act.''
+
+     SEC. 2. PURPOSE.
+
+       It is the purpose of this Act--
+       (a) to ratify, approve and confirm the Settlement Agreement 
+     among the Gila River Indian Community, Phelps Dodge 
+     Corporation, and the United States of America;
+       (b) to authorize and direct the Secretary of the Interior 
+     to execute and perform his duties under the Settlement 
+     Agreement and this Act; and
+       (c) to authorize and direct the Secretary to perform 
+     certain actions which will assist in achieving a settlement 
+     of the water rights claims of certain Indian tribes in the 
+     Little Colorado River Basin in Arizona.
+
+     SEC. 3. DEFINITIONS.
+
+       As used in this Act, the following terms have the following 
+     meaning--
+       (a) ``Allottees'' shall mean the owners of beneficial 
+     interests in allotted land within the Gila River Indian 
+     Reservation.
+       (b) ``Blue Ridge Reservoir'' means that Reservoir in Navajo 
+     County, Arizona, owned by Phelps Dodge, as more fully 
+     described in the Settlement Agreement.
+       (c) ``CAP'' shall mean the Central Arizona Project, a 
+     reclamation project constructed by the United States pursuant 
+     to the Colorado River Basin Project Act of September 30, 
+     1968, 82 Stat. 885, as amended.
+       (d) ``CAWCD'' shall mean the Central Arizona Water 
+     Conservation District, a political subdivision of the State 
+     of Arizona, which has executed a contract to repay to the 
+     United States the reimbursable costs of the CAP.
+       (e) ``Community'' shall mean the Gila River Indian 
+     Community, an Indian community organized under Section 6 of 
+     the Indian Reorganization Act of June 18, 1934, 48 Stat. 987, 
+     duly recognized by the Secretary, and its members.
+       (f) ``Community's CAP Contract'' shall mean that contract 
+     between the Gila River Indian Community as the United States, 
+     dated October 22, 1992, providing for the delivery to the 
+     Gila River Indian Community of up to 173,100 acre-feet per 
+     annum of CAP water.
+       (g) ``Globe Equity No. 59'' shall mean the decree entered 
+     June 29, 1935, in that action styled as The United States of 
+     America v. Gila Valley Irrigation District, et al., Globe 
+     Equity No. 59 in the District Court of the United States in 
+     and for the District of Arizona, as amended and supplemented.
+       (h) ``Hopi Tribe'' shall mean the federally recognized 
+     Indian tribe of that name.
+       (i) ``Navajo Nation'' shall mean the federally recognized 
+     Indian tribe of that name.
+       (j) ``Phelps Dodge'' shall mean Phelps Dodge Corporation, a 
+     New York corporation, its subsidiaries, affiliates, 
+     predecessors, successors and assigns.
+       (k) ``Pueblo of Zuni'' shall mean the federally recognized 
+     Indian tribe of that name.
+       (l) ``Reservation'' shall mean the Gila River Indian 
+     Reservation, as it existed on the Initial Effective Date of 
+     the Settlement Agreement, as shown on the map attached to the 
+     Settlement Agreement as Exhibit ``B'' thereto.
+       (m) ``San Juan Southern Paiute Tribe'' shall mean the 
+     federally recognized Indian tribe of that name.
+       (n) ``Secretary'' shall mean the Secretary of the Interior 
+     or his lawful designee.
+       (o) ``Settlement Agreement'' shall mean that agreement 
+     dated as of May 4, 1998, among Phelps Dodge, the Community 
+     and the United States.
+       (p) ``SRP'' shall mean the Salt River Project Agricultural 
+     Improvement and Power District, a political subdivision of 
+     the State of Arizona, and the Salt River Valley Water Users' 
+     Association, an Arizona corporation.
+       (q) ``United States'' shall mean the United States of 
+     America, in its capacity as trustee for the Community and of 
+     the Reservation; as trustee for the Allottees and of allotted 
+     lands on the Reservation; and, with respect to Section 5.2 of 
+     the Settlement Agreement, in all other capacities required in 
+     order to execute the agreements and other instruments and to 
+     take the actions referred to in Section 5.2 of the Settlement 
+     Agreement, including acting for the part of Defense Plant 
+     Corporation.
+
+     SEC. 4. APPROVAL OF SETTLEMENT AGREEMENT.
+
+       The Settlement Agreement is ratified, approved and 
+     confirmed. The Secretary shall execute the Settlement 
+     Agreement within sixty days of the enactment of this Act and 
+     shall perform all of the Secretary's duties thereunder as 
+     provided herein and in the Settlement Agreement.
+
+     SEC. 5. TRANSFER OF RESERVOIRS.
+
+       The Secretary shall take all actions specified in Section 
+     5.0 of the Settlement Agreement necessary on the Secretary's 
+     part to obtain title to Blue Ridge Reservoir from Phelps 
+     Dodge. The title to Blue Ridge Reservoir, once acquired by 
+     the Secretary, shall be held by the Secretary in trust for 
+     the benefit of the Navajo Nation. In connection with the 
+     Secretary's performance of his obligations under Section 5.0 
+     of the Settlement Agreement, the Navajo Nation, the Hopi 
+     Tribe, the San Juan Southern Paiute Tribe, the Pueblo of 
+     Zuni, and the United States, on behalf of each of them, are 
+     authorized to execute waivers of claims against Phelps Dodge 
+     and agreements not to object to certain uses of water by 
+     Phelps Dodge in substantially the form of Exhibits ``E'' and 
+     ``J'' to the Settlement Agreement, which waivers and 
+     agreements are hereby ratified, approved and confirmed. The 
+     Navajo Nation, and the United States on behalf of the Navajo 
+     Nation, is further authorized to enter into an agreement with 
+     the Arizona Game & Fish Department confirming a minimum pool 
+     of water in Blue Ridge Reservoir and for other purposes in 
+     substantially the form of Exhibits ``G'' and ``I'' to the 
+     Settlement Agreement, which agreements are hereby ratified, 
+     approved and confirmed.
+
+     SEC. 6. REALLOCATION OF CAP WATER.
+
+       Simultaneously with the transfer of Blue Ridge Reservoir to 
+     the United States as provided for in Section 5 of this Act, 
+     the Secretary shall: (i) reallocate to the Community 12,000 
+     acre-feet of the CAP water available to the Secretary 
+     pursuant to Section 406(b) of Title IV of Public Law 101-628, 
+     104 Stat. 4483; (ii) amend the Community's CAP Contract to 
+     include the CAP water reallocated to the Community pursuant 
+     to this Section 6; and, (iii) amend the Community's CAP 
+     Contract to extend the term thereof to 100 years, plus such 
+     additional term as may result from the exercise of the option 
+     provided for in, or other extension of, the Lease referred to 
+     in Section 7 of this Act.
+       (a) All water service capital charges and other capital 
+     charges of any nature associated with the CAP water 
+     reallocated to the Community pursuant to this Section 6 shall 
+     be non-reimbursable to the United States by the Community.
+       (b) All water service capital charges and other capital 
+     charges of any nature associated with 10,000 acre-feet of 
+     that CAP water currently available to the Community under the 
+     Community's CAP Contract which shares
+
+[[Page S1446]]
+
+     a priority with 510,000 acre-feet of non-Indian municipal and 
+     industrial CAP water shall be non-reimbursable to the United 
+     States by the Community.
+       (c) For purposes of determining the allocation and 
+     repayment of costs of the CAP as provided in Article 9.3 of 
+     Contract Number 14-0906-09W-09245, Amendment No. 1, between 
+     the United States and CAWCD dated December 1, 1988, and any 
+     amendment or revision thereof, all of the water service 
+     capital charges and other capital charges of any nature 
+     associated with the water described in Subsections 6(a) and 
+     5(b) hereof shall be non-reimbursable and shall be excluded 
+     from CAWCD's repayment obligation.
+       (d) The United States shall either:
+       (1) not charge operation, maintenance, and replacement 
+     (OM&R) charges to the Community on the first 8,000 acre-feet 
+     of CAP water made available to the Community pursuant to this 
+     Act, and shall itself pay any such charges as are associated 
+     with such 8,000 acre-feet of CAP water; or
+       (2) charge the Community only that portion of the OM&R 
+     charges associated with electrical energy pumping for the 
+     entire 12,000 acre-feet of CAP water made available to the 
+     Community pursuant to this Section 6, and shall itself pay 
+     all other OM&R charges associated with such 12,000 acre-feet 
+     of CAP water.
+       (e) In the event the CAP water made available to the 
+     Community pursuant to this Act is leased to Phelps Dodge as 
+     provided for in Section 7 hereof, the charges by the United 
+     States to Phelps Dodge for such water when delivered under 
+     the Lease shall be as provided in subsections (d)(1) or 
+     (d)(2) of this Section 6.
+       (f) In the event the exchange provided for in Section 8 of 
+     this Act is not approved, the Secretary shall reallocate to 
+     Phelps Dodge 8,000 acre-feet of the CAP water referred to in 
+     subsection 6(b) hereof, shall amend the Community's CAP 
+     contract to reflect such reallocation, and shall enter 
+     into a contract with Phelps Dodge for permanent service 
+     for the delivery of such water to Phelps Dodge through the 
+     works of the CAP. The CAP water shall be free of all 
+     capital charges as provided in subsections 6(b) and 6(c) 
+     of this Act. The United States shall charge Phelps Dodge 
+     OM&R charges for such water only as provided in either 
+     subsections 6(d)(1) or 6(d)(2) hereof and shall itself pay 
+     such portions of the OM&R charges as are not paid by 
+     Phelps Dodge.
+       (g) the provisions of Section 226 of Public Law 97-293, 96 
+     Stat. 1273, 43 U.S.C. Sec. 485h(f) shall not apply to actions 
+     taken by the Secretary pursuant to Sections 6, 7 or 8 of this 
+     Act.
+
+     SEC. 7. CAP WATER LEASE.
+
+       The Lease referred to in Section 7.0 of the Settlement 
+     Agreement and attached thereto as Exhibit ``M'' is hereby 
+     ratified, approved and confirmed. Notwithstanding the 
+     preceding sentence, the Lease shall not be effective as to 
+     the United States, and the Secretary shall not execute the 
+     Lease, until all environmental compliance associated with the 
+     Secretary's execution of the Lease has been completed and the 
+     exchange referred to in section 8 of this Act has been 
+     approved as provided in that Section. In the event the Lease 
+     becomes effective, the Secretary and the Community may renew 
+     or extend the Lease at the end of the initial term, or any 
+     extended term of the Lease provided for in the initial Lease, 
+     upon such terms as the Community, the Secretary and Phelps 
+     Dodge may agree, provided that any such renewal or extension 
+     shall not exceed 100 years in term. Subject to the completion 
+     of environmental compliance, CAP water made available 
+     pursuant to the Lease may be used in the manner and at the 
+     locations provided for therein, including exchange for use in 
+     any county in Arizona outside the CAWCD service area.
+
+     SEC. 8. EXCHANGE AGREEMENT.
+
+       The Secretary and the Community are authorized to enter 
+     into an exchange agreement with Phelps Dodge pursuant to 
+     which the CAP water leased to Phelps Dodge by the Community 
+     under the Lease authorized under Section 7 hereof is 
+     delivered by Phelps Dodge to the Community in return for the 
+     right to divert water from the Gila River upstream of the 
+     Reservation. The term of any such exchange agreement, if 
+     approved as required by this Section 8, shall be for 100 
+     years, plus any additional term occasioned by the exercise of 
+     the option contained in the Lease or other extension 
+     authorized in the Lease or this Act. The Secretary shall 
+     commence negotiations with respect to the exchange agreement 
+     forthwith upon the enactment of this Act and shall process 
+     all environmental compliance associated with the exchange 
+     agreement and the Lease in an expeditious manner. The 
+     Secretary shall not executive the exchange agreement until 
+     all such environmental compliance has been finally concluded 
+     as provided in the Settlement Agreement and any necessary 
+     order approving the exchange, or any aspect of the exchange, 
+     has been obtained from the United States District Court in 
+     Globe Equity No. 59 and the order is final and subject to no 
+     further appeal.
+
+     SEC. 9. APPROVAL OF WAIVERS.
+
+       The waivers set forth in Section 9.0 of the Settlement 
+     Agreement shall be effective, and shall be binding upon, the 
+     Community, and the United States, on behalf of the Community 
+     and the Allottees, from and after the date either of the 
+     conditions set forth in Section 4(c) of the Settlement 
+     Agreement occurs. The United States is authorized and 
+     directed to execute the Settlement Agreement on behalf of the 
+     Allottees in its capacity as trustee for the Allottees and 
+     of allotted lands on the Reservation, and the Settlement 
+     Agreement shall be binding upon the Allottees.
+
+     SEC. 10. MISCELLANEOUS.
+
+       (a) Execution of the Settlement Agreement by the Secretary 
+     as required by this Act, and the Secretary's performance of 
+     the actions necessary to acquire title to Blue Ridge 
+     Reservoir for the benefit of the Navajo Nation pursuant to 
+     Section 5.0 of the Settlement Agreement shall not constitute 
+     major federal actions under the National Environmental Policy 
+     Act (42 U.S.C. Sec. 4321 et seq.). The Secretary shall carry 
+     out all environmental compliance required by Sections 7 and 8 
+     of this Act. Nothing in this Act shall be construed as 
+     exempting the United States from carrying out environmental 
+     compliance associated with the use of water from Blue Ridge 
+     Reservoir by the United States for the benefit of the Navajo 
+     Nation in the Little Colorado River Basin in Arizona.
+       (b) The Navajo Nation, and the United States on behalf of 
+     the Navajo Nation, are authorized to enter into an agreement 
+     with the Town of Payson, Arizona, and the unincorporated 
+     communities of Pine and Strawberry, Arizona (``the Towns'') 
+     or any one of them, to subordinate water rights held in Blue 
+     Ridge Reservoir by the United States for the benefit of the 
+     Navajo Nation to rights to the use of not of exceed a 
+     cumulative total of 3,000 acre-feet per annum of water in 
+     Blue Ridge Reservoir acquired by the Towns pursuant to the 
+     law of the State of Arizona.
+       (c) The Navajo Nation, and the United States on behalf of 
+     the Navajo Nation, are authorized to enter into an agreement 
+     with Phelps Dodge to subordinate water rights held in Blue 
+     Ridge Reservoir by the United States on behalf of the Navajo 
+     Nation to water rights acquired by Phelps Dodge in Blue Ridge 
+     Reservoir subsequent to the date of the enactment of this Act 
+     pursuant to the law of the State of Arizona for use on land 
+     owned by Phelps Dodge around Blue Ridge Reservoir identified 
+     in the Settlement Agreement. The term of any such agreement 
+     and the consideration to be paid therefor shall be as agreed 
+     to among the Navajo Nation and Phelps Dodge.
+       (d) With regard to the environmental compliance required 
+     for the actions contemplated in Sections 7 and 8 of this Act, 
+     the Bureau of Reclamation shall be designated as the lead 
+     agency, and shall coordinate and cooperate with the other 
+     affected federal agencies as required under applicable 
+     federal environmental laws.
+       (e) The Secretary and the Community are authorized to 
+     execute any amendments of the Settlement Agreement and to 
+     perform any action required by any amendments to the 
+     Settlement Agreement which may be mutually agreed upon by the 
+     parties.
+       (f) Except for the waivers authorized by Section 5 of this 
+     Act, nothing in this Act or the Settlement Agreement shall be 
+     construed to quantify or otherwise affect the water rights, 
+     claims or entitlement to water of any Arizona tribe, band or 
+     community or of any claimant in the Gila River Adjudication, 
+     other than the Community, the United States on behalf of the 
+     Community and the Allottees, and Phelps Dodge.
+       (g) Any party to the Settlement Agreement, and to the Lease 
+     and the exchange agreement referred to in Sections 7 and 8 
+     hereof, respectively, if the same are approved, may bring an 
+     action or actions exclusively in the United States District 
+     Court for the District of Arizona for the interpretation and 
+     enforcement of this Act, the Settlement Agreement, the Lease 
+     and the exchange agreement, naming the United States and the 
+     Community as parties, and in any such action or actions, any 
+     claim by the United States or the Community to sovereign 
+     immunity from suit is hereby waived.●
+                                 ______
+                                 
+      By Mr. MURKOWSKI:
+  S. 422. A bill to provide for Alaska state jurisdiction over small 
+hydroelectric projects; to the Committee on Energy and Natural 
+Resources.
+
+
+                           Energy Legislation
+
+● Mr. MURKOWSKI. Mr. President, I am today introducing 
+legislation to allow the State of Alaska to take responsibility for 
+regulating small (5 megawatts or less) hydroelectric projects located 
+in Alaska. This legislation is identical to section 1 of S. 439 in the 
+105th Congress, which was reported unanimously by the Committee on 
+Energy and Natural Resources and was passed unanimously by the Senate. 
+Unfortunately, because the Senate passed the legislation late in the 
+session, the House did not have time to act before Congress adjourned.
+  Let me describe why this legislation is needed. Simply put, FERC's 
+licensing process is too expensive and too cumbersome for many small 
+hydroelectric projects in Alaska. For a large project costing tens or 
+hundreds of millions of dollars the burden of obtaining a FERC license 
+is large, but relatively small as compared to the total cost. However, 
+for a small project located in a remote region of Alaska, FERC's 
+licensing process is a major problem. All
+
+[[Page S1447]]
+
+too often, the burden of the licensing process alone dooms an otherwise 
+economically viable and environmentally beneficial project. And those 
+small hydro projects it does not doom, FERC's process increases 
+significantly their cost--which is just passed on to consumers in terms 
+of higher electricity rates.
+  For other States this may not be very significant, but it is for 
+Alaska. Alaska already has the most expensive electricity in the United 
+States. Alaska's average residential price of electricity is 36 percent 
+higher than the U.S. average, and in some parts of Alaska the 
+residential price reaches a stunning 43 cents per kilowatt hour--5 
+times the U.S. average. Why so expensive? Primarily because it is 
+produced by diesel generators, which are both relatively inefficient 
+and use expensive fuel. Compared to diesel generators, hydroelectric 
+power is much less expensive.
+  It is important to note that hydroelectric power is much more 
+environmentally benign as compared to diesel-fired generation: 
+Hydroelectric generation produces no air emissions as does diesel-fired 
+generation. Thus, anything we can do to promote the construction of 
+hydroelectric projects will also help the environment of Alaska.
+  In this connection, it is also important to note that this 
+legislation does not exempt Alaska's small hydro projects from 
+regulation. Instead, it allows the State of Alaska to regulate in lieu 
+of FERC. I ask: Who is more interested in the environment of Alaska--
+Alaskans or a distant FERC? Moreover, the legislation allows Alaska to 
+regulate only after FERC has determined that the State has in place a 
+regulatory program which ``protects the public interest . . . and the 
+environment to the same extent provided by . . . [the FERC].'' Finally, 
+the legislation specifically requires the full application of all 
+``Federal environmental, natural resources, or cultural resources 
+protection laws. . . . '' Thus, enactment of this legislation will 
+fully protect the environment and the public interest.
+  In summary, if enacted this legislation will benefit both Alaska's 
+environment and its economy.●
+                                 ______
+                                 
+      By Mr. McCAIN:
+  S. 423. A bill to prohibit certain Federal payments for certain 
+methadone maintenance programs, and for other purposes; to the 
+Committee on finance.
+
+
+                      addiction free treatment act
+
+● Mr. McCAIN. Mr. President, today I am introducing the 
+Addiction Free Treatment Act which reforms our nation's drug policy 
+regarding the treatment of heroin addiction.
+  This bill would restrict Medicaid reimbursements and funding through 
+the Substance Abuse and Mental Health Services Administration for 
+methadone and LAM maintenance programs. Maintenance programs would be 
+limited to six months. The bill requires that such programs conduct 
+regular drug testing, report all results, and terminate methadone 
+treatment to any patient testing positive for any illegal drugs. The 
+legislation directs the National Institute of Drug Abuse to study the 
+methods and effectiveness of nonpharmacological, and methadone-to-
+abstinence heroin rehabilitation programs, and requires the Center for 
+Substance Abuse Treatment to provide an annual report to Congress on 
+the relative effectiveness of heroin treatment programs in achieving 
+freedom from chemical dependency.
+  Mr. President, few crises represent a more fundamental threat to the 
+basic institutions of our society then substance abuse and addiction, 
+and there are few drugs that do more harm than heroin. Heroin use in 
+the United States continues to rise. Drug use among teenagers is 
+increasing and the number of teenagers using heroin for the first time 
+is higher than at any other point in our history. Between 1992 and 
+1996, heroin use among college-age students increased an estimated 10 
+percent. Currently, there are an estimated 810,000 chronic heroin 
+addicts living in the United States with over 115,000 heroin addicts 
+participating in methadone programs.
+  Drug addiction undermines family, work, friendships, and communities. 
+The drug trade, which feeds the addict, undermines the security and 
+stability of our neighborhoods through violence and other crime-related 
+phenomena.
+  At its core, drug addiction does violence to the basic humanity of 
+the addict, robbing him or her of the most fundamental element of their 
+existence--their freedom. The addict is enslaved by the need to get a 
+fix; all other needs become secondary to the physical and psychological 
+drive to feed the hunger of addiction. This enslavement goes to the 
+core of the debate surrounding the use of methadone maintenance as a 
+solution to heroin addiction: What have we done to restore the human 
+condition if we have not freed the addict of chemical dependency?
+
+  Methadone maintenance programs simply transfer addiction from one 
+narcotic to another. The methadone patient is every bit as dependent on 
+methadone as he or she was with heroin. Patients who attempt to free 
+themselves from their addiction to methadone experience withdrawal 
+symptoms that are as violent, if not more than, those they would 
+experience coming off of heroin. What is more, even the promise of 
+freedom from illegal drug use is an illusion. For many methadone 
+patients regularly test positive for other illegal drugs. And yet, for 
+some 30 years, the only hope that U.S. policy has offered to our 
+citizens addicted to heroin is an Orwellian addiction swap.
+  In the 105th Congress, I, along with Senator Coats and Senator 
+Coverdell, introduced a Senate Resolution addressing the topic of 
+methadone treatment. The resolution was a response to an emerging 
+Clinton Administration policy designed to dramatically increase the 
+federal government's activities in the area of methadone treatment. 
+Barry McCaffrey, the so-called Drug Czar, proposed that ONDCP would 
+double the number of heroin addicts in methadone treatment. Mr. 
+President, this sounds less like the policy of a Drug Czar, and more 
+like the policy of a drug bazaar--a bazaar where the federal government 
+trades places with the street dealer, swapping heroin for methadone and 
+feeding the addiction with taxpayer dollars.
+  This is disgusting and it is immoral. It does serious harm to the 
+humanity of those people who have mustered the courage to walk into a 
+clinic seeking help to free themselves from addiction. It is the 
+ultimate in cruel irony that our government's first response should be 
+to trade the shackles of heroin for the shackles of methadone.
+  The fundamental flaw of methadone treatment as a national anti-drug 
+policy is that it is not an anti-drug policy at all. As I have said, 
+methadone simply transfers addiction from one drug to another. To say 
+that this is effective, because the symptoms of methadone addiction are 
+more tolerable to society and less dramatic for the addict, is to miss 
+the most fundamental point--that is that addiction enslaves the 
+individual. That slavery is no less onerous to the basic humanity, to 
+the dignity of the addict simply because the drug has been endorsed by 
+the FDA, prescribed by a physician and paid for with taxpayer dollars.
+  After 30 years of methadone, is there nothing better to offer to the 
+heroin addict? The answer is an emphatic yes. Drug addiction is a 
+complicated condition. It has behavioral, social/environmental, and 
+physical characteristics. If we are to free individuals from heroin 
+addiction, we must adopt policies supporting programs that address, in 
+an intensive and comprehensive way, each of these areas of concern.
+  Throughout society, in our homes, neighborhoods, communities, and in 
+public policy fora, there has been much debate surrounding the decay of 
+our civil society. A certain consensus has emerged regarding how best 
+to address this crisis. That consensus centers around the need to 
+rebuild the mediating structures of our society--family, neighborhood, 
+church, and volunteer associations.
+  If we are to free the addict from the slavery of drug addiction--be 
+it heroin or methadone--rebuilding or, in many cases, introducing for 
+the first time these same mediating structures into the life of the 
+addict must play a central role.
+  There are models for success. Just ask Rev. Sam McPherson. Rev. 
+McPherson has spent his life tending to the needs of drug addicts. He 
+now runs a Ready, Willing, and Able rehabilitation center on Florida 
+Avenue here in Washington. It is an extraordinary and inspiring place.
+
+[[Page S1448]]
+
+  Founded on a drug-free principle, Ready, Willing, and Able embraces 
+the addict, first demanding detoxification, and then dealing in a 
+sustained and comprehensive way with the bundle of needs that 
+contributed to the participant's drug use and addiction, and that 
+result in recidivism if left unresolved.
+
+  Dr. Robert Woodson, in his recent book ``The Triumphs of Joseph'', 
+describes the many examples of community-based organizations that have 
+succeeded in healing the scourge of drug addiction, lifting people up 
+from the slavery of dependency--people like Freddie and Nina Garcia, 
+who run the Victory Fellowship, based out of San Antonio.
+  Some thirty years ago, Freddie Garcia and his wife began their 
+operation in a tiny one-bedroom house, at one point moving all their 
+furniture under a make-shift awning outside the house to make room for 
+eleven recovering addicts who slept on their living room floor. Today, 
+the Victory Fellowship has freed more than 13,000 men and women from 
+their addictions and has spread to 65 satellite centers in California, 
+Texas, New Mexico, Peru, Puerto Rico, Columbia and Venezuela.
+  Dr. Woodson pus it this way: ``In contrast with psychiatric therapy 
+and treatment that relies on medication, the goal of grassroots 
+programs is not rehabilitation but transformation. Their end is not to 
+modify behavior but to engender a change in the values and vision of 
+the people they work with which will, in turn affect behavior . . . 
+they do not simply curb deviant behavior but offer something more--a 
+fulfilling life that eclipses the power of temptation.''
+  These community-based institutions possess certain common 
+characteristics that can serve as a model for all who seek to address 
+the challenges of addiction:
+  (1) Their programs are open to all comers. Often, these programs take 
+the worst cases, the long-term, homeless addicts that the ``system'' 
+has abandoned as hopeless.
+  (2) They have the same zip code as the people they serve. They do 
+their work in the same neighborhoods, on the same streets as the 
+addicts they serve. Reverend McPherson points out one of the pleasant 
+benefits of Ready, Willing and Able: When they come into a 
+neighborhood, the drug dealers go away. They leave because there is an 
+unwritten code. If these guys are trying to get off of heroin, the 
+dealers go somewhere else, taking their trade out of sight of the very 
+addicts they have enslaved.
+
+  (3) Their approach is flexible to the needs of the individual. The 
+many behavioral, social/environmental, and physical challenges that 
+contribute to drug addiction are unique to each individual. These 
+organizations develop individualized programs for each individual.
+  (4) They contain a central element of reciprocity. As Dr. Woodson 
+says: ``They do not practice blind charity but require something in 
+return from the individuals they serve.''
+  (5) Clear behavioral guidelines and discipline are critical.
+  (6) These healers fulfill the role of parent, providing authority and 
+structure, but also love and support.
+  (7) They are committed for the long haul, not just for the duration 
+of funding.
+  (8) They are on-call 24 hours a day, 7 days a week for as long as the 
+participant needs them.
+  (9) The healing offers immersion in an environment of care and mutual 
+support with a community of individuals who are trying to accomplish 
+the same changes in their lives.
+  (10) They are united in their cause, providing mutual support in 
+their struggles, and celebration in their accomplishments.
+  These concepts are not new. But combined and sustained, they offer 
+hope and success in freeing the addict from a life of chemical 
+dependency. That freedom should be the policy of the United States 
+Government, and the relentlessly pursued goal of everyone concerned 
+with the scourge of heroin addiction.●
+                                 ______
+                                 
+      By Mr. COVERDELL (for himself, Mr. Thurmond, Mr. Smith of New 
+        Hampshire, Mr. Grassley, and Mr. Helms):
+  S. 424. A bill to preserve and protect the free choice of individuals 
+and employees to form, join, or assist labor organizations, or to 
+refrain from such activities; to the Committee on Health, Education, 
+Labor, and Pensions.
+
+
+                 THE NATIONAL RIGHT TO WORK ACT OF 1999
+
+● Mr. COVERDELL. Mr. President, I am pleased to introduce along 
+with my distinguished colleagues Senators Thurmond, Smith of New 
+Hampshire, Grassley, and Helms the National Right to Work Act of 1999.
+  This bill does not add a single word to Federal law. Rather, it 
+repeals those sections of the National Labor Relations Act and Railway 
+Labor Act that authorize the imposition of forced-dues contracts on 
+working Americans. I believe that every worker must have the right to 
+join or support a labor union. This bill protects that right. But no 
+worker should ever be forced to join a union.
+  I am happy to say that my own state of Georgia is among the 21 states 
+that is a ``Right to Work'' state and has been since 1947. According to 
+U.S. News and World Report, 7 of the strongest 10 state economies in 
+the nation have Right-to-Work laws. Workers who have the freedom to 
+choose whether or not to join a union have a higher standard of living 
+than their counterparts in non Right-to-Work states. According to Dr. 
+James Bennet, a prominent economist at George Mason University's highly 
+respected economic program, urban families in Right-to-Work states have 
+approximately $2,852 more annual purchasing power than urban families 
+in non-Right to Work states; particularly when the lower taxes, housing 
+and food costs are taken into consideration.
+  According to a poll by the respected Marketing Research Institute, 77 
+percent of Americans support Right to Work, and over 50 percent of 
+union households believe that workers should have the right to choose 
+whether or not to join or pay dues to a labor union. That should be no 
+surprise. This is about freedom. The Right to Work expands every 
+working American's personal freedom.
+  Mr. President, I urge my colleagues to support this legislation. It 
+expands the freedom of hard working Americans and ensures them the 
+choice of whether to accept or reject union representation and union 
+dues without coercion, violence or work-place harassment.●
+                                 ______
+                                 
+      By Mr. ASHCROFT (for himself, Mr. Brownback, Mr. Baucus, and Mr. 
+        Kerrey):
+  S. 425. A bill to require the approval of Congress for the imposition 
+of any new unilateral agricultural sanction, or any new unilateral 
+sanction with respect to medicine, medical supplies, or medical 
+equipment, against a foreign country; to the Committee on Foreign 
+Relations.
+
+
+              Food and Medicine for the World Act of 1999
+
+● Mr. ASHCROFT. Mr. President, today, I am introducing, with 
+Senators Brownback, Baucus, and Kerrey, the Food and Medicine for the 
+World Act of 1999. It's a bill that will help America's farmers, 
+ranchers, and related industries, keep on selling their food and 
+medicine to the world.
+  For over 200 years, farmers and ranchers have been vital to the 
+growth and economic prosperity of the United States--always responding 
+to the challenges of our competitive free-market system with efficient 
+production methods. The agricultural industry is one of the nation's 
+largest employers. Missouri is the nation's second leading state in its 
+number of farms. Clearly, the agricultural industry is a backbone to 
+Missouri's economy, accounting for more than $4 billion annually.
+  The United States has the best farmers in the world--first class in 
+their production, storage, transportation, processing, and marketing. 
+We can produce more food than any other country, yet the United States 
+only accounts for five percent of the world's consuming population. 
+That leaves 95 percent of the world's consumers outside of our borders. 
+And because of our farmers' efficiency and ability to meet U.S. 
+domestic demand, they rely increasingly on their ability to sell 
+products in foreign markets.
+  Exports now account for 30 percent of gross cash receipts for 
+America's farmers, and nearly 40 percent of all U.S. agricultural 
+production is exported. Therefore, it is imperative that we ensure that 
+our farmers have ample export opportunities.
+  Our farmers and ranchers need our help in opening markets abroad and
+
+[[Page S1449]]
+
+keeping those markets open. Once farmers jump through all the hoops of 
+foreign trade barriers and red tape to establish trusted relationships 
+with foreign buyers, the U.S. government should be extremely cautious 
+about sanctioning their sales and forcing them to lose their markets. 
+Many farmers' livelihood depends on sales overseas. In 1997, more than 
+one-fourth of Missouri's farm marketing came from sales overseas.
+  We know that sanctions hurt America's farmers and ranchers. And we 
+know that sanctions against agriculture and medicine are detrimental to 
+the world's poor that have to live under the rule of tyrants. That is 
+why I am introducing the Food and Medicine for the World Act. This bill 
+tries to ensure that farmers don't get sanctioned for the bad acts of 
+foreign governments, and the health and welfare of the world's poor are 
+not damaged further by their leader's indiscretions.
+  Under the Food and Medicine for the World Act, whenever any new 
+unilateral sanction is announced by the President, the sanctions he 
+imposes will not affect agriculture or medicine unless he tells 
+Congress why it is necessary to sanction these products and unless 
+Congress approves the sanction. If the Food and Medicine for the World 
+Act is passed, there will not be any more sanctions against U.S. 
+agricultural exports without agreement between the Administration and 
+Congress and without serious deliberation about the effects on 
+America's farmers and ranchers. Our farms should not be sanctioned 
+without the consent of Congress.
+  The Food and Medicine for the World Act sends a message to customers 
+overseas that U.S. farmers and ranchers will be reliable. People around 
+the world depend on our farm products and on U.S. produced medical 
+supplies. When tyrants challenge U.S. foreign policy, we must not 
+respond by cutting off the supply of food and medicine to their poor. 
+The health and welfare needs of those abroad will be best served if we 
+ensure that our farmers and producers are a continuous source of food 
+and medical supplies.
+  The Food and Medicine for the World Act also sends a message to U.S. 
+farmers and ranchers that their livelihood will not be used as a 
+foreign policy tool without due deliberation and involvement of both 
+the President and Congress.
+  Farmers and ranchers are twice as reliant on foreign trade as the 
+U.S. economy as a whole. It is time for us to enact policy that 
+reflects our support for their efforts to reach their competitive 
+potential internationally.
+  Mr. President, I ask that the text of the bill be printed in the 
+Record.
+  The bill follows:
+
+                                 S. 425
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Food and Medicine for the 
+     World Act of 1999''.
+
+     SEC. 2. REQUIREMENT OF CONGRESSIONAL APPROVAL OF ANY NEW 
+                   UNILATERAL AGRICULTURAL SANCTION.
+
+       (a) Definitions.--
+       (1) Agricultural commodity.--The term ``agricultural 
+     commodity'' has the meaning given the term in section 402 of 
+     the Agricultural Trade Development and Assistance Act of 1954 
+     (7 U.S.C. 1732).
+       (2) Agricultural program.--The term ``agricultural 
+     program'' means--
+       (A) any program administered through the Agricultural Trade 
+     Development and Assistance Act of 1954 (Public Law 480; 7 
+     U.S.C. 1701 et. seq.);
+       (B) any program administered through section 416 of the 
+     Agricultural Act of 1949 (7 U.S.C. 1431);
+       (C) any commercial sale of agricultural commodities or 
+     agricultural products, including plant nutrient materials; or
+       (D) any export financing (including credits or credit 
+     guarantees) for agricultural commodities or agricultural 
+     products.
+       (3) New unilateral agricultural sanction.--The term ``new 
+     unilateral agricultural sanction'' means any prohibition, 
+     restriction, or condition on carrying out an agricultural 
+     program with respect to a foreign country or foreign entity 
+     that is imposed by the United States on or after the date of 
+     enactment of this Act for reasons of foreign policy or 
+     national security, except in a case in which the United 
+     States imposes the measure pursuant to a multilateral regime 
+     and the other member countries of that regime have agreed to 
+     impose substantially equivalent measures.
+       (4) New unilateral sanction with respect to medicine, 
+     medical supplies, or medical equipment.--The term ``new 
+     unilateral sanction with respect to medicine, medical 
+     supplies, or medical equipment'' means any prohibition, 
+     restriction, or condition on trade in, or the provision of 
+     assistance consisting of, medicine, medical supplies, or 
+     medical equipment with respect to a foreign country or 
+     foreign entity that is imposed by the United States on or 
+     after the date of enactment of this Act for reasons of 
+     foreign policy or national security, except in a case in 
+     which the United States imposes the measure pursuant to a 
+     multilateral regime and the other member countries of that 
+     regime have agreed to impose substantially equivalent 
+     measures.
+       (5) Session day of Congress.--The term ``session day of 
+     Congress'' means any day on which a House of Congress is in 
+     session.
+       (b) Restriction.--Notwithstanding any other provision of 
+     law and subject to subsection (c), the President may not 
+     impose a new unilateral agricultural sanction against a 
+     foreign country, or a new unilateral sanction with respect to 
+     medicine, medical supplies, or medical equipment against a 
+     foreign country, unless--
+       (1) not less than 60 days before the sanction is proposed 
+     to be imposed, the President submits a report to Congress 
+     that--
+       (A) describes the activity proposed to be prohibited, 
+     restricted, or conditioned; and
+       (B) describes the actions by the foreign country that 
+     justify the sanction; and
+       (2) Congress enacts a joint resolution stating the approval 
+     of Congress for the report submitted under paragraph (1).
+       (c) Exception.--Notwithstanding subsection (b), the 
+     President may impose a sanction described in that 
+     subsection--
+       (1) against a foreign country with respect to which--
+       (A) Congress has enacted a declaration of war; or
+       (B) the President has proclaimed a state of national 
+     emergency; or
+       (2) to the extent that the sanction would prohibit, 
+     restrict, or condition the provision or use of any commodity, 
+     product, medicine, supply, or equipment that is controlled on 
+     the United States Munitions List under section 38 of the Arms 
+     Export Control Act or the Commerce Control List under the 
+     Export Administration Act of 1979.
+       (d) Congressional Priority Procedures.--
+       (1) Joint resolution defined.--For the purpose of 
+     subsection (b)(2), ``joint resolution'' means only a joint 
+     resolution introduced within 10 session days of Congress 
+     after the date on which the report of the President under 
+     subsection (b)(1) is received by Congress, the matter after 
+     the resolving clause of which is as follows: ``That Congress 
+     approves the report of the President pursuant to section 
+     2(b)(1) of the Food and Medicine for the World Act of 1999, 
+     transmitted on ______________.'', with the blank completed 
+     with the appropriate date.''.
+       (2) Referral of report.--The report described in subsection 
+     (b)(1) shall be referred to the appropriate committee or 
+     committees of the House of Representatives and to the 
+     appropriate committee or committees of the Senate.
+       (3) Referral of joint resolution to committee.--A joint 
+     resolution introduced in the House of Representatives shall 
+     be referred to the Committee on International Relations of 
+     the House of Representatives. A joint resolution introduced 
+     in the Senate shall be referred to the Committee on Foreign 
+     Relations of the Senate. Such a joint resolution may not be 
+     reported before the eighth session day of Congress after its 
+     introduction.
+       (4) Discharge from committee.--If the committee of either 
+     House to which a joint resolution is referred has not 
+     reported the joint resolution (or an identical joint 
+     resolution) at the end of 30 session days of Congress after 
+     its introduction, the committee shall be discharged from 
+     further consideration of the joint resolution and the joint 
+     resolution shall be placed on the appropriate calendar of the 
+     House in which it was introduced.
+       (5) Floor consideration.--
+       (A) Motion to proceed.--When the committee to which a joint 
+     resolution is referred has reported, or has been deemed to be 
+     discharged (under paragraph (4)) from further consideration 
+     of, a joint resolution, notwithstanding any rule or precedent 
+     of the Senate, including Rule 22, it is at any time 
+     thereafter in order (even though a previous motion to the 
+     same effect has been disagreed to) for any Member of the 
+     respective House to move to proceed to the consideration of 
+     the joint resolution, and all points of order against the 
+     joint resolution (and against consideration of the joint 
+     resolution) are waived. The motion is highly privileged in 
+     the House of Representatives and is privileged in the Senate 
+     and is not debatable. The motion is not subject to amendment, 
+     or to a motion to postpone, or to a motion to proceed to the 
+     consideration of other business. A motion to reconsider the 
+     vote by which the motion is agreed to or disagreed to shall 
+     not be in order. If a motion to proceed to the consideration 
+     of the joint resolution is agreed to, the joint resolution 
+     shall remain the unfinished business of the respective House 
+     until disposed of.
+       (B) Debate on the joint resolution.--Debate on the joint 
+     resolution, and on all debatable motions and appeals in 
+     connection therewith, shall be limited to not more than ten 
+     hours, which shall be divided equally between those favoring 
+     and those opposing the joint resolution. A motion further to 
+     limit debate is in order and not debatable. An amendment to, 
+     or a motion to postpone, or a motion to proceed to the 
+     consideration of other business, or a motion to recommit the 
+     joint resolution is not in order. A motion to
+
+[[Page S1450]]
+
+     reconsider the vote by which the joint resolution is agreed 
+     to or disagreed to is not in order.
+       (C) Vote on final passage.--Immediately following the 
+     conclusion of the debate on a joint resolution, and a single 
+     quorum call at the conclusion of the debate if requested in 
+     accordance with the rules of the appropriate House, the vote 
+     on final passage of the joint resolution shall occur.
+       (D) Appeals of rulings.--Appeals from the decisions of the 
+     Chair relating to the application of the rules of the Senate 
+     or the House of Representatives, as the case may be, to the 
+     procedure relating to a joint resolution described in 
+     paragraph (1) shall be decided without debate.
+       (6) Treatment of other house's joint resolution.--If, 
+     before the passage by one House of Congress of a joint 
+     resolution of that House, that House receives from the other 
+     House a joint resolution, then the following procedures shall 
+     apply:
+       (A) Referral of joint resolutions of sending house.--The 
+     joint resolution of the sending House shall not be referred 
+     to a committee in the receiving House.
+       (B) Procedures in receiving house.--With respect to a joint 
+     resolution of the House receiving the joint resolution--
+       (i) the procedure in that House shall be the same as if no 
+     joint resolution had been received from the sending House; 
+     but
+       (ii) the vote on final passage shall be on the joint 
+     resolution of the sending House.
+       (C) Disposition of joint resolutions of receiving house.--
+     Upon disposition of the joint resolution received from the 
+     other House, it shall no longer be in order to consider the 
+     joint resolution originated in the receiving House.
+       (7) Procedures after action by both the house and senate.--
+     If the House receiving a joint resolution from the other 
+     House after the receiving House has disposed of a joint 
+     resolution originated in that House, the action of the 
+     receiving House with regard to the disposition of the joint 
+     resolution originated in that House shall be deemed to be the 
+     action of the receiving House with regard to the joint 
+     resolution originated in the other House.
+       (8) Status of procedures.--This subsection is enacted by 
+     Congress--
+       (A) as an exercise of the rulemaking power of the Senate 
+     and House of Representatives, respectively, and as such it is 
+     deemed a part of the rules of each House, respectively, but 
+     applicable only with respect to the procedure to be followed 
+     in that House in the case of a joint resolution described in 
+     paragraph (1), and it supersedes other rules only to the 
+     extent that it is inconsistent with such rules; and
+       (B) with full recognition of the constitutional right of 
+     either House to change the rules (so far as relating to the 
+     procedure of that House) at any time, in the same manner and 
+     to the same extent as in the case of any other rule of that 
+     House.●
+● Mr. BAUCUS. Mr. President, I rise today to join my colleagues 
+in introducing the Food and Medicine for the World Act.
+  For years the United States has enacted economic sanctions to punish 
+foreign governments, often without regard for the effects of those 
+sanctions back home. Under a bill that I am introducing jointly with 
+Senators Ashcroft, Brownback and Kerrey, we can make more sense of our 
+confusing sanctions policy. We can put an end to the practice of making 
+our agricultural producers shoulder most of the blame when we impose 
+sanctions.
+  The exchange of goods and ideas worldwide has never been freer; it is 
+now axiomatic to say that we live in a global economy. It follows that 
+as the rules governing economics have changed, so too should those 
+related to economic sanctions. Unilateral economic action is less 
+effective than it used to be, simply because it's rarely possible for 
+one country or company to corner the market on a good or service.
+  Moreover, we often hurt ourselves with unilateral actions that 
+disproportionately affect one sector of our economy over another. Our 
+agricultural producers, for example, have long borne the brunt of 
+American unilateral action. It is estimated that 10% of the world wheat 
+market is put out of reach of U.S. producers by economic sanctions.
+  That's why I became a member of the Senate Sanctions Task Force last 
+year, and it's why I am joining my colleagues in introducing the Food 
+and Medicine for the World Act. Under this legislation, when any new 
+unilateral sanction is announced by the President, the sanctions he 
+imposes will not affect agriculture or medicine unless: the President 
+submits a report to Congress asking that the sanction include 
+agriculture; and Congress approves of his request. The process must be 
+complete within 60 days before the sanctions against agriculture are 
+supposed to go into effect. This bill would not take effect in the 
+event that Congress has declared war or in the case of national 
+emergency.
+  Mr. President, while I believe sanctions can be a legitimate tool of 
+foreign policy, I don't think that American producers should be 
+punished for the actions of unscrupulous foreign governments. Nor do I 
+think it is fair to put an abrupt end to the supply of medicine based 
+on the behavior of a dictator. We must send a message to the world that 
+our producers are reliable and that those abroad who rely on U.S. 
+products will not be put at risk by a sanction on U.S. food and 
+medicine.
+  The Food and Medicine for the World Act sends that message, and I 
+urge my colleagues to lend their support to the bill.●
+
+                          ____________________
+```
