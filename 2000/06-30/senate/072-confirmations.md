@@ -1,0 +1,39 @@
+---
+granule: CRECB-2000-pt9-Pg13420-3
+date: 2000-06-30
+edition: CRECB
+section: SENATE
+page: 13420
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate June 30, 2000:
+
+
+                             THE JUDICIARY
+
+       PAUL C. HUCK, OF FLORIDA, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE SOUTHERN DISTRICT OF FLORIDA.
+       JOHN W. DARRAH, OF ILLINOIS, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE NORTHERN DISTRICT OF ILLINOIS.
+       JOAN HUMPHREY LEFKOW, OF ILLINOIS, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE NORTHERN DISTRICT OF ILLINOIS.
+       GEORGE Z. SINGAL, OF MAINE, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE DISTRICT OF MAINE.
+
+
+
+
+             CONGRESSIONAL RECORD 
+
+                United States
+                 of America
+
+
+
+June 30, 2000
+```
