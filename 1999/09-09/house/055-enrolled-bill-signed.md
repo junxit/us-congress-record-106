@@ -1,0 +1,25 @@
+---
+granule: CRECB-1999-pt15-Pg21142-4
+date: 1999-09-09
+edition: CRECB
+section: HOUSE
+page: 21142
+---
+
+# ENROLLED BILL SIGNED
+
+```
+                          ENROLLED BILL SIGNED
+
+  Mr. THOMAS, from the Committee on House Administration, reported that 
+that committee had examined and found truly enrolled a bill of the 
+House of the following title, which was thereupon signed by the 
+Speaker:
+
+       H.R. 457. An act to amend title 5, United States Code, to 
+     increase the amount of leave time available to a Federal 
+     employee in any year in connection with serving as an organ 
+     donor, and for other purposes.
+
+                          ____________________
+```
