@@ -1,0 +1,28 @@
+---
+granule: CRECB-2000-pt1-Pg47-2
+date: 2000-01-24
+edition: CRECB
+section: SENATE
+page: 47
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate January 24, 2000:
+
+
+            BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM
+
+       ALAN GREENSPAN, OF NEW YORK, TO BE CHAIRMAN OF THE BOARD OF 
+     GOVERNORS OF THE FEDERAL RESERVE SYSTEM FOR A TERM OF FOUR 
+     YEARS. (REAPPOINTMENT)
+
+
+                          DEPARTMENT OF LABOR
+
+       EDWARD B. MONTGOMERY, OF MARYLAND, TO BE DEPUTY SECRETARY 
+     OF LABOR, VICE KATHRYN O'LEARY HIGGINS, RESIGNED.
+```
