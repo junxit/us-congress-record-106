@@ -1,0 +1,28 @@
+---
+granule: CREC-1999-10-05-pt1-PgH9308-3
+date: 1999-10-05
+edition: CREC
+section: HOUSE
+page: H9308
+citation: 145 Cong. Rec. H9308
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend James David Ford, D.D., offered the 
+following prayer:
+  O gracious God, we profess that You are the creator of the whole 
+world and yet when we look at that world we see so much pain and 
+suffering, wars and rumors of wars, and we become distressed. We affirm 
+that You have created every person in Your image and yet in our 
+communities we see alienation and estrangement one from another.
+  Almighty God, teach us that before we can change the world or our 
+communities we need to change our own hearts and our own attitudes so 
+that Your spirit of faith and hope and love touches our souls and the 
+work of our daily lives. This is our earnest prayer. Amen.
+
+                          ____________________
+```
