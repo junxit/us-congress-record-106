@@ -1,0 +1,27 @@
+---
+granule: CRECB-2000-pt6-Pg7803-4
+date: 2000-05-15
+edition: CRECB
+section: SENATE
+page: 7803
+---
+
+# ORDER FOR ADJOURNMENT
+
+```
+                         ORDER FOR ADJOURNMENT
+
+  Mr. BURNS. Madam President, if there is no further business to come 
+before the Senate, I now ask unanimous consent that the Senate stand in 
+adjournment under the previous order, following the remarks of Senator 
+Kennedy of Massachusetts.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. BURNS. Madam President, I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. KENNEDY. Madam President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
