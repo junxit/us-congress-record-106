@@ -1,0 +1,54 @@
+---
+granule: CREC-1999-08-04-pt1-PgH7026-2
+date: 1999-08-04
+edition: CREC
+section: HOUSE
+page: H7026
+citation: 145 Cong. Rec. H7026
+---
+
+# AMENDMENTS
+
+**Measures:** H.R. 2670
+
+```
+                               AMENDMENTS
+
+       Under clause 8 of rule XVIII, proposed amendments were 
+     submitted as follows:
+
+                               H.R. 2670
+
+                         Offered By: Mr. Ehlers
+
+       Amendment No. 22: Page 53, line 26, after the dollar amount 
+     insert ``(increased by $390,000)''.
+
+[[Page H7027]]
+
+       Page 54, line 12, after the dollar amount insert 
+     ``(increased by $390,000)''.
+       Page 54, line 13, after the dollar amount insert 
+     ``(increased by $390,000)''.
+       Page 54, line 18, after the dollar amount insert 
+     ``(increased by $390,000)''.
+       Page 56, line 9, after the dollar amount insert ``(reduced 
+     by $390,000)''.
+
+                               H.R. 2670
+
+                        Offered By: Mr. Stearns
+
+       Amendment No. 23. On page 72, 5 strike ``$2,482,825,000'' 
+     and insert ``2,482,325,000''
+
+                               H.R. 2670
+
+                        Offered By: Mr. Tancredo
+
+       Amendment No. 24: Page 80, strike line 7 and all that 
+     follows through page 81, line 14 (relating to arrearage 
+     payments).
+
+                          ____________________
+```
