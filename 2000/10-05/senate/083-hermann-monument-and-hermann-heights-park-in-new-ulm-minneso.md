@@ -1,0 +1,58 @@
+---
+granule: CRECB-2000-pt14-Pg20966
+date: 2000-10-05
+edition: CRECB
+section: SENATE
+page: 20966
+---
+
+# HERMANN MONUMENT AND HERMANN HEIGHTS PARK IN NEW ULM, MINNESOTA
+
+```
+    HERMANN MONUMENT AND HERMANN HEIGHTS PARK IN NEW ULM, MINNESOTA
+
+  The Senate proceeded to consider the resolution (H. Con. Res. 89) 
+recognizing the Hermann Monument and Hermann Heights Park in New Ulm, 
+Minnesota, as a national symbol of the contributions of Americans of 
+German heritage.
+  The resolution (H. Con. Res. 89) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                            H. Con. Res. 89
+
+       Whereas there are currently more than 57,900,000 
+     individuals of German heritage residing in the United States, 
+     who comprise nearly 25 percent of the population of the 
+     United States and are therefore the largest ethnic group in 
+     the United States;
+       Whereas those of German heritage are not merely descendants 
+     of one political entity, but of all German speaking areas;
+       Whereas numerous Americans of German heritage have made 
+     countless contributions to American culture, arts, and 
+     industry, the American military, and American government;
+       Whereas there is no recognized tangible, national symbol 
+     dedicated to German Americans and their positive 
+     contributions to the United States;
+       Whereas the story of Hermann the Cheruscan parallels that 
+     of the American Founding Fathers, because he was a freedom 
+     fighter who united ancient German tribes in order to shed the 
+     yoke of Roman tyranny and preserve freedom for the territory 
+     of present-day Germany;
+       Whereas the Hermann Monument located in Hermann Heights 
+     Park in New Ulm, Minnesota, was dedicated in 1897 in honor of 
+     the spirit of freedom and later dedicated to all German 
+     immigrants who settled in New Ulm and elsewhere in the United 
+     States; and
+       Whereas the Hermann Monument has been recognized as a site 
+     of special historical significance by the United States 
+     Government, by placement on the National Register of Historic 
+     Places: Now, therefore, be it
+       Resolved by the House of Representatives (the Senate 
+     concurring), That the Hermann Monument and Hermann Heights 
+     Park in New Ulm, Minnesota, are recognized by the Congress to 
+     be a national symbol for the contributions of Americans of 
+     German heritage.
+
+                          ____________________
+```

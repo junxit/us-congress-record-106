@@ -1,0 +1,42 @@
+---
+granule: CRECB-2000-pt14-Pg21011-3
+date: 2000-10-05
+edition: CRECB
+section: SENATE
+page: 21011
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate October 5, 2000:
+
+
+                       INTER-AMERICAN FOUNDATION
+
+       ANITA PEREZ FERGUSON, OF CALIFORNIA, TO BE A MEMBER OF THE 
+     BOARD OF DIRECTORS OF THE INTER-AMERICAN FOUNDATION FOR A 
+     TERM EXPIRING SEPTEMBER 20, 2006, VICE MARIA OTERO, TERM 
+     EXPIRED.
+
+
+                 FEDERAL DEPOSIT INSURANCE CORPORATION
+
+       JOHN M. REICH, OF VIRGINIA, TO BE A MEMBER OF THE BOARD OF 
+     DIRECTORS OF THE FEDERAL DEPOSIT INSURANCE CORPORATION FOR A 
+     TERM OF SIX YEARS, VICE ANDREW C. HOVE, JR., TERM EXPIRED.
+
+
+
+
+
+             CONGRESSIONAL RECORD 
+
+                United States
+                 of America
+
+
+October 5, 2000
+```

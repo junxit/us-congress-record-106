@@ -1,0 +1,61 @@
+---
+granule: CRECB-2000-pt14-Pg20960
+date: 2000-10-05
+edition: CRECB
+section: SENATE
+page: 20960
+---
+
+# INTERPRETIVE CENTER AND MUSEUM, DIAMOND VALLEY LAKE, HEMET, CALIFORNIA
+
+```
+ INTERPRETIVE CENTER AND MUSEUM, DIAMOND VALLEY LAKE, HEMET, CALIFORNIA
+
+  The Senate proceeded to consider the bill (S. 2977) to assist the 
+establishment of an interpretive center and museum in the vicinity of 
+the Diamond Valley Lake in southern California to ensure the protection 
+and interpretation of the paleontology discoveries made at the lake and 
+to develop a trail system for the lake for use by pedestrians and 
+nonmotorized vehicles.
+  The bill (S. 2977) was read the third time and passed, as follows:
+
+                                S. 2977
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. INTERPRETIVE CENTER AND MUSEUM, DIAMOND VALLEY 
+                   LAKE, HEMET, CALIFORNIA.
+
+       (a) Assistant for Establishment of Center and Museum.--The 
+     Secretary of the Interior shall enter into an agreement with 
+     an appropriate entity for the purpose of sharing costs 
+     incurred to design, construct, furnish, and operate an 
+     interpretive center and museum, to be located on lands under 
+     the jurisdiction of the Metropolitan Water District of 
+     Southern California, intended to preserve, display, and 
+     interpret the paleontology discoveries made at and in the 
+     vicinity of the Diamond Valley Lake, near Hemet, California, 
+     and to promote other historical and cultural resources of the 
+     area.
+       (b) Assistance for Nonmotorized Trails.--The Secretary 
+     shall enter into an agreement with the State of California, a 
+     political subdivision of the State, or a combination of State 
+     and local public agencies for the purpose of sharing costs 
+     incurred to design, construct, and maintain a system of 
+     trails around the perimeter of the Diamond Valley Lake for 
+     use by pedestrians and non-motorized vehicles.
+       (c) Matching Requirement.--The Secretary shall require the 
+     other parties to an agreement under this section to secure an 
+     amount of funds from non-Federal sources that is at least 
+     equal to the amount provided by the Secretary.
+       (d) Time for Agreement.--The Secretary shall enter into the 
+     agreements required by this section not later than 180 days 
+     after the date on which funds are first made available to 
+     carry out this section.
+       (e) Authorization of Appropriations.--There is authorized 
+     to be appropriated not more than $14,000,000 to carry out 
+     this section.
+
+                          ____________________
+```
