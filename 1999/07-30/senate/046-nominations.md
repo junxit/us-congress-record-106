@@ -1,0 +1,32 @@
+---
+granule: CRECB-1999-pt13-Pg18858-8
+date: 1999-07-30
+edition: CRECB
+section: SENATE
+page: 18858
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate July 30, 1999:
+
+
+              DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+       SUSAN M. WACHTER, OF PENNSYLVANIA, TO BE AN ASSISTANT 
+     SECRETARY OF HOUSING AND URBAN DEVELOPMENT, VICE MICHAEL A. 
+     STEGMAN, RESIGNED.
+
+
+                OVERSEAS PRIVATE INVESTMENT CORPORATION
+
+       ZELL MILLER, OF GEORGIA, TO BE A MEMBER OF THE BOARD OF 
+     DIRECTORS OF THE OVERSEAS PRIVATE INVESTMENT CORPORATION FOR 
+     A TERM EXPIRING DECEMBER 17, 2000, VICE SIMON FERRO, TERM 
+     EXPIRED.
+
+                          ____________________
+```
