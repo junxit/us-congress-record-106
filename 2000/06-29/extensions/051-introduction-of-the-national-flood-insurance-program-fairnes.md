@@ -1,0 +1,165 @@
+---
+granule: CRECB-2000-pt9-Pg13446
+date: 2000-06-29
+edition: CRECB
+section: EXTENSIONS
+page: 13446
+---
+
+# INTRODUCTION OF THE NATIONAL FLOOD INSURANCE PROGRAM FAIRNESS ACT OF 2000
+
+```
+[[Page 13446]]
+
+ INTRODUCTION OF THE NATIONAL FLOOD INSURANCE PROGRAM FAIRNESS ACT OF 
+                                  2000
+
+                                 ______
+                                 
+
+                        HON. FORTNEY PETE STARK
+
+                             of california
+
+                    in the house of representatives
+
+                        Thursday, June 29, 2000
+
+  Mr. STARK. Mr. Speaker, today I am introducing the National Flood 
+Insurance Program Fairness Act of 2000. This February many of my 
+constituents were placed into a special hazard flood zone, a 
+designation which necessitated the purchase of flood insurance. These 
+residents were not notified that they would be required to purchase 
+flood insurance until two months or less before the maps became 
+effective, even though the law is supposed to give them six months 
+notice. This exacerbated an already difficult situation, as residents 
+who had not seen flooding in decades or a lifetime had little notice to 
+purchase costly insurance.
+  Several residents who did not believe they were in the flood zone 
+hired a surveyor at their own expense. The data provided by this 
+private surveyor resulted in their homes being removed from the special 
+hazard flood zone. While these residents were not required to purchase 
+flood insurance, they did spend over $200 each for the surveyor. They 
+were told by FEMA that they were responsible for that expense, even 
+though the mistaken flood zone classification was made by the county 
+engineers.
+  Clearly the national flood insurance program needs to be revised to 
+give homeowners more notice and due process. That's why I am proposing 
+this legislation.
+  The National Flood Insurance Program Fairness Act of 2000 would do 
+the following: Require the FEMA Director to notify by registered mail 
+the Chief Executive Officer of each community affected by changes in 
+Flood Insurance Rate Maps. The Director will be required to provide a 
+copy of the revised map, along with a statement explaining the process 
+of appeal. The director will also provide the affected community 
+sufficient information to identify which homes are affected. Require 
+the Director to notify by registered mail the Chief Executive Officer 
+of each community of FEMA's response to the community's appeal of the 
+flood insurance rate maps. Require the Director to notify by first 
+class mail each owner of property affected by the changes in the flood 
+insurance rate maps. Require FEMA to reimburse a resident for 
+reasonable costs incurred in connection with a surveyor or engineer for 
+an appeal to the Director which is successful. This does not include 
+legal services incurred by the resident.
+  It is my hope that the legislation will allow communities to better 
+work with FEMA to ensure that residents are given sufficient, fair, and 
+timely notice if they will be required to purchase flood insurance.
+
+          TRIBUTE TO THE LATE SERVICEMEN OF USAAF B-17 40-2072
+
+                                 ______
+                                 
+
+                          HON. GARY G. MILLER
+
+                             of california
+
+                    in the house of representatives
+
+                        Thursday, June 29, 2000
+
+  Mr. GARY MILLER of California. Mr. Speaker, I rise today to recognize 
+and honor forty American soldiers killed over fifty-seven years ago in 
+a terrible aviation accident. This mishap occurred in Bakers Creek, 
+Queensland, Australia on 14 June 1943. At the time, it was not only the 
+worst aviation accident in Australia, but also the worst aviation 
+accident of World War II.
+  The aircraft was operated by the United States Army Air Force 46th 
+Transport Carrier Squadron, 317th Troop Carrier Group (46TCG) of the 
+5th Air Force, United States Army Air Force, and was one of many B-17 
+aircraft removed and converted from combat status and placed with the 
+46th as a transport aircraft. Shortly after takeoff from the Mackay 
+airport in Bakers Creek, Australia, their B-17 flying Fortress lost 
+altitude, falling to the earth in a slow and steady bank and crashed in 
+a ball of flames. In addition to the six crew members, thirty-five 
+soldiers were on board, returning to their posts after being on leave 
+in Mackay. Their names, rank, and units follow:
+  Crew: 1/Lt. Vern J. Gidcumb, Pilot, 317th Troop Carrier Group, 46th 
+Troop Carrier Squadron; F/O William C. Erb, Co-Pilot, 317th Troop 
+Carrier Group, 46th Troop Carrier Squadron; 2/Lt. Jack A. Ogren, 
+Navigator, 317th Troop Carrier Group, 46th Troop Carrier Squadron; S/
+Sgt. Lovell Dale Curtis, Crew Chief, 317th Troop Carrier Group, 46th 
+Troop Carrier Squadron; S/Sgt. Frank E. Whelchel, Crew Chief, 374th 
+Troop Carrier Group, 22th Troop Carrier Squadron; Sgt. David E. 
+Tileston, Radio Operator, 317th Troop Carrier Group, 46th Troop Carrier 
+Squadron.
+  Passengers: Pfc. Arnold Seidel, 5th Air Force, 415th Signal Company; 
+Pvt. Ruben L. Vaughn, 5th Fighter Command, HQ Squadron; T/5 George A. 
+Ehrman, 5th fighter Command, Signal HQ Company; S/Sgt. Roy A. Hatlen, 
+35th Fighter Group, 40th Fighter Squadron; S/Sgt. John W. Hilsheimer, 
+35th Fighter Group, 40th Fighter Squadron; Sgt. Dean H. Busse, 35th 
+Fighter Group, 40th Fighter Squadron; Cpl. Raymond H. Smith, 35th 
+Fighter Group, 40th Fighter Squadron; Maj. George N. Powell, 49th 
+Fighter Group, HQ Squadron; Pfc. Jerome Abraham, 49th Fighter Group, Hq 
+Squadron; Pvt. Charles, D. Montgomery, 49th Fighter Group, 7th Fighter 
+Squadron; Capt. John O. Berthold, 49th Fighter Group, 8th Fighter 
+Squadron; Sgt. Carl A. Cunningham, 49th Fighter Group, 8th Fighter 
+Squadron.
+  Sgt. Charlie O. LaRue, 49th Fighter Group, 8th Fighter Squadron; Sgt 
+Leo. E. Fletcher, 38th Bombardment Group, 405th Bombardment Squadron; 
+Sgt. Donald B. Kyper, 38th Bombardment Group, 405th Bombardment 
+Squadron; Cpl. Franklin F. Smith, 38th Bombardment Group, 405th 
+Bombardment Squadron; T/Sgt. James A. Copeland, 8th Service Group, HQ 
+Squadron; Cpl. Charles W. Sampson, 8th Service Group, 11th Service 
+Squadron; Pfc. Dale Van Fosson, 8th Service Group, 1160th Quartermaster 
+Company; Pfc. Kenneth W. Mann, 36th Service Group, 374th Service 
+Squadron; Pfc. Charles M. Williams, 455th Service Squadron; T/5 William 
+A. Briggs, 478th Service Squadron, 1037th Signals; Cpl. Edward Tenny, 
+479th Service Squadron.
+  Pfc. Norman J. Goetz, 480th Service Squadron; Pfc. Frederick C. 
+Sweet, 481st Service Squadron, 46th Ordnance Company; T/Sgt. Alfred H. 
+Frezza, 27th Depot Repair Squadron; Cpl. Jacob O. Skaggs, Jr., 27th 
+Depot Repair Squadron; Pvt. James E. Finney, 27th Depot Repair 
+Squadron; Pvt. Raymond D. Longabaugh, 842nd Aviation Engineer 
+Battalion; Cpl. Marlin D. Metzger, 374th Troop Carrier Group, 6th Troop 
+Carrier Squadron; Pfc. Frank S. Penska, 374th Troop Carrier Group, 6th 
+Troop Carrier Squadron; Sgt. Anthony Rudnick, 565th Signal Battalion, 
+Company A; Pfc. Vernon Johnson, 440th Signal Battalion, Company A; Pfc. 
+John W. Parker, 809th Chemical Company.
+  Mr. Speaker, although these men came from twenty different states, 
+were from many different walks of life, and served in many different 
+units, their common purpose was one: service to our nation. Until 
+recently, the details of this mishap were classified by the Air Force, 
+but now that the incident is available for public attention, I desire 
+to honor the memory of these fine young men.
+  I applaud the efforts of people like Mr. Colin Benson, who is a 
+historian for the Mackay chapter of the Returned and Service League 
+(RSL) of Australia. Mr. Benson's devotion to obtaining the records of 
+the incident and seeking recognition for these men has been long and 
+arduous. As an Australian, Mr. Benson's dedication to our American 
+soldiers is commendable. Rarely does a foreign country applaud the 
+efforts and sacrifices of another, and strive so hard to honor their 
+dead. I also applaud Mr. Eugene D. Rossel's commitment and dedication 
+to the disclosure of this terrible mishap. He is that type of American 
+who will not rest until heroes like the men I listed above are 
+recognized for their personal sacrifice.
+  Mr. Speaker, I ask that we give thanks to all our veterans for the 
+sacrifices they made for our great nation. Unfortunately, we must also 
+live with the knowledge that some of our servicemen and women do not 
+live long enough to become veterans. They give their lives so that ours 
+might be better, and the men of B-17 40-2071 did no less. May we 
+continue to recognize and memorialize our fallen servicemen and women, 
+long into the future.
+
+                          ____________________
+```

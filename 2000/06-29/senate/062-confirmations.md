@@ -1,0 +1,40 @@
+---
+granule: CRECB-2000-pt9-Pg13057-5
+date: 2000-06-29
+edition: CRECB
+section: SENATE
+page: 13057
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate June 29, 2000:
+
+
+                         DEPARTMENT OF JUSTICE
+
+       DANIEL G. WEBBER, JR., OF OKLAHOMA, TO BE UNITED STATES 
+     ATTORNEY FOR THE WESTERN DISTRICT OF OKLAHOMA.
+       JAMES L. WHIGHAM, OF ILLINOIS, TO BE UNITED STATES MARSHAL 
+     FOR THE NORTHERN DISTRICT OF ILLINOIS FOR THE TERM OF FOUR 
+     YEARS.
+       RUSSELL JOHN QUALLIOTINE, OF NEW YORK, TO BE UNITED STATES 
+     MARSHAL FOR THE SOUTHERN DISTRICT OF NEW YORK FOR THE TERM OF 
+     FOUR YEARS.
+       JULIO F. MERCADO, OF TEXAS, TO BE DEPUTY ADMINISTRATOR OF 
+     DRUG ENFORCEMENT.
+
+
+
+
+             CONGRESSIONAL RECORD 
+
+                United States
+                 of America
+
+
+June 29, 2000
+```
