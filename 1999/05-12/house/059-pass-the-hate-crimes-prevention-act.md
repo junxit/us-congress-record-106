@@ -1,0 +1,99 @@
+---
+granule: CREC-1999-05-12-pt1-PgH3065-4
+date: 1999-05-12
+edition: CREC
+section: HOUSE
+page: H3065
+citation: 145 Cong. Rec. H3065
+---
+
+# PASS THE HATE CRIMES PREVENTION ACT
+
+**Speaking:** McGovern, James P. (M000312) [D-MA]
+
+**Measures:** H.R. 1082
+
+```
+                  PASS THE HATE CRIMES PREVENTION ACT
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Massachusetts (Mr. McGovern) is recognized for 5 
+minutes.
+  Mr. McGOVERN. Mr. Speaker, I rise today to commend Deputy Attorney 
+General Eric Holder, who yesterday correctly testified before Congress 
+that current Federal hate crime laws are inadequate in the fight 
+against crimes of hate. Present laws do not prohibit crimes against 
+individuals based on their sexual orientation or gender. Deputy 
+Attorney General Holder urged Congress to pass legislation that would 
+expand Federal authority to prosecute those responsible for such 
+crimes.
+  On May 3, 1999, I hosted a community discussion at Clark University 
+in Worcester, Massachusetts, on this timely and important piece of 
+legislation, H.R. 1082, the Hate Crimes Prevention Act of 1999.
+  The forum brought together scores of community leaders and 
+organizations, including the National Conference for Community and 
+Justice, the Human Rights Campaign, the Safe Homes
+
+[[Page H3066]]
+
+Project, the Massachusetts Rehabilitation Center, and the Jewish 
+Federation of Central Massachusetts.
+  Over the past few months we as a country have witnessed horrific 
+crimes motivated by hate. Last year James Byrd, Junior, a 49-year-old 
+black man, was murdered in a brutal attack in Jasper, Texas. His 
+alleged assailants, three white men, dragged him for 2 miles while he 
+was chained to the back of a truck.
+  Four months later Matthew Shepard, an openly gay student at the 
+University of Wyoming, was kidnapped, robbed, beaten, and burned by two 
+men on a cold October night. This young man, with a promising future, 
+died 6 days later.
+  Recently in Littleton, Colorado, certain high school students 
+appeared to have been specifically targeted and murdered because of 
+their race and chosen faith. In my own district, the Jewish Community 
+Center in Worcester, Massachusetts, experienced the evils of anti-
+Semitism when Nazi swastikas were painted throughout the facilities.
+  Those who participated in the community meeting last week shared 
+moving accounts on the effects of intolerance. These crimes attack the 
+very democratic foundation of our country.
+  The Hate Crimes Prevention Act would expand the situations where the 
+Department of Justice can prosecute defendants for violent crimes 
+committed because of the victim's race, color, religion, or national 
+origin.
+  It would also authorize the Department of Justice to prosecute 
+individuals who commit violent crimes against others because of the 
+victim's sexual orientation, gender, or disability. Current Federal law 
+does not cover crimes with these motives.
+  In 1997, the latest year for which FBI figures are available, over 
+8,000 hate crime incidents were reported. That is nearly one hate crime 
+every hour. Clearly the time to pass the Hate Crimes Prevention Act is 
+now.
+  Over 40 States have hate crimes statutes, including, I am proud to 
+say, my home State of Massachusetts. However, only 21 cover sexual 
+orientation, 22 cover gender, and 21 cover disability. By strengthening 
+the Federal law, State and local authorities will be able to utilize 
+Federal personnel and investigative resources.
+  Hate knows no boundaries. We need a law to protect all Americans. 
+Tough Federal hate crimes legislation would give our justice system the 
+tools and authority to recognize acts of violence committed on the 
+basis of a person's gender, race, ethnicity, sexual orientation, or 
+religion.
+  By recognizing these incidents and punishing those responsible, we 
+can begin to eradicate these acts of hate from our schools, our 
+neighborhoods, and our country.
+  Dr. Martin Luther King, Junior, believed that injustice anywhere is a 
+threat to justice everywhere. By passing this legislation, Congress 
+will send a clear and powerful message that we will not tolerate these 
+violent acts which not only change the life of the victim, but affect 
+the entire community. The ripple effect caused by these crimes sends 
+shock waves throughout the targeted community, often leaving fear, 
+despair, and loneliness in its wake.
+  We all need to join together to break down the walls of ignorance and 
+to build a community founded on tolerance, justice, and compassion. The 
+allies of hate are not just the perpetrators. Silence and complacency 
+are allies, as well. The enemy of hate is a community and a Congress 
+that does not tolerate hateful messages, words, or deeds.
+  We must take a stand and pass the Hate Crimes Prevention Act of 1999 
+now; not next year or sometime in the future, but now.
+
+                          ____________________
+```
