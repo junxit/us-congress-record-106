@@ -1,0 +1,38 @@
+---
+granule: CRECB-2000-pt14-Pg20527-5
+date: 2000-10-03
+edition: CRECB
+section: SENATE
+page: 20527
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate October 3, 2000:
+
+
+                             THE JUDICIARY
+
+       MICHAEL J. REAGAN, OF ILLINOIS, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF ILLINOIS.
+       SUSAN RITCHIE BOLTON, OF ARIZONA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF ARIZONA.
+       MARY H. MURGUIA, OF ARIZONA, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE DISTRICT OF ARIZONA.
+       JAMES A. TEILBORG, OF ARIZONA, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE DISTRICT OF ARIZONA.
+
+
+
+
+             CONGRESSIONAL RECORD 
+
+                United States
+                 of America
+
+
+October 3, 2000
+```
