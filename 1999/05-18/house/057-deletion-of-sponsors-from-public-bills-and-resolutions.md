@@ -1,0 +1,21 @@
+---
+granule: CRECB-1999-pt7-Pg9997
+date: 1999-05-18
+edition: CRECB
+section: HOUSE
+page: 9997
+---
+
+# DELETION OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+```
+         DELETION OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 7 of rule XII, sponsors were deleted from public bills 
+and resolutions as follows:
+
+       H.R. 692: Mr. Green of Wisconsin.
+       H.R. 987: Mr. Thompson of Mississippi.
+
+                          ____________________
+```
