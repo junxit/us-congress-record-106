@@ -1,0 +1,20 @@
+---
+granule: CREC-1999-03-02-pt1-PgH857-2
+date: 1999-03-02
+edition: CREC
+section: HOUSE
+page: H857
+citation: 145 Cong. Rec. H857
+---
+
+# SPECIAL ORDERS
+
+```
+                             SPECIAL ORDERS
+
+  The SPEAKER pro tempore. Under the Speaker's announced policy of 
+January 6, 1999, and under a previous order of the House, the following 
+Members will be recognized for 5 minutes each.
+
+                          ____________________
+```
