@@ -1,0 +1,35 @@
+---
+granule: CRECB-1999-pt2-Pg2602-2
+date: 1999-02-12
+edition: CRECB
+section: SENATE
+page: 2602
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Secretary of the Senate 
+February 12, 1999, under authority of the order of the Senate of 
+January 6, 1999:
+
+
+                             THE JUDICIARY
+
+       DAVID N. HURD, OF NEW YORK, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE NORTHERN DISTRICT OF NEW YORK VICE CON. G. 
+     CHOLAKIS, RETIRED.
+       NAOMI REICE BUCHWALD, OF NEW YORK, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF NEW YORK, VICE 
+     MIRIAM G. CEDARBAUM, RETIRED.
+
+
+                   EXECUTIVE OFFICE OF THE PRESIDENT
+
+       G. EDWARD DESEVE, OF PENNSYLVANIA, TO BE DEPUTY DIRECTOR 
+     FOR MANAGEMENT, OFFICE OF MANAGEMENT AND BUDGET, VICE JOHN A. 
+     KOSKINEN, TO WHICH POSITION HE WAS APPOINTED DURING THE LAST 
+     RECESS OF THE SENATE.
+```
