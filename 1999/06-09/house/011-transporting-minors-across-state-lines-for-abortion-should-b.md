@@ -1,0 +1,39 @@
+---
+granule: CREC-1999-06-09-pt1-PgH3868-3
+date: 1999-06-09
+edition: CREC
+section: HOUSE
+page: H3868
+citation: 145 Cong. Rec. H3868
+---
+
+# TRANSPORTING MINORS ACROSS STATE LINES FOR ABORTION SHOULD BE FEDERAL MISDEMEANOR
+
+**Speaking:** Ros-Lehtinen, Ileana (R000435) [R-FL]
+
+```
+ TRANSPORTING MINORS ACROSS STATE LINES FOR ABORTION SHOULD BE FEDERAL 
+                              MISDEMEANOR
+
+  (Ms. ROS-LEHTINEN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. ROS-LEHTINEN. Madam Speaker, yesterday a subcommittee approved a 
+bill to make it a Federal misdemeanor for strangers to transport minor 
+girls across State lines in order to avoid State abortion parental 
+consent or notification laws. My bill is designed to punish those who 
+take teenagers to other States for a secret abortion, thereby deceiving 
+parents and avoiding the parental consent laws.
+  This commonsense legislation, which currently enjoys the support of 
+almost 130 Members, will prevent our children from falling prey to 
+strangers. The idea that any nonparent can take one's 13-year-old 
+daughter to another State for a secret and potentially fatal abortion 
+should be appalling to any parent and should convince this Congress to 
+move swiftly on the bill.
+  I commend the members of the Subcommittee on the Constitution of the 
+Committee on the Judiciary for protecting the basic right of parents to 
+participate in all decisions involving their minor children, and I ask 
+that the Committee on the Judiciary and the full House do the same as 
+soon as possible.
+
+                          ____________________
+```
