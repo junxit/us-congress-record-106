@@ -1,0 +1,35 @@
+---
+granule: CRECB-1999-pt6-Pg8293
+date: 1999-05-04
+edition: CRECB
+section: SENATE
+page: 8293
+---
+
+# COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+```
+               COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+  The Speaker pro tempore laid before the House the following 
+communication from the Clerk of the House of Representatives:
+
+                                     House of Representatives,
+
+                                   Washington, DC, April 30, 1999.
+     Hon. J. Dennis Hastert,
+     The Speaker, House of Representatives,
+     Washington, DC.
+       Dear Mr. Speaker: Pursuant to the permission granted to 
+     Clause 2(h) of Rule II of the Rules of the U.S. House of 
+     Representatives, the Clerk received the following message 
+     from the Secretary of the Senate on April 30, 1999 at 10:21 
+     a.m. that the Senate passed S. Res. 88.
+       Appointment: Advisory Commission on Electronic Commerce
+       With best wishes, I am
+           Sincerely,
+                                                    Jeff Trandahl,
+     Clerk.
+
+                          ____________________
+```
