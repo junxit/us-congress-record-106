@@ -1,0 +1,18 @@
+---
+granule: CRECB-2000-pt8-Pg11591-5
+date: 2000-06-21
+edition: CRECB
+section: SENATE
+page: 11591
+---
+
+# RECOGNITION OF THE ACTING MAJORITY LEADER
+
+```
+               RECOGNITION OF THE ACTING MAJORITY LEADER
+
+  The PRESIDENT pro tempore. The able Senator from Colorado is 
+recognized.
+
+                          ____________________
+```
