@@ -1,0 +1,441 @@
+---
+granule: CRECB-2000-pt11-Pg16145
+date: 2000-07-25
+edition: CRECB
+section: HOUSE
+page: 16145
+---
+
+# YUMA CROSSING NATIONAL HERITAGE AREA ACT OF 2000
+
+```
+            YUMA CROSSING NATIONAL HERITAGE AREA ACT OF 2000
+
+  Mr. HANSEN. Mr. Speaker, I move to suspend the rules and pass the 
+bill (H.R. 2833) to establish the Yuma Crossing National Heritage Area, 
+as amended.
+  The Clerk read as follows:
+
+                               H.R. 2833
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE; DEFINITIONS.
+
+       (a) Short Title.--This Act may be cited as the ``Yuma 
+     Crossing National Heritage Area Act of 2000''.
+       (b) Definitions.--In this Act:
+       (1) Heritage area.--The term ``Heritage Area'' means the 
+     Yuma Crossing National Heritage Area established in section 
+     3.
+       (2) Management entity.--The term ``management entity'' 
+     shall mean the Yuma Crossing National Heritage Area Board of 
+     Directors referred to section 3(c).
+       (3) Management plan.--The term ``management plan'' shall 
+     mean the management plan for the Yuma Crossing National 
+     Heritage Area.
+       (4) Secretary.--The term ``Secretary'' means the Secretary 
+     of the Interior.
+
+     SEC. 2. FINDINGS AND PURPOSE.
+
+       (a) Findings.--The Congress finds the following:
+       (1) Certain events that led to the establishment of the 
+     Yuma Crossing as a natural crossing place on the Colorado 
+     River and to its development as an important landmark in 
+     America's westward expansion during the mid-19th century are 
+     of national historic and cultural significance in terms of 
+     their contribution to the development of the new United 
+     States of America.
+       (2) It is in the national interest to promote, preserve, 
+     and protect physical remnants of a community with almost 500 
+     years of recorded history which has outstanding cultural, 
+     historic, and architectural value for the education and 
+     benefit of present and future generations.
+       (3) The designation of the Yuma Crossing as a national 
+     heritage area would preserve Yuma's history and provide 
+     related educational opportunities, provide recreational 
+     opportunities, preserve natural resources, and improve the 
+     city and county of Yuma's ability to serve visitors and 
+     enhance the local economy through the completion of the major 
+     projects identified within the Yuma Crossing National 
+     Heritage Area.
+       (4) The Department of the Interior is responsible for 
+     protecting the Nation's cultural and historic resources. 
+     There are significant examples of these resources within the 
+     Yuma region to merit the involvement of the Federal 
+     Government in developing programs and projects, in 
+     cooperation with the Yuma Crossing National Heritage Area and 
+     other local and governmental bodies, to adequately conserve, 
+     protect, and interpret this heritage for future generations 
+     while providing opportunities for education, revitalization, 
+     and economic development.
+       (5) The city of Yuma, the Arizona State Parks Board, 
+     agencies of the Federal Government, corporate entities, and 
+     citizens have completed a study and master plan for the Yuma 
+     Crossing to determine the extent of its historic resources, 
+     preserve and interpret these historic resources, and assess 
+     the opportunities available to enhance the cultural 
+     experience for region's visitors and residents.
+       (6) The Yuma Crossing National Heritage Area Board of 
+     Directors would be an appropriate management entity for a 
+     heritage area established in the region.
+       (b) Purpose.--The objectives of the Yuma Crossing National 
+     Heritage Area are as follows:
+       (1) To recognize the role of the Yuma Crossing in the 
+     development of the United States, with particular emphasis on 
+     the roll of the crossing as an important landmark in the 
+     westward expansion during the mid-19th century.
+       (2) To promote, interpret, and develop the physical and 
+     recreational resources of the communities surrounding the 
+     Yuma Crossing, which has almost 500 years of recorded history 
+     and outstanding cultural, historic, and architectural assets, 
+     for the education and benefit of present and future 
+     generations.
+       (3) To foster a close working relationship with all levels 
+     of government, the private sector, and the local communities 
+     in the Yuma community and empower the community to conserve 
+     its heritage while continuing to pursue economic 
+     opportunities.
+       (4) To provide recreational opportunities for visitors to 
+     the Yuma Crossing and preserve natural resources within the 
+     Heritage Area.
+       (5) To improve the Yuma region's ability to serve visitors 
+     and enhance the local economy through the completion of the 
+     major projects identified within the Heritage Area.
+
+     SEC. 3. YUMA CROSSING NATIONAL HERITAGE AREA.
+
+       (a) Establishment.--There is hereby established the Yuma 
+     Crossing National Heritage Area.
+       (b) Boundaries.--The Heritage Area shall be comprised of 
+     those portions of the Yuma region totaling approximately 21 
+     square miles, encompassing over 150 identified historic, 
+     geologic, and cultural resources, and bounded--
+       (1) on the west, by the Colorado River (including the 
+     crossing point of the Army of the West);
+       (2) on the east, by Avenue 7E;
+       (3) on the north, by the Colorado River; and
+       (4) on the south, by the 12th Street alignment.
+       (c) Management Entity.--The management entity for the 
+     Heritage Area shall be the Yuma Crossing National Heritage 
+     Area Board of Directors which shall include representatives 
+     from a broad cross-section of the individuals, agencies, 
+     organizations, and governments that were involved in the 
+     planning and development of the Heritage Area before the date 
+     of the enactment of this Act.
+
+     SEC. 4. COMPACT.
+
+       (a) In General.--To carry out the purposes of this Act, the 
+     Secretary of the Interior shall enter into a compact with the 
+     management entity.
+       (b) Components of Compact.--The compact shall include 
+     information relating to the objectives and management of the 
+     Heritage Area, including each of the following:
+       (1) A discussion of the goals and objects of the Heritage 
+     Area.
+       (2) An explanation of the proposed approach to conservation 
+     and interpretation of the Heritage Area.
+       (3) A general outline of the protection measures to which 
+     the management entity commits.
+
+     SEC. 5. AUTHORITIES AND DUTIES OF MANAGEMENT 
+                   ENTITY.
+
+       (a) Authorities of the Management Entity.--The management 
+     entity may, for purposes of preparing and implementing the 
+     management plan, use funds made available through this Act 
+     for the following:
+       (1) To make grants to, and enter into cooperative 
+     agreements with, States and their political subdivisions, 
+     private organizations, or any person.
+       (2) To hire and compensate staff.
+       (3) To enter into contracts for goods and services.
+       (b) Management Plan.--
+       (1) In general.--Taking into consideration existing State, 
+     county, and local plans, the management entity shall develop 
+     a management plan for the Heritage Area.
+       (2) Contents.--The management plan required by this 
+     subsection shall include--
+       (A) comprehensive recommendations for conservation, 
+     funding, management, and development of the Heritage Area;
+       (B) actions to be undertaken by units of government and 
+     private organizations to protect the resources of the 
+     Heritage Area;
+       (C) a list of specific existing and potential sources of 
+     funding to protect, manage, and develop the Heritage Area;
+       (D) an inventory of the resources contained in the Heritage 
+     Area, including a list of any property in the Heritage Area 
+     that is related to the themes of the Heritage Area and that 
+     should be preserved, restored, managed, developed, or 
+     maintained because of its natural, cultural, historic, 
+     recreational, or scenic significance;
+       (E) a recommendation of policies for resource management 
+     which considers and details application of appropriate land 
+     and water management techniques, including the development of 
+     intergovernmental cooperative agreements to protect the 
+     historical, cultural, recreational, and natural resources of 
+     the Heritage Area in a manner consistent with supporting 
+     appropriate and compatible economic viability;
+       (F) a program for implementation of the management plan by 
+     the management entity, including plans for restoration and 
+     construction, and specific commitments of the identified 
+     partners for the first 5 years of operation;
+       (G) an analysis of ways in which local, State, and Federal 
+     programs may best be coordinated to promote the purposes of 
+     this Act; and
+       (H) an interpretation plan for the Heritage Area.
+       (3) Submission to secretary.--The management entity shall 
+     submit the management plan to the Secretary for approval not 
+     later than 3 years after the date of enactment of this Act. 
+     If a management plan is not submitted to the Secretary as 
+     required within the specified time, the Heritage Area shall 
+     no longer qualify for Federal funding.
+       (c) Duties of Management Entity.--In addition to its duties 
+     under subsection (b), the management entity shall--
+
+[[Page 16146]]
+
+       (1) give priority to implementing actions set forth in the 
+     compact and management plan, including steps to assist units 
+     of government, regional planning organizations, and nonprofit 
+     organizations in preserving the Heritage Area;
+       (2) assist units of government, regional planning 
+     organizations, and nonprofit organizations with--
+       (A) establishing and maintaining interpretive exhibits in 
+     the Heritage Area;
+       (B) developing recreational resources in the Heritage Area;
+       (C) increasing public awareness of and appreciation for the 
+     natural, historical, and architectural resources and sites in 
+     the Heritage Area;
+       (D) restoring any historic building relating to the themes 
+     of the Heritage Area; and
+       (E) ensuring that clear, consistent, and environmentally 
+     appropriate signs identifying access points and sites of 
+     interest are put in place throughout the Heritage Area;
+       (3) encourage, by appropriate means, economic viability in 
+     the Heritage Area consistent with the goals of the management 
+     plan;
+       (4) encourage local governments to adopt land use policies 
+     consistent with the management of the Heritage Area and the 
+     goals of the management plan;
+       (5) consider the interests of diverse governmental, 
+     business, and nonprofit groups within the Heritage Area;
+       (6) conduct public meetings at least quarterly regarding 
+     the implementation of the management plan; and
+       (7) for any year in which Federal funds have been received 
+     under this Act, make available for audit all records 
+     pertaining to the expenditure of such funds and any matching 
+     funds, and require, for all agreements authorizing 
+     expenditure of Federal funds by other organizations, that the 
+     receiving organizations make available for audit all records 
+     pertaining to the expenditure of such funds.
+       (d) Prohibition on the Acquisition of Real Property.--The 
+     management entity may not use Federal funds received under 
+     this Act to acquire real property or an interest in real 
+     property. Nothing in this Act shall preclude any management 
+     entity from using Federal funds from other sources for their 
+     permitted purposes.
+       (e) Spending for Non-Federally Owned Property.--The 
+     management entity may spend Federal funds directly on non-
+     federally owned property to further the purposes of this Act, 
+     especially in assisting units of government in appropriate 
+     treatment of districts, sites, buildings, structures, and 
+     objects listed or eligible for listing on the National 
+     Register of Historic Places.
+
+     SEC. 6. DUTIES AND AUTHORITIES OF FEDERAL AGENCIES.
+
+       (a) Technical and Financial Assistance.--The Secretary may, 
+     upon request of the management entity, provide technical and 
+     financial assistance to the management entity to develop and 
+     implement the management plan. In assisting the management 
+     entity, the Secretary shall give priority to actions that in 
+     general assist in--
+       (1) conserving the significant natural, historic, and 
+     cultural resources which support the themes of the Heritage 
+     Area; and
+       (2) providing educational, interpretive, and recreational 
+     opportunities consistent with resources and associated values 
+     of the Heritage Area.
+       (b) Approval and Disapproval of Management Plan.--The 
+     Secretary, in consultation with the Yuma Crossing National 
+     Heritage Area Board of Directors, shall approve or disapprove 
+     the management plan submitted under this Act not later than 
+     90 days after receiving such management plan.
+       (c) Action Following Disapproval.--If the Secretary 
+     disapproves a submitted compact or management plan, the 
+     Secretary shall advise the management entity in writing of 
+     the reasons therefor and shall make recommendations for 
+     revisions in the management plan. The Secretary shall approve 
+     or disapprove a proposed revision within 90 days after the 
+     date it is submitted.
+       (d) Approving Amendments.--The Secretary shall review 
+     substantial amendments to the management plan for the 
+     Heritage Area. Funds appropriated pursuant to this Act may 
+     not be expended to implement the changes made by such 
+     amendments until the Secretary approves the amendments.
+       (e) Documentation.--Subject to the availability of funds, 
+     the Historic American Building Survey/Historic American 
+     Engineering Record shall conduct those studies necessary to 
+     document the cultural, historic, architectural, and natural 
+     resources of the Heritage Area.
+
+     SEC. 7. SUNSET.
+
+       The Secretary may not make any grant or provide any 
+     assistance under this Act after September 30, 2015.
+
+     SEC. 8. AUTHORIZATION OF APPROPRIATIONS.
+
+       (a) In General.--There is authorized to be appropriated 
+     under this Act not more than $1,000,000 for any fiscal year. 
+     Not more than a total of $10,000,000 may be appropriated for 
+     the Heritage Area under this Act.
+       (b) 50 Percent Match.--Federal funding provided under this 
+     Act, after the designation of the Heritage Area, may not 
+     exceed 50 percent of the total cost of any assistance or 
+     grant provided or authorized under this Act.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Utah (Mr. Hansen) and the gentleman from Guam (Mr. Underwood) each will 
+control 20 minutes.
+  The Chair recognizes the gentleman from Utah (Mr. Hansen).
+  Mr. HANSEN. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, H.R. 2833 sponsored by the gentleman from Arizona (Mr. 
+Pastor) authorizes the Secretary of the Interior to establish the Yuma 
+Crossing National Heritage Area. This bill would serve to protect and 
+conserve the historic elements located in the Yuma community.
+  Its purpose would be to further educational, recreational, and 
+economic opportunities of the region. The bill also provides for 
+measures which preserve the historic features of the Yuma Crossing.
+  The Yuma Crossing was the national crossing place for the Colorado 
+River. This geographic feature eventually led Yuma to become the 
+epicenter of America's westward expansion during the mid-19th century. 
+The area hosts many cultural, historic, and architectural resources.
+  The management of the national heritage area is to be conducted by 
+the Secretary and the management entity known as Yuma Crossing National 
+Heritage Area Board of Directors. The management entity is to develop a 
+comprehensive plan that supports the goals and operations of the 
+heritage area and to work directly with the Secretary in the 
+implementation of this plan. This is supported on a bipartisan basis, 
+and I commend the gentleman from Arizona (Mr. Pastor) for his efforts 
+to preserve and enhance the Yuma area.
+  Mr. Speaker, I urge my colleagues to support H.R. 2833, as amended.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. UNDERWOOD. Mr. Speaker, I yield myself such time as I may 
+consume.
+  Mr. Speaker, H.R. 2833 introduced by the gentleman from Arizona (Mr. 
+Pastor), our friend and colleague, would establish the Yuma Crossing 
+National Heritage Area in Yuma, Arizona. Yuma's location as a natural 
+crossing point of the Colorado River has drawn man to the area since 
+ancient times; and as such, there is a long history associated with the 
+area.
+  At the hearing on the bill before the Committee on Resources, our 
+colleague, the gentleman from Arizona (Mr. Pastor), and the other 
+supporters of the legislation spoke of the historical and cultural 
+heritage of the Yuma area and of their enthusiasm and commitment to a 
+heritage area designation.
+  While the legislation was similar in form to other bills the 
+committee has considered regarding the designation of heritage areas, 
+the National Park Service testified that several changes needed to be 
+made to conform the bill to other heritage designations.
+  The Committee on Resources adopted an amendment that reflected the 
+changes to the bill requested by the National Park Service. We believe 
+those changes improve the legislation and support the bill, as amended.
+  Mr. Speaker, I yield such time as he may consume to the gentleman 
+from Arizona (Mr. Pastor).
+  Mr. PASTOR. Mr. Speaker, first of all, I want to thank the gentleman 
+from Utah (Chairman Hansen) and the gentleman from Puerto Rico (Mr. 
+Romero-Barcelo), the ranking member; and the gentleman from Alaska 
+(Chairman Young), the full committee chairman; and the gentleman from 
+California (Mr. George Miller), the ranking member; for bringing this 
+bill on the floor today.
+  Mr. Speaker, I rise in strong support of this legislation and ask 
+that the House support the efforts of the entire Yuma community to 
+designate the Yuma Crossing as a national heritage area. I want to 
+assure this body that the entire area is united behind the principles 
+of this legislation.
+  More than 60 years before the European settlement in Jamestown, 
+Virginia, and more than 80 years, before the pilgrims landed at 
+Plymouth Rock, Francisco Vasquez de Coronado marched across 
+southeastern Arizona in search of the fabled Seven Cities of Gold. To 
+supply Coronado's expedition, Captain Hernando de Alarcon commanded 
+three ships through the Gulf of California into the mouth of the 
+Colorado River.
+
+[[Page 16147]]
+
+  The Spanish explorer Hernando de Alarcon became the first European to 
+venture into what is now the southwest portions of the United States 
+just below the confluence of the Colorado River and the Gila River. 
+There they made use of a geological formation in the lower Colorado, 
+consisting of two massive granite outcroppings known to us today as 
+Yuma Crossing.
+  Alarcon's voyage is the first European discovery of the Colorado 
+River, and the Crossing has become a natural bridge which played an 
+important role in the western settlement of the United States.
+  Father Eusebio Francisco Kino mapped supply routes to California 
+through the Yuma Crossing, a route that would be used in many other 
+expeditions and used by many colonists. Using the knowledge pioneered 
+by Father Kino, more than 200 settlers and herds of livestock crossed 
+the treacherous Colorado River using the Yuma Crossing.
+  Anza, another famous Spanish explorer, crossed the Colorado at this 
+point. He traveled westward to cross the desert to San Gabriel and then 
+turned north and established the community of San Francisco in 1776.
+  Kit Carson traveled the Yuma Crossing as he carried dispatches 
+between California and New Mexico to report on the United States' 
+successful military conquest of California in the war with Mexico in 
+1846. It was during the war with Mexico that Lieutenant Colonel Phillip 
+St. George Cooke used the Yuma Crossing to establish the Gila Trail, 
+that became a passageway used by California's gold seekers, by 
+pioneers, by ranchers, farmers, and the military.
+  Yuma Crossing quickly became a strategic military location following 
+the Mexican war. Settlers and the Quechan Indians fought for the rights 
+to hold ferry operations across the Colorado. In 1852, Fort Yuma was 
+established to keep the peace between the settlers and the Quechans.
+  In addition to its importance, Yuma has become a major port town and 
+transportation hub. Steamboats were used to freight supplies, as well 
+as stagecoach and camel caravans were used to transport supplies. But 
+as Yuma grew, more sophisticated modes of transportation were demanded, 
+the outgrowth of which resulted in the development of the Southern 
+Pacific Railroad. With the establishment of the Southern Pacific 
+Railroad, Yuma established itself as a major connecting point in the 
+westward expansion of our country.
+  Today, the city of Yuma has a population of 70,000 residents, the 
+third largest city in Arizona. Along with its importance in the 
+development of the West, there is a combination of arid desert 
+landscapes, rugged mountains and wetlands that is the natural 
+environment for this area which we want to preserve.
+  Designating Yuma Crossing as a national heritage area will preserve 
+Yuma's early heritage and highlight Yuma Crossing's importance to 
+opening the American West to exploration and settlement.
+
+                              {time}  1645
+
+  The designation will also serve to preserve and protect its vital 
+wildlife habitats and wetland areas. Yuma Crossing is a vital link in 
+our Nation's heritage, and it is for these reasons that I proudly 
+introduce this legislation that will designate Yuma Crossing as a 
+national heritage area. I urge the House to support preserving an 
+important part of our Southwestern heritage.
+  Mr. UNDERWOOD. Mr. Speaker, I have no further requests for time, and 
+I yield back the balance of my time.
+  Mr. HANSEN. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, I compliment my friend from Arizona on the good work he 
+has done on this bill to get it to this point. He has done a yeoman's 
+job on it, and it is a good piece of legislation. I urge my colleagues 
+to support it.
+  Mr. Speaker, I have no further requests for time, and I yield back 
+the balance of my time.
+  The SPEAKER pro tempore (Mr. Pease). The question is on the motion 
+offered by the gentleman from Utah (Mr. Hansen) that the House suspend 
+the rules and pass the bill, H.R. 2833, as amended.
+  The question was taken; and (two-thirds having voted in favor 
+thereof) the rules were suspended and the bill, as amended, was passed.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
