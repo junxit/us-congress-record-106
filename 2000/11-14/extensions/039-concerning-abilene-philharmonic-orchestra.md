@@ -1,0 +1,38 @@
+---
+granule: CRECB-2000-pt18-Pg26154
+date: 2000-11-14
+edition: CRECB
+section: EXTENSIONS
+page: 26154
+---
+
+# CONCERNING ABILENE PHILHARMONIC ORCHESTRA
+
+```
+               CONCERNING ABILENE PHILHARMONIC ORCHESTRA
+
+                                 ______
+                                 
+
+                        HON. CHARLES W. STENHOLM
+
+                                of texas
+
+                    in the house of representatives
+
+                       Tuesday, November 14, 2000
+
+  Mr. STENHOLM. Mr. Speaker, I would like to recognize the 50th 
+anniversary of one of Abilene's oldest performing arts organizations, 
+the Abilene Philharmonic Orchestra on December 2 of this year. This 
+great symphony orchestra enriches the cultural life of a city in a 
+unique way; it creates a place where fine musicians want to live and 
+teach and perform. In the 1950-opening season, concerts were held in 
+the old Abilene High School with audiences of less than 100 people. 
+Currently the Abilene Philharmonic Orchestra performs in the Abilene 
+Civic Center with crowds averaging 2,000. I would not only like to 
+acknowledge this organization for their 50th anniversary, but also the 
+impact they have had on the Abilene community.
+
+                          ____________________
+```
