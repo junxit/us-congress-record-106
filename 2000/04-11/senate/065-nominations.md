@@ -1,0 +1,415 @@
+---
+granule: CREC-2000-04-11-pt1-PgS2551-4
+date: 2000-04-11
+edition: CREC
+section: SENATE
+page: S2551
+citation: 146 Cong. Rec. S2551
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate April 11, 2000:
+
+
+                          Department of State
+
+       Michael G. Kozak, of Virginia, a Career Member of the 
+     Senior Executive Service, to be Ambassador Extraordinary and 
+     Plenipotentiary of the United States of America to the 
+     Republic of Belarus.
+       Anne Woods Patterson, of Virginia, a Career Member of the 
+     Senior Foreign Service, Class of Minister-Counselor, to be 
+     Ambassador Extraordinary and Plenipotentiary of the United 
+     States of America to the Republic of Colombia.
+
+
+                             The Judiciary
+
+       Berle M. Schiller, of Pennsylvania, to be United States 
+     District Judge for the Eastern District of Pennsylvania vice 
+     Robert S. Gawthrop, deceased.
+       Richard Barclay Surrick, of Pennsylvania, to be United 
+     States District Judge for the Eastern District of 
+     Pennsylvania vice Lowell A. Reed, Jr., retired.
+
+
+                          In the Marine Corps
+
+       The following named officer for appointment in the United 
+     States Marine Corps to the grade indicated while assigned to 
+     a position of importance and responsibility under title 10, 
+     U.S.C., section 601:
+
+                        To be lieutenant general
+
+Lt. Gen. Raymond P. Ayres, Jr., 0000
+
+       The following named officer for appointment in the United 
+     States Marine Corps to the grade indicated while assigned to 
+     a position of importance and responsibility under title 10, 
+     U.S.C., section 601:
+
+                        To be lieutenant general
+
+Maj. Gen. Emil R. Bedard, 0000
+
+       The following named officer for appointment in the United 
+     States Marine Corps to the grade indicated while assigned to 
+     a position of importance and responsibility under title 10, 
+     U.S.C., section 601:
+
+                        To be lieutenant general
+
+Lt. Gen. Bruce B. Knutson, Jr., 0000
+
+       The following named officer for appointment in the United 
+     States Marine Corps to the grade indicated while assigned to 
+     a position of importance and responsibility under title 10, 
+     U.S.C., section 601:
+
+                        To be lieutenant general
+
+Maj. Gen. William L. Nyland, 0000
+
+                            In the Air Force
+
+       The following officers for appointment to the grades 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+                             To be colonel
+
+ROBERT F. BYRD, 0000
+
+                        To be lieutenant colonel
+
+ROBERT K. DOWNEY, 0000
+MICHAEL S. MATHER, 0000
+MICHAEL W. PELTZER, 0000
+GREGORY L. TATE, 0000
+JOHN Q. WATTON, 0000
+MICHAEL A. WINGFIELD, 0000
+
+                              To be major
+
+MARK A. CLANTON, 0000
+TIMOTHY D. CROFT, 0000
+ROCH B. LAROCCA, 0000
+JOHN S. MCFADDEN, 0000
+KEVIN C. ROGERS, 0000
+JAMES C. SEAMAN, 0000
+SCOTT L. SMITH, 0000
+JOHN B. STEELE, 0000
+
+
+                              In the Army
+
+       The following named officers for appointment to the grade 
+     indicated in the Reserve of the Army under title 10 U.S.C., 
+     section 12203:
+
+                             To be colonel
+
+JAMES M. BROWN, 0000
+GEORGE M. CAMPBELL, JR., 0000
+RICHARD E. FLATH, 0000
+JAMES L. HOKE, 0000
+RONALD W. JONES, 0000
+ALAN M. KOLLER, 0000
+AUGUST G. LAGEMAN IV, 0000
+LEONARD G. LEE, 0000
+KENNETH G. LUNDEEN, 0000
+CHARLES H. MC DANIEL, 0000
+MELVIN R. SCHROEDER, 0000
+RICHARD L.J. SCHWEINSBURG, 0000
+CHARLES E. SIMPSON, 0000
+TOMMY W. SMITH, 0000
+THOMAS E. STOKES, JR., 0000
+
+
+                              In the Navy
+
+       The following named officer for appointment to the grade 
+     indicated in the United States Navy under title 10, U.S.C., 
+     section 624:
+
+                             To be captain
+
+James R. Lake, 0000
+       The following named officer for appointment to the grade 
+     indicated in the United States Naval Reserve under title 10, 
+     U.S.C., section 12203:
+
+                             To be captain
+
+Richard L. Page, 0000
+       The following named officers for appointment to the grade 
+     indicated in the United States Navy under title 10, U.S.C., 
+     section 624:
+
+                             To be captain
+
+DONALD M. ABRASHOFF, 0000
+MICHAEL R. ALLEN, 0000
+PATRICK E. ALLEN, 0000
+ROBERT L. ALLEN, 0000
+BRUCE L. ANDERSON, 0000
+CHARLES R. ARMSTRONG, 0000
+THOMAS E. ARNOLD, 0000
+STEVEN B. ASHBY, 0000
+JOSEPH P. AUCOIN, 0000
+DONALD E. BABCOCK, 0000
+ALLEN BANKS, 0000
+CARL S. BARBOUR, 0000
+BRENT H. BARROW, 0000
+MARK L. BATHRICK, 0000
+LAWRENCE R. BAUN, 0000
+PHILIP G. BEIERL, 0000
+DAVID C. BEYRODT, 0000
+DOUGLASS T. BIESEL, 0000
+JAMES J. BIRD, 0000
+ROBERT W. BLAKLEY, 0000
+ROBERT E.L. BOND, 0000
+EDWARD M. BOORDA, 0000
+CHARLES P. BOURNE, 0000
+JOSEPH M. BRADLEY, 0000
+LOREN R. BREMSETH, 0000
+MARK R. BREOR, 0000
+SANDRA K. BROOKS, 0000
+ANDRES A. BRUGAL, 0000
+ROBERT L. BUCKLEY, 0000
+PETER S. BUCZYNSKI, 0000
+JEROME L. BUDNICK, 0000
+
+[[Page S2552]]
+
+KENNETH J. BURKER, 0000
+RICHARD S. CALLAS, 0000
+HIPOLITO L. CAMACHO, 0000
+CHARLES J. CARSON, JR., 0000
+LAURIE A. CASON, 0000
+JEFFREY M. CATHEY, 0000
+DAVID J. CHESLAK, 0000
+SUSAN M. CHIARAVALLE, 0000
+DENNIS K. CHRISTENSEN, 0000
+ROGER W. COLDIRON, 0000
+BRUCE A. COLE, 0000
+LOUIS J. CORTELLINI, 0000
+BRIAN A. COSGROVE, 0000
+SAMUEL J. COX, 0000
+GEORGE P. CROY III, 0000
+BRIAN P. CULLIN, 0000
+MARK W. CZARZASTY, 0000
+ROBERT E. DEAN, 0000
+EDWARD H. DEETS III, 0000
+STEVEN P. DESJARDINS, 0000
+FERDINAND DIEMER, 0000
+KING H. DIETRICH, 0000
+KEVIN M. DONEGAN, 0000
+CHARLES V. DOTY, 0000
+HELEN F. DUNN, 0000
+DAVID C. DYKHOFF, 0000
+REED A. ECKSTROM, 0000
+GARY W. EDWARDS, 0000
+CAROL J. H. ELLIS, 0000
+JOHN ELNITSKY II, 0000
+ADREON M. ENSOR, 0000
+JAMES R. EVERETT III, 0000
+JOSEPH M. FALLONE, 0000
+MAUREEN A. FARREN, 0000
+DENNIS E. FITZPATRICK, 0000
+KENNETH E. FLOYD, 0000
+TIMOTHY V. FLYNN III, 0000
+ROBERT L. FORD, 0000
+CHARLES W. FOWLER III, 0000
+JOHN G. GALLAGHER, 0000
+PAUL C. GALLAGHER, 0000
+KEVIN P. GANNON, 0000
+FRANK W. GARCIA, JR., 0000
+EDDIE J. GARDINER, JR., 0000
+EARL L. GAY, 0000
+MICHAEL C. GERON, 0000
+DONALD D. GERRY, JR., 0000
+CHRISTOPHER O. GEVING, 0000
+MARK A. GILBERTSON, 0000
+MARTHA C. GILLETTE, 0000
+LARRY M. GILLIS, 0000
+KENNETH L. GINADER, 0000
+JOSEPH C. GLADYSZEWSKI, 0000
+MICHAEL A. GOMORI, 0000
+MARK J. GONZALEZ, 0000
+JAMES L. GOSNELL, 0000
+DENNIS E. GRANGER, 0000
+JAMES S. GRANT, 0000
+JOHN M. K. GRITTON, 0000
+BRUCE E. GROOMS, 0000
+PAUL S. GROSSGOLD, 0000
+JAMES C. GRUNEWALD, 0000
+MARK D. GUADAGNINI, 0000
+ALAN E. HAGGERTY, 0000
+JOHN R. HALEY, 0000
+JANICE M. HAMBY, 0000
+JOHN H. HARRINGTON III, 0000
+ROBERT M. HARRINGTON, 0000
+WILLIAM G. HARRISON, JR., 0000
+RICHARD HASCUP, 0000
+CHRISTOPHER A. HASE, 0000
+EDWARD S. HEBNER, 0000
+ANTONY O. HEIMER, 0000
+MARVIN H. HEINZE, 0000
+DEREK H. HESSE, 0000
+THOMAS J. HEWITT, 0000
+ROBERT M. HIBBERT, 0000
+JAMES K. HISER, 0000
+WILLIAM F. HOEFT, 0000
+TIMOTHY J. HOWINGTON, 0000
+GORDON J. HUME, 0000
+PAUL M. INSCH, 0000
+JONATHAN C. IVERSON, 0000
+STEVEN M. JACOBSMEYER, 0000
+DOREEN E. JAGODNIK, 0000
+STEVEN C. JOACHIM, 0000
+BRADLEY E. JOHANSON, 0000
+JOSEPH A. JOHNSON, 0000
+KEVIN R. JOHNSON, 0000
+DAVID A. JONES, 0000
+TERRANCE G. JONES, 0000
+GEORGE J. KAROL, 0000
+DEREK B. KEMP, 0000
+STEPHEN S. KING, 0000
+MARK D. KLATT, 0000
+WILLIAM J. KLAUBERG, JR., 0000
+LENDALL S. KNIGHT, 0000
+CAROLINE B. KONCZEY, 0000
+DAVID L. KRUEGER, 0000
+ANTHONY M. KURTA, 0000
+PHILLIP R. LAMONICA, 0000
+ALBERT G. LANG, JR., 0000
+DAVID L. LASHBROOK, 0000
+ALFRED LEDESMA, 0000
+WANDA F. LEONARD, 0000
+WILLIAM K. LESCHER, 0000
+JERRY W. LEUGERS, 0000
+DAVID H. LEWIS, 0000
+STEVEN W. LITWILLER, 0000
+ALBERT F. LORD, JR., 0000
+RENATA P.Y. LOUIE, 0000
+KEITH W. LUDWIG, 0000
+DAVEN L. MADSEN, 0000
+MICHAEL T. MALINIAK, 0000
+BARBARA A. MARMANN, 0000
+SHELLEY S. MARSHALL, 0000
+CHARLES P. MARTELLO, 0000
+DANNY E. MASON, 0000
+STEPHEN D. MATTS, 0000
+THOMAS E. MC CAFFREY, 0000
+JAMES F. MC CARTHY, 0000
+CHARLES A. MC CAWLEY, 0000
+LESLIE J. MC COY, 0000
+JAMES R. MC GOVERN, JR., 0000
+ROBERT A. MC NAUGHT, 0000
+DAVID E. MEADOWS, 0000
+RICHARD A. MEDLEY, 0000
+JAMES M. MELESKY, 0000
+CHRISTOPHER A. MELHUISH, 0000
+TERRY L. MERRITT, 0000
+GREGORY A. MILLER, 0000
+SCOT A. MILLER, 0000
+DENNIS E. MITCHELL, 0000
+ALAN R. MOORE, 0000
+CHARLES R. MORGAN, 0000
+MICHAEL D. MORGAN, 0000
+DANIEL J. MORGIEWICZ, 0000
+DAVID T. MORONEY, 0000
+ALAN C. MOSER, 0000
+JAMES A. MURDOCH, 0000
+JOSEPH W. MURPHY, 0000
+KENNETH P. NEUBAUER, 0000
+SANTIAGO R. NEVILLE, 0000
+DAVID A. NEWLAND, 0000
+GERALD F. NIES, 0000
+DANIEL I. NYLEN, 0000
+ANN C. OCONNOR, 0000
+WILLIAM G. OKONIEWSKI, 0000
+DAVID A. OLIVIER, 0000
+MARY M. ORBAN, 0000
+DANIEL L. OUIMETTE, 0000
+FRANK C. PANDOLFE, 0000
+LUKE R. PARENT, 0000
+CHRISTOPHER L. PARENTE, 0000
+RICHARD J. PERA, 0000
+CLIFTON E. PERKINS, JR., 0000
+DANIEL J. PETERS, 0000
+JOHN W. PETERSON, 0000
+JOSEPH P. PETERSON, 0000
+PRESTON C. PINSON, 0000
+DAVID B. PORTER, 0000
+ROBERT G. PRESLER, 0000
+BETTY J. PUTNAM, 0000
+RONALD G. RAHALL, 0000
+TERRY D. RAINS, 0000
+MICHAEL W. REEDY, 0000
+PHILIP G. RENAUD, 0000
+WALTER J. RICHARDSON, JR., 0000
+TERESA W. ROBERTS, 0000
+KENNETH M. ROME, 0000
+SCOTT L. ROME, 0000
+BENJAMIN F. ROPER, 0000
+THORNWELL F. RUSH, JR., 0000
+GABRIEL R. SALAZAR, 0000
+FERDINAND L. SALOMON III, 0000
+JEAN M. SANDO, 0000
+WILLIAM V. SCARDINA, JR., 0000
+BRIAN C. SCOTT, 0000
+LELAND H. SEBRING, JR., 0000
+AUGUST J. SERENO, JR., 0000
+KATHARINE J. SHANEBROOK, 0000
+KATHY A. SHIELD, 0000
+JAMES L. SMITH, 0000
+JUDY L. SMITH, 0000
+JOHN W. SNEDEKER, JR., 0000
+DANIEL J. SOPER, 0000
+THOMAS L. SPARKS, 0000
+JOHN G. SPEER, 0000
+SEAN J. STACKLEY, 0000
+VICTOR A. STEINMAN, 0000
+CHRISTIAN M. STEINMETZ, 0000
+ANN F. STENCIL, 0000
+JAMES G. STEVENS, 0000
+RICHARD V. STOCKTON, 0000
+ROBERT B. STONEY, 0000
+STEVEN I. STRUBLE, 0000
+SEAN P. SULLIVAN, 0000
+RICHARD D. SUTTIE, 0000
+SCOTT H. SWIFT, 0000
+STEPHEN L. SZYSZKA, 0000
+GEORGE R. TEUFEL, 0000
+DAVID M. THOMAS, 0000
+ROBERT L. THOMAS, JR., 0000
+MANNING M. TOWNSEND, 0000
+NORA W. TYSON, 0000
+KEVIN K. UHRICH, 0000
+JON H. UNDERWOOD, 0000
+FRANK D. UNETIC, JR., 0000
+MARK A. VANCE, 0000
+GORDAN E. VANHOOK, 0000
+ROBERT J. VOIGT, 0000
+KENNETH D. WALKER, 0000
+SUSAN E. WALTERS, 0000
+MICHAEL C. WARMBIER III, 0000
+JAMES L. WARREN, 0000
+RONALD E. WEISBROOK, 0000
+TERRY S. WICHERT, 0000
+PETER I. WIKUL, 0000
+MARY E. WILLIAMS, 0000
+ROBERT S. WINNEG, 0000
+DARLENE R. WOODHARVEY, 0000
+MARK S. WOOLLEY, 0000
+DAVID C. WOOTEN, 0000
+NATALIE K. S. YOUNGARANITA, 0000
+CHARLES ZINGLER, 0000
+```
