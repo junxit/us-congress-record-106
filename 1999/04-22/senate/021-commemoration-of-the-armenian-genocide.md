@@ -1,0 +1,58 @@
+---
+granule: CREC-1999-04-22-pt1-PgS4107-2
+date: 1999-04-22
+edition: CREC
+section: SENATE
+page: S4107
+citation: 145 Cong. Rec. S4107
+---
+
+# COMMEMORATION OF THE ARMENIAN GENOCIDE
+
+**Speaking:** Reed, Jack (R000122) [D-RI]
+
+```
+                 COMMEMORATION OF THE ARMENIAN GENOCIDE
+
+  Mr. REED. Mr. President, I rise to commemorate the 84th anniversary 
+of the Armenian Genocide.
+  This weekend, members of Armenian communities around the world will 
+gather together to remember the spring morning of April 24, 1915, when 
+the Ottoman Empire and the successor Turkish nationalist regime began a 
+brutal policy of deportation and murder. Over the next eight years, 1.5 
+million Armenians would be massacred at the hands of the Turks and 
+another 500,000 would have their property confiscated and be driven 
+from their homeland.
+  Despite having already undergone such terrible persecution and 
+hardship, the people of the Armenian Republic still suffer today. The 
+peace talks have regrettably made little progress toward the resolution 
+of the Karabagh conflict. Turkey continues to blockade humanitarian aid 
+to Armenia.
+  However, the Armenian people look hopefully to the future. Their 
+quest for peace and democracy continues to inspire people around the 
+world. On May 30th, Armenia will again hold democratic elections. 
+Armenians who have emigrated to other countries, especially those in my 
+home state of Rhode Island, bring their traditions with them. They 
+enrich the culture and contribute much to the society of their new 
+homelands.
+  Although each year's commemoration of the Armenian genocide is 
+important, I believe this year's observance is particularly 
+significant--because of the crisis in Kosovo. Each night the television 
+shows images of hundreds of thousands of refugees forced from their 
+homes and each morning the paper is filled with stories of innocent 
+civilians robbed and killed. These stories and images are 
+heartwrenching--but the people of Kosovo have not been abandoned. The 
+nineteen nations of NATO are united in their resolve that another 
+genocide will not be tolerated.
+
+[[Page S4108]]
+
+  One of the reasons the world could not stand idly by watching events 
+unfold in the Balkans is because of commemorations like the observance 
+of the Armenian Genocide. We must stand as witnesses to protect those 
+who are persecuted because they are different. We must remain vigilant 
+as long as hate and intolerance exist in our world.
+  Menk panav chenk mornar. Thank you, Mr. President.
+
+                          ____________________
+```
