@@ -1,0 +1,116 @@
+---
+granule: CREC-1999-07-21-pt1-PgS8973-5
+date: 1999-07-21
+edition: CREC
+section: SENATE
+page: S8973
+citation: 145 Cong. Rec. S8973
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate July 21, 1999:
+
+
+                          Department of State
+
+       Jeffrey A. Bader, of Florida, a Career Member of the Senior 
+     Foreign Service, Class of Minister-Counselor, to be 
+     Ambassador Extraordinary and Plenipotentiary of the United 
+     States of America to the Republic of Namibia.
+
+
+                         Department of Justice
+
+       Jackie N. Williams, of Kansas, to be United States Attorney 
+     for the District of Kansas for the term of four years vice 
+     Randall K. Rathbun, resigned.
+
+
+                              In the Navy
+
+       THE FOLLOWING NAMED OFFICERS FOR TEMPORARY APPOINTMENT TO 
+     THE GRADE INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, 
+     U.S.C., SECTION 5721:
+
+                       To be Lieutenant commander
+
+SCOTT R. BARRY, 0000
+TIMOTHY A. DERNBACH, 0000
+ROBERT C. JAGUSCH, 0000
+PAUL W. MARQUIS, 0000
+STEVEN D. NORTON, 0000
+RICHARD D. RADICE, 0000
+RICHARD C. RIGGS, 0000
+JAMES B. RYAN, 0000
+CHARLES L. TAYLOR, 0000
+
+       FOLLOWING NAMED OFFICERS FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADES INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                             To be captain
+
+LLOYD B.J.CALLIS, 0000
+EDMOND C. CAVINESS II 0000
+JUAN L. CHAVEZ, 0000
+BERNARD R. DOWNS, 0000
+GERALD E. HART, 0000
+NORMAN T. HO, 0000
+JAMES L. KURIGER, 0000
+LAWRENCE L. MUSTO, JR., 0000
+
+                            To be commander
+
+JERRY R. ANDERSON, 0000
+ANNIE B. ANDREWS, 0000
+DORA J. T. AZMUS, 0000
+JANE A. BARCLIFT, 0000
+JANE E. BENTLEY, 0000
+DIANE T. BIZZELL, 0000
+THOMAS H. BOND, JR., 0000
+LAYNE R. BOONE, 0000
+JUDITH BROCKMACK, 0000
+DIANE C. BROOKS, 0000
+DENISE C. CARRAWAY, 0000
+REX COBB, 0000
+ROBIN L. CSUTI, 0000
+SUSAN V. DENEALE, 0000
+KAY L. DINOVA, 0000
+LISA C. DOMBROSKIE, 0000
+EVELYN J. DYER, 0000
+WILLIAM A. ELAM, 0000
+ROBERT J. GAINES, 0000
+PAMELA J. GALLUP, 0000
+SUZANNE R. GIESEMANN, 0000
+ROGER P. GUSEMAN, II 0000
+CAROLINE M. HILLEN, 0000
+MILLIE M. KING, 0000
+JAMES E. KNAPP, JR., 0000
+CAROLYN M. KRESEK, 0000
+ELIZABETH O. LAPE, 0000
+CAROL L. LARSON, 0000
+DESIREE D. LINSON, 0000
+GERRIT L. MAYER, 0000
+ALICE L. RAND, 0000
+THERESA M. REA, 0000
+YOLANDA Y. REAGANS, 0000
+TERESIA A. ROBINSON, 0000
+KATHRYN G. RUSH, 0000
+THEODORE V. SMITS, 0000
+EDITH A. SPENCER, 0000
+SUSAN G. TALLEY, 0000
+KATIE P. THURMAN, 0000
+ROBBIE G. TURNER, 0000
+DONNA S. VAUGHT, 0000
+GREGORY VICKERS, 0000
+CARL R. WALLSTEDT, 0000
+CHRISTINA C. WARD, 0000
+JACKLYN D. WEBB, 0000
+AILEEN E. WHITAKER, 0000
+CHERYL K. WORLEIN, 0000
+MICHELLE L. WULFF, 0000
+```
