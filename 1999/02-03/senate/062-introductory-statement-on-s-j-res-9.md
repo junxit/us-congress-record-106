@@ -1,0 +1,22 @@
+---
+granule: CREC-1999-02-03-pt1-PgS1178-3
+date: 1999-02-03
+edition: CREC
+section: SENATE
+page: S1178
+citation: 145 Cong. Rec. S1178
+---
+
+# Introductory Statement on S.J. Res. 9
+
+**Speaking:** Cochran, Thad (C000567) [R-MS]
+
+**Measures:** S.J.Res. 9
+
+```
+      By Mr. COCHRAN (for himself, Mr. Moynihan, and Mr. Frist):
+  S.J. Res. 9. A joint resolution providing for the reappointment of 
+Dr. Hanna H. Gray as a citizen regent of the Board of Regents of the 
+Smithsonian Institution; to the Committee on Rules and Administration.
+                                 ______
+```
