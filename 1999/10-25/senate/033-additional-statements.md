@@ -1,0 +1,95 @@
+---
+granule: CRECB-1999-pt18-Pg26657
+date: 1999-10-25
+edition: CRECB
+section: SENATE
+page: 26657
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+[[Page 26657]]
+
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                   TRIBUTE TO THOMAS BUREAU McDONALD
+
+● Mr. BINGAMAN. Mr. President, I rise today to pay tribute to 
+the life of Thomas Bureau McDonald who died as a result of a tragic car 
+accident on October 9, 1999 in Albuquerque, New Mexico at the age of 
+35. His parents, family, and friends have lost a very special person. 
+New Mexico has lost a young and dedicated public servant whose passion 
+was working with college students, strengthening and expanding higher 
+education, and stressing the importance of attending college.
+  Tom was a rising star among those interested in public service in New 
+Mexico. He will be missed for his cheerful personality, his keen sense 
+of humor, his political savvy, and his devotion to empowering students 
+at the university and state level when it came to their education. Tom 
+was never concerned with how much he could accomplish or who he could 
+influence but, rather how he could live his life so when he was no 
+longer serving in his appointed or elected capacities his ideas, 
+dreams, and goals would be a reality. That reality was for children and 
+their families living throughout New Mexico to have the opportunities 
+in place to attend college to better themselves and to better their 
+community. In life there are individuals who are concerned about being 
+remembered for what they have done or still can do; Tom's only concern 
+was being remembered for who he was--an outspoken leader on higher 
+education and its students, a good son to his parents, a loving 
+grandson to his grandmothers, and a trustworthy and loyal individual to 
+his friends.
+  Tom attended the University of New Mexico and graduated from Western 
+New Mexico University in Silver City, New Mexico where I grew up as a 
+child. During his years at Western, Tom was elected by his peers not 
+just once but twice to serve as their student body president (1990-
+1992). It was during this time that he eloquently presented a plan to 
+the Board of Regents to build a new $3.5 million Student Union Building 
+utilizing only student fees. Tom was fortunate to go back a few years 
+ago to the dedication of this new building. While at the dedication 
+ceremony he realized that what started as a vision, a risk, a 
+challenge, turned into structure of unity where students, 
+administrators, and community members could learn, work and just be 
+together.
+  Mr. President, from 1990 to 1992 Tom was appointed to two one year 
+terms as the student member on the Governor's Commission on Higher 
+Education by former Governor Bruce King. During his tenure, Tom 
+transformed the way members of the Commission viewed student 
+participation and input on higher education. Through his optimism, 
+determination, and presence he created an identity for students around 
+the state who were concerned about the quality of their education. That 
+identity which Tom helped form not only exists before the Commission 
+today, but before the State Legislature and Office of the Governor.
+  From 1992 to 1993 Tom was elected by student representatives from New 
+Mexico's two-year and four-year institutions as executive director of 
+the Associated Students of New Mexico (ASNM). ASNM is a non-profit 
+student organization that represents the interests of 100,000 students 
+members enrolled in two-year and four-year institutions of higher 
+learning before the New Mexico Commission on Higher Education, State 
+Legislature and Office of the Governor. This organization has brought 
+forth some of New Mexico's current and former state legislators, county 
+commissioners, and public servants. Two of my current Washington DC 
+staffers and one of my state staffers are former executive directors of 
+this association. While serving as executive director, Tom always 
+encouraged those he met to reach for their goals, pursue their dreams, 
+and turn any rejection into motivation. He believed that what one does 
+now to enhance their life will impact others in the future. He lived 
+what he preached and what he did to enhance his life has left a lasting 
+impact for students and their education throughout New Mexico.
+  Tom received his Masters of Criminal Justice from New Mexico State 
+University in 1996. He was also appointed by Governor Gary Johnson to 
+serve a two-year term from 1994-1996 as the first voting student regent 
+in the history of New Mexico State University. One year later in 1997, 
+he was appointed by Governor Johnson to serve a full six-year term on 
+the New Mexico Commission on Higher Education where he served until the 
+time of his death.
+  Mr. President, I would like to extend my condolences to his parents 
+Clyde and Eileen and the entire McDonald family. I ask that my 
+colleagues in the Senate join me in honoring the achievements and 
+contributions in the life of this young and outstanding New 
+Mexican.●
+
+                          ____________________
+```
