@@ -1,0 +1,91 @@
+---
+granule: CRECB-1999-pt20-Pg28499
+date: 1999-11-04
+edition: CRECB
+section: SENATE
+page: 28499
+---
+
+# TO AMEND THE IMMIGRATION AND NATIONALITY ACT
+
+```
+              TO AMEND THE IMMIGRATION AND NATIONALITY ACT
+
+  Mr. GRASSLEY. Mr. President, I ask unanimous consent that the Senate 
+now proceed to consideration of Calendar No. 340, S. 1753.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The legislative clerk read as follows:
+
+       A bill (S. 1753) to amend the Immigration and Nationality 
+     Act to provide that an adopted alien who is less than 18 
+     years of age may be considered a child under such Act if 
+     adopted with or after a sibling who is a child under such 
+     Act.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. GRASSLEY. Mr. President, I ask unanimous consent that the bill be 
+read a third time, passed, the motion to reconsider be laid upon the 
+table, and that any statements relating to the bill be printed in the 
+Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill (S. 1753) was read the third time and passed, as follows:
+
+                                S. 1753
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. PROVIDING THAT AN ADOPTED ALIEN WHO IS LESS THAN 
+                   18 YEARS OF AGE MAY BE CONSIDERED A CHILD UNDER 
+                   THE IMMIGRATION AND NATIONALITY ACT IF ADOPTED 
+                   WITH OR AFTER A SIBLING WHO IS A CHILD UNDER 
+                   SUCH ACT.
+
+       (a) In General.--Section 101(b)(1) of the Immigration and 
+     Nationality Act (8 U.S.C. 1101(b)(1)) is amended--
+       (1) in subparagraph (E)--
+       (A) by inserting ``(i)'' after ``(E)''; and
+       (B) by adding at the end the following:
+       ``(ii) subject to the same proviso as in clause (i), a 
+     child who (I) is a natural sibling of a child described in 
+     clause (i) or subparagraph (F)(i); (II) was adopted by the 
+     adoptive parent or parents of the sibling described in such 
+     clause or subparagraph; and (III) is otherwise described in 
+     clause (i), except that the child was adopted while under the 
+     age of eighteen years; or''; and
+       (2) in subparagraph (F)--
+       (A) by inserting ``(i) after ``(F)'';
+       (B) by striking the period at the end and inserting ``; 
+     or''; and
+       (C) by adding at the end the following:
+       ``(ii) subject to the same provisos as in clause (i), a 
+     child who (I) is a natural sibling of a child described in 
+     clause (i) or subparagraph (E)(i); (II) has been adopted 
+     abroad, or is coming to the United States for adoption, by 
+     the adoptive parent (or prospective adoptive parent) or 
+     parents of the sibling described in such clause or 
+     subparagraph; and (III) is otherwise described in clause (i), 
+     except that the child is under the age of eighteen at the 
+     time a petition is filed in his or her behalf to accord a 
+     classification as an immediate relative under section 
+     201(b).''.
+
+[[Page 28500]]
+
+       (b) Conforming Amendments Relating to Naturalization.--
+       (1) Definition of child.--Section 101(c)(1) of the 
+     Immigration and Nationality Act (8 U.S.C. 1101(c)) is amended 
+     by striking ``sixteen years,'' and inserting ``sixteen years 
+     (except to the extent that the child is described in 
+     subparagraph (E)(ii) or (F)(ii) of subsection (b)(1)),''.
+       (2) Certificate of citizenship.--Section 322(a)(4) of the 
+     Immigration and Nationality Act (8 U.S.C. 1433(a)(4)) is 
+     amended--
+       (A) by striking ``16 years'' and inserting ``16 years 
+     (except to the extent that the child is described in clause 
+     (ii) of subparagraph (E) or (F) of section 101(b)(1))''; and
+       (B) by striking ``subparagraph (E) or (F) of section 
+     101(b)(1).'' and inserting ``either of such subparagraphs.''.
+
+                          ____________________
+```
