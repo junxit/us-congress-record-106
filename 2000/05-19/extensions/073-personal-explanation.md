@@ -1,0 +1,35 @@
+---
+granule: CREC-2000-05-19-pt1-PgE792-3
+date: 2000-05-19
+edition: CREC
+section: EXTENSIONS
+page: E792
+citation: 146 Cong. Rec. E792
+---
+
+# PERSONAL EXPLANATION
+
+**Speaking:** Shadegg, John B. (S000275) [R-AZ]
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                          HON. JOHN B. SHADEGG
+
+                               of arizona
+
+                    in the house of representatives
+
+                          Friday, May 19, 2000
+
+  Mr. SHADEGG. Mr. Speaker, I was attending my daughter's high school 
+graduation and was absent for a series of votes on May 18. Had I been 
+present, I would have voted ``no'' on No. 202, ``no'' on No. 203, 
+``no'' on No. 204, ``yes'' on No. 205, ``yes'' on No. 206, ``yes'' on 
+No. 207 and ``yes'' on No. 208.
+
+                          ____________________
+```
