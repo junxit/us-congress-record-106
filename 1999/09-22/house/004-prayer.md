@@ -1,0 +1,30 @@
+---
+granule: CREC-1999-09-22-pt1-PgH8471-3
+date: 1999-09-22
+edition: CREC
+section: HOUSE
+page: H8471
+citation: 145 Cong. Rec. H8471
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, Reverend James David Ford, D.D., offered the following 
+prayer:
+  We pray, O gracious God, that all the good values of daily living 
+will come to us and nurture us along the way. While we pray for the 
+wonders of faith and hope and love, our prayer is that our lives will 
+be encouraged by the marvelous gifts that have come from You, our 
+creator and redeemer, and from the lives of those near to us.
+  May we, O God, so live our lives in response to these blessings that 
+our words and deeds will be marked by a spirit of thanksgiving and 
+praise, of appreciation and adoration for all the wondrous benedictions 
+we have received and for the kindness and generosity of our colleagues, 
+our family and our friends.
+  In Your name we pray. Amen.
+
+                          ____________________
+```
