@@ -1,0 +1,933 @@
+---
+granule: CREC-1999-11-19-pt2-PgS14904-2
+date: 1999-11-19
+edition: CREC
+section: SENATE
+page: S14904
+citation: 145 Cong. Rec. S14904
+---
+
+# VETERANS' MILLENNIUM HEALTH CARE ACT--CONFERENCE REPORT
+
+**Speaking:** Collins, Susan M. (C001035) [R-ME], Specter, Arlen (S000709) [R-PA], Domenici, Pete V. (D000407) [R-NM], Rockefeller, John D., IV (R000361) [D-WV], Snowe, Olympia J. (S000663) [R-ME], Smith, Bob (S000606) [R-NH]
+
+**Measures:** S. 1076, S. 1146, S. 1402, S. 1579, H.R. 2116
+
+```
+        VETERANS' MILLENNIUM HEALTH CARE ACT--CONFERENCE REPORT
+
+  Ms. COLLINS. Mr. President, I submit a report of the committee of 
+conference on the bill (H.R. 2116) to amend title 38, United States 
+Code, to establish a program of extended care services for veterans and 
+to make other improvements in health care programs of the Department of 
+Veterans Affairs, and ask for its immediate consideration.
+  The PRESIDING OFFICER. The report will be stated.
+  The legislative clerk read as follows:
+
+       The committee on conference on the disagreeing votes of the 
+     two Houses on the amendments of the Senate to the bill, H.R. 
+     2116, have agreed to recommend and do recommend to their 
+     respective Houses this report, signed by all of the 
+     conferees.
+
+  The PRESIDING OFFICER. Without objection, the Senate will proceed to 
+the consideration of the conference report.
+  (The conference report is printed in the House proceedings of the 
+Record of November 16, 1999.)
+  Mr. SPECTER. Mr. President, I urge my colleagues to join me in 
+support of the Veterans Millennium Health Care and Benefits Act of 
+1999. On Veterans Day, many of the members honored America's veterans 
+and acknowledged our debt to them for their service. This legislation 
+gives the Senate an opportunity to do something tangible to honor our 
+veterans.
+  The Veterans Millennium Health Care and Benefits Act of 1999 contains 
+74 substantive provisions; I refer the Members to the conference report 
+text for a complete description. Let me highlight just a few provisions 
+now.
+  Long-term care for veterans is one of the most pressing issues facing 
+America--and the Department of Veterans Affairs (VA). A half century 
+ago, the 16 million youthful veterans of World War II looked forward to 
+building new civilian lives. Today, only about 6 million survive, and 
+their average age is 75. Health care is their primary concern, the 
+long-term care is a critical component of their health care needs. 
+Simply put, what World War II veterans need from VA is long-term care. 
+Soon, so too will the 4 million Korean war veterans, now in their mid-
+sixties, and the 8 million Vietnam veterans, now in their fifties, who 
+follow them.
+  Under current law, VA is not required to provide long-term care to 
+any veteran. Such care is purely discretionary to VA; it is supplied on 
+a space available basis only. Under this ``discretionary'' authority--
+as inadequate as it has been--VA has made a substantial contribution to 
+the long term care needs of veterans--by directly providing (at an 
+annual cost of $1.1 billion) nursing home care to an average of 
+approximately 13,000 veterans per day; by paying for nursing home care 
+received by approximately 6,500 veterans per day in private nursing 
+homes (at as annual cost of $316.8 million); by subsidizing (at an 
+annual cost approximately $200 million per year) nursing home care 
+provided to approximately 14,000 veterans per day in State veterans' 
+homes; and by providing non-institutional alternatives to nursing home 
+care to an average of 11,000 veterans at any given time at an annual 
+cost of $154 million.
+  Notwithstanding these significant contributions by VA, there is 
+increasing evidence that the discretionary nature of VA's long-term 
+care mission has created an incentive for VA to divert resources to 
+other missions and reduce its capacity to provide long-term care. This 
+bill responds to that negative trend by requiring VA to maintain long 
+term capacity at least the 1998 level. In addition, this legislation 
+would, for the first time, require--not authorize--VA to provide 
+nursing home care to veterans who need it to treat service-connected 
+conditions, and to severely service-disabled veterans who need it to 
+cope with other conditions.
+  Nursing home care is the most expensive form of long-term care and, 
+from the veterans' standpoint, the form of care which is to be avoided 
+if possible, or delayed until it is inevitable. This bill will assure 
+that non-institutional alternatives to nursing home care--home-
+based primary care, home health aide visits, adult day health care, and 
+similar services--will be available to veterans who need such services 
+by requiring that VA include them in the package of medical services to 
+which each veteran who enrolls for VA care is entitled. The provision 
+of such services, as an alternative to much more expensive inpatient 
+nursing home care, will save money and improve aging veterans' lives.
+
+  This legislation also directs VA to operate pilot programs to 
+identify the best--and most cost-effective--ways to meet veterans' long 
+term needs. Armed with the data generated by these pilot programs, 
+Congress will reevaluate VA nursing home and non-institutional long 
+term care after three years and determine how best to proceed at the 
+four-year ``sunset'' point of this legislation. I might add that the 
+conferees were all in agreement that, when we get to the point where we 
+consider renewal of this legislation, we will be looking for ways to 
+improve it, not to repeal it.
+  There is one additional key feature of this legislation that merits 
+mention: this bill will plug a substantial hole in VA health care 
+coverage by allowing VA to fund the emergency care needs of all 
+enrolled veterans who do not have other health care coverage to fund 
+such care. The President has stated that all Americans should have 
+access to emergency care. This bill assures that veterans who rely on 
+VA for care will.
+  I am particularly pleased that this bill will extend, expand, and 
+improve VA's authority to provide counseling to the victims of sexual 
+trauma while on active duty. It will also extend and improve services 
+for homeless veterans; it will liberalize eligibility for survivors' 
+benefits for widows of totally disabled ex-POWs; it will expand 
+benefits available to veterans exposed to radiation while in service; 
+and--importantly--it will ensure that the World War II Veterans' 
+Memorial is constructed in a timely manner by facilitating fund raising 
+for that monument.
+  This legislation does many positive things, particularly for our 
+older veterans. The Committee on Veterans' Affairs, however, must also 
+respond to the needs of veterans who are leaving the service today. 
+Educational assistance is the most important benefit that our Nation 
+provides to young veterans. Earlier this year, the Senate passed 
+legislation which would have substantially improved benefits under the 
+Montgomery GI bill. Unfortunately, budgetary pressures compelled the 
+conferees to set these provisions aside for now. I know, however, that 
+the House supports improvements in Montgomery GI bill benefits, and we 
+will take that issue up again in the second session.
+  This legislation reflects the hard work and dedication of many 
+members of the Senate and the other body. I particularly acknowledge 
+the contribution of the Ranking Minority Member of the Committee on 
+Veterans' Affairs, Senator Rockefeller, and our Committee's longest-
+serving member and a member of the conference committee, Senator 
+Thurmond. The conference committee could not have reached a successful 
+conclusion without them, or without the energy and commitment of the 
+chairman of the House Committee, Bob Stump and his ranking member, Lane 
+Evans. I thank them. And I urge the Senate to approve this conference 
+report.
+  Mr. DOMENICI. Mr. President, it is with great pleasure that I rise 
+today to talk about the Senate passage of the Veterans' Millennium 
+Health Care Act.
+
+[[Page S14905]]
+
+  I am extremely pleased the act contains a provision that will extend 
+the useful life of the Santa Fe National Cemetery in New Mexico. I also 
+want to thank Senator Specter for his assistance in making passage of 
+this Bill possible.
+  The men and women who have served in the United States Armed Forces 
+have made immeasurable sacrifices for the principles of freedom and 
+liberty that make this Nation unique throughout civilization. The 
+service of veterans has been vital to the history of the Nation, and 
+the sacrifices made by veterans and their families should not be 
+forgotten.
+  These veterans at the very least deserve every opportunity to be 
+buried at a National Cemetery of their choosing. Unfortunately, 
+projections show the Santa Fe National Cemetery will run out of space 
+to provide casketed burials for our veterans at the conclusion of 2000. 
+However, with Senate passage of this bill we are ensuring the continued 
+viability of the Santa Fe National Cemetery.
+  I believe all New Mexicans can be proud of the Santa Fe National 
+Cemetery that has grown from 39/100 of an acre to its current 77 acres. 
+The cemetery first opened in 1868 and within several years was 
+designated a National Cemetery in April of 1875.
+  Men and women who have fought in all of nation's wars hold an honored 
+spot within the hallowed ground of the cemetery. Today the Santa Fe 
+National Cemetery contains almost 27,000 graves that are mostly marked 
+by upright headstones.
+  The Senate's action today guarantees the Santa Fe National Cemetery 
+will not be forced to close next year. A provision in the bill passed 
+today allows the Secretary of Veterans Affairs to provide for the use 
+of flat grave markers that will extend the useful life of the cemetery 
+until 2008.
+  While I wish the practice of utilizing headstones could continue 
+indefinitely if a veteran chose, my wishes are outweighed by my desire 
+to extend the useful life of the cemetery. I would note that my desire 
+is shared by the New Mexico Chapter of the American Legion, the 
+Albuquerque Chapter of the Retired Officers' Association, and the New 
+Mexico Chapter of the VFW who have all endorsed the use of flat grave 
+markers.
+  Finally, this is not without precedent because exceptions to the law 
+have been granted on six prior occasions with the most recent action 
+occurring in 1994 when Congress authorized the Secretary of Veterans 
+Affairs to provide for flat grave markers at the Willamette National 
+Cemetery in Oregon.
+  Mr. President, I again want to thank Senator Specter for his 
+assistance and state how pleased I am with the final passage of this 
+important bill.
+  Mr. ROCKEFELLER. Mr. President, as the ranking member of the 
+Committee on Veterans' Affairs, I am enormously pleased that the 
+Congress has passed this comprehensive bill which would make extensive 
+changes to a wide range of veterans' benefits and services. This 
+legislation is the culmination of extensive oversight and 
+investigation, as well as the normal process of developing 
+legislation--hearings and markups in both the House and Senate. 
+Further, the bill represents compromise on both sides of the aisle and 
+in both Houses of Congress. It represents many, many hours of staff and 
+Members' work, and for that, I thank everyone involved.
+  The bill covers a wide spectrum of issues--from long-term care to new 
+educational benefits for servicemembers. I will address some of the 
+more substantive provisions.
+  Mr. President, H.R. 2116, as amended, represents a comprehensive 
+effort to address the long-term care needs of our veterans.
+  We know that there is an expanding need for long-term care in our 
+country, and in the VA, the demand is even more pressing. About 35 
+percent of the veteran population is 65 years or older, and that number 
+will grow dramatically in the next few years. With this legislation, we 
+are taking an important step forward for our veterans, and I am hopeful 
+that it signals a new concern for providing long-term care for all 
+elderly Americans.
+  For the first time, the VA will be required to provide extended care 
+services to enrolled veterans. Section 101 directs the VA to provide 
+nursing home care to any veteran who is in need of such care for a 
+service-connected condition, or who is 70 percent or more service-
+connected disabled. In addition, the VA is directed to provide 
+noninstitutional care, such as home care and adult day health care, to 
+all enrolled veterans. This latter provision was included in the 
+Veterans' Long-term Care Enhancement Act of 1999 which I introduced 
+this summer. Within three years of the bill's enactment, VA would 
+evaluate and report to the House and Senate Committees on Veterans' 
+Affairs on its experience in providing services under both of these 
+provisions.
+  Under the bill, the VA is also required to operate and maintain 
+extended care programs so as to ensure that the level of extended care 
+services is not less than the level of such services provided during 
+fiscal year 1998.
+  Finally, in order to offset the cost of this new program expansion, 
+the conference agreement requires new long-term care copayments for 
+services exceeding 21 days in any year. Veterans who have compensably 
+rated service-connected conditions and veterans with incomes below the 
+pension rate are exempted from these copayments. Under this provision, 
+VA would be required to develop a methodology for establishing the 
+amount of copayments, taking into account the income of the veterans, 
+the need to protect the veteran's spouse from financial difficulties, 
+and the desire to allow the veteran to retain a personal allowance. 
+Further, it was the conferees' desire that copayments would not apply 
+to patients who are currently receiving long-term care services.
+  Section 102--also based on the Veterans' Long-term Care Enhancement 
+Act of 1999 which I authored--mandates that the Secretary of Veterans 
+Affairs carry out a series of pilot programs, over a period of three 
+years, which would be designed to gauge the best way for VA to meet 
+veterans' long-term care needs: either directly, through cooperative 
+arrangements with community providers, or by purchasing services from 
+non-VA providers.
+  While VA has developed significant expertise in long-term care over 
+the past 20-plus years, it has not done so with any mandate to share 
+its learning with others, nor has it pushed its program development 
+beyond that which met the current needs at the time. Some experts even 
+believe that VA's expertise is gradually eroding. For VA's expertise to 
+be of greatest use to others, it needs both to better capture what it 
+has done and to develop new learning that would be most applicable to 
+other health care entities.
+  A key purpose of the pilot program would be to test and evaluate 
+various approaches to meeting the long-term care needs of eligible 
+veterans, both to develop approaches that could be expanded across VA, 
+as well as to demonstrate to others outside of VA the effectiveness and 
+impact of various approaches to long-term care. To this end, the pilot 
+program would include specific data collection on matters such as cost 
+effectiveness, quality of health care services provided, enrollee and 
+health care provider satisfaction, and the ability of participants to 
+carry out basic activities of daily living.
+  Another provision based on my veterans' long-term care legislation 
+would authorize the VA to establish a pilot program for assisted living 
+services. Assisted living is the last remaining gap in VA's long-term 
+care continuum, and the Federal Advisory Committee on the Future of VA 
+Long-Term Care recommended that VA be granted the authority to provide 
+assisted living services. I urge VA to undertake this pilot program, as 
+it will provide a basis on which to recommend expanding the authority.
+  Mr. President, earlier this year I joined with Senator Daschle as an 
+original cosponsor to S. 1146, the Veterans' Access to Emergency Care 
+Act of 1999. In June, I offered the provisions included in this bill as 
+an amendment to a veterans omnibus measure being discussed at a Senate 
+Committee on Veterans' Affairs markup. The amendment was agreed to by a 
+majority of the Committee members.
+  Just this week I was reminded of the need for better coverage for 
+non-VA emergency care. The wife of a seriously ill veteran in my state 
+of West Virginia called my office. Her husband is a non-
+
+[[Page S14906]]
+
+service-connected, low income veteran with no health insurance. 
+Recently, severe chest pains sent him to a VA medical center. Because 
+he is a cardiac patient and because he was in so much distress, his 
+family wanted to call the rescue squad to transport him to the VA 
+medical center. The veteran refused. Why? Because he had used the 
+ambulance service before in an emergency situation, leaving the family 
+with a sizeable bill that they are unable to pay. So, this sick veteran 
+almost crawled to the family car, insisting that his family drive him. 
+Once there, the VA medical staff told the veteran and his family that 
+by not calling for an ambulance, the veteran was placed at risk.
+  Section 111 would authorize the VA to make non-VA emergency care 
+reimbursement payments on behalf of enrolled veterans in all priority 
+groups, provided the veteran has received VA care within a two-year 
+period prior to the emergency and has no other health insurance 
+options.
+  While this emergency care provision is significantly more restrictive 
+than I had wanted, it is a valuable first attempt at ensuring that 
+veterans who do not have other health insurance options--like the 
+seriously ill West Virginia veteran who refused when his family tried 
+to call for an ambulance--will be reimbursed for their non-VA emergency 
+care services. In negotiating this provision, I was resolute in pushing 
+for all enrolled veterans to have this coverage. I will be watching 
+closely to ensure that this more limited emergency care provision is 
+working for our veterans.
+  Section 112 is based on legislation introduced by Senator Robb. It 
+would establish a specific eligibility for VA health care for veterans 
+who were awarded the Purple Heart. This provision is designed to 
+provide priority for enrollment to these veterans who have no other 
+special eligibility for care.
+  According to the Military Order of the Purple Heart, there are about 
+one-half million veterans with this award. Roughly half of these 
+honored veterans already would qualify for high priority care based on 
+a service-connected disability or because of income.
+  The recipients of the Purple Heart award are American heroes, and I 
+thank Senator Robb for his leadership on this measure, which will 
+ensure that the remaining 500,000 Purple Heart veterans will have 
+unfettered access to VA health care services.
+  Military retirees have had a difficult time accessing various health 
+care programs. Reductions in military treatment facilities, in 
+particular, have restricted military retirees' health care options. 
+Section 113 attempts to improve their situation.
+  Under the bill, the Secretaries of Defense and Veterans Affairs will 
+be directed to enter into an agreement to allow for VA reimbursement 
+for health care services provided to military retirees. Veterans who 
+have retired from military service and who are not otherwise eligible 
+for VA care will not be responsible for copayments.
+  In order to protect current enrollees, the Secretary must document 
+that VA--in a given area--has the capacity in such an area to provide 
+timely care to enrollees and has determined that VA would recover its 
+cost of providing such care.
+  I am very pleased that House and Senate conferees were able to reach 
+agreement on this provision to improve care for military retirees.
+  Section 117 is of particular interest to me as it addresses VA's 
+specialized mental health services for veterans.
+  Last year, I directed my staff on the Committee on Veterans' Affairs 
+to undertake a study of the services the Department of Veterans Affairs 
+offers to veterans with special needs. Earlier this summer, I received 
+the report my Committee staff wrote based on their 8-month oversight 
+investigation, which sought to determine if VA is complying with a 
+Congressional mandate to maintain capacity in five of the specialized 
+programs: Prosthetics and Sensory Aids Services, Blind Rehabilitation, 
+Spinal Cord Injury (SCI), Post-Traumatic Stress Disorders (PTSD), and 
+Substance Use Disorders. I was dismayed to learn that because of staff 
+and funding reductions, with the resulting workload increases and 
+excessive waiting times, the latter two programs are failing to sustain 
+services at the needed levels.
+  With specific regard to PTSD, VA has been moving to reduce inpatient 
+treatment of PTSD, while expanding its use of outpatient programs. VA's 
+decision has been fueled in part by studies of the cost effectiveness 
+of various treatment approaches. The potential to stretch limited VA 
+dollars to be able to treat more veterans is appealing. However, VA 
+needs to be cautious before subscribing to the idea that outpatient 
+care is as good as inpatient care for all veterans with PTSD. For some 
+of the more seriously affected veterans--those who have not succeeded 
+in shorter inpatient or outpatient programs, are homeless or 
+unemployed, or have dual diagnoses--longer inpatient or bed-based care 
+may be a necessity.
+
+  Substance use disorders also present complex treatment problems and 
+have taken the brunt of reductions in specialized programs. Some 
+substance use disorder programs have terminated inpatient treatment 
+completely, except for veterans requiring short detoxifications in 
+extreme situations. While some medical centers have closed inpatient 
+substance use disorder beds, they have worked to provide alternative, 
+sheltered living arrangements. Unfortunately, not all facilities have 
+made these efforts. Many have moved directly to the closure of 
+inpatient units without first developing these other alternatives.
+  As an outgrowth of this oversight effort, I developed legislation to 
+require that VA provide better care for veterans in need. I thank 
+Chairman Specter for accepting this legislation and including it in S. 
+1076, the Veterans Benefits Act of 1999.
+  Under section 117, the Secretary of Veterans Affairs is required to 
+carry out programs to enhance the provision of specialized mental 
+health services to veterans. The conference agreement specifically 
+targets services for those afflicted with PTSD and substance use 
+disorders. The legislation also requires that $15 million in funding 
+will be made available, in a centralized manner, to fund proposals from 
+the VISNs and the individual facilities to provide specialized mental 
+health services. The legislation specifically ensures that this $15 
+million in grant funding will be over and above what VA currently 
+spends on these programs.
+  The focus of Section 117 is on expanding outpatient and residential 
+treatment facilities, developing better case management, and generally 
+improving the availability of services. Though not specifically 
+mentioned in the legislation, I encourage VA to carry out programs for 
+the following: (1) additional outpatient and residential treatment 
+facilities for PTSD in areas that are underserved by existing programs; 
+(2) short-term or long-term care services that combine residential 
+treatment of PTSD; (3) dedicated case management services on an 
+outpatient basis for veterans suffering from PTSD; (4) enhanced 
+staffing of existing PTSD programs; (5) additional community-based 
+residential treatment facilities for substance use disorder programs; 
+(6) expanded opioid treatment services; and (7) enhanced substance use 
+disorder services at facilities where such services have been 
+eliminated.
+  In my view, VA's mental health treatment programs, in general, have 
+been cut back to the point that veterans in some areas of the country 
+are suffering needlessly. That is why I am so pleased that H.R. 2116 
+includes provisions to prompt VA to begin to rebuild some of what has 
+been lost.
+  Section 201--based on the House bill--would allow the Secretary of 
+Veterans Affairs the authority to set copayments, both for 
+pharmaceuticals and for outpatient treatment. Currently, all veterans 
+who are below 50 percent service-connected disabled, and veterans whose 
+income is below the pension level, are required to pay $2 for each 30-
+day supply of medication. And all ``category C'' veterans are required 
+to pay copayments based on the estimated average cost of an outpatient 
+visit--currently $45.80.
+  The outpatient copayment rate needs to be adjusted. This charge is 
+incurred each and every time a category C veteran receives outpatient 
+care, regardless of the services provided. There is no doubt that $45 
+for a routine outpatient visit is unreasonable at best, and at its 
+worst, may, in fact, discourage veterans from getting the primary care 
+they need. I am confident that VA will study this issue closely and 
+will
+
+[[Page S14907]]
+
+set the outpatient copayment to be more in line with managed care plans 
+which charge either $5 or $10.
+  While I am supportive of adjusting the outpatient copayment, I have 
+serious concerns about increasing the pharmaceutical drug copayment. 
+The House Committee on Veterans' Affairs was adamant that the Senate 
+recede to this increase to help offset the Senate-sponsored program 
+expansions in long-term care and emergency care. And although the $2 
+per prescription charge that veterans are paying now may seem like an 
+insignificant amount to some, I can assure my colleagues that to the 
+veteran and his family living on a very limited income, it is quite 
+significant. I hear from a number of veterans whose income hovers just 
+above the pension level, who must pay the assigned copayment for their 
+pharmaceuticals. Many of them are older veterans who are on a number of 
+different medications for multiple medical conditions.
+  It is critically important that we do not place this segment of our 
+veteran population in the same situation as many of our aging 
+population receiving care in the private sector--having to choose 
+between buying their medication or putting food on the table.
+  In an effort to prevent this from happening, I strongly urge the VA 
+to set maximum monthly and annual copayment amounts which are sensitive 
+to the financial situation of veterans for those who have multiple 
+outpatient prescriptions. I will be closely watching the implementation 
+of this provision to ensure that it does not impose an undue burden on 
+our veterans.
+  While the Senate was not able to stave off the House in increasing 
+prescription copayments, we were able to flatly reject a House 
+provision to require copayments for hearing aids and eyeglasses. Such a 
+provision would penalize veterans who are taking advantage of a needed 
+benefit.
+  Section 206 extends the VA's program for the evaluation of the health 
+of spouses and children of Gulf War veterans for four years. I pushed 
+for the original legislation providing for these health evaluations 
+after hearing about Gulf War veterans and their families who reported 
+miscarriages, birth defects, and other reproductive problems.
+  Last year, the Congress modified this program to allow VA to use fee-
+basis care. It seems that these modifications are working well, as many 
+new dependants have applied and are now waiting to be seen.
+  I am delighted that this program has been extended because the need 
+for assessments continues. By this time last year, 2,800 dependents had 
+applied for the program, and this year that total is up to 4,000. 
+However, although 4,000 dependents have applied for the evaluations, VA 
+has only completed 1,140 examinations. I urge VA to process these 
+examinations as rapidly as possible. These dependents of servicemembers 
+should not be delayed in their quest for answers.
+  Section 208 contains provisions to improve VA's enhanced use lease 
+authority. I am delighted with these provisions, because I believe 
+enhanced use leases are a critical component of VA's management 
+strategy for its property. Many terrific projects that better serve 
+veterans and assist the VA have been developed under this authority. By 
+way of this legislation, we are encouraging VA to develop more enhanced 
+use lease projects to leverage its assets, rather than begin to dispose 
+of irreplaceable property.
+  Since VA received enhanced use authority, it has been used in a 
+variety of ways. One approach has been to lease land to companies that 
+build nursing homes where VA can place veterans at discounted rates, 
+resulting in savings of millions of dollars. Another use has been to 
+provide transitional housing for homeless veterans. Other projects have 
+created reliable child care and adult day care facilities for VA 
+employees' families, so that they can care for veterans without having 
+to worry about the health and safety of their loved ones. In other 
+locations, VA regional offices are moving onto VA medical center 
+campuses, resulting in more convenient access for veterans and better 
+cooperation between the Veterans Benefits Administration and the 
+Veterans Health Administration.
+  Section 208 of H.R. 2116 would remove many of the current barriers 
+preventing VA from having an even more successful enhanced use lease 
+program. It would allow VA to enter into leases with terms of up to 75 
+years, rather than the current 20 and 35 years, while eliminating the 
+distinction in lease terms that exists between leases involving new 
+construction or substantial renovation, and those involving current 
+structures.
+  I am very interested in seeing VA engage in more of these projects, 
+so I am pleased to see that H.R. 2116 would require the Secretary to 
+provide training and outreach regarding enhanced use leasing to 
+personnel at VA medical centers. The bill also requires the Secretary 
+to contract for independent assessments of opportunities for enhanced 
+use leases. These assessments would include surveys of suitable 
+facilities, determinations of the feasibility of projects at those 
+facilities, and analyses of the resources required to enter into a 
+lease. I hope that more training--which until now has been sporadic and 
+provided primarily on a by-request basis--and a more systematic and 
+centralized approach would assist the VA in maximizing its enhanced use 
+lease opportunities.
+  While VA currently has a policy which allows for fee-basis care for 
+chiropractic care, section 303 of H.R. 2116 requires the VA Under 
+Secretary for Health, in consultation with chiropractors, to establish 
+a wider VA policy on chiropractic care. While conferees have agreed 
+that VA should establish a policy regarding chiropractic care, they 
+have remained silent on mandating that VA furnish veterans with 
+chiropractic treatment. Indeed, it is Congress' intent that this 
+provision not be read as an endorsement for chiropractic care.
+  Complementary and alternative medicine, including chiropractic care, 
+are important aspects of health care. I urge VA to use this opportunity 
+to develop a policy on all forms of complementary and alternative 
+medicine. In particular, the report ``VHA Complementary and Alternative 
+Medicine Practices and Future Opportunities'' recommended that VHA 
+consider providing acupuncture, following guidelines set forth by the 
+National Institutes of Health, since NIH has already approved 
+acupuncture as an effective treatment for back pain.
+  I am extremely disappointed that the House would not move the Senate 
+Montgomery GI Bill (MGIB) enhancement legislation. The Senate passed 
+MGIB enhancements on three occasions this year, but the House did not 
+respond.
+  S. 1402, the education bill reported out of the Senate Committee on 
+Veterans' Affairs, contained a provision, among others, to increase the 
+monthly benefit provided to current servicemembers from $528 to $600. 
+This more than 12 percent increase would have followed on the heels of 
+a 20 percent increase last year. Additionally, the Senate bill would 
+have allowed servicemembers to elect to contribute up to an additional 
+$600, in exchange for receiving four times their contribution. Although 
+these increases fall short of the full tuition recommended by the so-
+called Transition Commission, they would have provided a substantial 
+assistance to veterans. The costs of tuition and fees for public and 
+private educational institutions rose approximately 90 percent from 
+1980-1995, while the MGIB benefit rates only increased 42 percent from 
+1985 to 1995.
+  The statistics regarding education and employment for veterans are 
+also revealing. Despite almost full enrollment in the program by 
+servicemembers, the number of eligible veterans who take advantage of 
+their MGIB benefits is startlingly low, around 50 percent. Less than 20 
+percent of those who use the MGIB attend private institutions. And the 
+Transition Commission reports that the unemployment rate for veterans 
+ages 20-24 and 35-39 is higher than their non-veteran counterparts. All 
+these are reasons why I believe that there is more that we can and must 
+do. Unfortunately, we will need to wait until at least next year to 
+tackle these issues.
+  H.R. 2116 does provide for two provisions--relating to test 
+preparation and Officer Candidate Training--which while small, can make 
+a significant difference to the individual veterans affected.
+  The Department of Veterans Affairs currently has authority to provide 
+MGIB benefits for post-graduate exam preparatory courses that are 
+required
+
+[[Page S14908]]
+
+for a particular profession, such as CPA exam or bar review courses. 
+However, it does not have authority to provide for pre-admission 
+preparatory coursework.
+  Nevertheless, studies by national consulting companies have shown 
+improvement of over 100 points on the SAT exam and an average 
+improvement of seven points in LSAT scores for students who take exam 
+preparatory courses. An article in the April 13, 1998, New Republic 
+stated, ``[t]horough, expertly taught preparation can raise a student's 
+ability to cope with, and hence succeed on, a particular exam. In many 
+cases, then, test prep can make the difference between getting into a 
+top-flight law school and settling for the second tier.'' At some of 
+the nation's top schools, scores on entrance exams can count for half 
+of the total application.
+  The problem is that many of these exam preparatory courses are quite 
+costly. One national provider charges as much as $750 for a two-month, 
+part-time, SAT preparatory course. One educational advocacy group, 
+Fairtest, argues that ``[t]he SAT has always favored students who can 
+afford coaching over those who cannot . . .'' To be able to compete, it 
+is critical that veterans have access to such courses.
+  That is why I am pleased that section 701 corrects that disparity by 
+allowing veterans to use their MGIB benefits for preparatory courses 
+for entrance examinations required for college and graduate school 
+admission (``test prep''). By giving veterans the opportunity to better 
+their admissions test scores, this amendment would expand the choices 
+available to veterans in their course of higher education. It will also 
+improve access to the top educational institutions for veterans.
+  Section 702 allows servicemembers who failed to complete their 
+initial period of service--because of entry to Officer Candidate School 
+or Officer Training School (``OCS'')--to retain their eligibility for 
+MGIB benefits. This would allow their OCS service to count toward that 
+initial obligated period of service (generally three years total).
+  In most instances, these servicemembers had already made a $1,200 
+contribution to the MGIB, which cannot be refunded, by law. Rather than 
+refund this money, the House and Senate agree that we should allow 
+these men and women to retain their MGIB eligibility and further their 
+education.
+  Like the test prep provision, it should be our policy to always 
+encourage servicemembers and veterans to strive for greater 
+achievement. This provision corrects an oversight in the MGIB statutes 
+that penalizes servicemembers for seeking promotions.
+  As we are all sadly aware, the veteran population is aging rapidly. 
+In 1997, 537,000 veterans died. Projections of the veteran death rate 
+show an increase through the year 2008, when the death rate of the WWII 
+and Korea-era veterans will peak at 620,000 veterans. Unless expanded, 
+21 national cemeteries are scheduled to close to inground burial or 
+close completely by FY 2005. National cemeteries take an average of 
+seven years to open. That is why I felt it was critical to address now 
+VA's plan to provide burial sites for our nation's veterans.
+  VA conducted studies in 1987 and 1994 that identified the top 10 
+veteran population areas that are not served by a national cemetery. 
+Pursuant to those studies, VA has begun, and in some cases completed, 
+construction of six cemeteries in: Cleveland (OH), Chicago (IL), 
+Seattle (WA), Dallas (TX), Saratoga (NY), and San Joaquin Valley (CA).
+  However, there has been no activity in the remaining six locations 
+contained on the 1987 and 1994 lists: Detroit (MI), Sacramento (CA), 
+Miami (FL), Atlanta (GA), Pittsburgh (PA), and Oklahoma City (OK). That 
+is why I am pleased that H.R. 2116 authorizes VA to build cemeteries in 
+the top areas in need. I am hopeful that the Appropriations Committee 
+will fund construction of these cemeteries, particularly in light of 
+their direction of advanced planning funds in this year's VA-HUD 
+Appropriations bill.
+  Sections 601-603 authorize the American Battle Monuments Commission 
+to borrow funds from the Treasury Department to construct the WWII 
+memorial on the Mall if it is unable to raise sufficient funds through 
+private donations. It also extends the authority to break ground for 
+four years. This will ensure that the veterans who are to be honored by 
+this memorial will be able to see it constructed.
+  I have agreed to a study, based on a House provision, of the current 
+state of cemeteries to assess repair needs, ways to improve appearance, 
+and the number of cemeteries needed to serve veterans who die after 
+2005. Finally, section 621 requires that the VA study the adequacy and 
+effectiveness of burial benefits that a veteran's dependents receive, 
+as well as options to better serve veterans and their families. In 
+light of inflation in the cost of burials, as well as the increase in 
+options such as cremation and burial at sea, it is appropriate that VA 
+reevaluate this program.
+  This bill contains a number of benefits provisions that will aid 
+veterans. For example, section 503 will add bronchiolo-alviolar 
+carcinoma to the list of presumptive conditions associated with 
+exposure to ionizing radiation. Bronchiolo-alviolar carcinoma is a type 
+of lung cancer. The Senate has passed provisions adding lung cancer to 
+the list of presumptive conditions on several occasions, but the House 
+has not moved similar legislation.
+  Section 711 will extend the reservist home loan guaranty authority to 
+December 31, 2007. The current authority is set to expire in 2003. 
+However, a reservist must serve six years before being eligible for the 
+home loan guaranty. Therefore, in order for it to be used as a 
+recruiting incentive, the authority must be extended beyond 2006.
+
+  I am extremely gratified that section 501 authorizes payment of 
+dependency and indemnity compensation (``DIC'') to the surviving spouse 
+of a former POW veteran who dies of a non-service-connected condition 
+if the former POW was rated totally disabled due to a POW-related 
+presumptive condition for a period of one or more years immediately 
+prior to death. In the case of former POWs, this reduces the 10-year 
+period prior to death that a veteran must be rated 100 percent service-
+connected for the spouse to receive DIC if the veteran dies of a non-
+service-connected condition. This provision recognizes that former 
+POW's suffered extreme hardships and that their spouses cared for them 
+throughout the years that VA did not recognize their health conditions 
+as being service-related. I am proud that we named this provision of 
+the bill the ``John William Rolen Act.'' John passed away this year. He 
+was a tireless advocate for America's former POWs, and I will miss him.
+  Section 502 of H.R. 2116 corrects an oversight in last year's 
+transportation bill (TEA 21) that reinstated DIC to remarried widows of 
+veterans whose remarriages have now been terminated. The benefit had 
+previously been cut off as a budget reconciliation item. While 
+reinstating DIC payments, however, the transportation bill failed to 
+restore the limited ancillary benefits that accompany the receipt of 
+DIC: CHAMPVA, home loan guaranty, and educational benefits. This bill 
+restores those ancillary benefits.
+  Finally, I am so glad that we will maintain our commitment to 
+homeless veterans by reauthorizing the Homeless Veteran Reintegration 
+Program (HVRP). Section 901 authorizes increased funding levels for job 
+training for veterans for four consecutive years, beginning with $10 
+million additional in the first year, $15 million additional in the 
+second year, and $20 million additional in each of the third and fourth 
+years. We have also required, in section 903, that VA formulate a 
+comprehensive plan that includes the Departments of Labor and Housing 
+and Urban Development, to conduct a cross-cutting report evaluating the 
+effectiveness of homeless programs beyond six months of placement or 
+service delivery.
+  Title XI of H.R. 2116 provides VA with authority to offer voluntary 
+separation incentives through December 31, 2000, to a specified number 
+of FTEE. As is well known, inadequate VA budgets in the last several 
+years have forced VA to make sweeping changes, (many of which were 
+warranted, including the downsizing of employees. VHA has already 
+eliminated thousands of employees via ``reductions in force'' 
+(``RIFs''). VHA FTEE staff now stands at 182,000, down from 218,000 in 
+1994. VBA FTEE has also declined, from 13,500 in 1994 to
+
+[[Page S14909]]
+
+11,200 today. All this is occurring at a time when VA is treating more 
+patients and deciding more claims.
+  Usually, a condition of voluntary separation incentives--or buyouts 
+as they are known--is that the FTEE slot is eliminated in a one-for-one 
+reduction, i.e. downsizing. But I believe that VA has already reached 
+the precipice of staff reductions--the point beyond which we should not 
+go if quality of VA health care is to be maintained. However, VA says 
+that it still requires buyouts in order to ``rightsize.'' That is, VA 
+must let go of employees who do not have the needed skills, in order to 
+free up FTEE positions so that VA can hire the most appropriately 
+qualified people. The buyout language in this bill prohibits VA from 
+eliminating the FTEE positions of employees who have received buyouts.
+  If we do not provide VA with buyout authority, VA will proceed down 
+the path of reductions regardless. For example, VHA will RIF thousands 
+of employees next year. However, RIFs are an inexact management tool. 
+RIFs would not necessarily result in the skills mix VA needs, due to 
+the civil service employment rights that allow senior employees to take 
+the job of junior employees. I believe that buyouts offer a better 
+option, but one that must still be used wisely and monitored 
+carefully--which is why H.R. 2116 allows only limited buyouts under 
+very strict conditions.
+  I am very disappointed that we were unable to move the Senate 
+provision overturning the ``$1,500 rule.'' Since 1933, the law has 
+required VA to suspend the compensation or pension benefits of 
+incompetent veterans who have no dependents and are hospitalized at 
+government expense. This suspension is triggered when the veteran's 
+estate exceeds $1,500, and VA benefits are cut off until the veteran's 
+estate is spent down to $500. At that time, the VA commences 
+reinstating the veteran's compensation, until such time the veteran is 
+hospitalized again and the estate exceeds $1,500, when the benefits are 
+cut off again. No similar suspension is made for competent veterans or 
+for incompetent veterans who are not hospitalized.
+  The rationale for cutting off benefits was that these veterans might 
+have been institutionalized for years, and that it was not good policy 
+to allow their estates to build up when they have no dependents to 
+inherit them. There was also a fear of fraud on the part of the 
+veteran's guardian or fiduciary.
+  The dollar amounts have not changed since 1933, when $1,500 equaled 
+almost three years' worth of VA benefits at a 100 percent rating level. 
+In today's dollars, this is less than one month's benefit at a 100 
+percent rating level.
+  Although veterans are generally being hospitalized for shorter 
+periods of time, based on the low dollar limit, the rule may be applied 
+very quickly, sometimes immediately, when it does apply. Further, it 
+takes VA an average of 66 days to restore the benefits to incompetent 
+veterans once their estates have been spent down. Since incompetent 
+veterans are no longer routinely institutionalized for years at a time, 
+it is very difficult for a non-Medicaid eligible veteran (which would 
+be any veteran receiving any significant amount of VA compensation) to 
+be released from the hospital and placed in either a private assisted 
+living or group home with only $500 in his bank account. I fear some of 
+these veterans may end up on the streets because of this policy, 
+despite the best efforts of VHA to place them at discharge.
+  I believe that this outdated and indefensible policy discriminates 
+against incompetent veterans--those who are least likely to be able to 
+fight for themselves. The fact is, we are means testing VA compensation 
+for this one class of veterans. Why is a competent veteran with no 
+dependents entitled to receive his compensation, but an incompetent 
+veteran not entitled? There is no justification for this 
+discrimination. It may also have some harmful effects for a small 
+population of veterans, facilitating their downward spiral into 
+homelessness. That may be too much of a price to pay for the government 
+to save some money from reverting to the state if that veteran died 
+while hospitalized. While we were not successful in addressing this 
+issue in this bill, I plan to readdress this policy until it is 
+corrected.
+  Mr. President, in closing, I want to acknowledge the work of our 
+Committee's Chairman, Senator Specter, in developing this comprehensive 
+legislation. Through his efforts, and that of his staff--especially the 
+former Committee Staff Director, Charles Battaglia, and the new 
+Committee Staff Director, William Tuerk--the Senate Committee on 
+Veterans' Affairs has fully met its responsibilities and can be proud 
+of the legislation we consider today.
+  I appreciate the willingness of the House Committee on Veterans' 
+Affairs, especially Chairman Bob Stump and Ranking Member Lane Evans, 
+to work together to reach compromise on so many vital issues.
+  And I would be remiss if I did not acknowledge the efforts of my own 
+staff, Minority Staff Director, Jim Gottlieb, Professional Staff 
+Member, Kim Lipsky, and Counsel, Mary Schoelen. I am enormously 
+grateful for their diligence, and for their commitment to the work we 
+do in this Committee on behalf of our Nation's veterans.
+  Ms. SNOWE. Mr. President, I rise in support of H.R. 2116, the 
+Veterans Millennium Health Care and Benefits Act of 1999.
+  I would like to begin by thanking my colleague, Senator Specter, 
+chairman of the Senate Veterans' Affairs Committee, for his leadership 
+on issues of importance to veterans. H.R. 2116 contains a number of 
+provisions that will benefit veterans in Maine and elsewhere because of 
+his strong leadership. I applaud Senator Specter for his efforts.
+  I would especially like to thank the chairman for his efforts to 
+address a concern I had about a specific provision in the House-passed 
+version of the bill, which would have jeopardized millions of dollars 
+in grant funding for the Maine State Veterans Homes system.
+  H.R. 2116 contains a provision which fundamentally reorders the 
+manner in which VA construction grants will be awarded in the future, 
+placing the focus on renovation of existing facilities so that 
+maintenance projects will take precedence in grant awards over 
+proposals to construct new facilities. The House-passed version of the 
+bill would have made Maine veterans homes and state homes in a number 
+of states ineligible for funding, even through they had already 
+prepared and filed grant applications under existing law and 
+regulations.
+  In an effort to address this concern, I worked closely with Senator 
+Specter to craft a transition provision balancing the need to treat 
+current state home applicants fairly and not change the rules in the 
+middle of the game, while at the same time implementing the new rules 
+as soon as possible.
+  I am very pleased that the conference for H.R. 2116 agreed to the 
+measure I helped author that grandfathers proposals already filed by 
+veterans homes, thereby exempting them from new criteria in the bill 
+that would have precluded funding in this and coming fiscal years.
+  I believe this compromise remains true to the intent of the new 
+criteria included in the House-passed version of the bill, while at the 
+same time protecting the interests of states that had already submitted 
+applications for funding.
+  In addition to work with Senator Specter personally, I wrote a letter 
+to the chairman in September alerting him to my concerns, followed by a 
+letter to my colleague from Maine, Senator Collins. In addition, last 
+month, I spearheaded a letter with 14 other Senators urging 
+modification of the House construction grant provision to grandfather 
+proposals made by Maine and other states under existing law, so that it 
+would not change the methodology in the middle of the current fiscal 
+year--after applications have been filed; after architectural, 
+engineering, and legal fees have been incurred, and after local 
+matching funds have been appropriated or borrowed by states for these 
+projects.
+  If the House-passed provision had been enacted without this change, 
+many states veterans homes would have lost their positions for Fiscal 
+Year 2000 grants because these applications would have been judged 
+according to a new set of criteria.
+  In Maine, this would have jeopardized funding for the entire Maine 
+Veterans Homes system, which earlier this year applied for about $9.3 
+million in grant
+
+[[Page S14910]]
+
+funding, and is seeking to construct new veterans' residential care 
+facilities in Augusta, Bangor, Caribou, and Scarborough. In their 
+applications, the Maine Veterans Home System notes that more than half 
+of Maine's veterans population is reaching the age where long-term 
+nursing care or domicillary care is typically required. Since 1991, the 
+number of Maine veterans aged 75-79 has doubled, from 6,000 to 12,500. 
+Over the same time period, the numbers of veterans aged 80-84 has 
+doubled from 2,400 to 6,000; and veterans over the age of 85 has 
+increased by 50 percent from 1,200 to 1,800.
+  I would also like to thank Senator Specter for supporting another 
+provision in H.R. 2116 based on legislation I introduced in the Senate, 
+S. 1579, the Veterans Sexual Trauma Treatment Act. S. 1579 extends a VA 
+program that offers counseling and medical treatment to veterans who 
+were sexually abused while serving in the military, and requires a VA 
+mental health professional to determine when counseling is necessary. 
+Currently, the VA Secretary makes this determination. The bill also 
+calls for the dissemination of information concerning the availability 
+of counseling services to veterans through public service 
+announcements.
+  According to the Department of Defense, at least 55 percent of active 
+duty women and 14 percent of active duty men have been subjected to 
+sexual harassment. As a member of the Senate Armed Services Committee, 
+I credit the DoD with working to reduce the prevalence of sexual 
+harassment in the military. However, as long as there is harassment in 
+the military, it is vital that victims have access to treatment, and 
+H.R. 2116 provides the tools to do this.
+  Finally, I would like to commend the Senate and House Veterans' 
+Affairs Committees and the conferees for H.R. 2116 for their efforts to 
+expand a whole range of benefits for veterans in this conference 
+report. For example, the bill expands long-term care for veterans, and 
+will increase home and community-based care and assisted-living options 
+for veterans. It expands mental health services, and requires the VA to 
+enhance specialized services for PTSD and drug abuse disorders. It 
+provides coverage for uninsured veterans who need care but who do not 
+have access to a VA facility. It expands VA authority to provide 
+services to homeless veterans. It improves Montgomery GI bill benefits 
+by providing benefits for students in preparatory courses and to those 
+whose enlistment is interrupted to attend officers training school. And 
+these are just a few of the important provisions in this bill.
+  Mr. President, this is a strong bill, and I urge my colleagues to 
+join me in a strong show of support.
+  I yield the floor.
+
+
+                              Section 207
+
+  Mr. SMITH of New Hampshire. Mr. President, I too, would like to 
+recognize Senator Specter, for his tremendous work and skillful 
+leadership and sensitivity in bringing the Veterans Millennium Health 
+Care bill (H.R. 2116) to the floor. As a veteran myself, I can assure 
+you that this bill means a great deal in providing for the health and 
+welfare of our veterans both in my state of New Hampshire as well as 
+those veterans throughout the country. I congratulate Senator Specter's 
+leadership on issues that are of particular importance to our veteran 
+community.
+  If I may also ask the senator to clarify the transition clause of 
+Section 207(c) of the bill. Does the Senator mean that provided that 
+state home grant applicants covered by the transition clause follow all 
+applicable laws and regulations in effect on November 10, 1999, that 
+the Secretary of Veterans Affairs shall award grants to all 
+applications remaining unfunded for fiscal year 1999 priority one 
+projects first, then proceed to awarding grants to priority one 
+projects as outlined and in the order in which they appeared in the 
+Department of Veteran Affairs Fiscal Year 2000 priority list as covered 
+by Section 207(c) of the bill, prior to awarding grants to any other 
+applicants?
+  Mr. SPECTER. Yes, the Senator is correct. The purpose of this section 
+is to reform the priorities under which state home grant applications 
+are considered so that much needed renovation and maintenance projects 
+will receive more appropriate consideration for funding than under the 
+current system.
+  I am pleased that we were able to craft a transition provision that 
+balanced the desire to ensure that all states had an opportunity to 
+participate under the old rules, with the desire to implement the new 
+rules as quickly as possible.
+  Mr. SMITH of New Hampshire. Thank you Mr. Chairman and again I 
+appreciate your consideration and sensitivity to the veteran community. 
+Your leadership on this issue will enable the Veterans Home in Tilton, 
+New Hampshire to better meet the medical needs of veterans in New 
+Hampshire. I yield the floor.
+  Ms. SNOWE. I commend my colleague, Senator Specter, chairman of the 
+Senate Veteran's Affairs Committee, for the remarkably responsive and 
+skillful manner in which he managed the progress of H.R. 2116. This 
+bill means a lot to veterans throughout the nation, and especially in 
+my home state of Maine. I applaud Senator Specter's leadership on 
+issues of importance to veterans.
+  I have only one point of clarification. Does the transition clause of 
+Section 207(c) of the bill mean, that for all state home grant 
+applications covered by the transition clause and otherwise in 
+compliance with applicable law and regulations in effect on November 
+10, 1999, the Secretary of Veterans Affairs shall award grants first to 
+all unfunded applications remaining for fiscal year 1999 priority one 
+projects? And that following those projects, the Secretary shall next 
+fund those FY 2000 applications and which both meet the criteria set 
+forth in the bill and which were accorded priority one status for FY 
+2000? And that the Secretary would fund these projects in the order in 
+which they would appear on the fiscal year 2000 priority one list, 
+prior to awarding grants to any other applications?
+  Mr. SPECTER. Yes, the Senator is correct. The purpose of this section 
+is to reform the priorities under which state home grant applications 
+are considered so that much needed renovation and maintenance projects 
+will receive more appropriate consideration for funding than under the 
+current system. I am pleased that we were able to craft a transition 
+provision that balanced the desire to ensure that all states had an 
+opportunity to participate under the old rules, with the desire to 
+implement the new rules as quickly as possible.
+  Ms. SNOWE. I thank the chairman once again, and I yield the floor.
+  Ms. COLLINS. I ask unanimous consent the conference report be agreed 
+to, the motion to reconsider be laid upon the table, and any statements 
+related to the conference report be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```

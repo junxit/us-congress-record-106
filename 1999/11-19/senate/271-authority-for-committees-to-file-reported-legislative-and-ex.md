@@ -1,0 +1,25 @@
+---
+granule: CREC-1999-11-19-pt2-PgS15205-3
+date: 1999-11-19
+edition: CREC
+section: SENATE
+page: S15205
+citation: 145 Cong. Rec. S15205
+---
+
+# AUTHORITY FOR COMMITTEES TO FILE REPORTED LEGISLATIVE AND EXECUTIVE MATTERS
+
+**Speaking:** Collins, Susan M. (C001035) [R-ME]
+
+```
+  AUTHORITY FOR COMMITTEES TO FILE REPORTED LEGISLATIVE AND EXECUTIVE 
+                                MATTERS
+
+  Ms. COLLINS. Mr. President, I ask unanimous consent that 
+notwithstanding the adjournment of the Senate, committees have from 11 
+a.m. until 1 p.m. on Tuesday, December 7, and on Friday, January 7, in 
+order to file reported legislative and executive matters.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
