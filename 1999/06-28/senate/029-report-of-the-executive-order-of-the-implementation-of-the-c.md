@@ -1,0 +1,56 @@
+---
+granule: CREC-1999-06-28-pt1-PgS7708-4
+date: 1999-06-28
+edition: CREC
+section: SENATE
+page: S7708
+citation: 145 Cong. Rec. S7708
+---
+
+# REPORT OF THE EXECUTIVE ORDER OF THE IMPLEMENTATION OF THE CHEMICAL WEAPONS CONVENTION AND THE CHEMICAL WEAPONS CONVENTION IMPLEMENTATION ACT--MESSAGE FROM THE PRESIDENT--PM 42
+
+```
+  REPORT OF THE EXECUTIVE ORDER OF THE IMPLEMENTATION OF THE CHEMICAL 
+ WEAPONS CONVENTION AND THE CHEMICAL WEAPONS CONVENTION IMPLEMENTATION 
+                 ACT--MESSAGE FROM THE PRESIDENT--PM 42
+
+  The PRESIDING OFFICER laid before the Senate the following message 
+from the President of the United States, together with an accompanying 
+report; which was referred to the Committee on Banking, Housing, and 
+Urban Affairs.
+
+To the Congress of the United States:
+  On November 14, 1994, in light of the danger of the proliferation of 
+nuclear, biological, and chemical weapons (weapons of mass destruction) 
+and of the means of delivering such weapons, using my authority under 
+the International Emergency Economic Powers
+
+[[Page S7709]]
+
+Act (50 U.S.C. 1701 et seq.), I issued Executive Order 12938, declaring 
+a national emergency to deal with this danger. Because the 
+proliferation of weapons of mass destruction continues to pose an 
+unusual and extraordinary threat to the national security, foreign 
+policy, and economy of the United States, I have renewed the national 
+emergency declared in Executive Order 12938 annually, most recently on 
+November 12, 1998. Pursuant to section 204(b) of the International 
+Emergency Economic Powers Act (50 U.S.C. 1703(b)), I hereby report to 
+the Congress that I have exercised my statutory authority to further 
+amend Executive Order 12938 in order to more effectively respond to the 
+worldwide threat of weapons of mass destruction proliferation 
+activities.
+  The new executive order, which implements the Chemical Weapons 
+Convention Implementation Act of 1998, strengthens Executive Order 
+12938 by amending section 3 to authorize the United States to implement 
+important provisions of the Convention on the Prohibition of the 
+Development, Production, Stockpiling and Use of Chemical Weapons and on 
+Their Destruction, a multilateral agreement that serves to reduce the 
+threat posed by chemical weapons. Specifically, the amendment enables 
+the United States Government to ensure that imports into the United 
+States of certain chemicals from any source are permitted in a manner 
+consistent with the relevant provisions of the Convention.
+                                                  William J. Clinton.  
+  The White House, June 25, 1999.
+
+                          ____________________
+```
