@@ -1,0 +1,19 @@
+---
+granule: CREC-1999-02-24-pt1-PgH758-5
+date: 1999-02-24
+edition: CREC
+section: HOUSE
+page: H758
+citation: 145 Cong. Rec. H758
+---
+
+# The SPEAKER pro tempore. Under a previous order of the House, the gentleman from North Carolina (Mr. Jones) is recognized for 5 minutes.
+
+```
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from North Carolina (Mr. Jones) is recognized for 5 minutes.
+  (Mr. JONES of North Carolina addressed the House. His remarks will 
+appear hereafter in the Extensions of Remarks.)
+
+                          ____________________
+```
