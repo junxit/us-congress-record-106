@@ -1,0 +1,121 @@
+---
+granule: CRECB-1999-pt11-Pg15339-2
+date: 1999-07-01
+edition: CRECB
+section: SENATE
+page: 15339
+---
+
+# CONDEMNING PALESTINIAN EFFORTS TO REVIVE THE ORIGINAL PALESTINE PARTITION PLAN
+
+```
+    CONDEMNING PALESTINIAN EFFORTS TO REVIVE THE ORIGINAL PALESTINE 
+                             PARTITION PLAN
+
+  Mr. GORTON. Mr. President, I ask unanimous consent that the Senate 
+now proceed to the immediate consideration of calendar No. 186, S. Con. 
+Res. 36.
+  The PRESIDING OFFICER. The clerk will report.
+  The legislative clerk read as follows:
+
+       A concurrent resolution (S. Con. Res. 36) condemning 
+     Palestinian efforts to revive the original Palestine 
+     partition plan of November 29, 1947, and condemning the 
+     United Nations Commission on Human Rights for its April 27, 
+     1999, resolution endorsing Palestinian self-determination on 
+     the basis of the original Palestine partition plan.
+
+  There being no objection, the Senate proceeded to consider the 
+concurrent resolution.
+  Mr. GORTON. I ask unanimous consent that the resolution be agreed to, 
+the preamble be agreed to, the motion to reconsider be laid upon the 
+table, and any statements relating to this resolution be printed at the 
+appropriate place in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Con. Res. 36) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                            S. Con. Res. 36
+
+       Whereas United Nations General Assembly Resolution 181, 
+     which called for the partition of the British-ruled Palestine 
+     Mandate into a Jewish state and an Arab state, was declared 
+     null and void on November 29, 1947, by the Arab states and 
+     the Palestinians, who included the rejection of Resolution 
+     181 as a formal justification for the May, 1948, invasion of 
+     the newly declared State of Israel by the armies of five Arab 
+     states;
+       Whereas the armistice agreements between Israel and Egypt, 
+     Lebanon, Syria, and Transjordan in 1949 made no mention of 
+     United Nations General Assembly Resolution 181, and the 
+     United Nations Security Council made no reference to United 
+     Nations General Assembly Resolution 181 in its Resolution 73 
+     of August 11, 1949, which endorsed the armistice;
+       Whereas in 1967 and 1973 the United Nations adopted 
+     Security Council Resolutions 242 and 338, respectively, which 
+     call for the withdrawal of Israel from territory occupied in 
+     1967 and 1973 in exchange for the creation of secure and 
+     recognized boundaries for Israel and for political 
+     recognition of Israel's sovereignty;
+       Whereas Security Council Resolutions 242 and 338 have 
+     served as the framework for all negotiations between Israel, 
+     Palestinian representatives, and Arab states for 30 years, 
+     including the 1991 Madrid Peace Conference and the ongoing 
+     Oslo peace process, and serve as the agreed basis for 
+     impending Final Status Negotiations;
+       Whereas senior Palestinian officials have recently 
+     resurrected United Nations General Assembly Resolution 181 
+     through official statements and a March 25, 1999, letter from 
+     the Palestine Liberation Organization Permanent Observer to 
+     the United Nations Secretary-General contending that the 
+     State of Israel must withdraw to the borders outlined in 
+     United Nations General Assembly Resolution 181, and accept 
+     Jerusalem as a ``corpus separatum'' to be placed under United 
+     Nations control as outlined in United Nations General 
+     Assembly Resolution 181; and
+       Whereas in its April 27, 1999, resolution, the United 
+     Nations Commission on Human Rights asserted that Israeli-
+     Palestinian peace negotiations be based on United Nations 
+     General Assembly Resolution 181: Now, therefore, be it
+       Resolved by the Senate (the House of Representatives 
+     concurring), That the Congress--
+       (1) condemns Palestinian efforts to circumvent United 
+     Nations Security Council Resolutions 242 and 338, as well as 
+     violate the Oslo peace process, by attempting to revive 
+     United Nations General Assembly Resolution 181, thereby 
+     placing the entire Israeli-Palestinian peace process at risk;
+       (2) condemns the United Nations Commission on Human Rights 
+     for voting to formally endorse United Nations General 
+     Assembly Resolution 181 as the basis for the future of 
+     Palestinian self-determination;
+       (3) reiterates that any just and final peace agreement 
+     regarding the final status of the territory controlled by the 
+     Palestinians can only be determined through direct 
+     negotiations and agreement between the State of Israel and 
+     the Palestinian Liberation Organization;
+       (4) reiterates its continued unequivocal support for the 
+     security and well-being of the State of Israel, and of the 
+     Oslo peace process based on United Nations Security Council 
+     Resolutions 242 and 338; and
+       (5) calls for the President of the United States to declare 
+     that--
+       (A) it is the policy of the United States that United 
+     Nations General Assembly Resolution 181 of 1947 is null and 
+     void;
+       (B) all negotiations between Israel and the Palestinians 
+     must be based on United Nations Security Council Resolutions 
+     242 and 338; and
+       (C) the United States regards any attempt by the 
+     Palestinians, the United Nations, or any entity to resurrect 
+     United Nations General Assembly Resolution 181 as a basis for 
+     negotiations, or for any international decision, as an 
+     attempt to sabotage the prospects for a successful peace 
+     agreement in the Middle East.
+
+[[Page 15340]]
+
+
+
+                          ____________________
+```
