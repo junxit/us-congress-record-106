@@ -1,0 +1,32 @@
+---
+granule: CREC-2000-05-16-pt1-PgH3170-6
+date: 2000-05-16
+edition: CREC
+section: HOUSE
+page: H3170
+citation: 146 Cong. Rec. H3170
+---
+
+# ENROLLED BILLS SIGNED
+
+**Measures:** H.R. 434, H.R. 1377
+
+```
+                         ENROLLED BILLS SIGNED
+
+  Mr. THOMAS, from the Committee on House Administration, reported that 
+that committee had examined and found truly enrolled bills of the House 
+of the following titles, which were thereupon signed by the Speaker:
+
+       H.R. 434. An act to authorize a new trade and investment 
+     policy for sub-Saharan Africa, expand trade benefits to the 
+     countries in the Caribbean Basin, renew the generalized 
+     system of preferences, and to reauthorize the trade 
+     adjustment assistance programs.
+       H.R. 1377. An act to designate the facility of the United 
+     States Postal Service located at 9308 South Chicago Avenue, 
+     Chicago, Illinois, as the ``John J. Buchanan Post Office 
+     Building.''
+
+                          ____________________
+```
