@@ -1,0 +1,146 @@
+---
+granule: CRECB-1999-pt7-Pg9656
+date: 1999-05-13
+edition: CRECB
+section: EXTENSIONS
+page: 9656
+---
+
+# MAKE THE ADVISORY COMMITTEE ON MINORITY VETERANS PERMANENT
+
+```
+       MAKE THE ADVISORY COMMITTEE ON MINORITY VETERANS PERMANENT
+
+                                 ______
+                                 
+
+                         HON. LUIS V. GUTIERREZ
+
+                              of illinois
+
+                    in the house of representatives
+
+                         Thursday, May 13, 1999
+
+  Mr. GUTIERREZ. Mr. Speaker, today I am introducing legislation that 
+is vital to the interests of minority veterans in our nation. Current 
+law mandates the termination of the Advisory Committee on Minority 
+Veterans (ACMV) as of December 31, 1999. My bill would simply repeal 
+the provision of law that discontinues this important committee's 
+mandate so that its critical work on behalf of minority veterans can 
+continue into the next century. Saving the Advisory Committee will 
+require no additional taxpayer funding.
+  The Advisory Committee on Minority Veterans operates in conjunction 
+with the VA Center for Minority Veterans. This committee consists of 
+members appointed by the Secretary of Veterans Affairs and includes 
+minority veterans, representatives of minority veterans and individuals 
+who are recognized authorities in fields pertinent to the needs of 
+minority veterans. The Advisory Committee on Minority Veterans helps 
+the VA Center for Minority Veterans primarily by advising the Secretary 
+on the adoption and implementation of policies and programs affecting 
+minority veterans, and by making recommendations to the VA for the 
+establishment or improvement of programs in the Department for which 
+minority veterans are eligible.
+  The unique concerns of minority veterans will become increasingly 
+important for our nation during the next decade. The majority of 
+African-American, Hispanic-American, Asian-American and Native American 
+veterans served in the armed forces during Vietnam and post-Vietnam 
+eras. The percentage of U.S. veterans who are minorities is expected to 
+continue to increase as we enter the 21st century.
+  The Advisory Committee on Minority Veterans has helped to ensure that 
+our veterans programs address the unique concerns of these men and 
+women. Outreach to diverse veterans communities, from Native American 
+reservations to inner-city neighborhoods, has helped inform thousands 
+of minority veterans about opportunities for assistance at the 
+Department of Veterans Affairs. I believe that these tasks are 
+essential to the success of the VA in serving all veterans in our 
+nation.
+  Nevertheless, many specific issues of concern to minority veterans 
+need to be addressed further. Minority veterans confront the 
+debilitating effects of post-traumatic stress disorder (PTSD) and 
+substance abuse in greater numbers. Minority veterans suffer from a 
+higher incidence of homelessness. Access to health care for Native 
+Americans is a common problem. In addition, access to adequate job 
+training is a difficulty for many minority veterans, a high percentage 
+of whom qualify as low-income, category A veterans. Unfortunately, 
+discrimination and cultural insensitivity remain problematic for 
+minority veterans at many VA facilities.
+  This is the only advisory committee in the VA that is not permanent. 
+The Department of Veterans Affairs has a VA Center for Women Veterans 
+and an advisory committee on women veterans. We should act now to 
+assure that the VA Center for Minority Veterans maintains its own 
+advisory committee.
+  Mr. Speaker, the specific issues of importance to minority veterans 
+will not disappear on December 31, 1999. I ask my colleague to support 
+this vital legislation.
+
+                                 H.R.--
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. REPEAL OF SUNSET PROVISION FOR ADVISORY COMMITTEE 
+                   ON MINORITY VETERANS.
+
+       Subsection (e) of section 554 of title 38, United States 
+     Code, is repealed.
+
+     
+
+                          ____________________
+
+<DOC
+
+                   MISSING PERSONS IN SOUTHEAST ASIA
+
+                                 ______
+                                 
+
+                        HON. BENJAMIN A. GILMAN
+
+                              of new york
+
+                    in the house of representatives
+
+                         Thursday, May 13, 1999
+
+  Mr. GILMAN. Mr. Speaker, I rise today to introduce legislation 
+designed to declassify the records of the House Select Committee on 
+Missing Persons in Southeast Asia. In doing so, I am joined by my 
+colleagues: Mr. Taylor from Mississippi, Mr. Talent from Missouri, and 
+Mr. Rohrabacher from California.
+  I served as a member of the Select Committee on Missing Persons in 
+Southeast Asia during the committee's period of existence in the 
+1970's. At the time, the Select Committee was tasked with the 
+responsibility of determining whether American servicemen had been left 
+behind in Southeast Asia after the Vietnam War.
+  At the time the committee was dissolved, its records were subject to 
+House classification rules, which mandated the material be kept 
+classified for 50 years. Similar regulations covered the records of the 
+Senate's counterpart committee.
+  Several years ago, the Senate agreed to reduce the period of secrecy 
+to 20 years, and as a result, declassified all of their committee 
+files. This legislation would simply make a change in House rules to 
+open all of the Select Committee's files and boxes of material to the 
+public.
+  Mr. Speaker, the end of the cold war has resulted in the discovery of 
+literally hundreds of documents which had previously been out of reach 
+behind the Iron Curtain. I see no need for the House to maintain a veil 
+of secrecy over its Select Committee files. Therefore, I ask that my 
+colleagues join in supporting this worthwhile legislation which would 
+bring the House rules on this subject in line with those of our 
+counterpart committee in the Senate.
+
+                               H. Res.--
+
+       Resolved, That the Archivist of the United States is 
+     authorized and directed to make available for public use the 
+     records of the House of Representatives Select Committee on 
+     Missing Persons in Southeast Asia (94th Congress).
+
+
+
+
+
+                          ____________________
+```
