@@ -1,0 +1,25 @@
+---
+granule: CRECB-1999-pt3-Pg4469-3
+date: 1999-03-15
+edition: CRECB
+section: SENATE
+page: 4469
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate March 15, 1999:
+
+
+                         DEPARTMENT OF JUSTICE
+
+       RAYMOND C. FISHER, OF CALIFORNIA, TO BE UNITED STATES 
+     CIRCUIT JUDGE FOR THE NINTH CIRCUIT, VICE DAVID R. THOMPSON, 
+     RETIRED.
+       ADALBERTO JOSE JORDAN, OF FLORIDA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF FLORIDA, VICE 
+     LENORE CARRERO NESBITT, RETIRED.
+```
