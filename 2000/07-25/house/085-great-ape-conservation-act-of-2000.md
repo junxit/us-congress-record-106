@@ -1,0 +1,399 @@
+---
+granule: CREC-2000-07-25-pt1-PgH6958
+date: 2000-07-25
+edition: CREC
+section: HOUSE
+page: H6958
+citation: 146 Cong. Rec. H6958
+---
+
+# GREAT APE CONSERVATION ACT OF 2000
+
+**Speaking:** Hansen, James V. (H000172) [R-UT], Miller, George (M000725) [D-CA], Saxton, Jim (S000097) [R-NJ]
+
+**Measures:** H.R. 4320
+
+```
+                   GREAT APE CONSERVATION ACT OF 2000
+
+  Mr. HANSEN. Mr. Speaker, I move to suspend the rules and pass the 
+bill (H.R. 4320) to assist in the conservation of great apes by 
+supporting and providing financial resources for the conservation 
+programs of countries within the range of great apes and projects of 
+persons with demonstrated expertise in the conservation of great apes, 
+as amended.
+  The Clerk read as follows:
+
+                               H.R. 4320
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Great Ape Conservation Act 
+     of 2000''.
+
+     SEC. 2. FINDINGS AND PURPOSES.
+
+       (a) Findings.--Congress finds that--
+       (1) great ape populations have declined to the point that 
+     the long-term survival of the species in the wild is in 
+     serious jeopardy;
+       (2) the chimpanzee, gorilla, bonobo, orangutan, and gibbon 
+     are listed as endangered species under section 4 of the 
+     Endangered Species Act of 1973 (16 U.S.C. 1533) and under 
+     Appendix I of the Convention on International Trade in 
+     Endangered Species of Wild Fauna and Flora (27 UST 1087; TIAS 
+     8249);
+       (3) because the challenges facing the conservation of great 
+     apes are so immense, the resources available to date have not 
+     been sufficient to cope with the continued loss of habitat 
+     due to human encroachment and logging and the consequent 
+     diminution of great ape populations;
+       (4) because great apes are flagship species for the 
+     conservation of the tropical forest habitats in which they 
+     are found, conservation of great apes provides benefits to 
+     numerous other species of wildlife, including many other 
+     endangered species;
+       (5) among the threats to great apes, in addition to habitat 
+     loss, are population fragmentation, hunting for the bushmeat 
+     trade, live capture, and exposure to emerging or introduced 
+     diseases;
+       (6) great apes are important components of the ecosystems 
+     they inhabit, and studies of their wild populations have 
+     provided important biological insights;
+       (7) although subsistence hunting of tropical forest animals 
+     has occurred for hundreds of years at a sustainable level, 
+     the tremendous increase in the commercial trade of tropical 
+     forest species is detrimental to the future of these species; 
+     and
+       (8) the reduction, removal, or other effective addressing 
+     of the threats to the long-term viability of populations of 
+     great apes in the wild will require the joint commitment and 
+     effort of countries that have within their boundaries any 
+     part of the range of great apes, the United States and other 
+     countries, and the private sector.
+       (b) Purposes.--The purposes of this Act are--
+       (1) to sustain viable populations of great apes in the 
+     wild; and
+       (2) to assist in the conservation and protection of great 
+     apes by supporting conservation programs of countries in 
+     which populations of great apes are located and by supporting 
+     the CITES Secretariat.
+
+     SEC. 3. DEFINITIONS.
+
+       In this Act:
+       (1) CITES.--The term ``CITES'' means the Convention on 
+     International Trade in Endangered Species of Wild Fauna and 
+     Flora, done at Washington March 3, 1973 (27 UST 1087; TIAS 
+     8249), including its appendices.
+       (2) Conservation.--The term ``conservation''--
+       (A) means the use of methods and procedures necessary to 
+     prevent the diminution of, and to sustain viable populations 
+     of, a species; and
+       (B) includes all activities associated with wildlife 
+     management, such as--
+       (i) conservation, protection, restoration, acquisition, and 
+     management of habitat;
+       (ii) in-situ research and monitoring of populations and 
+     habitats;
+       (iii) assistance in the development, implementation, and 
+     improvement of management plans for managed habitat ranges;
+       (iv) enforcement and implementation of CITES;
+       (v) enforcement and implementation of domestic laws 
+     relating to resource management;
+       (vi) development and operation of sanctuaries for members 
+     of a species rescued from the illegal trade in live animals;
+       (vii) training of local law enforcement officials in the 
+     interdiction and prevention of the illegal killing of great 
+     apes;
+       (viii) programs for the rehabilitation of members of a 
+     species in the wild and release of the members into the wild 
+     in ways which do not threaten existing wildlife populations 
+     by causing displacement or the introduction of disease;
+       (ix) conflict resolution initiatives;
+       (x) community outreach and education; and
+       (xi) strengthening the capacity of local communities to 
+     implement conservation programs.
+       (3) Fund.--The term ``Fund'' means the Great Ape 
+     Conservation Fund established by section 5.
+       (4) Great ape.--The term ``great ape'' means a chimpanzee, 
+     gorilla, bonobo, orangutan, or gibbon.
+       (5) Multinational species conservation fund.--The term 
+     ``Multinational Species Conservation Fund'' means such fund 
+     as established in title I of the Department of the Interior 
+     and Related Agencies Appropriations Act, 1999, under the 
+     heading ``multinational species conservation fund''.
+       (6) Secretary.--The term ``Secretary'' means the Secretary 
+     of the Interior.
+
+     SEC. 4. GREAT APE CONSERVATION ASSISTANCE.
+
+       (a) In General.--Subject to the availability of funds and 
+     in consultation with other appropriate Federal officials, the 
+     Secretary shall use amounts in the Fund to provide financial 
+     assistance for projects for the conservation of great apes 
+     for which project proposals are approved by the Secretary in 
+     accordance with this section.
+       (b) Project Proposals.--
+       (1) Eligible applicants.--A proposal for a project for the 
+     conservation of great apes may be submitted to the Secretary 
+     by--
+       (A) any wildlife management authority of a country that has 
+     within its boundaries any part of the range of a great ape if 
+     the activities of the authority directly or indirectly affect 
+     a great ape population;
+       (B) the CITES Secretariat; or
+       (C) any person or group with the demonstrated expertise 
+     required for the conservation of great apes.
+       (2) Required elements.--A project proposal shall include--
+       (A) a concise statement of the purposes of the project;
+       (B) the name of the individual responsible for conducting 
+     the project;
+       (C) a description of the qualifications of the individuals 
+     who will conduct the project;
+       (D) a concise description of--
+       (i) methods for project implementation and outcome 
+     assessment;
+       (ii) staff and community management for the project; and
+       (iii) the logistics of the project;
+       (E) an estimate of the funds and time required to complete 
+     the project;
+       (F) evidence of support for the project by appropriate 
+     governmental entities of the countries in which the project 
+     will be conducted, if the Secretary determines that such 
+     support is required for the success of the project;
+       (G) information regarding the source and amount of matching 
+     funding available for the project; and
+       (H) any other information that the Secretary considers to 
+     be necessary for evaluating the eligibility of the project 
+     for funding under this Act.
+       (c) Project Review and Approval.--
+       (1) In general.--The Secretary shall--
+       (A) not later than 30 days after receiving a project 
+     proposal, provide a copy of the proposal to other appropriate 
+     Federal officials; and
+
+[[Page H6959]]
+
+       (B) review each project proposal in a timely manner to 
+     determine if the proposal meets the criteria specified in 
+     subsection (d).
+       (2) Consultation; approval or disapproval.--Not later than 
+     180 days after receiving a project proposal, and subject to 
+     the availability of funds, the Secretary, after consulting 
+     with other appropriate Federal officials, shall--
+       (A) consult on the proposal with the government of each 
+     country in which the project is to be conducted;
+       (B) after taking into consideration any comments resulting 
+     from the consultation, approve or disapprove the proposal; 
+     and
+       (C) provide written notification of the approval or 
+     disapproval to the person who submitted the proposal, other 
+     appropriate Federal officials, and each country described in 
+     subparagraph (A).
+       (d) Criteria for Approval.--The Secretary may approve a 
+     project proposal under this section if the project will 
+     enhance programs for conservation of great apes by assisting 
+     efforts to--
+       (1) implement conservation programs;
+       (2) address the conflicts between humans and great apes 
+     that arise from competition for the same habitat;
+       (3) enhance compliance with CITES and other applicable laws 
+     that prohibit or regulate the taking or trade of great apes 
+     or regulate the use and management of great ape habitat;
+       (4) develop sound scientific information on, or methods for 
+     monitoring--
+       (A) the condition and health of great ape habitat;
+       (B) great ape population numbers and trends; or
+       (C) the current and projected threats to the habitat, 
+     current and projected numbers, or current and projected 
+     trends; or
+       (5) promote cooperative projects on the issues described in 
+     paragraph (4) among government entities, affected local 
+     communities, nongovernmental organizations, or other persons 
+     in the private sector.
+       (e) Project Sustainability.--To the maximum extent 
+     practicable, in determining whether to approve project 
+     proposals under this section, the Secretary shall give 
+     preference to conservation projects that are designed to 
+     ensure effective, long-term conservation of great apes and 
+     their habitats.
+       (f) Matching Funds.--In determining whether to approve 
+     project proposals under this section, the Secretary shall 
+     give preference to projects for which matching funds are 
+     available.
+       (g) Project Reporting.--
+       (1) In general.--Each person that receives assistance under 
+     this section for a project shall submit to the Secretary 
+     periodic reports (at such intervals as the Secretary 
+     considers necessary) that include all information that the 
+     Secretary, after consultation with other appropriate 
+     government officials, determines is necessary to evaluate the 
+     progress and success of the project for the purposes of 
+     ensuring positive results, assessing problems, and fostering 
+     improvements.
+       (2) Availability to the public.--Reports under paragraph 
+     (1), and any other documents relating to projects for which 
+     financial assistance is provided under this Act, shall be 
+     made available to the public.
+       (h) Limitations on Use for Captive Breeding.--Amounts 
+     provided as a grant under this Act--
+       (1) may not be used for captive breeding of great apes 
+     other than for captive breeding for release into the wild; 
+     and
+       (2) may be used for captive breeding of a species for 
+     release into the wild only if no other conservation method 
+     for the species is biologically feasible.
+       (i) Panel.--Every 2 years, the Secretary shall convene a 
+     panel of experts to identify the greatest needs for the 
+     conservation of great apes.
+
+     SEC. 5. GREAT APE CONSERVATION FUND.
+
+       (a) Establishment.--There is established in the 
+     Multinational Species Conservation Fund a separate account to 
+     be known as the ``Great Ape Conservation Fund'', consisting 
+     of--
+       (1) amounts transferred to the Secretary of the Treasury 
+     for deposit into the Fund under subsection (e);
+       (2) amounts appropriated to the Fund under section 6; and
+       (3) any interest earned on investment of amounts in the 
+     Fund under subsection (c).
+       (b) Expenditures From Fund.--
+       (1) In general.--Subject to paragraph (2), upon request by 
+     the Secretary, the Secretary of the Treasury shall transfer 
+     from the Fund to the Secretary, without further 
+     appropriation, such amounts as the Secretary determines are 
+     necessary to provide assistance under section 4.
+       (2) Administrative expenses.--Of the amounts in the account 
+     available for each fiscal year, the Secretary may expand not 
+     more than 3 percent, or up to $80,000, whichever is greater, 
+     to pay the administrative expenses necessary to carry out 
+     this Act.
+       (c) Investment of Amounts.--
+       (1) In general.--The Secretary of the Treasury shall invest 
+     such portion of the Fund as is not, in the judgment of the 
+     Secretary of the Treasury, required to meet current 
+     withdrawals. Investments may be made only in interest-bearing 
+     obligations of the United States.
+       (2) Acquisition of obligations.--For the purpose of 
+     investments under paragraph (1), obligations may be 
+     acquired--
+       (A) on original issue at the issue price; or
+       (B) by purchase of outstanding obligations at the market 
+     price.
+       (3) Sale of obligations.--Any obligation acquired by the 
+     Fund may be sold by the Secretary of the Treasury at the 
+     market price.
+       (4) Credits to fund.--The interest on, and the proceeds 
+     from the sale or redemption of, any obligations held in the 
+     Fund shall be credited to and form a part of the Fund.
+       (d) Transfers of Amounts.--
+       (1) In general.--The amounts required to be transferred to 
+     the Fund under this section shall be transferred at least 
+     monthly from the general fund of the Treasury to the Fund on 
+     the basis of estimates made by the Secretary of the Treasury.
+       (2) Adjustments.--Proper adjustment shall be made in 
+     amounts subsequently transferred to the extent prior 
+     estimates were in excess of or less than the amounts required 
+     to be transferred.
+       (e) Acceptance and Use of Donations.--The Secretary may 
+     accept and use donations to provide assistance under section 
+     4. Amounts received by the Secretary in the form of donations 
+     shall be transferred to the Secretary of the Treasury for 
+     deposit into the Fund.
+
+     SEC. 6. AUTHORIZATION OF APPROPRIATIONS.
+
+       There are authorized to be appropriated to the Fund 
+     $5,000,000 for each of fiscal years 2001 through 2005.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Utah (Mr. Hansen) and the gentleman from California (Mr. George Miller) 
+each will control 20 minutes.
+  The Chair recognizes the gentleman from Utah (Mr. Hansen).
+  Mr. HANSEN. Mr. Speaker, I yield myself such time as I may consume.
+  (Mr. HANSEN asked and was given permission to revise and extend his 
+remarks.)
+  Mr. HANSEN. Mr. Speaker, I rise in strong support of H.R. 4320.
+  Mr. GEORGE MILLER of California. Mr. Speaker, I yield myself such 
+time as I may consume.
+  (Mr. GEORGE MILLER of California asked and was given permission to 
+revise and extend his remarks.)
+  Mr. GEORGE MILLER of California, Mr. Speaker, I rise in strong 
+support of H.R. 4320.
+  The magnitude of the crisis facing the great apes is quite alarming. 
+Populations of chimpanzees, gorillas, bonobos, and orangutans in Africa 
+and Asia are disappearing at a record pace, and scientists have warned 
+they could become extinct in the wild within the next twenty years.
+  A broad range of actions will be needed to conserve and recover great 
+ape populations in Africa and Asia. Logging companies must halt the 
+flow of illegal bushmeat from their operations. Long term support for 
+protected areas, national parks, and buffer zones must be secured to 
+protect habitat and wildlife. Law enforcement capacity to enable 
+countries to enforce wildlife protection laws must be developed to 
+prevent poaching. Finally, efforts must be undertaken to help rural 
+populations develop alternative sources of protein that will reduce the 
+demand for bushmeat.
+  While it is a formidable task, we cannot let the desperate straights 
+of the great apes immobilize us. We must do what we can as quickly as 
+possible. H.R. 4320 bill is a good step in the direction and will 
+hopefully inspire a broad scale effort to restore ape populations 
+worldwide.
+  Modeled after the successful and widely supported African and Asian 
+Elephant Conservation Acts, the Great Ape Conservation Act would 
+authorize the Secretary to provide up to $5 million a year in grants to 
+local wildlife management authorities and other entities in the ranges 
+states to conserve and rebuild great ape populations. This is important 
+because without the cooperation and commitment of the range states and 
+the local communities, conservation efforts cannot be successful.
+  H.R. 4320 is supported by the Administration and a broad range of 
+interest groups, and I hope Members can support its passage today.
+  Mr. SAXTON. Mr. Speaker, I rise in strong support of H.R. 4320, the 
+Great Ape Conservation Act, and I compliment the author.
+  Today, great apes face multiple threats to their very survival. These 
+include habitat destruction, civil wars, and an explosion in the 
+devastating illegal hunting of apes for the commercial enterprise known 
+as bushmeat trade. Unless immediate steps are taken, these magnificent 
+animals will continue their slide toward extinction. We must not allow 
+that to occur.
+  This legislation would continue the successful partnership 
+established by the African Elephant Conservation Act by creating the 
+Great Ape Conservation Fund, which would make grant money available to 
+assist range state governments and nongovernmental organizations 
+involved in the front-line battles to protect great apes.
+  These monies will complement established programs and, at the same 
+time, leverage additional financial support from other organizations.
+  Mr. Speaker, great apes--defined as gorillas, orangutans, 
+chimpanzees, bonobos, and gibbons--are listed both as endangered under 
+the Endangered Species Act and Appendix I under CITES. In fact, one 
+subspecies of gorilla--the mountain gorilla--made famous by the movie, 
+``Gorillas in the Mist,'' has been decimated to less than 700 animals, 
+making it more endangered than the giant panda.
+  These grand animals--with whom we share 98 percent of our genetic 
+material--deserve our help.
+
+[[Page H6960]]
+
+  This bill is supported by the administration and by a diverse group 
+of conservation leaders, including the American Zoo and Aquarium 
+Association, World Wildlife Fund, Wildlife Conservation Society, and 
+many other organizations.
+  H.R. 4320 is noncontroversial and should be supported by all Members.
+  I urge an ``aye'' vote on this important conservation legislation.
+  Mr. GEORGE MILLER of California. Mr. Speaker, I have no further 
+requests for time, and I yield back the balance of my time.
+  Mr. HANSEN. Mr. Speaker, I have no further requests for time, and I 
+yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Utah (Mr. Hansen) that the House suspend the rules and 
+pass the bill, H.R. 4320, as amended.
+  The question was taken; and (two-thirds having voted in favor 
+thereof) the rules were suspended and the bill, as amended, was passed.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
