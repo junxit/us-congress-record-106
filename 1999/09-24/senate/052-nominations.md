@@ -1,0 +1,27 @@
+---
+granule: CRECB-1999-pt16-Pg22626-2
+date: 1999-09-24
+edition: CRECB
+section: SENATE
+page: 22626
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate September 24, 1999:
+
+
+                DEFENSE NUCLEAR FACILITIES SAFETY BOARD
+
+       A.J. EGGENBERGER, OF MONTANA, TO BE A MEMBER OF THE DEFENSE 
+     NUCLEAR FACILITIES SAFETY BOARD FOR A TERM EXPIRING OCTOBER 
+     18, 2003. (REAPPOINTMENT)
+       JESSIE M. ROBERSON, OF ALABAMA, TO BE A MEMBER OF THE 
+     DEFENSE NUCLEAR FACILITIES SAFETY BOARD FOR A TERM EXPIRING 
+     OCTOBER 18, 2002, VICE HERBERT KOUTS, TERM EXPIRED.
+
+                          ____________________
+```
