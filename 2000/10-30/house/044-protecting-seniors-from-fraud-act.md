@@ -1,0 +1,306 @@
+---
+granule: CRECB-2000-pt17-Pg25563
+date: 2000-10-30
+edition: CRECB
+section: HOUSE
+page: 25563
+---
+
+# PROTECTING SENIORS FROM FRAUD ACT
+
+```
+                   PROTECTING SENIORS FROM FRAUD ACT
+
+  Mr. BACHUS. Mr. Speaker, I move to suspend the rules and pass the 
+Senate bill (S. 3164) to protect seniors from fraud.
+  The Clerk read as follows:
+
+                                S. 3164
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Protecting Seniors From 
+     Fraud Act''.
+
+     SEC. 2. FINDINGS.
+
+       Congress makes the following findings:
+       (1) Older Americans are among the most rapidly growing 
+     segments of our society.
+       (2) Our Nation's elderly are too frequently the victims of 
+     violent crime, property crime, and consumer and telemarketing 
+     fraud.
+       (3) The elderly are often targeted and retargeted in a 
+     range of fraudulent schemes.
+       (4) The TRIAD program, originally sponsored by the National 
+     Sheriffs' Association, International Association of Chiefs of 
+     Police, and the American Association of Retired Persons 
+     unites sheriffs, police chiefs, senior volunteers, elder care 
+     providers, families, and seniors to reduce the criminal 
+     victimization of the elderly.
+       (5) Congress should continue to support TRIAD and similar 
+     community partnerships that improve the safety and quality of 
+     life for millions of senior citizens.
+       (6) There are few other community-based efforts that forge 
+     partnerships to coordinate criminal justice and social 
+     service resources to improve the safety and security of the 
+     elderly.
+       (7) According to the National Consumers League, 
+     telemarketing fraud costs consumers nearly $40,000,000,000 
+     each year.
+       (8) Senior citizens are often the target of telemarketing 
+     fraud.
+       (9) Fraudulent telemarketers compile the names of consumers 
+     who are potentially vulnerable to telemarketing fraud into 
+     the so-called ``mooch lists''.
+       (10) It is estimated that 56 percent of the names on such 
+     ``mooch lists'' are individuals age 50 or older.
+       (11) The Federal Bureau of Investigation and the Federal 
+     Trade Commission have provided resources to assist private-
+     sector organizations to operate outreach programs to warn 
+     senior citizens whose names appear on confiscated ``mooch 
+     lists''.
+       (12) The Administration on Aging was formed, in part, to 
+     provide senior citizens with the resources, information, and 
+     assistance their special circumstances require.
+       (13) The Administration on Aging has a system in place to 
+     inform senior citizens of the dangers of telemarketing fraud.
+       (14) Senior citizens need to be warned of the dangers of 
+     telemarketing fraud before they become victims of such fraud.
+
+     SEC. 3. SENIOR FRAUD PREVENTION PROGRAM.
+
+       (a) Authorization of Appropriations.--There is authorized 
+     to be appropriated to the Attorney General $1,000,000 for 
+     each of the fiscal years 2001 through 2005 for programs for 
+     the National Association of TRIAD.
+       (b) Comptroller General.--The Comptroller General of the 
+     United States shall submit to Congress a report on the 
+     effectiveness of the TRIAD program 180 days prior to the 
+     expiration of the authorization under this Act, including an 
+     analysis of TRIAD programs and activities; identification of 
+     impediments to the establishment of TRIADS across the Nation; 
+     and recommendations to improve the effectiveness of the TRIAD 
+     program.
+
+     SEC. 4. DISSEMINATION OF INFORMATION.
+
+       (a) In General.--The Secretary of Health and Human 
+     Services, acting through the Assistant Secretary of Health 
+     and Human Services for Aging, shall provide to the Attorney 
+     General of each State and publicly disseminate in each State, 
+     including dissemination to area agencies on aging, 
+     information designed to educate senior citizens and raise 
+     awareness about the dangers of fraud, including telemarketing 
+     and sweepstakes fraud.
+       (b) Information.--In carrying out subsection (a), the 
+     Secretary shall--
+       (1) inform senior citizens of the prevalence of 
+     telemarketing and sweepstakes fraud targeted against them;
+       (2) inform senior citizens how telemarketing and 
+     sweepstakes fraud work;
+       (3) inform senior citizens how to identify telemarketing 
+     and sweepstakes fraud;
+       (4) inform senior citizens how to protect themselves 
+     against telemarketing and sweepstakes fraud, including an 
+     explanation of the dangers of providing bank account, credit 
+     card, or other financial or personal information over the 
+     telephone to unsolicited callers;
+       (5) inform senior citizens how to report suspected attempts 
+     at or acts of fraud;
+       (6) inform senior citizens of their consumer protection 
+     rights under Federal law; and
+       (7) provide such other information as the Secretary 
+     considers necessary to protect senior citizens against 
+     fraudulent telemarketing and sweepstakes promotions.
+       (c) Means of Dissemination.--The Secretary shall determine 
+     the means to disseminate information under this section. In 
+     making such determination, the Secretary shall consider--
+       (1) public service announcements;
+       (2) a printed manual or pamphlet;
+       (3) an Internet website;
+       (4) direct mailings; and
+       (5) telephone outreach to individuals whose names appear on 
+     so-called ``mooch lists'' confiscated from fraudulent 
+     marketers.
+       (d) Priority.--In disseminating information under this 
+     section, the Secretary shall give priority to areas with high 
+     incidents of fraud against senior citizens.
+
+     SEC. 5. STUDY OF CRIMES AGAINST SENIORS.
+
+       (a) In General.--The Attorney General shall conduct a study 
+     relating to crimes against seniors, in order to assist in 
+     developing new strategies to prevent and otherwise reduce the 
+     incidence of those crimes.
+
+[[Page 25564]]
+
+       (b) Issues Addressed.--The study conducted under this 
+     section shall include an analysis of--
+       (1) the nature and type of crimes perpetrated against 
+     seniors, with special focus on--
+       (A) the most common types of crimes that affect seniors;
+       (B) the nature and extent of telemarketing, sweepstakes, 
+     and repair fraud against seniors; and
+       (C) the nature and extent of financial and material fraud 
+     targeted at seniors;
+       (2) the risk factors associated with seniors who have been 
+     victimized;
+       (3) the manner in which the Federal and State criminal 
+     justice systems respond to crimes against seniors;
+       (4) the feasibility of States establishing and maintaining 
+     a centralized computer database on the incidence of crimes 
+     against seniors that will promote the uniform identification 
+     and reporting of such crimes;
+       (5) the effectiveness of damage awards in court actions and 
+     other means by which seniors receive reimbursement and other 
+     damages after fraud has been established; and
+       (6) other effective ways to prevent or reduce the 
+     occurrence of crimes against seniors.
+
+     SEC. 6. INCLUSION OF SENIORS IN NATIONAL CRIME VICTIMIZATION 
+                   SURVEY.
+
+       Beginning not later than 2 years after the date of 
+     enactment of this Act, as part of each National Crime 
+     Victimization Survey, the Attorney General shall include 
+     statistics relating to--
+       (1) crimes targeting or disproportionately affecting 
+     seniors;
+       (2) crime risk factors for seniors, including the times and 
+     locations at which crimes victimizing seniors are most likely 
+     to occur; and
+       (3) specific characteristics of the victims of crimes who 
+     are seniors, including age, gender, race or ethnicity, and 
+     socioeconomic status.
+
+     SEC. 7. STATE AND LOCAL GOVERNMENT OUTREACH.
+
+       It is the sense of Congress that State and local 
+     governments should fully incorporate fraud avoidance 
+     information and programs into programs that provide 
+     assistance to the aging.
+
+  The SPEAKER pro tempore (Mr. Barrett of Nebraska). Pursuant to the 
+rule, the gentleman from Alabama (Mr. Bachus) and the gentleman from 
+Virginia (Mr. Scott) each will control 20 minutes.
+  The Chair recognizes the gentleman from Alabama (Mr. Bachus).
+
+
+                             General Leave
+
+  Mr. BACHUS. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days within which to revise and extend their remarks 
+and to include extraneous material on S. 3164.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Alabama?
+  There was no objection.
+  Mr. BACHUS. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, this is Senate bill 3164, titled ``Protecting Seniors 
+From Fraud Act.'' It was introduced by Senators Evan Bayh and Rod Grams 
+and passed the other body unanimously on October 25.
+  The bill will provide funding to local programs that are a part of 
+the National Association of TRIADs, a community policing program that 
+partners law enforcement agencies with senior citizen volunteers to 
+help reduce fraud and other crime especially against the elderly. There 
+are 725 countries with TRIADs nationwide which help more than 16 
+million of our seniors.
+  Mr. Speaker, American seniors are disproportionately victims of 
+telemarketing and sweepstakes fraud. Even though Americans over the age 
+of 50 account for only 27 percent of the United States population, they 
+comprise 56 percent of the so-called ``mooch lists'' used by fraudulent 
+telemarketers. Unfortunately, fraudulent telemarketers prey upon 
+trusting seniors who by their nature are often trusting and 
+compassionate individuals.
+  As a result, seniors in our country lose approximately $14.8 billion, 
+that is almost $15 billion, every year to fraudulent telemarketers.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. SCOTT. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, I rise in support of S. 3164, the Protecting Seniors 
+From Fraud Act. I would have preferred to have seen the bill developed 
+through the normal legislative process of hearings and markups at the 
+committee level so that we could have judged more fully the need that 
+we are seeking to address. However, I am prepared to support the bill 
+since its primary function is to reauthorize funding for the TRIAD 
+program, a proven community policing program that partners law 
+enforcement agencies with senior volunteers to reduce crime and fraud 
+amongst the elderly. The TRIAD program operates in 47 States and 725 
+counties and assists over 16 million seniors nationwide.
+  The bill also creates a clearinghouse for information to educate 
+seniors about the dangers of fraud, including telemarketing and 
+sweepstakes fraud. It requires the U.S. Attorney General to conduct a 
+study of crimes against seniors.
+  The bill requires the inclusion of seniors in the National Crime 
+Victims Survey, and it encourages State and local governments to fully 
+incorporate fraud avoidance information in their aging services 
+programs.
+  Seniors are often the target of telemarketing and sweepstakes fraud. 
+There are over 140,000 telemarketing firms operating in the United 
+States. The AARP estimates that about 10 percent of them, fully 14,000 
+firms, use fraudulent practices.
+  The FBI estimates that consumers lose about $40 billion a year to 
+telemarketing fraud. The AARP estimates that while seniors make up 
+about 27 percent of the United States population, they incur about 37 
+percent of the $40 billion loss.
+  Despite considerable efforts to address these issues in recent years, 
+many seniors are still not aware of these problems and of their rights 
+and protections against them. According to the AARP, Americans over 65 
+are the least likely to know about Federal protections from fraud.
+  Adopting this bill will allow us to continue the partnerships and 
+cooperative efforts with seniors and with State and local governments 
+to prevent and address senior fraud.
+  I want to thank the gentleman from Alabama (Mr. Bachus) for his 
+leadership on this bill. I urge my colleagues to support the bill.
+  Mr. Speaker, I yield back the balance of my time.
+  Mr. BACHUS. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, the crimes that the gentleman from Virginia (Mr. Scott) 
+spoke about, these crimes which cost our elderly citizens $15 billion a 
+year, many of them can be prevented if seniors are educated about their 
+consumer rights and if they are informed about methods available to 
+them to confirm the legitimacy of an investment or product offered to 
+them over the telephone.
+  According to a national survey, 70 percent of older fraud victims say 
+it is difficult for them to identify when fraud is happening. Forty 
+percent of older Americans say that they have difficulty distinguishing 
+between a legitimate and a fraudulent telemarketing sales call.
+  There is definitely a need to educate seniors about the dangers of 
+fraud and how to avoid becoming a victim of fraud, and that is what 
+this legislation attempts to do. It addresses this problem by 
+authorizing a million dollars each year for 5 years to ensure the 
+continuation of programs which try to educate seniors.
+  The bill also requires the Secretary of Health and Human Services to 
+disseminate information to seniors on fraud prevention through the area 
+agencies on aging and other existing senior-focused programs.
+  The bill continues a provision which would require the statistics 
+concerning crime committed against seniors be included in the Annual 
+Crime Victims Survey performed by the Department of Justice and would 
+also require the Attorney General to conduct a specific study of crimes 
+committed against seniors.
+  In conclusion, let me say that protecting seniors from fraud is of 
+great importance to all of us. Our senior population continues to grow 
+as our population ages and more seniors are saving money for their 
+retirement, and anything this body can do to help them protect their 
+retirement income and retirement money is important.
+
+[[Page 25565]]
+
+  Our seniors deserve to know about those who would defraud them, and 
+this program will help inform them of various schemes and devices used 
+to defraud them. It has the strong support of the law enforcement 
+community, bipartisan support.
+  I urge all my colleagues to support this bipartisan legislation.
+  Mr. Speaker, I have no further requests for time, and I yield back 
+the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Alabama (Mr. Bachus) that the House suspend the rules 
+and pass the Senate bill, S. 3164.
+  The question was taken; and (two-thirds having voted in favor 
+thereof) the rules were suspended and the Senate bill was passed.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
