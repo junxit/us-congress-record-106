@@ -1,0 +1,24 @@
+---
+granule: CRECB-1999-pt5-Pg6132-4
+date: 1999-04-12
+edition: CRECB
+section: SENATE
+page: 6132
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive Nominations Confirmed by the Senate April 12, 1999:
+
+
+                         DEPARTMENT OF JUSTICE
+
+       THOMAS LEE STRICKLAND, OF COLORADO, TO BE UNITED STATES 
+     ATTORNEY FOR THE DISTRICT OF COLORADO FOR THE TERM OF FOUR 
+     YEARS.
+       CARL SCHNEE, OF DELAWARE, TO BE UNITED STATES ATTORNEY FOR 
+     THE DISTRICT OF DELAWARE FOR THE TERM OF FOUR YEARS.
+```
