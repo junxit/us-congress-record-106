@@ -1,0 +1,32 @@
+---
+granule: CRECB-2000-pt17-Pg24913-6
+date: 2000-10-26
+edition: CRECB
+section: HOUSE
+page: 24913
+---
+
+# WE HAVE NOT DONE OUR WORK
+
+```
+                       WE HAVE NOT DONE OUR WORK
+
+  (Mr. LEWIS of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks).
+  Mr. LEWIS of Georgia. Mr. Speaker, we have not done our work. The 
+Republican-controlled Congress has not finished its work.
+  Where is the Patients' Bill of Rights?
+  Where is the prescription drug benefit?
+  Where is the minimum wage legislation?
+  Where are the 100,000 new teachers?
+  Where is the new school construction?
+  Where is the juvenile justice bill?
+  The majority party has not done its work. We have not been fair to 
+the American people. They deserve better. They need our help and 
+Congress has done nothing. We are nearing the end of another do-nothing 
+Congress that has not done anything for the American people.
+  We should be ashamed to leave this place, ashamed to end this 
+Congress until we finish the people's agenda.
+
+                          ____________________
+```
