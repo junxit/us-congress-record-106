@@ -1,0 +1,25 @@
+---
+granule: CRECB-2000-pt8-Pg11130-3
+date: 2000-06-15
+edition: CRECB
+section: HOUSE
+page: 11130
+---
+
+# ENROLLED BILL SIGNED
+
+```
+                          ENROLLED BILL SIGNED
+
+  Mr. THOMAS, from the Committee on House Administration, reported that 
+that committee had examined and found truly enrolled a bill of the 
+House of the following title, which was thereupon signed by the 
+Speaker:
+
+       H.R. 4387. An act to provide that the School Governance 
+     Charter Amendment Act of 2000 shall take effect upon the date 
+     such Act is ratified by the voters of the District of 
+     Columbia.
+
+                          ____________________
+```
