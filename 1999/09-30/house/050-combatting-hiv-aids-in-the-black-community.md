@@ -1,0 +1,93 @@
+---
+granule: CRECB-1999-pt16-Pg23401-2
+date: 1999-09-30
+edition: CRECB
+section: HOUSE
+page: 23401
+---
+
+# COMBATTING HIV/AIDS IN THE BLACK COMMUNITY
+
+```
+               COMBATTING HIV/AIDS IN THE BLACK COMMUNITY
+
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentlewoman from California (Ms. Waters) is recognized for 5 minutes.
+
+  Ms. WATERS. Mr. Speaker, I join with the gentlewoman from California 
+(Ms. Lee) and others who are attempting to work at doing something 
+about the problem of HIV/AIDS in the black community. Mr. Speaker, we 
+have spent over a year working in a very concentrated way on trying to 
+garner the resources and redirect them to communities that are highly 
+at risk but have not had the resources follow the crisis.
+
+  Under my leadership as Chair of the Congressional Black Caucus last 
+year, we organized an initiative where we were able to identify 
+tremendous resources to begin to do what needed to be done. We 
+discovered a number of things, Mr. Speaker. We discovered that the 
+resources of government were not following the AIDS crisis because the 
+face of the new AIDS had not been unveiled sufficiently in this Nation. 
+Most people still think of AIDS as a white gay disease. It is not. It 
+is not a white gay disease. If there is anything that I can share with 
+you today, it is that the gay community has done a wonderful job in, 
+number one, doing outreach, education and prevention and getting people 
+involved in the new therapies that are causing them to have a better 
+quality of life and being able to go back into the workplace. We need 
+to follow that example. It certainly can be done.
+
+  What do we find when we look at the African-American community? We 
+find, of course, that it is the leading cause of death for African 
+Americans between the ages of 25 and 44. What do we find when we look 
+at African-American women? We find that in the new AIDS cases, we are 
+30 percent of that population. We also find that we are infected 16 
+times more than white women. And so we see this increase, we see this 
+crisis, we see this emergency, and we are trying to get everyone to 
+understand that it is indeed an emergency, it is indeed an emergency 
+that
+
+[[Page 23402]]
+
+we can do something about. And we need to continue to get the dollars 
+to flow into outreach and education and research and therapy, all of 
+those things that will help our community to do what can be done to 
+stop the escalation of HIV and AIDS infection.
+
+  And so we got the $156 million and the RFPs went out and the 
+responses came back and now we have community groups accessing dollars 
+to do the kind of work that they so desperately have wanted to do that 
+we have not given them the support for. They are saying to us, we have 
+got to build and expand capacity, we have got to get more providers, we 
+have got to make sure that we are doing the kind of creative outreach 
+and education to get with that young population out there who we still 
+have not been able to infiltrate. And so they are beginning to see that 
+they can do these things and they can do them better.
+  Let us not stop now. Let us take the initiative that has been put 
+together by the gentlewoman from the Virgin Islands (Mrs. Christensen) 
+and others who are leading us in the Congressional Black Caucus to keep 
+the resources moving. Let us take this opportunity to be on top of and 
+in front of this funding so that we do not find ourselves having gotten 
+$156 million, having the proposals responded to and people beginning to 
+do the work and all of a sudden cut off because more money is not 
+following. I think we can do that.
+
+  I am here today to add my voice to the efforts of the gentlewoman 
+from California (Ms. Lee) and the gentlewoman from the Virgin Islands 
+(Mrs. Christensen) and others who are working so hard to garner these 
+resources.
+
+  Let me just say that the gentlewoman from Oakland, CA (Ms. Lee) got 
+her county to declare the emergency that exists there. My county in Los 
+Angeles was slow but they finally did it. They finally looked at the 
+data, the statistics, and they finally understood that they should have 
+done this a long time ago, that in Los Angeles County we have not done 
+what could have been done. And so we have got a lot to straighten out 
+in Los Angeles County. We have got to redo the entire process. We have 
+got to make sure that our organization with its task forces and its RFP 
+responsibilities, all of that, are done in such a way that the 
+resources will get to where they must go.
+
+  Mr. Speaker, we will be back to talk a lot more about what must be 
+done.
+
+                          ____________________
+```
