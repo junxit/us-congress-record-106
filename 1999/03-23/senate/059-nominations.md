@@ -1,0 +1,33 @@
+---
+granule: CRECB-1999-pt4-Pg5242-2
+date: 1999-03-23
+edition: CRECB
+section: SENATE
+page: 5242
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate March 23, 1999:
+
+
+            OCCUPATIONAL SAFETY AND HEALTH REVIEW COMMISSION
+
+       GARY L. VISSCHER, OF MARYLAND, TO BE A MEMBER OF THE 
+     OCCUPATIONAL SAFETY AND HEALTH REVIEW COMMISSION FOR A TERM 
+     EXPIRING APRIL 27, 2001, VICE DANIEL GUTTMAN.
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                          To be major general
+
+BRIG. GEN. ROBERT A. HARDING
+```
