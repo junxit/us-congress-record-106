@@ -1,0 +1,62 @@
+---
+granule: CREC-2000-12-07-pt1-PgS11739-6
+date: 2000-12-07
+edition: CREC
+section: SENATE
+page: S11739
+citation: 146 Cong. Rec. S11739
+---
+
+# SENATE RESOLUTION 385--CONGRATULATING THE REVEREND CLAY EVANS OF CHICAGO, IL, ON THE OCCASION OF HIS RETIREMENT
+
+**Measures:** S.Res. 385, S.Res. 395
+
+```
+   SENATE RESOLUTION 385--CONGRATULATING THE REVEREND CLAY EVANS OF 
+             CHICAGO, IL, ON THE OCCASION OF HIS RETIREMENT
+
+  Mr. DURBIN (for himself and Mr. Fitzgerald) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 395
+
+       Whereas Reverend Clay Evans was ordained as a Baptist 
+     minister 50 years ago, in 1950, and founded and served as the 
+     Pastor of the Fellowship Missionary Baptist Church in 
+     Chicago, Illinois, for 49 years;
+       Whereas Reverend Evans has been happily married to Lutha 
+     Mae Hollinshed Evans for over 50 years, and with her is the 
+     proud parent of five children;
+       Whereas Reverend Evans has been responsible for helping 
+     launch the ministerial careers of 93 individuals, including 6 
+     female ministers;
+       Whereas Reverend Evans received Honorary Doctorate of 
+     Divinity Degrees from Arkansas Baptist College and Brewster 
+     Theological Clinic and School of Religion;
+       Whereas Reverend Evans has been an active participant in 
+     the Civil Rights Movement since 1965;
+       Whereas Reverend Evans is the founding National Board 
+     Chairman of Operation P.U.S.H. and currently serves as its 
+     Chairman Emeritus;
+       Whereas Reverend Evans is Founding President of the 
+     Broadcast Ministers Alliance of Chicago, Founding President 
+     of the African American Religious Connection, Trustee Board 
+     Chairman of Chicago Baptist Institute, and Board member of 
+     the National Baptist Covention, U.S.A., Inc.;
+       Whereas Reverend Evans is a featured soloist on numerous 
+     albums of the 250 Voice Choir of Fellowship Missionary 
+     Baptist Church and 1996 Stellar Award winner of the #1 Gospel 
+     Album ``I've Got a Testimony'';
+       Whereas Reverend Evans authored a 1992 autobiographical 
+     book, ``From Plough Handle to Pulpit,'' which sold thousands 
+     of copies and was rewritten in 1997; Now, therefore, be it
+       Resolved, That the Senate--
+       (1) congratulates the Reverend Clay Evans on his retirement 
+     as Pastor of the Fellowship Missionary Baptist Church;
+       (2) acknowledges the affection that Reverend Evans' 
+     congregation shares for him; and
+       (3) extends its best wishes to Reverend Evans and his 
+     family on the occasion of his retirement.
+
+                          ____________________
+```

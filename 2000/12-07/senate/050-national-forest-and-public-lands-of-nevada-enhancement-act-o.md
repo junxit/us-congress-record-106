@@ -1,0 +1,74 @@
+---
+granule: CREC-2000-12-07-pt1-PgS11741
+date: 2000-12-07
+edition: CREC
+section: SENATE
+page: S11741
+citation: 146 Cong. Rec. S11741
+---
+
+# NATIONAL FOREST AND PUBLIC LANDS OF NEVADA ENHANCEMENT ACT OF 1988 AMENDMENTS AND BOUNDARY ADJUSTMENT OF THE TOIYABE NATIONAL FOREST
+
+**Speaking:** Hagel, Chuck (H001028) [R-NE]
+
+**Measures:** S. 439
+
+```
+  NATIONAL FOREST AND PUBLIC LANDS OF NEVADA ENHANCEMENT ACT OF 1988 
+   AMENDMENTS AND BOUNDARY ADJUSTMENT OF THE TOIYABE NATIONAL FOREST
+
+  Mr. HAGEL. Mr. President, I ask that the Chair lay before the Senate 
+a message from the House of Representatives on the bill (S. 439).
+  The PRESIDING OFFICER laid before the Senate the following message 
+from the House of Representatives:
+
+       Resolved, That the bill from the Senate (S. 439) entitled 
+     ``An Act to amend the National Forest and Public Lands of 
+     Nevada Enhancement Act of 1988 to adjust the boundary of the 
+     Toiyabe National Forest, Nevada'', do pass with the following 
+     amendments:
+       Strike out all after the enacting clause and insert:
+
+     SECTION 1. ADJUSTMENT OF BOUNDARY OF THE TOIYABE NATIONAL 
+                   FOREST, NEVADA.
+
+       Section 4(a) of the National Forest and Public Lands of 
+     Nevada Enhancement Act of 1988 (102 Stat. 2750) is amended--
+       (1) by striking ``Effective'' and inserting ``(1) 
+     Effective''; and
+       (2) by adding at the end the following:
+       ``(2) Effective on the date of enactment of this paragraph, 
+     the portion of the land transferred to the Secretary of 
+     Agriculture under paragraph (1) situated between the lines 
+     marked `Old Forest Boundary' and `Revised National Forest 
+     Boundary' on the map entitled `Nevada Interchange ``A'', 
+     Change 1', and dated September 16, 1998, is transferred to 
+     the Secretary of the Interior.''.
+
+     SEC. 2. OVERTIME PAY FOR CERTAIN FIREFIGHTERS.
+
+       (a) In General.--Section 5542(a) of title 5, United States 
+     Code, is amended by adding at the end the following:
+       ``(5) Notwithstanding paragraphs (1) and (2), for an 
+     employee of the Department of the Interior or the United 
+     States Forest Service in the Department of Agriculture 
+     engaged in emergency wildland fire suppression activities, 
+     the overtime hourly rate of pay is an amount equal to one and 
+     one-half times the hourly rate of basic pay of the employee, 
+     and all that amount is premium pay.''.
+       (b) Effective Date.--The amendments made by this section 
+     shall take effect on the first day of the first applicable 
+     pay period beginning on or after the end of the 30-day period 
+     beginning on the date of the enactment of this Act, and shall 
+     apply only to funds appropriated after the date of the 
+     enactment of this Act.
+       Amend the title so as to read ``An Act to amend the 
+     National Forest and Public Lands of Nevada Enhancement Act of 
+     1988 to adjust the boundary of the Toiyabe National Forest, 
+     Nevada, and to amend chapter 55 of title 5, United States 
+     Code, to authorize equal overtime pay provisions for all 
+     Federal employees engaged in wildland fire suppression 
+     operations.''.
+
+                          ____________________
+```
