@@ -1,0 +1,42 @@
+---
+granule: CREC-2000-12-04-pt1-PgE2116-2
+date: 2000-12-04
+edition: CREC
+section: EXTENSIONS
+page: E2116
+citation: 146 Cong. Rec. E2116
+---
+
+# CONGRATULATING URSULINE IRISH HIGH SCHOOL
+
+**Speaking:** Traficant, James A., Jr. (T000350) [D-OH]
+
+```
+               CONGRATULATING URSULINE IRISH HIGH SCHOOL
+
+                                 ______
+                                 
+
+                      HON. JAMES A. TRAFICANT, JR.
+
+                                of ohio
+
+                    in the house of representatives
+
+                        Monday, December 4, 2000
+
+  Mr. TRAFICANT. Mr. Speaker, today I want to congratulate the Ursuline 
+Irish High School Football Team and Coach Jim Vivo on their first 
+Division IV State Championship. The Irish defeated Coldwater, at 
+Fawcett Stadium, with a 49-37 victory.
+  The Irish broke ten championship game records and tied one. Running 
+backs Delbert Ferguson (freshman) and Terrance Graves (sophmore) 
+combined for 499 yards and seven touchdowns.
+  The team went 9-1 in the regular season and 14-1 overall to win the 
+state title. I would like to extend my congratulations to Coach Jim 
+Vivo, the Ursuline Irish Football Team, Principal Pat Fleming and the 
+students of Ursuline High School as they celebrate this memorable 
+achievement.
+
+                          ____________________
+```
