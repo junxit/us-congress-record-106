@@ -1,0 +1,28 @@
+---
+granule: CREC-1999-10-07-pt1-PgH9639-2
+date: 1999-10-07
+edition: CREC
+section: HOUSE
+page: H9639
+citation: 145 Cong. Rec. H9639
+---
+
+# REPORT ON H.R. 3037, DEPARTMENTS OF LABOR, HEALTH AND HUMAN SERVICES, AND EDUCATION, AND RELATED AGENCIES APPROPRIATIONS ACT, 2000
+
+**Measures:** H.R. 3037
+
+```
+ REPORT ON H.R. 3037, DEPARTMENTS OF LABOR, HEALTH AND HUMAN SERVICES, 
+      AND EDUCATION, AND RELATED AGENCIES APPROPRIATIONS ACT, 2000
+
+  Mr. YOUNG of Florida, from the Committee on Appropriations, submitted 
+a privileged report (Rept. No. 106-370) on the bill (H.R. 3037) making 
+appropriations for the Departments of Labor, Health and Human Services, 
+and Education, and related agencies for the fiscal year ending 
+September 30, 2000, and for other purposes, which was referred to the 
+Union Calendar and ordered to be printed.
+  The SPEAKER pro tempore. Pursuant to clause 1, rule XXI, all points 
+of order are reserved on the bill.
+
+                          ____________________
+```
