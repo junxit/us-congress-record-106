@@ -1,0 +1,23 @@
+---
+granule: CREC-2000-01-27-pt1-PgS107-2
+date: 2000-01-27
+edition: CREC
+section: SENATE
+page: S107
+citation: 146 Cong. Rec. S107
+---
+
+# PLEDGE OF ALLEGIANCE
+
+```
+                          PLEDGE OF ALLEGIANCE
+
+  The Honorable CHUCK HAGEL, a Senator from the State of Nebraska, led 
+the Pledge of Allegiance as follows:
+
+       I pledge allegiance to the Flag of the United States of 
+     America, and to the Republic for which it stands, one nation 
+     under God, indivisible, with liberty and justice for all.
+
+                          ____________________
+```
