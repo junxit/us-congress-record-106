@@ -1,0 +1,18 @@
+---
+granule: CREC-1999-09-09-pt1-PgH8001-5
+date: 1999-09-09
+edition: CREC
+section: HOUSE
+page: H8001
+citation: 145 Cong. Rec. H8001
+---
+
+# ANNOUNCEMENT BY THE SPEAKER
+
+```
+                      ANNOUNCEMENT BY THE SPEAKER
+
+  The SPEAKER. The Chair will entertain 15 1-minutes on each side.
+
+                          ____________________
+```
