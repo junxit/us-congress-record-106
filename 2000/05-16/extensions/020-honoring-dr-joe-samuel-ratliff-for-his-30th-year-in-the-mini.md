@@ -1,0 +1,64 @@
+---
+granule: CRECB-2000-pt6-Pg8348-2
+date: 2000-05-16
+edition: CRECB
+section: EXTENSIONS
+page: 8348
+---
+
+# HONORING DR. JOE SAMUEL RATLIFF FOR HIS 30TH YEAR IN THE MINISTRY
+
+```
+   HONORING DR. JOE SAMUEL RATLIFF FOR HIS 30TH YEAR IN THE MINISTRY
+
+                                 ______
+                                 
+
+                        HON. SHEILA JACKSON-LEE
+
+                                of texas
+
+                    in the house of representatives
+
+                         Tuesday, May 16, 2000
+
+  Ms. JACKSON-LEE of Texas. Mr. Speaker, it is an honor for me to rise 
+before you today to recognize the achievements of Dr. Joe Samuel 
+Ratliff, of Brentwood Baptist Church. Tomorrow, on Wednesday, May 17, 
+2000, the congregation of Brentwood Baptist Church will honor Pastor 
+Ratliff for the many contributions he has made over the last 30 years 
+in the name of the Lord.
+  Dr. Joe Samuel Ratliff, a native of Lumberton, North Carolina, 
+received his Bachelor of Arts in History, from Morehouse College, 
+Atlanta, Georgia. He received both the Doctorate of Ministry and 
+Doctorate of Divinity degrees from the Interdenominational Theological 
+Center in Atlanta, Georgia. He has done post-doctoral work at Harvard 
+University, Cambridge, Massachusetts.
+  It is difficult to imagine what the Houston community would be like 
+today had Dr. Ratliff not been called to become Pastor of Brentwood in 
+1980. We have been truly blessed to have a man with his sense of 
+dedication and selflessness among us. In 1993, Dr. Ratliff co-authored 
+the book, Church Planting in the African-American Community (Broadman 
+Press). He was named the first African-American Moderator of the Union 
+Baptist Association . . . the nation's largest urban Southern Baptist 
+body, consisting of 250,000 members in 1994. In March of 1997, his 
+portrait was hung in the Hall of Fame in the Martin Luther King, Jr. 
+International Chapel on the Morehouse College Campus. Under Pastor 
+Ratliff's leadership, the Brentwood family has grown to 10,000 strong 
+over the last 30 years.
+  Pastor Ratliff's time with the ministry has allowed him to develop a 
+strong support network that extends outside the church. Dr. Ratliff 
+currently serves as Chairman of the Board of Trustees of the Morehouse 
+School of Religion and Vice Chairman of the Board of Trustees of the 
+Interdenominational Theological Center. Dr. Ratliff is a life member of 
+Alpha Phi Alpha Fraternity, Inc. He is married to Mrs. Doris Gardner 
+Ratliff.
+  Mr. Speaker, it is with great pride that I ask you and my fellow 
+members of the 106th Congress to join me in saluting Pastor Joe Samuel 
+Ratliff. Self-evident is his lifelong journey to enhancing the dignity 
+and nurturing the spirits of all people. I am grateful that there are 
+people like that who serve as examples of what we all should strive to 
+be.
+
+                          ____________________
+```
