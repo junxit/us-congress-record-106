@@ -1,0 +1,55 @@
+---
+granule: CREC-2000-09-08-pt1-PgS8290-2
+date: 2000-09-08
+edition: CREC
+section: SENATE
+page: S8290
+citation: 146 Cong. Rec. S8290
+---
+
+# REPORTS OF COMMITTEES
+
+**Measures:** S. 1536, S. 1925, S. 2048, S. 2069, S. 2239, H.R. 4690
+
+```
+                         REPORTS OF COMMITTEES
+
+  The following reports of committees were submitted on September 7, 
+2000:
+
+       By Mr. JEFFORDS, from the Committee on Health, Education, 
+     Labor, and Pensions, with an amendment in the nature of a 
+     substitute:
+       S. 1536: A bill to amend the Older Americans Act of 1965 to 
+     extend authorizations of appropriations for programs under 
+     the Act, to modernize programs and services for older 
+     individuals, and for other purposes (Rept. No. 106-399).
+       By Mr. MURKOWSKI, from the Committee on Energy and Natural 
+     Resources, with amendment in the nature of a substitute:
+       S. 1925: A bill to promote environmental restoration around 
+     the Lake Tahoe basin (Rept. No. 106-400).
+       S. 2048: A bill to establish the San Rafael Western Legacy 
+     District in the State of Utah, and for other purposes: (Rept. 
+     No. 106-401).
+       By Mr. MURKOWSKI, from the Committee on Energy and Natural 
+     Resources, without amendment:
+       S. 2069: A bill to permit the conveyance of certain land in 
+     Powell, Wyoming (Rept. No. 106-402).
+       By Mr. MURKOWSKI, from the Committee on Energy and Natural 
+     Resources, with an amendment:
+       S. 2239: A bill to authorize the Bureau of Reclamation to 
+     provide cost sharing for the endangered fish recovery 
+     implementation programs for the Upper Colorado River and San 
+     Juan River basins (Rept. No. 106-403).
+
+  The following reports of committees were submitted today:
+
+       By Mr. GREGG, from the Committee on Appropriations:
+       Report to accompany H.R. 4690, a bill making appropriations 
+     for the Departments of Commerce, Justice, and State, the 
+     Judiciary, and related agencies for the fiscal year ending 
+     September 30, 2001, and for other purposes (Rept. No. 106-
+     404).
+
+                          ____________________
+```
