@@ -1,0 +1,29 @@
+---
+granule: CRECB-2000-pt6-Pg8729
+date: 2000-05-22
+edition: CRECB
+section: HOUSE
+page: 8729
+---
+
+# GENERAL LEAVE
+
+```
+                             GENERAL LEAVE
+
+  Mr. GOSS. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days within which to revise and extend their remarks 
+on the bill (H.R. 4392) to authorize appropriations for fiscal year 
+2001 for intelligence and intelligence-related activities of the United 
+States Government, the Community Management Account, and the Central 
+Intelligence Agency Retirement and Disability System, and for other 
+purposes, and that I may include tabular and other extraneous material.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Florida?
+  There was no objection.
+
+
+
+
+                          ____________________
+```
