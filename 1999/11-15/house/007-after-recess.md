@@ -1,0 +1,20 @@
+---
+granule: CRECB-1999-pt20-Pg29671-8
+date: 1999-11-15
+edition: CRECB
+section: HOUSE
+page: 29671
+---
+
+# AFTER RECESS
+
+```
+                              {time}  2246
+
+                              AFTER RECESS
+
+  The recess having expired, the House was called to order by the 
+Speaker pro tempore (Mr. Dreier) at 10 o'clock and 46 minutes p.m.
+
+                          ____________________
+```
