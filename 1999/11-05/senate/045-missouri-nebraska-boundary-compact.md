@@ -1,0 +1,38 @@
+---
+granule: CRECB-1999-pt20-Pg28853-2
+date: 1999-11-05
+edition: CRECB
+section: SENATE
+page: 28853
+---
+
+# MISSOURI-NEBRASKA BOUNDARY COMPACT
+
+```
+                   MISSOURI-NEBRASKA BOUNDARY COMPACT
+
+  Mr. DOMENICI. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of Calendar No. 389, H.J. Res. 
+54.
+  The PRESIDING OFFICER. The clerk will report the joint resolution by 
+title.
+
+[[Page 28854]]
+
+  The assistant legislative clerk read as follows:
+
+       A joint resolution (H.J. Res. 54) granting the consent of 
+     Congress to the Missouri-Nebraska Boundary Compact.
+
+  There being no objection, the Senate proceeded to consider the joint 
+resolution.
+  Mr. DOMENICI. Mr. President, I ask unanimous consent that the joint 
+resolution be read a third time and passed, the motion to reconsider be 
+laid upon the table, and any statements relating to the resolution be 
+printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The joint resolution (H.J. Res. 54) was read the third time and 
+passed.
+
+                          ____________________
+```
