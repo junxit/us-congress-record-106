@@ -1,0 +1,294 @@
+---
+granule: CREC-2000-05-03-pt1-PgS3322
+date: 2000-05-03
+edition: CREC
+section: SENATE
+page: S3322
+citation: 146 Cong. Rec. S3322
+---
+
+# DAVID MAHONEY
+
+**Speaking:** Stevens, Ted (S000888) [R-AK], Dodd, Christopher J. (D000388) [D-CT]
+
+```
+                             DAVID MAHONEY
+
+  Mr. STEVENS. Mr. President, our Nation has lost one of the great and 
+modest men of our time, David Mahoney. A man who will receive 
+posthumously one of the highest awards the medical community can bestow 
+on a layman--the first Mary Woodard Lasker leadership in Philanthropy 
+Award for ``visionary leadership'' from the Albert and Mary Lasker 
+Foundation on May 9.
+  David, through his generosity, with both his time and his money, 
+greatly expanded knowledge about the human brain, neuroscience, and the 
+connection between body and brain which is helping people lead longer, 
+healthier lives.
+  He led us through the ``Decade of the Brain'' and used his 
+extraordinary marketing and public relations skills to foster awareness 
+in Congress and our people of the importance of medical research and 
+brain research in particular.
+  From his humble beginnings in the Bronx, my friend served as an 
+infantry captain in World War II and then attended the Wharton School 
+at the University of Pennsylvania while working full time in the mail 
+room of an advertising agency.
+  David's talents did not stay hidden for long; by the time he was 25, 
+he had become the youngest vice president of an advertising agency on 
+Madison Avenue.
+  He went on from there to form his own agency in New York and then
+
+[[Page S3323]]
+
+began his climb through the corporate world, first running the good 
+Human Ice Cream Co., and rising to chief operating officer of Norton 
+Simon's various corporate holdings.
+  It was during his stewardship of Norton Simon, Inc., that I first met 
+David. My friend Norton Simon retired as president and CEO of Norton 
+Simon, Inc., in 1969 and selected David Mahoney to be the new leader of 
+his company.
+  He chose David because ``David was inspirational, tough, visionary, 
+and dangerous.'' David expanded the company and helped Norton Simon 
+build the world famous Norton Simon art collection, the greatest 
+personal art collection west of the Mississippi.
+  David wrote a book about his own life in business called Confessions 
+of a Street Smart Manager. David was a wonderful combination of street 
+smarts garnered from growing up in the Bronx, an education from the 
+Wharton School, and the Irish charm that could convince people to share 
+a dream and work to realize its value.
+  Just 2 years ago David authored another book, along with Dr. Richard 
+Restak, ``The Longevity Strategy--How To Live To 100 Using the Brain-
+Body Connection.''
+  David once said that ``God gave you intelligence so you could build 
+your intuition about what lies ahead.''
+  David Mahoney's second career and perhaps most lasting legacy was 
+with the Charles A. Dana Foundation where he served as its chairman 
+since 1977.
+  After leaving Norton Simon, he focused the attention of the Dana 
+Foundation on neuroscience research and helped the world's top 
+neuroscientists and researchers explain the importance of their 
+research to the general public and to funding agencies in the executive 
+branch and the Congress.
+  In 1992, he and Nobel Laureate Dr. James Watson launched the ``Decade 
+of the Brain'' with 10 specific objectives they believed might be 
+achievable by the end of the decade. That effort focused attention 
+better than ever before on understanding the basis for diseases of the 
+brain like Parkinson's and Alzheimer's and generated an unprecedented 
+level of support for neuroscience research.
+  David has become widely and justifiably credited as our foremost lay 
+advocate for neuroscience. While David had recently expressed some 
+frustration to me that those 10 ambitious goals had not yet been fully 
+achieved, through his efforts remarkable progress has been made in 
+understanding the human brain and the diseases that afflict it. I know 
+those goals will ultimately be met, and David Mahoney will be forever 
+remembered as the driving force behind this effort.
+  My friend David Mahoney and his wife Hillie have been close friends 
+of ours for many years. David and I celebrated our 75th birthdays, 
+which fell in the same year, and shared many memorable times. Catherine 
+and I will miss his wit and his wisdom and his leadership, but I will 
+continue to enjoy personal memories of our friendship and to be 
+grateful for his legacy of exploration into the workings of the human 
+brain.
+  Mr. President, the May 2, 2000, New York Times contained an excellent 
+obituary of David Mahoney, and I ask unanimous consent that it be 
+printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                 [From the New York Times, May 2, 2000]
+
+David Mahoney, a Business Executive and Neuroscience Advocate, Dies at 
+                                   76
+
+                          (By Eric Nagourney)
+
+       David Mahoney, a business leader who left behind the world 
+     of Good Humor, Canada Dry and Avis and threw himself behind a 
+     decidedly less conventional marketing campaign, promoting 
+     research into the brain, died yesterday at his home in Palm 
+     Beach, Fla. He was 76.
+       The cause was heart disease, friends said.
+       Mr. Mahoney, who believed that the study of the brain and 
+     its diseases had been shortchanged for far too long, was 
+     sometimes described as the foremost lay advocate of 
+     neuroscience. As chief executive of the Charles A. Dana 
+     Foundation, a medical philanthropic organization based in 
+     Manhattan, he prodded brain researchers to join forces, shed 
+     their traditional caution and reclusivity and engage the 
+     public imagination.
+       To achieve his goals, he brought to bear the power of 
+     philanthropy, personal persuasion and the connections he had 
+     made at the top of the corporate world.
+       Using his skills as a marketing executive, he worked 
+     closely with some of the world's top neuroscientists to teach 
+     them how to sell government officials holding the purse 
+     strings, as well as the average voter, on the value of their 
+     research. He pressed them to make specific public commitments 
+     to find treatments for diseases like Alzheimer's, Parkinson's 
+     and depression, rather than conduct just ``pure'' research.
+       ``People don't buy science solely,'' Mr. Mahoney said this 
+     year. ``They buy the results of, and the hope of, science.''
+       In 1992, aided by Dr. James D. Watson, who won the Nobel 
+     Prize as a co-discoverer of the structure of DNA, Mr. Mahoney 
+     founded the Dana Alliance for Brain Initiatives, a foundation 
+     organization of about 190 neuroscientists, including Dr. 
+     Watson and six other Nobel laureates, that works to educate 
+     the public about their field.
+       The same year, after taking over the 50-year-old Dana 
+     Foundation as chief executive, Mr. Mahoney began shifting it 
+     away from its traditional mission of supporting broader 
+     health and educational programs, and focused its grants 
+     almost exclusively on neuroscience. Since then, the 
+     foundation has given some $34 million to scientists working 
+     on brain research at more than 45 institutions.
+       Mr. Mahoney also dipped into his own fortune, giving 
+     millions of dollars to endow programs in neuroscience at 
+     Harvard and the University of Pennsylvania. Later this month, 
+     the Albert and Mary Lassker Foundation, which traditionally 
+     honors the most accomplished researchers, was to give him a 
+     newly created award for philanthropy.
+       ``He put his money where his mouth was,'' said Dr. Kay 
+     Redfield Jamison, a professor of psychiatry at Johns Hopkins 
+     University.
+       Mr. Mahoney's journey from businessman to devotee of one of 
+     the most esoteric fields of health was as unusual as it was 
+     unexpected.
+       David Joseph Mahoney Jr. was born in the Bronx on May 17, 
+     1923, the son of David J. Mahoney, a construction worker, and 
+     the former Loretta Cahill.
+       After serving as an infantry captain in the Pacific during 
+     World War II, he enrolled at the University of Pennsylvania's 
+     Wharton School. He studied at night, and during the day he 
+     worked 90 miles away in the mail room of a Manhattan 
+     advertising agency, Ruthrauff & Ryan. By the time he was 25, 
+     he had become a vice president of the agency--by some 
+     accounts, the youngest vice president on Madison Avenue at 
+     the time.
+       Then in 1951, in a move in keeping with the restlessness 
+     that characterized his business career, he left Ruthrauff & 
+     Ryan to form his own agency. Four years later, when his 
+     business was worth $2 million, he moved on again, selling it 
+     to run Good Humor, the ice-cream company that his small 
+     agency had managed to snare as a client.
+       Five years later, when Good Humor was sold, Mr. Mahoney 
+     became executive vice president of Colgate-Palmolive, then 
+     president of Canada Dry, and then, in 1969, president and 
+     chief operating officer of Norton Simon, formed from Canada 
+     Dry, Hunt Food and McCall's. Under Mr. Mahoney, Norton Simon 
+     grew into a $3 billion conglomerate that included Avis Rent A 
+     Car, Halston, Max Factor and the United Can Company.
+       Despite his charm, associates said, he had a short temper 
+     and an impatient manner that often sent subordinates packing. 
+     ``I burn people out,'' he once said in an interview, ``I'm 
+     intense, and I think that intensity is sometimes taken for 
+     anger.''
+       The public knew him as one of the first chief executives to 
+     go in front of the camera to promote his product, in this 
+     case, in the early 1980's for Avis rental cars, which Norton 
+     Simon had acquired under his tenure.
+       By all accounts, including his own, Mr. Mahoney was living 
+     on top of the world. He was one of the nation's top paid 
+     executives, receiving $1.85 million in compensation in 1982--
+     a fact that did not always endear him to some Norton Simon 
+     shareholders, who filed lawsuits charging excessive 
+     compensation, given that his company's performance did not 
+     always keep pace with his raises.
+       Tall and trim, he moved among society's elite and was 
+     friends with Henry A. Kissinger, Vernon E. Jordon, Jr. and 
+     Barbara Walters. He was reported to have advised Presidents 
+     Richard M. Nixon, Jimmy Carter and Ronald Reagan, and to have 
+     met with Mr. Carter at Camp David.
+       But his fortunes changed late in 1983. True to form, the 
+     restless Mr. Mahoney was seeking change, putting into motion 
+     a plan to take Norton Simon private. But this time, he 
+     stumbled; a rival suitor, the Esmark Corporation, bettered 
+     his offer and walked away with his company.
+       Mr. Mahoney was left a lot richer--as much as $40 million 
+     or so, by some accounts--but, for the first time in his life, 
+     he was out of a job and at loose ends. He described the 
+     period as a low point.
+       ``You stop being on the `A' list,'' he said some years 
+     later, ``Your calls don't get returned. It's not just less 
+     fawning; people could care less about you in some cases. The 
+     king is dead. Long live the king.''
+       It look some years for Mr. Mahoney to regain his focus. 
+     Gradually, he turned his attention to public health, in which 
+     he had already shown some interest. In the 1970's, he had 
+     been chairman of the board of Phoenix House, the residential 
+     drug-treatment program. By 1977, while still at Norton, he 
+     became chairman of the Dana Foundation, a largely advisory 
+     position.
+       Mr. Mahoney increasingly devoted his time to the 
+     foundation. In 1982, he also because its chief executive, and 
+     soon began shifting the
+
+[[Page S3324]]
+
+     organization's focus to the brain. In part, the reason came 
+     from his own experience. In an acceptance speech that he has 
+     prepared for the Lasker Award, he wrote of having seen first-
+     hand the effects of stress and the mental health needs of 
+     people in the business world.
+       But associates recalled, and Mr. Mahoney seemed to say as 
+     much in his speech, that he appeared to have arrived at the 
+     brain much the way a marketing executive would think up a new 
+     product. ``Some of the great minds in the world told me that 
+     this generation's greater action would be in brain science--
+     if only the public would invest the needed resources,'' he 
+     wrote.
+       In 1992, Mr. Mahoney and Dr. Watson gathered a group of 
+     neuroscientsts at the Cold Spring Harbor Laboratory on Long 
+     Island. There, encouraged by Mr. Mahoney, the scientists 
+     agreed on 10 research objectives that might be reached by the 
+     end of the decade, among them finding the genetic basis for 
+     manic-depression and identifying chemicals that can block the 
+     action of cocaine and other addictive substances.
+       ``We've gotten somewhere on about four of them--but what's 
+     life,'' Dr. Watson said recently.
+       In recent years, Mr. Mahoney became convinced that a true 
+     understanding of the brain-body connection might also lead to 
+     cures for diseases in other parts of the body, like cancer 
+     and heart disease.
+       He believed that it would soon be commonplace for people to 
+     live to 100. For the quality of life to be high at that age, 
+     he believed, people would have to learn to take better care 
+     of their brains.
+       In 1998, along with Dr. Richard Restak, a 
+     neuropsychiatrist, Mr. Mahoney wrote ``The Longevity 
+     Strategy: How to Live to 100: Using the Brain-Body 
+     Connection'' (John Wiley & Sons).
+       Mr. Mahoney's first wife, Barbara Ann Moore, died in 1975. 
+     He is survived by his wife, the former Hildegarde Merrill, 
+     with whom he also had a home in Lausanne, Switzerland; a son, 
+     David, of Royal Palm Beach, Fla.; two stepsons, Arthur 
+     Merrill of Muttontown, N.Y., and Robert Merrill of Locust 
+     Valley, N.Y., and a brother, Robert, of Bridgehampton, N.Y.
+       Associates said Mr. Mahoney's temperament in his second 
+     career was not all that different from what it had been in 
+     his first. It was not uncommon, said Edward Rover, vice 
+     chairman of the Dana Foundation's board of trustees, for his 
+     phone to ring late at night, and for Mr. Mahoney to sail into 
+     a pointed critique of their latest endeavors.
+       One researcher spoke of his ``kind of charge-up-San-Juan-
+     Hill style.'' Dr. Jamison, of Johns Hopkins, called him 
+     ``impatient in the best possible sense of the word.''
+       As in his first career, Mr. Mahoney never lost the good 
+     salesman's unwavering belief in this product, ``If you can't 
+     sell the brain,'' he told friends, ``then you've got a real 
+     problem.''
+
+  Mr. DODD. If my colleague will yield, I thank our colleague from 
+Alaska for his comments about David Mahoney. I didn't know him as well 
+as my good friend from Alaska but had the opportunity to be with him on 
+numerous occasions. All the things the Senator from Alaska said about 
+David Mahoney are true, and even more so. It is a great loss to the 
+country.
+  In fact, I point out our good friend from Alaska has lost a couple of 
+good friends in the last few months.
+  A man of significant contributions, a man who appreciated the arts, 
+had a great love of this country and history--David Mahoney was all of 
+those.
+  Suffice it to say, I want to be associated with the comments of the 
+distinguished Senator from Alaska on his comments about David Mahoney.
+
+                          ____________________
+```
