@@ -1,0 +1,31 @@
+---
+granule: CRECB-2000-pt2-Pg1617-4
+date: 2000-02-28
+edition: CRECB
+section: SENATE
+page: 1617
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate February 28, 2000:
+
+
+                             THE JUDICIARY
+
+       NICHOLAS G. GARAUFIS, OF NEW YORK, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE EASTERN DISTRICT OF NEW YORK VICE 
+     CHARLES P. SIFTON, RETIRED.
+       GERARD E. LYNCH, OF NEW YORK, TO BE A UNITED STATES 
+     DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF NEW YORK VICE 
+     JOHN E. SPRIZZO, RETIRED.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       DANIEL MARCUS, OF MARYLAND, TO BE ASSOCIATE ATTORNEY 
+     GENERAL, VICE RAYMOND C. FISHER.
+```
