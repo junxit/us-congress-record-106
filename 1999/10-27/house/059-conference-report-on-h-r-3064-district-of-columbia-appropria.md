@@ -1,0 +1,10793 @@
+---
+granule: CREC-1999-10-27-pt1-PgH10933-3
+date: 1999-10-27
+edition: CREC
+section: HOUSE
+page: H10933
+citation: 145 Cong. Rec. H10933
+---
+
+# CONFERENCE REPORT ON H.R. 3064, DISTRICT OF COLUMBIA APPROPRIATIONS ACT, 2000
+
+**Measures:** S. 1650, H.R. 2466, H.R. 2587, H.R. 2684, H.R. 3037, H.R. 3064
+
+```
+  CONFERENCE REPORT ON H.R. 3064, DISTRICT OF COLUMBIA APPROPRIATIONS 
+                               ACT, 2000
+
+  Mr. ISTOOK submitted the following conference report and statement on 
+the bill (H.R. 3064) making appropriations for the government of the 
+District of Columbia and other activities chargeable in whole or in 
+part against revenues of said District for the fiscal year ending 
+September 30, 2000, and for other purposes:
+
+                  Conference Report (H. Rept. 106-419)
+
+       The committee of conference on the disagreeing votes of the 
+     two Houses on the amendment of the Senate to the bill (H.R. 
+     3064) ``making appropriations for the government of the 
+     District of Columbia and other activities chargeable in whole 
+     or in part against revenues of said District for the fiscal 
+     year ending September 30, 2000, and for other purposes'', 
+     having met, after full and free conference, have agreed to 
+     recommend
+
+[[Page H10934]]
+
+     and do recommend to their respective Houses as follows:
+       That the House recede from its disagreement to the 
+     amendment of the Senate, and agree to the same with an 
+     amendment, as follows:
+       In lieu of the matter stricken and inserted by said 
+     amendment, insert:
+     That the following sums are appropriated, out of any money in 
+     the Treasury not otherwise appropriated, for the District of 
+     Columbia, and for the Departments of Labor, Health and Human 
+     Services, and Education, and related agencies for the fiscal 
+     year ending September 30, 2000, and for other purposes, 
+     namely:
+
+                               DIVISION A
+
+                  DISTRICT OF COLUMBIA APPROPRIATIONS
+
+       For programs, projects, or activities in the District of 
+     Columbia Appropriations Act, 2000, provided as follows, to be 
+     effective as if it had been enacted into law as the regular 
+     appropriations Act:
+       An Act Making appropriations for the government of the 
+     District of Columbia and other activities chargeable in whole 
+     or in part against revenues of said District for the fiscal 
+     year ending September 30, 2000, and for other purposes.
+
+                TITLE I--FISCAL YEAR 2000 APPROPRIATIONS
+
+                             FEDERAL FUNDS
+
+              Federal Payment for Resident Tuition Support
+
+       For a Federal payment to the District of Columbia for a 
+     program to be administered by the Mayor for District of 
+     Columbia resident tuition support, subject to the enactment 
+     of authorizing legislation for such program by Congress, 
+     $17,000,000, to remain available until expended: Provided, 
+     That such funds may be used on behalf of eligible District of 
+     Columbia residents to pay an amount based upon the difference 
+     between in-State and out-of-State tuition at public 
+     institutions of higher education, usable at both public and 
+     private institutions of higher education: Provided further, 
+     That the awarding of such funds may be prioritized on the 
+     basis of a resident's academic merit and such other factors 
+     as may be authorized: Provided further, That if the 
+     authorized program is a nationwide program, the Mayor may 
+     expend up to $17,000,000: Provided further, That if the 
+     authorized program is for a limited number of States, the 
+     Mayor may expend up to $11,000,000: Provided further, That 
+     the District of Columbia may expend funds other than the 
+     funds provided under this heading, including local tax 
+     revenues and contributions, to support such program.
+
+        Federal Payment for Incentives for Adoption of Children
+
+       For a Federal payment to the District of Columbia to create 
+     incentives to promote the adoption of children in the 
+     District of Columbia foster care system, $5,000,000: 
+     Provided, That such funds shall remain available until 
+     September 30, 2001 and shall be used in accordance with a 
+     program established by the Mayor and the Council of the 
+     District of Columbia and approved by the Committees on 
+     Appropriations of the House of Representatives and the 
+     Senate: Provided further, That funds provided under this 
+     heading may be used to cover the costs to the District of 
+     Columbia of providing tax credits to offset the costs 
+     incurred by individuals in adopting children in the District 
+     of Columbia foster care system and in providing for the 
+     health care needs of such children, in accordance with 
+     legislation enacted by the District of Columbia government.
+
+         Federal Payment to the Citizen Complaint Review Board
+
+       For a Federal payment to the District of Columbia for 
+     administrative expenses of the Citizen Complaint Review 
+     Board, $500,000, to remain available until September 30, 
+     2001.
+
+          Federal Payment to the Department of Human Services
+
+       For a Federal payment to the Department of Human Services 
+     for a mentoring program and for hotline services, $250,000.
+
+    Federal Payment to the District of Columbia Corrections Trustee 
+                               Operations
+
+       For salaries and expenses of the District of Columbia 
+     Corrections Trustee, $176,000,000 for the administration and 
+     operation of correctional facilities and for the 
+     administrative operating costs of the Office of the 
+     Corrections Trustee, as authorized by section 11202 of the 
+     National Capital Revitalization and Self-Government 
+     Improvement Act of 1997 (Public Law 105-33; 111 Stat. 712): 
+     Provided, That notwithstanding any other provision of law, 
+     funds appropriated in this Act for the District of Columbia 
+     Corrections Trustee shall be apportioned quarterly by the 
+     Office of Management and Budget and obligated and expended in 
+     the same manner as funds appropriated for salaries and 
+     expenses of other Federal agencies: Provided further, That in 
+     addition to the funds provided under this heading, the 
+     District of Columbia Corrections Trustee may use a portion of 
+     the interest earned on the Federal payment made to the 
+     Trustee under the District of Columbia Appropriations Act, 
+     1998, (not to exceed $4,600,000) to carry out the activities 
+     funded under this heading.
+
+           Federal Payment to the District of Columbia Courts
+
+       For salaries and expenses for the District of Columbia 
+     Courts, $99,714,000 to be allocated as follows: for the 
+     District of Columbia Court of Appeals, $7,209,000; for the 
+     District of Columbia Superior Court, $68,351,000; for the 
+     District of Columbia Court System, $16,154,000; and 
+     $8,000,000, to remain available until September 30, 2001, for 
+     capital improvements for District of Columbia courthouse 
+     facilities: Provided, That of the amounts available for 
+     operations of the District of Columbia Courts, not to exceed 
+     $2,500,000 shall be for the design of an Integrated Justice 
+     Information System and that such funds shall be used in 
+     accordance with a plan and design developed by the courts and 
+     approved by the Committees on Appropriations of the House of 
+     Representatives and the Senate: Provided further, That 
+     notwithstanding any other provision of law, all amounts under 
+     this heading shall be apportioned quarterly by the Office of 
+     Management and Budget and obligated and expended in the same 
+     manner as funds appropriated for salaries and expenses of 
+     other Federal agencies, with payroll and financial services 
+     to be provided on a contractual basis with the General 
+     Services Administration (GSA), said services to include the 
+     preparation of monthly financial reports, copies of which 
+     shall be submitted directly by GSA to the President and to 
+     the Committees on Appropriations of the Senate and House of 
+     Representatives, the Committee on Governmental Affairs of the 
+     Senate, and the Committee on Government Reform of the House 
+     of Representatives.
+
+            Defender Services in District of Columbia Courts
+
+       For payments authorized under section 11-2604 and section 
+     11-2605, D.C. Code (relating to representation provided under 
+     the District of Columbia Criminal Justice Act), payments for 
+     counsel appointed in proceedings in the Family Division of 
+     the Superior Court of the District of Columbia under chapter 
+     23 of title 16, D.C. Code, and payments for counsel 
+     authorized under section 21-2060, D.C. Code (relating to 
+     representation provided under the District of Columbia 
+     Guardianship, Protective Proceedings, and Durable Power of 
+     Attorney Act of 1986), $33,336,000, to remain available until 
+     expended: Provided, That the funds provided in this Act under 
+     the heading ``Federal Payment to the District of Columbia 
+     Courts'' (other than the $8,000,000 provided under such 
+     heading for capital improvements for District of Columbia 
+     courthouse facilities) may also be used for payments under 
+     this heading: Provided further, That in addition to the funds 
+     provided under this heading, the Joint Committee on Judicial 
+     Administration in the District of Columbia may use a portion 
+     (not to exceed $1,200,000) of the interest earned on the 
+     Federal payment made to the District of Columbia courts under 
+     the District of Columbia Appropriations Act, 1999, together 
+     with funds provided in this Act under the heading ``Federal 
+     Payment to the District of Columbia Courts'' (other than the 
+     $8,000,000 provided under such heading for capital 
+     improvements for District of Columbia courthouse facilities), 
+     to make payments described under this heading for obligations 
+     incurred during fiscal year 1999 if the Comptroller General 
+     certifies that the amount of obligations lawfully incurred 
+     for such payments during fiscal year 1999 exceeds the 
+     obligational authority otherwise available for making such 
+     payments: Provided further, That such funds shall be 
+     administered by the Joint Committee on Judicial 
+     Administration in the District of Columbia: Provided further, 
+     That notwithstanding any other provision of law, this 
+     appropriation shall be apportioned quarterly by the Office of 
+     Management and Budget and obligated and expended in the same 
+     manner as funds appropriated for expenses of other Federal 
+     agencies, with payroll and financial services to be provided 
+     on a contractual basis with the General Services 
+     Administration (GSA), said services to include the 
+     preparation of monthly financial reports, copies of which 
+     shall be submitted directly by GSA to the President and to 
+     the Committees on Appropriations of the Senate and House of 
+     Representatives, the Committee on Governmental Affairs of the 
+     Senate, and the Committee on Government Reform of the House 
+     of Representatives.
+
+ Federal Payment to the Court Services and Offender Supervision Agency 
+                      for the District of Columbia
+
+       For salaries and expenses of the Court Services and 
+     Offender Supervision Agency for the District of Columbia, as 
+     authorized by the National Capital Revitalization and Self-
+     Government Improvement Act of 1997, (Public Law 105-33; 111 
+     Stat. 712), $93,800,000, of which $58,600,000 shall be for 
+     necessary expenses of Parole Revocation, Adult Probation, 
+     Offender Supervision, and Sex Offender Registration, to 
+     include expenses relating to supervision of adults subject to 
+     protection orders or provision of services for or related to 
+     such persons; $17,400,000 shall be available to the Public 
+     Defender Service; and $17,800,000 shall be available to the 
+     Pretrial Services Agency: Provided, That notwithstanding any 
+     other provision of law, all amounts under this heading shall 
+     be apportioned quarterly by the Office of Management and 
+     Budget and obligated and expended in the same manner as funds 
+     appropriated for salaries and expenses of other Federal 
+     agencies: Provided further, That of the amounts made 
+     available under this heading, $20,492,000 shall be used in 
+     support of universal drug screening and testing for those 
+     individuals on pretrial, probation, or parole supervision 
+     with continued testing, intermediate sanctions, and treatment 
+     for those identified in need, of which $7,000,000 shall be 
+     for treatment services.
+
+                   Children's National Medical Center
+
+       For a Federal contribution to the Children's National 
+     Medical Center in the District of Columbia, $2,500,000 for 
+     construction, renovation, and information technology 
+     infrastructure costs associated with establishing community 
+     pediatric health clinics for high risk children in medically 
+     underserved areas of the District of Columbia.
+
+           Federal Payment for Metropolitan Police Department
+
+       For payment to the Metropolitan Police Department, 
+     $1,000,000, for a program to eliminate open air drug 
+     trafficking in the District of Columbia: Provided, That the 
+     Chief of Police shall
+
+[[Page H10935]]
+
+     provide quarterly reports to the Committees on Appropriations 
+     of the Senate and House of Representatives by the 15th 
+     calendar day after the end of each quarter beginning December 
+     31, 1999, on the status of the project financed under this 
+     heading.
+
+                       DISTRICT OF COLUMBIA FUNDS
+
+                           OPERATING EXPENSES
+
+                          Division of Expenses
+
+       The following amounts are appropriated for the District of 
+     Columbia for the current fiscal year out of the general fund 
+     of the District of Columbia, except as otherwise specifically 
+     provided.
+
+                   Governmental Direction and Support
+
+       Governmental direction and support, $162,356,000 (including 
+     $137,134,000 from local funds, $11,670,000 from Federal 
+     funds, and $13,552,000 from other funds): Provided, That not 
+     to exceed $2,500 for the Mayor, $2,500 for the Chairman of 
+     the Council of the District of Columbia, and $2,500 for the 
+     City Administrator shall be available from this appropriation 
+     for official purposes: Provided further, That any program 
+     fees collected from the issuance of debt shall be available 
+     for the payment of expenses of the debt management program of 
+     the District of Columbia: Provided further, That no revenues 
+     from Federal sources shall be used to support the operations 
+     or activities of the Statehood Commission and Statehood 
+     Compact Commission: Provided further, That the District of 
+     Columbia shall identify the sources of funding for Admission 
+     to Statehood from its own locally-generated revenues: 
+     Provided further, That all employees permanently assigned to 
+     work in the Office of the Mayor shall be paid from funds 
+     allocated to the Office of the Mayor: Provided further, That, 
+     notwithstanding any other provision of law now or hereafter 
+     enacted, no Member of the District of Columbia Council 
+     eligible to earn a part-time salary of $92,520, exclusive of 
+     the Council Chairman, shall be paid a salary of more than 
+     $84,635 during fiscal year 2000.
+
+                  Economic Development and Regulation
+
+       Economic development and regulation, $190,335,000 
+     (including $52,911,000 from local funds, $84,751,000 from 
+     Federal funds, and $52,673,000 from other funds), of which 
+     $15,000,000 collected by the District of Columbia in the form 
+     of BID tax revenue shall be paid to the respective BIDs 
+     pursuant to the Business Improvement Districts Act of 1996 
+     (D.C. Law 11-134; D.C. Code, sec. 1-2271 et seq.), and the 
+     Business Improvement Districts Temporary Amendment Act of 
+     1997 (D.C. Law 12-23): Provided, That such funds are 
+     available for acquiring services provided by the General 
+     Services Administration: Provided further, That Business 
+     Improvement Districts shall be exempt from taxes levied by 
+     the District of Columbia.
+
+                       Public Safety and Justice
+
+       Public safety and justice, including purchase or lease of 
+     135 passenger-carrying vehicles for replacement only, 
+     including 130 for police-type use and five for fire-type use, 
+     without regard to the general purchase price limitation for 
+     the current fiscal year, $778,770,000 (including $565,511,000 
+     from local funds, $29,012,000 from Federal funds, and 
+     $184,247,000 from other funds): Provided, That the 
+     Metropolitan Police Department is authorized to replace not 
+     to exceed 25 passenger-carrying vehicles and the Department 
+     of Fire and Emergency Medical Services of the District of 
+     Columbia is authorized to replace not to exceed five 
+     passenger-carrying vehicles annually whenever the cost of 
+     repair to any damaged vehicle exceeds three-fourths of the 
+     cost of the replacement: Provided further, That not to exceed 
+     $500,000 shall be available from this appropriation for the 
+     Chief of Police for the prevention and detection of crime: 
+     Provided further, That the Metropolitan Police Department 
+     shall provide quarterly reports to the Committees on 
+     Appropriations of the House of Representatives and the Senate 
+     on efforts to increase efficiency and improve the 
+     professionalism in the department: Provided further, That 
+     notwithstanding any other provision of law, or Mayor's Order 
+     86-45, issued March 18, 1986, the Metropolitan Police 
+     Department's delegated small purchase authority shall be 
+     $500,000: Provided further, That the District of Columbia 
+     government may not require the Metropolitan Police Department 
+     to submit to any other procurement review process, or to 
+     obtain the approval of or be restricted in any manner by any 
+     official or employee of the District of Columbia government, 
+     for purchases that do not exceed $500,000: Provided further, 
+     That the Mayor shall reimburse the District of Columbia 
+     National Guard for expenses incurred in connection with 
+     services that are performed in emergencies by the National 
+     Guard in a militia status and are requested by the Mayor, in 
+     amounts that shall be jointly determined and certified as due 
+     and payable for these services by the Mayor and the 
+     Commanding General of the District of Columbia National 
+     Guard: Provided further, That such sums as may be necessary 
+     for reimbursement to the District of Columbia National Guard 
+     under the preceding proviso shall be available from this 
+     appropriation, and the availability of the sums shall be 
+     deemed as constituting payment in advance for emergency 
+     services involved: Provided further, That the Metropolitan 
+     Police Department is authorized to maintain 3,800 sworn 
+     officers, with leave for a 50 officer attrition: Provided 
+     further, That no more than 15 members of the Metropolitan 
+     Police Department shall be detailed or assigned to the 
+     Executive Protection Unit, until the Chief of Police submits 
+     a recommendation to the Council for its review: Provided 
+     further, That $100,000 shall be available for inmates 
+     released on medical and geriatric parole: Provided further, 
+     That commencing on December 31, 1999, the Metropolitan Police 
+     Department shall provide to the Committees on Appropriations 
+     of the Senate and House of Representatives, the Committee on 
+     Governmental Affairs of the Senate, and the Committee on 
+     Government Reform of the House of Representatives, quarterly 
+     reports on the status of crime reduction in each of the 83 
+     police service areas established throughout the District of 
+     Columbia: Provided further, That up to $700,000 in local 
+     funds shall be available for the operations of the Citizen 
+     Complaint Review Board.
+
+                        Public Education System
+
+       Public education system, including the development of 
+     national defense education programs, $867,411,000 (including 
+     $721,847,000 from local funds, $120,951,000 from Federal 
+     funds, and $24,613,000 from other funds), to be allocated as 
+     follows: $713,197,000 (including $600,936,000 from local 
+     funds, $106,213,000 from Federal funds, and $6,048,000 from 
+     other funds), for the public schools of the District of 
+     Columbia; $10,700,000 from local funds for the District of 
+     Columbia Teachers' Retirement Fund; $17,000,000 from local 
+     funds, previously appropriated in this Act as a Federal 
+     payment, for resident tuition support at public and private 
+     institutions of higher learning for eligible District of 
+     Columbia residents; $27,885,000 from local funds for public 
+     charter schools: Provided, That if the entirety of this 
+     allocation has not been provided as payments to any public 
+     charter schools currently in operation through the per pupil 
+     funding formula, the funds shall be available for new public 
+     charter schools on a per pupil basis: Provided further, That 
+     $480,000 of this amount shall be available to the District of 
+     Columbia Public Charter School Board for administrative 
+     costs; $72,347,000 (including $40,491,000 from local funds, 
+     $13,536,000 from Federal funds, and $18,320,000 from other 
+     funds) for the University of the District of Columbia; 
+     $24,171,000 (including $23,128,000 from local funds, $798,000 
+     from Federal funds, and $245,000 from other funds) for the 
+     Public Library; $2,111,000 (including $1,707,000 from local 
+     funds and $404,000 from Federal funds) for the Commission on 
+     the Arts and Humanities: Provided further, That the public 
+     schools of the District of Columbia are authorized to accept 
+     not to exceed 31 motor vehicles for exclusive use in the 
+     driver education program: Provided further, That not to 
+     exceed $2,500 for the Superintendent of Schools, $2,500 for 
+     the President of the University of the District of Columbia, 
+     and $2,000 for the Public Librarian shall be available from 
+     this appropriation for official purposes: Provided further, 
+     That none of the funds contained in this Act may be made 
+     available to pay the salaries of any District of Columbia 
+     Public School teacher, principal, administrator, official, or 
+     employee who knowingly provides false enrollment or 
+     attendance information under article II, section 5 of the Act 
+     entitled ``An Act to provide for compulsory school 
+     attendance, for the taking of a school census in the District 
+     of Columbia, and for other purposes'', approved February 4, 
+     1925 (D.C. Code, sec. 31-401 et seq.): Provided further, That 
+     this appropriation shall not be available to subsidize the 
+     education of any nonresident of the District of Columbia at 
+     any District of Columbia public elementary and secondary 
+     school during fiscal year 2000 unless the nonresident pays 
+     tuition to the District of Columbia at a rate that covers 100 
+     percent of the costs incurred by the District of Columbia 
+     which are attributable to the education of the nonresident 
+     (as established by the Superintendent of the District of 
+     Columbia Public Schools): Provided further, That this 
+     appropriation shall not be available to subsidize the 
+     education of nonresidents of the District of Columbia at the 
+     University of the District of Columbia, unless the Board of 
+     Trustees of the University of the District of Columbia 
+     adopts, for the fiscal year ending September 30, 2000, a 
+     tuition rate schedule that will establish the tuition rate 
+     for nonresident students at a level no lower than the 
+     nonresident tuition rate charged at comparable public 
+     institutions of higher education in the metropolitan area: 
+     Provided further, That the District of Columbia Public 
+     Schools shall not spend less than $365,500,000 on local 
+     schools through the Weighted Student Formula in fiscal year 
+     2000: Provided further, That notwithstanding any other 
+     provision of law, the Chief Financial Officer of the District 
+     of Columbia shall apportion from the budget of the District 
+     of Columbia Public Schools a sum totaling 5 percent of the 
+     total budget to be set aside until the current student count 
+     for Public and Charter schools has been completed, and that 
+     this amount shall be apportioned between the Public and 
+     Charter schools based on their respective student population 
+     count: Provided further, That the District of Columbia Public 
+     Schools may spend $500,000 to engage in a Schools Without 
+     Violence program based on a model developed by the University 
+     of North Carolina, located in Greensboro, North Carolina.
+
+                         Human Support Services
+
+       Human support services, $1,526,361,000 (including 
+     $635,373,000 from local funds, $875,814,000 from Federal 
+     funds, and $15,174,000 from other funds): Provided, That 
+     $25,150,000 of this appropriation, to remain available until 
+     expended, shall be available solely for District of Columbia 
+     employees' disability compensation: Provided further, That a 
+     peer review committee shall be established to review medical 
+     payments and the type of service received by a disability 
+     compensation claimant: Provided further, That the District of 
+     Columbia shall not provide free government services such as 
+     water, sewer, solid waste disposal or collection, utilities, 
+     maintenance, repairs, or similar services to any legally 
+     constituted private nonprofit organization, as defined in 
+     section 411(5) of the Stewart B. McKinney Homeless Assistance 
+     Act (101 Stat. 485; Public Law 100-77; 42 U.S.C. 11371), 
+     providing emergency shelter services in the District, if the 
+     District would not be qualified to receive
+
+[[Page H10936]]
+
+     reimbursement pursuant to such Act (101 Stat. 485; Public Law 
+     100-77; 42 U.S.C. 11301 et seq.).
+
+                              Public Works
+
+       Public works, including rental of one passenger-carrying 
+     vehicle for use by the Mayor and three passenger-carrying 
+     vehicles for use by the Council of the District of Columbia 
+     and leasing of passenger-carrying vehicles, $271,395,000 
+     (including $258,341,000 from local funds, $3,099,000 from 
+     Federal funds, and $9,955,000 from other funds): Provided, 
+     That this appropriation shall not be available for collecting 
+     ashes or miscellaneous refuse from hotels and places of 
+     business.
+
+                         Receivership Programs
+
+       For all agencies of the District of Columbia government 
+     under court ordered receivership, $342,077,000 (including 
+     $217,606,000 from local funds, $106,111,000 from Federal 
+     funds, and $18,360,000 from other funds).
+
+                         Workforce Investments
+
+       For workforce investments, $8,500,000 from local funds, to 
+     be transferred by the Mayor of the District of Columbia 
+     within the various appropriation headings in this Act for 
+     which employees are properly payable.
+
+                                Reserve
+
+       For a reserve to be established by the Chief Financial 
+     Officer of the District of Columbia and the District of 
+     Columbia Financial Responsibility and Management Assistance 
+     Authority, $150,000,000.
+
+District of Columbia Financial Responsibility and Management Assistance 
+                               Authority
+
+       For the District of Columbia Financial Responsibility and 
+     Management Assistance Authority, established by section 
+     101(a) of the District of Columbia Financial Responsibility 
+     and Management Assistance Act of 1995 (109 Stat. 97; Public 
+     Law 104-8), $3,140,000: Provided, That none of the funds 
+     contained in this Act may be used to pay any compensation of 
+     the Executive Director or General Counsel of the Authority at 
+     a rate in excess of the maximum rate of compensation which 
+     may be paid to such individual during fiscal year 2000 under 
+     section 102 of such Act, as determined by the Comptroller 
+     General (as described in GAO letter report B-279095.2).
+
+                    Repayment of Loans and Interest
+
+       For payment of principal, interest and certain fees 
+     directly resulting from borrowing by the District of Columbia 
+     to fund District of Columbia capital projects as authorized 
+     by sections 462, 475, and 490 of the District of Columbia 
+     Home Rule Act, approved December 24, 1973, as amended, and 
+     that funds shall be allocated for expenses associated with 
+     the Wilson Building, $328,417,000 from local funds: Provided, 
+     That for equipment leases, the Mayor may finance $27,527,000 
+     of equipment cost, plus cost of issuance not to exceed 2 
+     percent of the par amount being financed on a lease purchase 
+     basis with a maturity not to exceed 5 years: Provided 
+     further, That $5,300,000 is allocated to the Metropolitan 
+     Police Department, $3,200,000 for the Fire and Emergency 
+     Medical Services Department, $350,000 for the Department of 
+     Corrections, $15,949,000 for the Department of Public Works 
+     and $2,728,000 for the Public Benefit Corporation.
+
+                Repayment of General Fund Recovery Debt
+
+       For the purpose of eliminating the $331,589,000 general 
+     fund accumulated deficit as of September 30, 1990, 
+     $38,286,000 from local funds, as authorized by section 461(a) 
+     of the District of Columbia Home Rule Act (105 Stat. 540; 
+     D.C. Code, sec. 47-321(a)(1)).
+
+              Payment of Interest on Short-Term Borrowing
+
+       For payment of interest on short-term borrowing, $9,000,000 
+     from local funds.
+
+                     Certificates of Participation
+
+       For lease payments in accordance with the Certificates of 
+     Participation involving the land site underlying the building 
+     located at One Judiciary Square, $7,950,000 from local funds.
+
+                 Optical and Dental Insurance Payments
+
+       For optical and dental insurance payments, $1,295,000 from 
+     local funds.
+
+                           Productivity Bank
+
+       The Chief Financial Officer of the District of Columbia, 
+     under the direction of the Mayor and the District of Columbia 
+     Financial Responsibility and Management Assistance Authority, 
+     shall finance projects totaling $20,000,000 in local funds 
+     that result in cost savings or additional revenues, by an 
+     amount equal to such financing: Provided, That the Mayor 
+     shall provide quarterly reports to the Committees on 
+     Appropriations of the House of Representatives and the Senate 
+     by the 15th calendar day after the end of each quarter 
+     beginning December 31, 1999, on the status of the projects 
+     financed under this heading.
+
+                       Productivity Bank Savings
+
+       The Chief Financial Officer of the District of Columbia, 
+     under the direction of the Mayor and the District of Columbia 
+     Financial Responsibility and Management Assistance Authority, 
+     shall make reductions totaling $20,000,000 in local funds. 
+     The reductions are to be allocated to projects funded through 
+     the Productivity Bank that produce cost savings or additional 
+     revenues in an amount equal to the Productivity Bank 
+     financing: Provided, That the Mayor shall provide quarterly 
+     reports to the Committees on Appropriations of the House of 
+     Representatives and the Senate by the 15th calendar day after 
+     the end of each quarter beginning December 31, 1999, on the 
+     status of the cost savings or additional revenues funded 
+     under this heading.
+
+                   Procurement and Management Savings
+
+       The Chief Financial Officer of the District of Columbia, 
+     under the direction of the Mayor and the District of Columbia 
+     Financial Responsibility and Management Assistance Authority, 
+     shall make reductions of $14,457,000 for general supply 
+     schedule savings and $7,000,000 for management reform 
+     savings, in local funds to one or more of the appropriation 
+     headings in this Act: Provided, That the Mayor shall provide 
+     quarterly reports to the Committees on Appropriations of the 
+     House of Representatives and the Senate by the 15th calendar 
+     day after the end of each quarter beginning December 31, 
+     1999, on the status of the general supply schedule savings 
+     and management reform savings projected under this heading.
+
+                       ENTERPRISE AND OTHER FUNDS
+
+         Water and Sewer Authority and the Washington Aqueduct
+
+       For operation of the Water and Sewer Authority and the 
+     Washington Aqueduct, $279,608,000 from other funds (including 
+     $236,075,000 for the Water and Sewer Authority and 
+     $43,533,000 for the Washington Aqueduct) of which $35,222,000 
+     shall be apportioned and payable to the District's debt 
+     service fund for repayment of loans and interest incurred for 
+     capital improvement projects.
+       For construction projects, $197,169,000, as authorized by 
+     the Act entitled ``An Act authorizing the laying of 
+     watermains and service sewers in the District of Columbia, 
+     the levying of assessments therefor, and for other purposes'' 
+     (33 Stat. 244; Public Law 58-140; D.C. Code, sec. 43-1512 et 
+     seq.): Provided, That the requirements and restrictions that 
+     are applicable to general fund capital improvements projects 
+     and set forth in this Act under the Capital Outlay 
+     appropriation title shall apply to projects approved under 
+     this appropriation title.
+
+              Lottery and Charitable Games Enterprise Fund
+
+       For the Lottery and Charitable Games Enterprise Fund, 
+     established by the District of Columbia Appropriation Act for 
+     the fiscal year ending September 30, 1982 (95 Stat. 1174 and 
+     1175; Public Law 97-91), for the purpose of implementing the 
+     Law to Legalize Lotteries, Daily Numbers Games, and Bingo and 
+     Raffles for Charitable Purposes in the District of Columbia 
+     (D.C. Law 3-172; D.C. Code, sec. 2-2501 et seq. and sec. 22-
+     1516 et seq.), $234,400,000: Provided, That the District of 
+     Columbia shall identify the source of funding for this 
+     appropriation title from the District's own locally generated 
+     revenues: Provided further, That no revenues from Federal 
+     sources shall be used to support the operations or activities 
+     of the Lottery and Charitable Games Control Board.
+
+                  Sports and Entertainment Commission
+
+       For the Sports and Entertainment Commission, $10,846,000 
+     from other funds for expenses incurred by the Armory Board in 
+     the exercise of its powers granted by the Act entitled ``An 
+     Act To Establish A District of Columbia Armory Board, and for 
+     other purposes'' (62 Stat. 339; D.C. Code, sec. 2-301 et 
+     seq.) and the District of Columbia Stadium Act of 1957 (71 
+     Stat. 619; Public Law 85-300; D.C. Code, sec. 2-321 et seq.): 
+     Provided, That the Mayor shall submit a budget for the Armory 
+     Board for the forthcoming fiscal year as required by section 
+     442(b) of the District of Columbia Home Rule Act (87 Stat. 
+     824; Public Law 93-198; D.C. Code, sec. 47-301(b)).
+
+  District of Columbia Health and Hospitals Public Benefit Corporation
+
+       For the District of Columbia Health and Hospitals Public 
+     Benefit Corporation, established by D.C. Law 11-212; D.C. 
+     Code, sec. 32-262.2, $133,443,000 of which $44,435,000 shall 
+     be derived by transfer from the general fund and $89,008,000 
+     from other funds.
+
+                 District of Columbia Retirement Board
+
+       For the District of Columbia Retirement Board, established 
+     by section 121 of the District of Columbia Retirement Reform 
+     Act of 1979 (93 Stat. 866; D.C. Code, sec. 1-711), $9,892,000 
+     from the earnings of the applicable retirement funds to pay 
+     legal, management, investment, and other fees and 
+     administrative expenses of the District of Columbia 
+     Retirement Board: Provided, That the District of Columbia 
+     Retirement Board shall provide to the Congress and to the 
+     Council of the District of Columbia a quarterly report of the 
+     allocations of charges by fund and of expenditures of all 
+     funds: Provided further, That the District of Columbia 
+     Retirement Board shall provide the Mayor, for transmittal to 
+     the Council of the District of Columbia, an itemized 
+     accounting of the planned use of appropriated funds in time 
+     for each annual budget submission and the actual use of such 
+     funds in time for each annual audited financial report: 
+     Provided further, That section 121(c)(1) of the District of 
+     Columbia Retirement Reform Act (D.C. Code, sec. 1-711(c)(1)) 
+     is amended by striking ``the total amount to which a member 
+     may be entitled'' and all that follows and inserting the 
+     following: ``the total amount to which a member may be 
+     entitled under this subsection during a year (beginning with 
+     1998) may not exceed $5,000, except that in the case of the 
+     Chairman of the Board and the Chairman of the Investment 
+     Committee of the Board, such amount may not exceed $7,500 
+     (beginning with 2000).''.
+
+                      Correctional Industries Fund
+
+       For the Correctional Industries Fund, established by the 
+     District of Columbia Correctional Industries Establishment 
+     Act (78 Stat. 1000; Public Law 88-622), $1,810,000 from other 
+     funds.
+
+              Washington Convention Center Enterprise Fund
+
+       For the Washington Convention Center Enterprise Fund, 
+     $50,226,000 from other funds.
+
+                             Capital Outlay
+
+
+                        (Including Rescissions)
+
+       For construction projects, $1,260,524,000 of which 
+     $929,450,000 is from local funds, $54,050,000 is from the 
+     highway trust fund, and $277,024,000 is from Federal funds, 
+     and a rescission of $41,886,500 from local funds appropriated
+
+[[Page H10937]]
+
+     under this heading in prior fiscal years, for a net amount of 
+     $1,218,637,500 to remain available until expended: Provided, 
+     That funds for use of each capital project implementing 
+     agency shall be managed and controlled in accordance with all 
+     procedures and limitations established under the Financial 
+     Management System: Provided further, That all funds provided 
+     by this appropriation title shall be available only for the 
+     specific projects and purposes intended: Provided further, 
+     That notwithstanding the foregoing, all authorizations for 
+     capital outlay projects, except those projects covered by the 
+     first sentence of section 23(a) of the Federal-Aid Highway 
+     Act of 1968 (82 Stat. 827; Public Law 90-495; D.C. Code, sec. 
+     7-134, note), for which funds are provided by this 
+     appropriation title, shall expire on September 30, 2001, 
+     except authorizations for projects as to which funds have 
+     been obligated in whole or in part prior to September 30, 
+     2001: Provided further, That upon expiration of any such 
+     project authorization, the funds provided herein for the 
+     project shall lapse.
+
+                           General Provisions
+
+       Sec. 101. The expenditure of any appropriation under this 
+     Act for any consulting service through procurement contract, 
+     pursuant to 5 U.S.C. 3109, shall be limited to those 
+     contracts where such expenditures are a matter of public 
+     record and available for public inspection, except where 
+     otherwise provided under existing law, or under existing 
+     Executive order issued pursuant to existing law.
+       Sec. 102. Except as otherwise provided in this Act, all 
+     vouchers covering expenditures of appropriations contained in 
+     this Act shall be audited before payment by the designated 
+     certifying official, and the vouchers as approved shall be 
+     paid by checks issued by the designated disbursing official.
+       Sec. 103. Whenever in this Act, an amount is specified 
+     within an appropriation for particular purposes or objects of 
+     expenditure, such amount, unless otherwise specified, shall 
+     be considered as the maximum amount that may be expended for 
+     said purpose or object rather than an amount set apart 
+     exclusively therefor.
+       Sec. 104. Appropriations in this Act shall be available, 
+     when authorized by the Mayor, for allowances for privately 
+     owned automobiles and motorcycles used for the performance of 
+     official duties at rates established by the Mayor: Provided, 
+     That such rates shall not exceed the maximum prevailing rates 
+     for such vehicles as prescribed in the Federal Property 
+     Management Regulations 101-7 (Federal Travel Regulations).
+       Sec. 105. Appropriations in this Act shall be available for 
+     expenses of travel and for the payment of dues of 
+     organizations concerned with the work of the District of 
+     Columbia government, when authorized by the Mayor: Provided, 
+     That in the case of the Council of the District of Columbia, 
+     funds may be expended with the authorization of the chair of 
+     the Council.
+       Sec. 106. There are appropriated from the applicable funds 
+     of the District of Columbia such sums as may be necessary for 
+     making refunds and for the payment of judgments that have 
+     been entered against the District of Columbia government: 
+     Provided, That nothing contained in this section shall be 
+     construed as modifying or affecting the provisions of section 
+     11(c)(3) of title XII of the District of Columbia Income and 
+     Franchise Tax Act of 1947 (70 Stat. 78; Public Law 84-460; 
+     D.C. Code, sec. 47-1812.11(c)(3)).
+       Sec. 107. Appropriations in this Act shall be available for 
+     the payment of public assistance without reference to the 
+     requirement of section 544 of the District of Columbia Public 
+     Assistance Act of 1982 (D.C. Law 4-101; D.C. Code, sec. 3-
+     205.44), and for the payment of the non-Federal share of 
+     funds necessary to qualify for grants under subtitle A of 
+     title II of the Violent Crime Control and Law Enforcement Act 
+     of 1994.
+       Sec. 108. No part of any appropriation contained in this 
+     Act shall remain available for obligation beyond the current 
+     fiscal year unless expressly so provided herein.
+       Sec. 109. No funds appropriated in this Act for the 
+     District of Columbia government for the operation of 
+     educational institutions, the compensation of personnel, or 
+     for other educational purposes may be used to permit, 
+     encourage, facilitate, or further partisan political 
+     activities. Nothing herein is intended to prohibit the 
+     availability of school buildings for the use of any community 
+     or partisan political group during non-school hours.
+       Sec. 110. None of the funds appropriated in this Act shall 
+     be made available to pay the salary of any employee of the 
+     District of Columbia government whose name, title, grade, 
+     salary, past work experience, and salary history are not 
+     available for inspection by the House and Senate Committees 
+     on Appropriations, the Subcommittee on the District of 
+     Columbia of the House Committee on Government Reform, the 
+     Subcommittee on Oversight of Government Management, 
+     Restructuring and the District of Columbia of the Senate 
+     Committee on Governmental Affairs, and the Council of the 
+     District of Columbia, or their duly authorized 
+     representative.
+       Sec. 111. There are appropriated from the applicable funds 
+     of the District of Columbia such sums as may be necessary for 
+     making payments authorized by the District of Columbia 
+     Revenue Recovery Act of 1977 (D.C. Law 2-20; D.C. Code, sec. 
+     47-421 et seq.).
+       Sec. 112. No part of this appropriation shall be used for 
+     publicity or propaganda purposes or implementation of any 
+     policy including boycott designed to support or defeat 
+     legislation pending before Congress or any State legislature.
+       Sec. 113. At the start of the fiscal year, the Mayor shall 
+     develop an annual plan, by quarter and by project, for 
+     capital outlay borrowings: Provided, That within a reasonable 
+     time after the close of each quarter, the Mayor shall report 
+     to the Council of the District of Columbia and the Congress 
+     the actual borrowings and spending progress compared with 
+     projections.
+       Sec. 114. The Mayor shall not borrow any funds for capital 
+     projects unless the Mayor has obtained prior approval from 
+     the Council of the District of Columbia, by resolution, 
+     identifying the projects and amounts to be financed with such 
+     borrowings.
+       Sec. 115. The Mayor shall not expend any moneys borrowed 
+     for capital projects for the operating expenses of the 
+     District of Columbia government.
+       Sec. 116. None of the funds provided under this Act to the 
+     agencies funded by this Act, both Federal and District 
+     government agencies, that remain available for obligation or 
+     expenditure in fiscal year 2000, or provided from any 
+     accounts in the Treasury of the United States derived by the 
+     collection of fees available to the agencies funded by this 
+     Act, shall be available for obligation or expenditure for an 
+     agency through a reprogramming of funds which: (1) creates 
+     new programs; (2) eliminates a program, project, or 
+     responsibility center; (3) establishes or changes allocations 
+     specifically denied, limited or increased by Congress in this 
+     Act; (4) increases funds or personnel by any means for any 
+     program, project, or responsibility center for which funds 
+     have been denied or restricted; (5) reestablishes through 
+     reprogramming any program or project previously deferred 
+     through reprogramming; (6) augments existing programs, 
+     projects, or responsibility centers through a reprogramming 
+     of funds in excess of $1,000,000 or 10 percent, whichever is 
+     less; or (7) increases by 20 percent or more personnel 
+     assigned to a specific program, project, or responsibility 
+     center; unless the Appropriations Committees of both the 
+     Senate and House of Representatives are notified in writing 
+     30 days in advance of any reprogramming as set forth in this 
+     section.
+       Sec. 117. None of the Federal funds provided in this Act 
+     shall be obligated or expended to provide a personal cook, 
+     chauffeur, or other personal servants to any officer or 
+     employee of the District of Columbia government.
+       Sec. 118. None of the Federal funds provided in this Act 
+     shall be obligated or expended to procure passenger 
+     automobiles as defined in the Automobile Fuel Efficiency Act 
+     of 1980 (94 Stat. 1824; Public Law 96-425; 15 U.S.C. 
+     2001(2)), with an Environmental Protection Agency estimated 
+     miles per gallon average of less than 22 miles per gallon: 
+     Provided, That this section shall not apply to security, 
+     emergency rescue, or armored vehicles.
+       Sec. 119. (a) City Administrator.--The last sentence of 
+     section 422(7) of the District of Columbia Home Rule Act 
+     (D.C. Code, sec. 1-242(7)) is amended by striking ``, not to 
+     exceed'' and all that follows and inserting a period.
+       (b) Board of Directors of Redevelopment Land Agency.--
+     Section 1108(c)(2)(F) of the District of Columbia Government 
+     Comprehensive Merit Personnel Act of 1978 (D.C. Code, sec. 1-
+     612.8(c)(2)(F)) is amended to read as follows:
+       ``(F) Redevelopment Land Agency board members shall be paid 
+     per diem compensation at a rate established by the Mayor, 
+     except that such rate may not exceed the daily equivalent of 
+     the annual rate of basic pay for level 15 of the District 
+     Schedule for each day (including travel time) during which 
+     they are engaged in the actual performance of their 
+     duties.''.
+       Sec. 120. Notwithstanding any other provisions of law, the 
+     provisions of the District of Columbia Government 
+     Comprehensive Merit Personnel Act of 1978 (D.C. Law 2-139; 
+     D.C. Code, sec. 1-601.1 et seq.), enacted pursuant to section 
+     422(3) of the District of Columbia Home Rule Act (87 Stat. 
+     790; Public Law 93-198; D.C. Code, sec. 1-242(3)), shall 
+     apply with respect to the compensation of District of 
+     Columbia employees: Provided, That for pay purposes, 
+     employees of the District of Columbia government shall not be 
+     subject to the provisions of title 5, United States Code.
+       Sec. 121. No later than 30 days after the end of the first 
+     quarter of the fiscal year ending September 30, 2000, the 
+     Mayor of the District of Columbia shall submit to the Council 
+     of the District of Columbia the new fiscal year 2000 revenue 
+     estimates as of the end of the first quarter of fiscal year 
+     2000. These estimates shall be used in the budget request for 
+     the fiscal year ending September 30, 2001. The officially 
+     revised estimates at midyear shall be used for the midyear 
+     report.
+       Sec. 122. No sole source contract with the District of 
+     Columbia government or any agency thereof may be renewed or 
+     extended without opening that contract to the competitive 
+     bidding process as set forth in section 303 of the District 
+     of Columbia Procurement Practices Act of 1985 (D.C. Law 6-85; 
+     D.C. Code, sec. 1-1183.3), except that the District of 
+     Columbia government or any agency thereof may renew or extend 
+     sole source contracts for which competition is not feasible 
+     or practical: Provided, That the determination as to whether 
+     to invoke the competitive bidding process has been made in 
+     accordance with duly promulgated rules and procedures and 
+     said determination has been reviewed and approved by the 
+     District of Columbia Financial Responsibility and Management 
+     Assistance Authority.
+       Sec. 123. For purposes of the Balanced Budget and Emergency 
+     Deficit Control Act of 1985 (99 Stat. 1037; Public Law 99-
+     177), the term ``program, project, and activity'' shall be 
+     synonymous with and refer specifically to each account 
+     appropriating Federal funds in this Act, and any 
+     sequestration order shall be applied to each of the accounts 
+     rather than to the aggregate total of those accounts: 
+     Provided, That sequestration orders shall not be applied to 
+     any account that is specifically exempted from sequestration 
+     by the Balanced Budget and Emergency Deficit Control Act of 
+     1985.
+       Sec. 124. In the event a sequestration order is issued 
+     pursuant to the Balanced Budget and Emergency Deficit Control 
+     Act of 1985 (99 Stat. 1037; Public Law 99-177), after the 
+     amounts appropriated to the District of Columbia for the 
+     fiscal year involved have been paid to the District of 
+     Columbia, the Mayor of the District of
+
+[[Page H10938]]
+
+     Columbia shall pay to the Secretary of the Treasury, within 
+     15 days after receipt of a request therefor from the 
+     Secretary of the Treasury, such amounts as are sequestered by 
+     the order: Provided, That the sequestration percentage 
+     specified in the order shall be applied proportionately to 
+     each of the Federal appropriation accounts in this Act that 
+     are not specifically exempted from sequestration by such Act.
+       Sec. 125. (a) An entity of the District of Columbia 
+     government may accept and use a gift or donation during 
+     fiscal year 2000 if--
+       (1) the Mayor approves the acceptance and use of the gift 
+     or donation: Provided, That the Council of the District of 
+     Columbia may accept and use gifts without prior approval by 
+     the Mayor; and
+       (2) the entity uses the gift or donation to carry out its 
+     authorized functions or duties.
+       (b) Each entity of the District of Columbia government 
+     shall keep accurate and detailed records of the acceptance 
+     and use of any gift or donation under subsection (a) of this 
+     section, and shall make such records available for audit and 
+     public inspection.
+       (c) For the purposes of this section, the term ``entity of 
+     the District of Columbia government'' includes an independent 
+     agency of the District of Columbia.
+       (d) This section shall not apply to the District of 
+     Columbia Board of Education, which may, pursuant to the laws 
+     and regulations of the District of Columbia, accept and use 
+     gifts to the public schools without prior approval by the 
+     Mayor.
+       Sec. 126. None of the Federal funds provided in this Act 
+     may be used by the District of Columbia to provide for 
+     salaries, expenses, or other costs associated with the 
+     offices of United States Senator or United States 
+     Representative under section 4(d) of the District of Columbia 
+     Statehood Constitutional Convention Initiatives of 1979 (D.C. 
+     Law 3-171; D.C. Code, sec. 1-113(d)).
+       Sec. 127. (a) The University of the District of Columbia 
+     shall submit to the Mayor, the District of Columbia Financial 
+     Responsibility and Management Assistance Authority and the 
+     Council of the District of Columbia no later than 15 calendar 
+     days after the end of each quarter a report that sets forth--
+       (1) current quarter expenditures and obligations, year-to-
+     date expenditures and obligations, and total fiscal year 
+     expenditure projections versus budget broken out on the basis 
+     of control center, responsibility center, and object class, 
+     and for all funds, non-appropriated funds, and capital 
+     financing;
+       (2) a list of each account for which spending is frozen and 
+     the amount of funds frozen, broken out by control center, 
+     responsibility center, detailed object, and for all funding 
+     sources;
+       (3) a list of all active contracts in excess of $10,000 
+     annually, which contains the name of each contractor; the 
+     budget to which the contract is charged, broken out on the 
+     basis of control center and responsibility center, and 
+     contract identifying codes used by the University of the 
+     District of Columbia; payments made in the last quarter and 
+     year-to-date, the total amount of the contract and total 
+     payments made for the contract and any modifications, 
+     extensions, renewals; and specific modifications made to each 
+     contract in the last month;
+       (4) all reprogramming requests and reports that have been 
+     made by the University of the District of Columbia within the 
+     last quarter in compliance with applicable law; and
+       (5) changes made in the last quarter to the organizational 
+     structure of the University of the District of Columbia, 
+     displaying previous and current control centers and 
+     responsibility centers, the names of the organizational 
+     entities that have been changed, the name of the staff member 
+     supervising each entity affected, and the reasons for the 
+     structural change.
+       (b) The Mayor, the Authority, and the Council shall provide 
+     the Congress by February 1, 2000, a summary, analysis, and 
+     recommendations on the information provided in the quarterly 
+     reports.
+       Sec. 128. Funds authorized or previously appropriated to 
+     the government of the District of Columbia by this or any 
+     other Act to procure the necessary hardware and installation 
+     of new software, conversion, testing, and training to improve 
+     or replace its financial management system are also available 
+     for the acquisition of accounting and financial management 
+     services and the leasing of necessary hardware, software or 
+     any other related goods or services, as determined by the 
+     District of Columbia Financial Responsibility and Management 
+     Assistance Authority.
+       Sec. 129. (a) None of the funds contained in this Act may 
+     be made available to pay the fees of an attorney who 
+     represents a party who prevails in an action, including an 
+     administrative proceeding, brought against the District of 
+     Columbia Public Schools under the Individuals with 
+     Disabilities Education Act (20 U.S.C. 1400 et seq.) if--
+       (1) the hourly rate of compensation of the attorney exceeds 
+     120 percent of the hourly rate of compensation under section 
+     11-2604(a), District of Columbia Code; or
+       (2) the maximum amount of compensation of the attorney 
+     exceeds 120 percent of the maximum amount of compensation 
+     under section 11-2604(b)(1), District of Columbia Code, 
+     except that compensation and reimbursement in excess of such 
+     maximum may be approved for extended or complex 
+     representation in accordance with section 11-2604(c), 
+     District of Columbia Code.
+       (b) Notwithstanding the preceding subsection, if the Mayor, 
+     District of Columbia Financial Responsibility and Management 
+     Assistance Authority and the Superintendent of the District 
+     of Columbia Public Schools concur in a Memorandum of 
+     Understanding setting forth a new rate and amount of 
+     compensation, then such new rates shall apply in lieu of the 
+     rates set forth in the preceding subsection.
+       Sec. 130. None of the funds appropriated under this Act 
+     shall be expended for any abortion except where the life of 
+     the mother would be endangered if the fetus were carried to 
+     term or where the pregnancy is the result of an act of rape 
+     or incest.
+       Sec. 131. None of the funds made available in this Act may 
+     be used to implement or enforce the Health Care Benefits 
+     Expansion Act of 1992 (D.C. Law 9-114; D.C. Code, sec. 36-
+     1401 et seq.) or to otherwise implement or enforce any system 
+     of registration of unmarried, cohabiting couples (whether 
+     homosexual, heterosexual, or lesbian), including but not 
+     limited to registration for the purpose of extending 
+     employment, health, or governmental benefits to such couples 
+     on the same basis that such benefits are extended to legally 
+     married couples.
+       Sec. 132. The Superintendent of the District of Columbia 
+     Public Schools shall submit to the Congress, the Mayor, the 
+     District of Columbia Financial Responsibility and Management 
+     Assistance Authority, and the Council of the District of 
+     Columbia no later than 15 calendar days after the end of each 
+     quarter a report that sets forth--
+       (1) current quarter expenditures and obligations, year-to-
+     date expenditures and obligations, and total fiscal year 
+     expenditure projections versus budget, broken out on the 
+     basis of control center, responsibility center, agency 
+     reporting code, and object class, and for all funds, 
+     including capital financing;
+       (2) a list of each account for which spending is frozen and 
+     the amount of funds frozen, broken out by control center, 
+     responsibility center, detailed object, and agency reporting 
+     code, and for all funding sources;
+       (3) a list of all active contracts in excess of $10,000 
+     annually, which contains the name of each contractor; the 
+     budget to which the contract is charged, broken out on the 
+     basis of control center, responsibility center, and agency 
+     reporting code; and contract identifying codes used by the 
+     District of Columbia Public Schools; payments made in the 
+     last quarter and year-to-date, the total amount of the 
+     contract and total payments made for the contract and any 
+     modifications, extensions, renewals; and specific 
+     modifications made to each contract in the last month;
+       (4) all reprogramming requests and reports that are 
+     required to be, and have been, submitted to the Board of 
+     Education; and
+       (5) changes made in the last quarter to the organizational 
+     structure of the District of Columbia Public Schools, 
+     displaying previous and current control centers and 
+     responsibility centers, the names of the organizational 
+     entities that have been changed, the name of the staff member 
+     supervising each entity affected, and the reasons for the 
+     structural change.
+       Sec. 133. (a) In General.--The Superintendent of the 
+     District of Columbia Public Schools and the University of the 
+     District of Columbia shall annually compile an accurate and 
+     verifiable report on the positions and employees in the 
+     public school system and the university, respectively. The 
+     annual report shall set forth--
+       (1) the number of validated schedule A positions in the 
+     District of Columbia public schools and the University of the 
+     District of Columbia for fiscal year 1999, fiscal year 2000, 
+     and thereafter on full-time equivalent basis, including a 
+     compilation of all positions by control center, 
+     responsibility center, funding source, position type, 
+     position title, pay plan, grade, and annual salary; and
+       (2) a compilation of all employees in the District of 
+     Columbia public schools and the University of the District of 
+     Columbia as of the preceding December 31, verified as to its 
+     accuracy in accordance with the functions that each employee 
+     actually performs, by control center, responsibility center, 
+     agency reporting code, program (including funding source), 
+     activity, location for accounting purposes, job title, grade 
+     and classification, annual salary, and position control 
+     number.
+       (b) Submission.--The annual report required by subsection 
+     (a) of this section shall be submitted to the Congress, the 
+     Mayor, the District of Columbia Council, the Consensus 
+     Commission, and the Authority, not later than February 15 of 
+     each year.
+       Sec. 134. (a) No later than November 1, 1999, or within 30 
+     calendar days after the date of the enactment of this Act, 
+     whichever occurs later, and each succeeding year, the 
+     Superintendent of the District of Columbia Public Schools and 
+     the University of the District of Columbia shall submit to 
+     the appropriate congressional committees, the Mayor, the 
+     District of Columbia Council, the Consensus Commission, and 
+     the District of Columbia Financial Responsibility and 
+     Management Assistance Authority, a revised appropriated funds 
+     operating budget for the public school system and the 
+     University of the District of Columbia for such fiscal year 
+     that is in the total amount of the approved appropriation and 
+     that realigns budgeted data for personal services and other-
+     than-personal services, respectively, with anticipated actual 
+     expenditures.
+       (b) The revised budget required by subsection (a) of this 
+     section shall be submitted in the format of the budget that 
+     the Superintendent of the District of Columbia Public Schools 
+     and the University of the District of Columbia submit to the 
+     Mayor of the District of Columbia for inclusion in the 
+     Mayor's budget submission to the Council of the District of 
+     Columbia pursuant to section 442 of the District of Columbia 
+     Home Rule Act (Public Law 93-198; D.C. Code, sec. 47-301).
+       Sec. 135. The District of Columbia Financial Responsibility 
+     and Management Assistance Authority, acting on behalf of the 
+     District of Columbia Public Schools (DCPS) in formulating the 
+     DCPS budget, the Board of Trustees of the University of the 
+     District of Columbia, the Board of Library Trustees, and the 
+     Board of Governors of the University of the District of
+
+[[Page H10939]]
+
+     Columbia School of Law shall vote on and approve the 
+     respective annual or revised budgets for such entities before 
+     submission to the Mayor of the District of Columbia for 
+     inclusion in the Mayor's budget submission to the Council of 
+     the District of Columbia in accordance with section 442 of 
+     the District of Columbia Home Rule Act (Public Law 93-198; 
+     D.C. Code, sec. 47-301), or before submitting their 
+     respective budgets directly to the Council.
+       Sec. 136. (a) Ceiling on Total Operating Expenses.--
+       (1) In general.--Notwithstanding any other provision of 
+     law, the total amount appropriated in this Act for operating 
+     expenses for the District of Columbia for fiscal year 2000 
+     under the heading ``Division of Expenses'' shall not exceed 
+     the lesser of--
+       (A) the sum of the total revenues of the District of 
+     Columbia for such fiscal year; or
+       (B) $5,515,379,000 (of which $152,753,000 shall be from 
+     intra-District funds and $3,113,854,000 shall be from local 
+     funds), which amount may be increased by the following:
+       (i) proceeds of one-time transactions, which are expended 
+     for emergency or unanticipated operating or capital needs 
+     approved by the District of Columbia Financial Responsibility 
+     and Management Assistance Authority; or
+       (ii) after notification to the Council, additional 
+     expenditures which the Chief Financial Officer of the 
+     District of Columbia certifies will produce additional 
+     revenues during such fiscal year at least equal to 200 
+     percent of such additional expenditures, and that are 
+     approved by the Authority.
+       (2) Enforcement.--The Chief Financial Officer of the 
+     District of Columbia and the Authority shall take such steps 
+     as are necessary to assure that the District of Columbia 
+     meets the requirements of this section, including the 
+     apportioning by the Chief Financial Officer of the 
+     appropriations and funds made available to the District 
+     during fiscal year 2000, except that the Chief Financial 
+     Officer may not reprogram for operating expenses any funds 
+     derived from bonds, notes, or other obligations issued for 
+     capital projects.
+       (b) Acceptance and Use of Grants Not Included in Ceiling.--
+       (1) In general.--Notwithstanding subsection (a), the Mayor, 
+     in consultation with the Chief Financial Officer, during a 
+     control year, as defined in section 305(4) of the District of 
+     Columbia Financial Responsibility and Management Assistance 
+     Act of 1995 (Public Law 104-8; 109 Stat. 152), may accept, 
+     obligate, and expend Federal, private, and other grants 
+     received by the District government that are not reflected in 
+     the amounts appropriated in this Act.
+       (2) Requirement of chief financial officer report and 
+     authority approval.--No such Federal, private, or other grant 
+     may be accepted, obligated, or expended pursuant to paragraph 
+     (1) until--
+       (A) the Chief Financial Officer of the District of Columbia 
+     submits to the Authority a report setting forth detailed 
+     information regarding such grant; and
+       (B) the Authority has reviewed and approved the acceptance, 
+     obligation, and expenditure of such grant in accordance with 
+     review and approval procedures consistent with the provisions 
+     of the District of Columbia Financial Responsibility and 
+     Management Assistance Act of 1995.
+       (3) Prohibition on spending in anticipation of approval or 
+     receipt.--No amount may be obligated or expended from the 
+     general fund or other funds of the District government in 
+     anticipation of the approval or receipt of a grant under 
+     paragraph (2)(B) of this subsection or in anticipation of the 
+     approval or receipt of a Federal, private, or other grant not 
+     subject to such paragraph.
+       (4) Quarterly reports.--The Chief Financial Officer of the 
+     District of Columbia shall prepare a quarterly report setting 
+     forth detailed information regarding all Federal, private, 
+     and other grants subject to this subsection. Each such report 
+     shall be submitted to the Council of the District of 
+     Columbia, and to the Committees on Appropriations of the 
+     House of Representatives and the Senate, not later than 15 
+     days after the end of the quarter covered by the report.
+       (c) Report on Expenditures by Financial Responsibility and 
+     Management Assistance Authority.--Not later than 20 calendar 
+     days after the end of each fiscal quarter starting October 1, 
+     1999, the Authority shall submit a report to the Committees 
+     on Appropriations of the House of Representatives and the 
+     Senate, the Committee on Government Reform of the House, and 
+     the Committee on Governmental Affairs of the Senate providing 
+     an itemized accounting of all non-appropriated funds 
+     obligated or expended by the Authority for the quarter. The 
+     report shall include information on the date, amount, 
+     purpose, and vendor name, and a description of the services 
+     or goods provided with respect to the expenditures of such 
+     funds.
+       Sec. 137. If a department or agency of the government of 
+     the District of Columbia is under the administration of a 
+     court-appointed receiver or other court-appointed official 
+     during fiscal year 2000 or any succeeding fiscal year, the 
+     receiver or official shall prepare and submit to the Mayor, 
+     for inclusion in the annual budget of the District of 
+     Columbia for the year, annual estimates of the expenditures 
+     and appropriations necessary for the maintenance and 
+     operation of the department or agency. All such estimates 
+     shall be forwarded by the Mayor to the Council, for its 
+     action pursuant to sections 446 and 603(c) of the District of 
+     Columbia Home Rule Act, without revision but subject to the 
+     Mayor's recommendations. Notwithstanding any provision of the 
+     District of Columbia Home Rule Act (87 Stat. 774; Public Law 
+     93-198) the Council may comment or make recommendations 
+     concerning such annual estimates but shall have no authority 
+     under such Act to revise such estimates.
+       Sec. 138. (a) Notwithstanding any other provision of law, 
+     rule, or regulation, an employee of the District of Columbia 
+     public schools shall be--
+       (1) classified as an Educational Service employee;
+       (2) placed under the personnel authority of the Board of 
+     Education; and
+       (3) subject to all Board of Education rules.
+       (b) School-based personnel shall constitute a separate 
+     competitive area from nonschool-based personnel who shall not 
+     compete with school-based personnel for retention purposes.
+       Sec. 139. (a) Restrictions on Use of Official Vehicles.--
+     Except as otherwise provided in this section, none of the 
+     funds made available by this Act or by any other Act may be 
+     used to provide any officer or employee of the District of 
+     Columbia with an official vehicle unless the officer or 
+     employee uses the vehicle only in the performance of the 
+     officer's or employee's official duties. For purposes of this 
+     paragraph, the term ``official duties'' does not include 
+     travel between the officer's or employee's residence and 
+     workplace (except: (1) in the case of an officer or employee 
+     of the Metropolitan Police Department who resides in the 
+     District of Columbia or is otherwise designated by the Chief 
+     of the Department; (2) at the discretion of the Fire Chief, 
+     an officer or employee of the District of Columbia Fire and 
+     Emergency Medical Services Department who resides in the 
+     District of Columbia and is on call 24 hours a day; (3) the 
+     Mayor of the District of Columbia; and (4) the Chairman of 
+     the Council of the District of Columbia).
+       (b) Inventory of Vehicles.--The Chief Financial Officer of 
+     the District of Columbia shall submit, by November 15, 1999, 
+     an inventory, as of September 30, 1999, of all vehicles 
+     owned, leased or operated by the District of Columbia 
+     government. The inventory shall include, but not be limited 
+     to, the department to which the vehicle is assigned; the year 
+     and make of the vehicle; the acquisition date and cost; the 
+     general condition of the vehicle; annual operating and 
+     maintenance costs; current mileage; and whether the vehicle 
+     is allowed to be taken home by a District officer or employee 
+     and if so, the officer or employee's title and resident 
+     location.
+       Sec. 140. (a) Source of Payment for Employees Detailed 
+     Within Government.--For purposes of determining the amount of 
+     funds expended by any entity within the District of Columbia 
+     government during fiscal year 2000 and each succeeding fiscal 
+     year, any expenditures of the District government 
+     attributable to any officer or employee of the District 
+     government who provides services which are within the 
+     authority and jurisdiction of the entity (including any 
+     portion of the compensation paid to the officer or employee 
+     attributable to the time spent in providing such services) 
+     shall be treated as expenditures made from the entity's 
+     budget, without regard to whether the officer or employee is 
+     assigned to the entity or otherwise treated as an officer or 
+     employee of the entity.
+       (b) Modification of Reduction in Force Procedures.--The 
+     District of Columbia Government Comprehensive Merit Personnel 
+     Act of 1978 (D.C. Code, sec. 1-601.1 et seq.), is further 
+     amended in section 2408(a) by striking ``1999'' and inserting 
+     ``2000''; in subsection (b), by striking ``1999'' and 
+     inserting ``2000''; in subsection (i), by striking ``1999'' 
+     and inserting ``2000''; and in subsection (k), by striking 
+     ``1999'' and inserting ``2000''.
+       Sec. 141. Notwithstanding any other provision of law, not 
+     later than 120 days after the date that a District of 
+     Columbia Public Schools (DCPS) student is referred for 
+     evaluation or assessment--
+       (1) the District of Columbia Board of Education, or its 
+     successor, and DCPS shall assess or evaluate a student who 
+     may have a disability and who may require special education 
+     services; and
+       (2) if a student is classified as having a disability, as 
+     defined in section 101(a)(1) of the Individuals with 
+     Disabilities Education Act (84 Stat. 175; 20 U.S.C. 
+     1401(a)(1)) or in section 7(8) of the Rehabilitation Act of 
+     1973 (87 Stat. 359; 29 U.S.C. 706(8)), the Board and DCPS 
+     shall place that student in an appropriate program of special 
+     education services.
+       Sec. 142. (a) Compliance With Buy American Act.--None of 
+     the funds made available in this Act may be expended by an 
+     entity unless the entity agrees that in expending the funds 
+     the entity will comply with the Buy American Act (41 U.S.C. 
+     10a-10c).
+       (b) Sense of the Congress; Requirement Regarding Notice.--
+       (1) Purchase of american-made equipment and products.--In 
+     the case of any equipment or product that may be authorized 
+     to be purchased with financial assistance provided using 
+     funds made available in this Act, it is the sense of the 
+     Congress that entities receiving the assistance should, in 
+     expending the assistance, purchase only American-made 
+     equipment and products to the greatest extent practicable.
+       (2) Notice to recipients of assistance.--In providing 
+     financial assistance using funds made available in this Act, 
+     the head of each agency of the Federal or District of 
+     Columbia government shall provide to each recipient of the 
+     assistance a notice describing the statement made in 
+     paragraph (1) by the Congress.
+       (c) Prohibition of Contracts With Persons Falsely Labeling 
+     Products as Made in America.--If it has been finally 
+     determined by a court or Federal agency that any person 
+     intentionally affixed a label bearing a ``Made in America'' 
+     inscription, or any inscription with the same meaning, to any 
+     product sold in or shipped to the United States that is not 
+     made in the United States, the person shall be ineligible to 
+     receive any contract or subcontract made with funds made 
+     available in this Act, pursuant to the debarment, suspension, 
+     and ineligibility procedures described in sections 9.400 
+     through 9.409 of title 48, Code of Federal Regulations.
+
+[[Page H10940]]
+
+       Sec. 143. None of the funds contained in this Act may be 
+     used for purposes of the annual independent audit of the 
+     District of Columbia government (including the District of 
+     Columbia Financial Responsibility and Management Assistance 
+     Authority) for fiscal year 2000 unless--
+       (1) the audit is conducted by the Inspector General of the 
+     District of Columbia pursuant to section 208(a)(4) of the 
+     District of Columbia Procurement Practices Act of 1985 (D.C. 
+     Code, sec. 1-1182.8(a)(4)); and
+       (2) the audit includes a comparison of audited actual year-
+     end results with the revenues submitted in the budget 
+     document for such year and the appropriations enacted into 
+     law for such year.
+       Sec. 144. Nothing in this Act shall be construed to 
+     authorize any office, agency or entity to expend funds for 
+     programs or functions for which a reorganization plan is 
+     required but has not been approved by the District of 
+     Columbia Financial Responsibility and Management Assistance 
+     Authority. Appropriations made by this Act for such programs 
+     or functions are conditioned only on the approval by the 
+     Authority of the required reorganization plans.
+       Sec. 145. Notwithstanding any other provision of law, rule, 
+     or regulation, the evaluation process and instruments for 
+     evaluating District of Columbia Public School employees shall 
+     be a non-negotiable item for collective bargaining purposes.
+       Sec. 146. None of the funds contained in this Act may be 
+     used by the District of Columbia Corporation Counsel or any 
+     other officer or entity of the District government to provide 
+     assistance for any petition drive or civil action which seeks 
+     to require Congress to provide for voting representation in 
+     Congress for the District of Columbia.
+       Sec. 147. None of the funds contained in this Act may be 
+     used to transfer or confine inmates classified above the 
+     medium security level, as defined by the Federal Bureau of 
+     Prisons classification instrument, to the Northeast Ohio 
+     Correctional Center located in Youngstown, Ohio.
+       Sec. 148. (a) Section 202(i) of the District of Columbia 
+     Financial Responsibility and Management Assistance Act of 
+     1995 (Public Law 104-8), as added by section 155 of the 
+     District of Columbia Appropriations Act, 1999, is amended to 
+     read as follows:
+       ``( j) Reserve.--
+       ``(1) In general.--Beginning with fiscal year 2000, the 
+     plan or budget submitted pursuant to this Act shall contain 
+     $150,000,000 for a reserve to be established by the Mayor, 
+     Council of the District of Columbia, Chief Financial Officer 
+     for the District of Columbia, and the District of Columbia 
+     Financial Responsibility and Management Assistance Authority.
+       ``(2) Conditions on use.--The reserve funds--
+       ``(A) shall only be expended according to criteria 
+     established by the Chief Financial Officer and approved by 
+     the Mayor, Council of the District of Columbia, and District 
+     of Columbia Financial Responsibility and Management 
+     Assistance Authority, but, in no case may any of the reserve 
+     funds be expended until any other surplus funds have been 
+     used;
+       ``(B) shall not be used to fund the agencies of the 
+     District of Columbia government under court ordered 
+     receivership; and
+       ``(C) shall not be used to fund shortfalls in the projected 
+     reductions budgeted in the budget proposed by the District of 
+     Columbia government for general supply schedule savings and 
+     management reform savings.
+       ``(3) Report requirement.--The Authority shall notify the 
+     Appropriations Committees of both the Senate and House of 
+     Representatives in writing 30 days in advance of any 
+     expenditure of the reserve funds.''.
+       (b) Section 202 of such Act (Public Law 104-8), as amended 
+     by subsection (a), is further amended by adding at the end 
+     the following:
+       ``(k) Positive Fund Balance.--
+       ``(1) In general.--The District of Columbia shall maintain 
+     at the end of a fiscal year an annual positive fund balance 
+     in the general fund of not less than 4 percent of the 
+     projected general fund expenditures for the following fiscal 
+     year.
+       ``(2) Excess funds.--Of funds remaining in excess of the 
+     amounts required by paragraph (1)--
+       ``(A) not more than 50 percent may be used for authorized 
+     non-recurring expenses; and
+       ``(B) not less than 50 percent shall be used to reduce the 
+     debt of the District of Columbia.''.
+       Sec. 149. (a) No later than November 1, 1999, or within 30 
+     calendar days after the date of the enactment of this Act, 
+     whichever occurs later, the Chief Financial Officer of the 
+     District of Columbia shall submit to the appropriate 
+     committees of Congress, the Mayor, and the District of 
+     Columbia Financial Responsibility and Management Assistance 
+     Authority a revised appropriated funds operating budget for 
+     all agencies of the District of Columbia government for such 
+     fiscal year that is in the total amount of the approved 
+     appropriation and that realigns budgeted data for personal 
+     services and other-than-personal-services, respectively, with 
+     anticipated actual expenditures.
+       (b) The revised budget required by subsection (a) of this 
+     section shall be submitted in the format of the budget that 
+     the District of Columbia government submitted pursuant to 
+     section 442 of the District of Columbia Home Rule Act (Public 
+     Law 93-198; D.C. Code, sec. 47-301).
+       Sec. 150. None of the funds contained in this Act may be 
+     used for any program of distributing sterile needles or 
+     syringes for the hypodermic injection of any illegal drug.
+       Sec. 151. (a) Restrictions on Leases.--Upon the expiration 
+     of the 60-day period that begins on the date of the enactment 
+     of this Act, none of the funds contained in this Act may be 
+     used to make rental payments under a lease for the use of 
+     real property by the District of Columbia government 
+     (including any independent agency of the District) unless the 
+     lease and an abstract of the lease have been filed (by the 
+     District of Columbia or any other party to the lease) with 
+     the central office of the Deputy Mayor for Economic 
+     Development, in an indexed registry available for public 
+     inspection.
+       (b) Additional Restrictions on Current Leases.--
+       (1) In general.--Upon the expiration of the 60-day period 
+     that begins on the date of the enactment of this Act, in the 
+     case of a lease described in paragraph (3), none of the funds 
+     contained in this Act may be used to make rental payments 
+     under the lease unless the lease is included in periodic 
+     reports submitted by the Mayor and Council of the District of 
+     Columbia to the Committees on Appropriations of the House of 
+     Representatives and Senate describing for each such lease the 
+     following information:
+       (A) The location of the property involved, the name of the 
+     owners of record according to the land records of the 
+     District of Columbia, the name of the lessors according to 
+     the lease, the rate of payment under the lease, the period of 
+     time covered by the lease, and the conditions under which the 
+     lease may be terminated.
+       (B) The extent to which the property is or is not occupied 
+     by the District of Columbia government as of the end of the 
+     reporting period involved.
+       (C) If the property is not occupied and utilized by the 
+     District government as of the end of the reporting period 
+     involved, a plan for occupying and utilizing the property 
+     (including construction or renovation work) or a status 
+     statement regarding any efforts by the District to terminate 
+     or renegotiate the lease.
+       (2) Timing of reports.--The reports described in paragraph 
+     (1) shall be submitted for each calendar quarter (beginning 
+     with the quarter ending December 31, 1999) not later than 20 
+     days after the end of the quarter involved, plus an initial 
+     report submitted not later than 60 days after the date of the 
+     enactment of this Act, which shall provide information as of 
+     the date of the enactment of this Act.
+       (3) Leases described.--A lease described in this paragraph 
+     is a lease in effect as of the date of the enactment of this 
+     Act for the use of real property by the District of Columbia 
+     government (including any independent agency of the District) 
+     which is not being occupied by the District government 
+     (including any independent agency of the District) as of such 
+     date or during the 60-day period which begins on the date of 
+     the enactment of this Act.
+       Sec. 152. (a) Management of Existing District Government 
+     Property.--Upon the expiration of the 60-day period that 
+     begins on the date of the enactment of this Act, none of the 
+     funds contained in this Act may be used to enter into a lease 
+     (or to make rental payments under such a lease) for the use 
+     of real property by the District of Columbia government 
+     (including any independent agency of the District) or to 
+     purchase real property for the use of the District of 
+     Columbia government (including any independent agency of the 
+     District) or to manage real property for the use of the 
+     District of Columbia (including any independent agency of the 
+     District) unless the following conditions are met:
+       (1) The Mayor and Council of the District of Columbia 
+     certify to the Committees on Appropriations of the House of 
+     Representatives and Senate that existing real property 
+     available to the District (whether leased or owned by the 
+     District government) is not suitable for the purposes 
+     intended.
+       (2) Notwithstanding any other provisions of law, there is 
+     made available for sale or lease all real property of the 
+     District of Columbia that the Mayor from time-to-time 
+     determines is surplus to the needs of the District of 
+     Columbia, unless a majority of the members of the Council 
+     override the Mayor's determination during the 30-day period 
+     which begins on the date the determination is published.
+       (3) The Mayor and Council implement a program for the 
+     periodic survey of all District property to determine if it 
+     is surplus to the needs of the District.
+       (4) The Mayor and Council within 60 days of the date of the 
+     enactment of this Act have filed with the Committees on 
+     Appropriations of the House of Representatives and Senate, 
+     the Committee on Government Reform and Oversight of the House 
+     of Representatives, and the Committee on Governmental Affairs 
+     of the Senate a report which provides a comprehensive plan 
+     for the management of District of Columbia real property 
+     assets, and are proceeding with the implementation of the 
+     plan.
+       (b) Termination of Provisions.--If the District of Columbia 
+     enacts legislation to reform the practices and procedures 
+     governing the entering into of leases for the use of real 
+     property by the District of Columbia government and the 
+     disposition of surplus real property of the District 
+     government, the provisions of subsection (a) shall cease to 
+     be effective upon the effective date of the legislation.
+       Sec. 153. Section 603(e)(2)(B) of the Student Loan 
+     Marketing Association Reorganization Act of 1996 (Public Law 
+     104-208; 110 Stat. 3009-293) is amended--
+       (1) by inserting ``and public charter'' after ``public''; 
+     and
+       (2) by adding at the end the following: ``Of such amounts 
+     and proceeds, $5,000,000 shall be set aside for use as a 
+     credit enhancement fund for public charter schools in the 
+     District of Columbia, with the administration of the fund 
+     (including the making of loans) to be carried out by the 
+     Mayor through a committee consisting of three individuals 
+     appointed by the Mayor of the District of Columbia and two 
+     individuals appointed by the Public Charter School Board 
+     established under section 2214 of the District of Columbia 
+     School Reform Act of 1995.''.
+       Sec. 154. The Mayor, District of Columbia Financial 
+     Responsibility and Management Assistance Authority, and the 
+     Superintendent of Schools shall implement a process to 
+     dispose of
+
+[[Page H10941]]
+
+     excess public school real property within 90 days of the 
+     enactment of this Act.
+       Sec. 155. Section 2003 of the District of Columbia School 
+     Reform Act of 1995 (Public Law 104-134; D.C. Code, sec. 31-
+     2851) is amended by striking ``during the period'' and ``and 
+     ending 5 years after such date.''.
+       Sec. 156. Section 2206(c) of the District of Columbia 
+     School Reform Act of 1995 (Public Law 104-134; D.C. Code, 
+     sec. 31-2853.16(c)) is amended by adding at the end the 
+     following: ``, except that a preference in admission may be 
+     given to an applicant who is a sibling of a student already 
+     attending or selected for admission to the public charter 
+     school in which the applicant is seeking enrollment.''.
+       Sec. 157. (a) Transfer of Funds.--There is hereby 
+     transferred from the District of Columbia Financial 
+     Responsibility and Management Assistance Authority (hereafter 
+     referred to as the ``Authority'') to the District of Columbia 
+     the sum of $18,000,000 for severance payments to individuals 
+     separated from employment during fiscal year 2000 (under such 
+     terms and conditions as the Mayor considers appropriate), 
+     expanded contracting authority of the Mayor, and the 
+     implementation of a system of managed competition among 
+     public and private providers of goods and services by and on 
+     behalf of the District of Columbia: Provided, That such funds 
+     shall be used only in accordance with a plan agreed to by the 
+     Council and the Mayor and approved by the Committees on 
+     Appropriations of the House of Representatives and the 
+     Senate: Provided further, That the Authority and the Mayor 
+     shall coordinate the spending of funds for this program so 
+     that continuous progress is made. The Authority shall release 
+     said funds, on a quarterly basis, to reimburse such expenses, 
+     so long as the Authority certifies that the expenses reduce 
+     re-occurring future costs at an annual ratio of at least 2 to 
+     1 relative to the funds provided, and that the program is in 
+     accordance with the best practices of municipal government.
+       (b) Source of Funds.--The amount transferred under 
+     subsection (a) shall be derived from interest earned on 
+     accounts held by the Authority on behalf of the District of 
+     Columbia.
+       Sec. 158. (a) In General.--The District of Columbia 
+     Financial Responsibility and Management Assistance Authority 
+     (hereafter referred to as the ``Authority''), working with 
+     the Commonwealth of Virginia and the Director of the National 
+     Park Service, shall carry out a project to complete all 
+     design requirements and all requirements for compliance with 
+     the National Environmental Policy Act for the construction of 
+     expanded lane capacity for the Fourteenth Street Bridge.
+       (b) Source of Funds; Transfer.--For purposes of carrying 
+     out the project under subsection (a), there is hereby 
+     transferred to the Authority from the District of Columbia 
+     dedicated highway fund established pursuant to section 3(a) 
+     of the District of Columbia Emergency Highway Relief Act 
+     (Public Law 104-21; D.C. Code, sec. 7-134.2(a)) an amount not 
+     to exceed $5,000,000.
+       Sec. 159. (a) In General.--The Mayor of the District of 
+     Columbia shall carry out through the Army Corps of Engineers, 
+     an Anacostia River environmental cleanup program.
+       (b) Source of Funds.--There are hereby transferred to the 
+     Mayor from the escrow account held by the District of 
+     Columbia Financial Responsibility and Management Assistance 
+     Authority pursuant to section 134 of division A of the 
+     Omnibus Consolidated and Emergency Supplemental 
+     Appropriations Act, 1999 (Public Law 105-277; 112 Stat. 2681-
+     552), for infrastructure needs of the District of Columbia, 
+     $5,000,000.
+       Sec. 160. (a) Prohibiting Payment of Administrative Costs 
+     From Fund.--Section 16(e) of the Victims of Violent Crime 
+     Compensation Act of 1996 (D.C. Code, sec. 3-435(e)) is 
+     amended--
+       (1) by striking ``and administrative costs necessary to 
+     carry out this chapter''; and
+       (2) by striking the period at the end and inserting the 
+     following: ``, and no monies in the Fund may be used for any 
+     other purpose.''.
+       (b) Maintenance of Fund in Treasury of the United States.--
+       (1) In general.--Section 16(a) of such Act (D.C. Code, sec. 
+     3-435(a)) is amended by striking the second sentence and 
+     inserting the following: ``The Fund shall be maintained as a 
+     separate fund in the Treasury of the United States. All 
+     amounts deposited to the credit of the Fund are appropriated 
+     without fiscal year limitation to make payments as authorized 
+     under subsection (e).''.
+       (2) Conforming amendment.--Section 16 of such Act (D.C. 
+     Code, sec. 3-435) is amended by striking subsection (d).
+       (c) Deposit of Other Fees and Receipts Into Fund.--Section 
+     16(c) of such Act (D.C. Code, sec. 3-435(c)) is amended by 
+     inserting after ``1997,'' the second place it appears the 
+     following: ``any other fines, fees, penalties, or assessments 
+     that the Court determines necessary to carry out the purposes 
+     of the Fund,''.
+       (d) Annual Transfer of Unobligated Balances to 
+     Miscellaneous Receipts of Treasury.--Section 16 of such Act 
+     (D.C. Code, sec. 3-435), as amended by subsection (b)(2), is 
+     further amended by inserting after subsection (c) the 
+     following new subsection:
+       ``(d) Any unobligated balance existing in the Fund in 
+     excess of $250,000 as of the end of each fiscal year 
+     (beginning with fiscal year 2000) shall be transferred to 
+     miscellaneous receipts of the Treasury of the United States 
+     not later than 30 days after the end of the fiscal year.''.
+       (e) Ratification of Payments and Deposits.--Any payments 
+     made from or deposits made to the Crime Victims Compensation 
+     Fund on or after April 9, 1997 are hereby ratified, to the 
+     extent such payments and deposits are authorized under the 
+     Victims of Violent Crime Compensation Act of 1996 (D.C. Code, 
+     sec. 3-421 et seq.), as amended by this section.
+       Sec. 161. Certification.--None of the funds contained in 
+     this Act may be used after the expiration of the 60-day 
+     period that begins on the date of the enactment of this Act 
+     to pay the salary of any chief financial officer of any 
+     office of the District of Columbia government (including any 
+     independent agency of the District) who has not filed a 
+     certification with the Mayor and the Chief Financial Officer 
+     of the District of Columbia that the officer understands the 
+     duties and restrictions applicable to the officer and their 
+     agency as a result of this Act.
+       Sec. 162. The proposed budget of the government of the 
+     District of Columbia for fiscal year 2001 that is submitted 
+     by the District to Congress shall specify potential 
+     adjustments that might become necessary in the event that the 
+     management savings achieved by the District during the year 
+     do not meet the level of management savings projected by the 
+     District under the proposed budget.
+       Sec. 163. In submitting any document showing the budget for 
+     an office of the District of Columbia government (including 
+     an independent agency of the District) that contains a 
+     category of activities labeled as ``other'', 
+     ``miscellaneous'', or a similar general, nondescriptive term, 
+     the document shall include a description of the types of 
+     activities covered in the category and a detailed breakdown 
+     of the amount allocated for each such activity.
+       Sec. 164. (a) Authorizing Corps of Engineers To Perform 
+     Repairs and Improvements.--In using the funds made available 
+     under this Act for carrying out improvements to the Southwest 
+     Waterfront in the District of Columbia (including upgrading 
+     marina dock pilings and paving and restoring walkways in the 
+     marina and fish market areas) for the portions of Federal 
+     property in the Southwest quadrant of the District of 
+     Columbia within Lots 847 and 848, a portion of Lot 846, and 
+     the unassessed Federal real property adjacent to Lot 848 in 
+     Square 473, any entity of the District of Columbia government 
+     (including the District of Columbia Financial Responsibility 
+     and Management Assistance Authority or its designee) may 
+     place orders for engineering and construction and related 
+     services with the Chief of Engineers of the United States 
+     Army Corps of Engineers. The Chief of Engineers may accept 
+     such orders on a reimbursable basis and may provide any part 
+     of such services by contract. In providing such services, the 
+     Chief of Engineers shall follow the Federal Acquisition 
+     Regulations and the implementing Department of Defense 
+     regulations.
+       (b) Timing for Availability of Funds Under 1999 Act.--
+       (1) In general.--The District of Columbia Appropriations 
+     Act, 1999 (Public Law 105-277; 112 Stat. 2681-124) is amended 
+     in the item relating to ``FEDERAL FUNDS--Federal Payment for 
+     Waterfront Improvements''--
+       (A) by striking ``existing lessees'' the first place it 
+     appears and inserting ``existing lessees of the Marina''; and
+       (B) by striking ``the existing lessees'' the second place 
+     it appears and inserting ``such lessees''.
+       (2) Effective date.--This subsection shall take effect as 
+     if included in the District of Columbia Appropriations Act, 
+     1999.
+       (c) Additional Funding for Improvements Carried Out Through 
+     Corps of Engineers.--
+       (1) In general.--There is hereby transferred from the 
+     District of Columbia Financial Responsibility and Management 
+     Assistance Authority to the Mayor the sum of $3,000,000 for 
+     carrying out the improvements described in subsection (a) 
+     through the Chief of Engineers of the United States Army 
+     Corps of Engineers.
+       (2) Source of funds.--The funds transferred under paragraph 
+     (1) shall be derived from the escrow account held by the 
+     District of Columbia Financial Responsibility and Management 
+     Assistance Authority pursuant to section 134 of division A of 
+     the Omnibus Consolidated and Emergency Supplemental 
+     Appropriations Act, 1999 (Public Law 105-277; 112 Stat. 2681-
+     552), for infrastructure needs of the District of Columbia.
+       (d) Quarterly Reports on Project.--The Mayor shall submit 
+     reports to the Committee on Appropriations of the House of 
+     Representatives and the Committee on Appropriations of the 
+     Senate on the status of the improvements described in 
+     subsection (a) for each calendar quarter occurring until the 
+     improvements are completed.
+       Sec. 165. It is the sense of the Congress that the District 
+     of Columbia should not impose or take into consideration any 
+     height, square footage, set-back, or other construction or 
+     zoning requirements in authorizing the issuance of industrial 
+     revenue bonds for a project of the American National Red 
+     Cross at 2025 E Street Northwest, Washington, D.C., in as 
+     much as this project is subject to approval of the National 
+     Capital Planning Commission and the Commission of Fine Arts 
+     pursuant to section 11 of the joint resolution entitled 
+     ``Joint Resolution to grant authority for the erection of a 
+     permanent building for the American National Red Cross, 
+     District of Columbia Chapter, Washington, District of 
+     Columbia'', approved July 1, 1947 (Public Law 100-637; 36 
+     U.S.C. 300108 note).
+       Sec. 166. (a) Permitting Court Services and Offender 
+     Supervision Agency To Carry Out Sex Offender Registration.--
+     Section 11233(c) of the National Capital Revitalization and 
+     Self-Government Improvement Act of 1997 (D.C. Code, sec. 24-
+     1233(c)) is amended by adding at the end the following new 
+     paragraph:
+       ``(5) Sex offender registration.--The Agency shall carry 
+     out sex offender registration functions in the District of 
+     Columbia, and shall have the authority to exercise all powers 
+     and functions relating to sex offender registration that are 
+     granted to the Agency under any District of Columbia law.''.
+       (b) Authority During Transition to Full Operation of 
+     Agency.--
+       (1) Authority of pretrial services, parole, adult probation 
+     and offender supervision
+
+[[Page H10942]]
+
+     trustee.--Notwithstanding section 11232(b)(1) of the National 
+     Capital Revitalization and Self-Government Improvement Act of 
+     1997 (D.C. Code, sec. 24-1232(b)(1)), the Pretrial Services, 
+     Parole, Adult Probation and Offender Supervision Trustee 
+     appointed under section 11232(a) of such Act (hereafter 
+     referred to as the ``Trustee'') shall, in accordance with 
+     section 11232 of such Act, exercise the powers and functions 
+     of the Court Services and Offender Supervision Agency for the 
+     District of Columbia (hereafter referred to as the 
+     ``Agency'') relating to sex offender registration (as granted 
+     to the Agency under any District of Columbia law) only upon 
+     the Trustee's certification that the Trustee is able to 
+     assume such powers and functions.
+       (2) Authority of metropolitan police department.--During 
+     the period that begins on the date of the enactment of the 
+     Sex Offender Registration Emergency Act of 1999 and ends on 
+     the date the Trustee makes the certification described in 
+     paragraph (1), the Metropolitan Police Department of the 
+     District of Columbia shall have the authority to carry out 
+     any powers and functions relating to sex offender 
+     registration that are granted to the Agency or to the Trustee 
+     under any District of Columbia law.
+       Sec. 167. (a) None of the funds contained in this Act may 
+     be used to enact or carry out any law, rule, or regulation to 
+     legalize or otherwise reduce penalties associated with the 
+     possession, use, or distribution of any schedule I substance 
+     under the Controlled Substances Act (21 U.S.C. 802) or any 
+     tetrahydrocannabinols derivative.
+       (b) The Legalization of Marijuana for Medical Treatment 
+     Initiative of 1998, also known as Initiative 59, approved by 
+     the electors of the District of Columbia on November 3, 1998, 
+     shall not take effect.
+       Sec. 168. (a) In General.--There is hereby transferred from 
+     the District of Columbia Financial Responsibility and 
+     Management Assistance Authority (hereinafter referred to as 
+     the ``Authority'') to the District of Columbia the sum of 
+     $5,000,000 for the Mayor, in consultation with the Council of 
+     the District of Columbia, to provide offsets against local 
+     taxes for a commercial revitalization program, such program 
+     to be available in enterprise zones and low and moderate 
+     income areas in the District of Columbia: Provided, That in 
+     carrying out such a program, the Mayor shall use Federal 
+     commercial revitalization proposals introduced in Congress as 
+     a guideline.
+       (b) Source of Funds.--The amount transferred under 
+     subsection (a) shall be derived from interest earned on 
+     accounts held by the Authority on behalf of the District of 
+     Columbia.
+       (c) Report.--Not later than 180 days after the date of the 
+     enactment of this Act, the Mayor shall report to the 
+     Committees on Appropriations of the Senate and House of 
+     Representatives on the progress made in carrying out the 
+     commercial revitalization program.
+       Sec. 169. Section 456 of the District of Columbia Home Rule 
+     Act (section 47-231 et seq. of the D.C. Code, as added by the 
+     Federal Payment Reauthorization Act of 1994 (Public Law 103-
+     373)) is amended--
+       (1) in subsection (a)(1), by striking ``District of 
+     Columbia Financial Responsibility and Management Assistance 
+     Authority'' and inserting ``Mayor''; and
+       (2) in subsection (b)(1), by striking ``Authority'' and 
+     inserting ``Mayor''.
+       Sec. 170. (a) Findings.--The Congress finds the following:
+       (1) The District of Columbia has recently witnessed a spate 
+     of senseless killings of innocent citizens caught in the 
+     crossfire of shootings. A Justice Department crime 
+     victimization survey found that while the city saw a decline 
+     in the homicide rate between 1996 and 1997, the rate was the 
+     highest among a dozen cities and more than double the second 
+     highest city.
+       (2) The District of Columbia has not made adequate funding 
+     available to fight drug abuse in recent years, and the city 
+     has not deployed its resources as effectively as possible. In 
+     fiscal year 1998, $20,900,000 was spent on publicly funded 
+     drug treatment in the District compared to $29,000,000 in 
+     fiscal year 1993. The District's Addiction and Prevention and 
+     Recovery Agency currently has only 2,200 treatment slots, a 
+     50 percent drop from 1994, with more than 1,100 people on 
+     waiting lists.
+       (3) The District of Columbia has seen a rash of inmate 
+     escapes from halfway houses. According to Department of 
+     Corrections records, between October 21, 1998 and January 19, 
+     1999, 376 of the 1,125 inmates assigned to halfway houses 
+     walked away. Nearly 280 of the 376 escapees were awaiting 
+     trial including two charged with murder.
+       (4) The District of Columbia public schools system faces 
+     serious challenges in correcting chronic problems, 
+     particularly long-standing deficiencies in providing special 
+     education services to the 1 in 10 District students needing 
+     program benefits, including backlogged assessments, and 
+     repeated failure to meet a compliance agreement on special 
+     education reached with the Department of Education.
+       (5) Deficiencies in the delivery of basic public services 
+     from cleaning streets to waiting time at Department of Motor 
+     Vehicles to a rat population estimated earlier this year to 
+     exceed the human population have generated considerable 
+     public frustration.
+       (6) Last year, the District of Columbia forfeited millions 
+     of dollars in Federal grants after Federal auditors 
+     determined that several agencies exceeded grant restrictions 
+     and in other instances, failed to spend funds before the 
+     grants expired.
+       (7) Findings of a 1999 report by the Annie E. Casey 
+     Foundation that measured the well-being of children reflected 
+     that, with one exception, the District ranked worst in the 
+     United States in every category from infant mortality to the 
+     rate of teenage births to statistics chronicling child 
+     poverty.
+       (b) Sense of the Congress.--It is the sense of the Congress 
+     that in considering the District of Columbia's fiscal year 
+     2001 budget, the Congress will take into consideration 
+     progress or lack of progress in addressing the following 
+     issues:
+       (1) Crime, including the homicide rate, implementation of 
+     community policing, the number of police officers on local 
+     beats, and the closing down of open-air drug markets.
+       (2) Access to drug abuse treatment, including the number of 
+     treatment slots, the number of people served, the number of 
+     people on waiting lists, and the effectiveness of treatment 
+     programs.
+       (3) Management of parolees and pretrial violent offenders, 
+     including the number of halfway house escapes and steps taken 
+     to improve monitoring and supervision of halfway house 
+     residents to reduce the number of escapes.
+       (4) Education, including access to special education 
+     services and student achievement.
+       (5) Improvement in basic city services, including rat 
+     control and abatement.
+       (6) Application for and management of Federal grants.
+       (7) Indicators of child well-being.
+       Sec. 171. The Mayor, prior to using Federal Medicaid 
+     payments to Disproportionate Share Hospitals to serve a small 
+     number of childless adults, should consider the 
+     recommendations of the Health Care Development Commission 
+     that has been appointed by the Council of the District of 
+     Columbia to review this program, and consult and report to 
+     Congress on the use of these funds.
+       Sec. 172. GAO Study of District of Columbia Criminal 
+     Justice System. Not later than 1 year after the date of the 
+     enactment of this Act, the Comptroller General of the United 
+     States shall--
+       (1) conduct a study of the law enforcement, court, prison, 
+     probation, parole, and other components of the criminal 
+     justice system of the District of Columbia, in order to 
+     identify the components most in need of additional resources, 
+     including financial, personnel, and management resources; and
+       (2) submit to Congress a report on the results of the study 
+     under paragraph (1).
+       Sec. 173. Nothing in this Act bars the District of Columbia 
+     Corporation Counsel from reviewing or commenting on briefs in 
+     private lawsuits, or from consulting with officials of the 
+     District government regarding such lawsuits.
+       Sec. 174. Wireless Communications. (a) In General.--Not 
+     later than 7 days after the date of the enactment of this 
+     Act, the Secretary of the Interior, acting through the 
+     Director of the National Park Service, shall--
+       (1) implement the notice of decision approved by the 
+     National Capital Regional Director, dated April 7, 1999, 
+     including the provisions of the notice of decision concerning 
+     the issuance of right-of-way permits at market rates; and
+       (2) expend such sums as are necessary to carry out 
+     paragraph (1).
+       (b) Antenna Applications.--
+       (1) In general.--Not later than 120 days after the receipt 
+     of an application, a Federal agency that receives an 
+     application submitted after the enactment of this Act to 
+     locate a wireless communications antenna on Federal property 
+     in the District of Columbia or surrounding area over which 
+     the Federal agency exercises control shall take final action 
+     on the application, including action on the issuance of 
+     right-of-way permits at market rates.
+       (2) Existing law.--Nothing in this subsection shall be 
+     construed to affect the applicability of existing laws 
+     regarding--
+       (A) judicial review under chapter 7 of title 5, United 
+     States Code (the Administrative Procedure Act), and the 
+     Communications Act of 1934;
+       (B) the National Environmental Policy Act, the National 
+     Historic Preservation Act and other applicable Federal 
+     statutes; and
+       (C) the authority of a State or local government or 
+     instrumentality thereof, including the District of Columbia, 
+     in the placement, construction, and modification of personal 
+     wireless service facilities.
+       Sec. 175. (a)(1) The first paragraph under the heading 
+     ``Community Development Block Grants'' in title II of H.R. 
+     2684 (Public Law 106-74) is amended by inserting after 
+     ``National American Indian Housing Council,'' the following: 
+     ``$4,000,000 shall be available as a grant for the Special 
+     Olympics in Anchorage, Alaska to develop the Ben Boeke Arena 
+     and Hilltop Ski Area,''; and
+       (2) The paragraph that includes the words ``Economic 
+     Development Initiative (EDI)'' under the heading ``Community 
+     Development Block Grants'' in title II of H.R. 2684 (Public 
+     Law 106-74) is amended by striking ``$240,000,000'' and 
+     inserting ``$243,500,000''.
+       (b) The statement of the managers of the committee of 
+     conference accompanying H.R. 2684 is deemed to be amended 
+     under the heading ``Community Development Block Grants'' to 
+     include in the description of targeted economic development 
+     initiatives the following:
+       ``--$1,000,000 for the New Jersey Community Development 
+     Corporation for the construction of the New Jersey Community 
+     Development Corporation's Transportation Opportunity Center;
+       ``--$750,000 for South Dakota State University in 
+     Brookings, South Dakota for the development of a performing 
+     arts center;
+       ``--$925,000 for the Florida Association of Counties for a 
+     Rural Capacity Building Pilot Project in Tallahassee, 
+     Florida;
+       ``--$500,000 for the Osceola County Agriculture Center for 
+     construction of a new and expanded agriculture center in 
+     Osceola County, Florida;
+       ``--$1,000,000 for the University of Syracuse in Syracuse, 
+     New York for electrical infrastructure improvements.''; and 
+     the current descriptions are amended as follows:
+       ``--$1,700,000 to the City of Miami, Florida for the 
+     development of a Homeownership Zone to
+
+[[Page H10943]]
+
+     assist residents displaced by the demolition of public 
+     housing in the Model City area;'' is amended to read as 
+     follows:
+       ``--$1,700,000 to Miami-Dade County, Florida for an 
+     economic development project at the Opa-locka Neighborhood 
+     Center;'';
+       ``--$250,000 to the Arizona Science Center in Yuma, Arizona 
+     for its after-school program for inner-city youth;'' is 
+     amended to read as follows:
+       ``--$250,000 to the Arizona Science Center in Phoenix, 
+     Arizona for its after-school program for inner-city youth;'';
+       ``--$200,000 to the Schuylkill County Fire Fighters 
+     Association for a smoke-maze building on the grounds of the 
+     firefighters facility in Morea, Pennsylvania;'' is amended to 
+     read as follows:
+       ``--$200,000 to the Schuylkill County Fire Fighters 
+     Association for a smoke-maze building and other facilities 
+     and improvements on the grounds of the firefighters facility 
+     in Morea, Pennsylvania;''.
+       (c) Notwithstanding any other provision of law, the 
+     $2,000,000 made available pursuant to Public Law 105-276 for 
+     Pittsburgh, Pennsylvania to redevelop the Sun Co./LTV Steel 
+     Site in Hazelwood, Pennsylvania is available to the 
+     Department of Economic Development in Allegheny County, 
+     Pennsylvania for the development of a technology based 
+     project in the county.
+       (d) Insert the following new sections at the end of the 
+     administrative provisions in title II of H.R. 2684 (Public 
+     Law 106-74):
+
+
+            ``FHA MULTIFAMILY MORTGAGE CREDIT DEMONSTRATION
+
+       ``Sec. 226. Section 542 of the Housing and Community 
+     Development Act of 1992 is amended--
+       ``(1) in subsection (b)(5) by striking `during fiscal year 
+     1999' and inserting `in each of the fiscal years 1999 and 
+     2000'; and
+       ``(2) in the first sentence of subsection (c)(4) by 
+     striking `during fiscal year 1999' and inserting `in each of 
+     fiscal years 1999 and 2000'.
+
+
+                       ``DRUG ELIMINATION PROGRAM
+
+       ``Sec. 227. (a) Section 5126(4) of the Public and Assisted 
+     Housing Drug Elimination Act of 1990 is amended--
+       ``(1) in subparagraph (B), by inserting after `1965;' the 
+     following: `or';
+       ``(2) in subparagraph (C), by striking `1937: or' and 
+     inserting `1937.'; and
+       ``(3) by striking subparagraph (D).
+       ``(b) The amendments made by subsection (a) shall be 
+     construed to have taken effect on October 21, 1998.''.
+       This title may be cited as the ``District of Columbia 
+     Appropriations Act, 2000''.
+
+                        TITLE II--TAX REDUCTION
+
+       Sec. 201. Commending reduction of taxes by district of 
+     columbia. The Congress commends the District of Columbia for 
+     its action to reduce taxes, and ratifies D.C. Act 13-110 
+     (commonly known as the Service Improvement and Fiscal Year 
+     2000 Budget Support Act of 1999).
+       Sec. 202. Rule of construction. Nothing in this title may 
+     be construed to limit the ability of the Council of the 
+     District of Columbia to amend or repeal any provision of law 
+     described in this title.
+
+                               DIVISION B
+
+  DEPARTMENTS OF LABOR, HEALTH AND HUMAN SERVICES, AND EDUCATION, AND 
+                    RELATED AGENCIES APPROPRIATIONS
+
+       For programs, projects, and activities in the Departments 
+     of Labor, Health and Human Services, and Education, and 
+     Related Agencies Appropriations Act, 2000, provided as 
+     follows, to be effective as if it had been enacted into law 
+     as the regular appropriations Act:
+       An Act Making appropriations for the Departments of Labor, 
+     Health and Human Services, and Education, and Related 
+     Agencies for the fiscal year ending September 30, 2000, and 
+     for other purposes.
+
+                      TITLE I--DEPARTMENT OF LABOR
+
+                 Employment and Training Administration
+
+
+                    training and employment services
+
+       For necessary expenses of the Workforce Investment Act, 
+     including the purchase and hire of passenger motor vehicles, 
+     the construction, alteration, and repair of buildings and 
+     other facilities, and the purchase of real property for 
+     training centers as authorized by the Workforce Investment 
+     Act; the Stewart B. McKinney Homeless Assistance Act; the 
+     Women in Apprenticeship and Nontraditional Occupations Act; 
+     the National Skill Standards Act of 1994; and the School-to-
+     Work Opportunities Act; $3,002,618,000 plus reimbursements, 
+     of which $1,650,153,000 is available for obligation for the 
+     period July 1, 2000 through June 30, 2001; of which 
+     $1,250,965,000 is available for obligation for the period 
+     April 1, 2000 through June 30, 2001; of which $35,500,000 is 
+     available for the period July 1, 2000 through June 30, 2003 
+     including $34,000,000 for necessary expenses of construction, 
+     rehabilitation, and acquisition of Job Corps centers, and 
+     $1,500,000 under authority of section 171(d) of the Workforce 
+     Investment Act for use by the Organizing Committee for the 
+     2001 Special Olympics World Winter Games in Alaska to promote 
+     employment opportunities for individuals with disabilities 
+     and other staffing needs; and of which $55,000,000 shall be 
+     available from July 1, 2000 through September 30, 2001, for 
+     carrying out activities of the School-to-Work Opportunities 
+     Act: Provided, That $58,800,000 shall be for carrying out 
+     section 166 of the Workforce Investment Act, including 
+     $5,000,000 for carrying out section 166( j)(1) of the 
+     Workforce Investment Act, including the provision of 
+     assistance to American Samoans who reside in Hawaii for the 
+     co-location of federally funded and State-funded workforce 
+     investment activities, and $7,000,000 shall be for carrying 
+     out the National Skills Standards Act of 1994: Provided 
+     further, That no funds from any other appropriation shall be 
+     used to provide meal services at or for Job Corps centers: 
+     Provided further, That funds provided to carry out section 
+     171(d) of such Act may be used for demonstration projects 
+     that provide assistance to new entrants in the workforce and 
+     incumbent workers: Provided further, That funding provided to 
+     carry out projects under section 171 of the Workforce 
+     Investment Act of 1998 that are identified in the Conference 
+     Agreement, shall not be subject to the requirements of 
+     section 171(b)(2)(B) of such Act, the requirements of section 
+     171(c)(4)(D) of such Act, or the joint funding requirements 
+     of sections 171(b)(2)(A) and 171(c)(4)(A) of such Act: 
+     Provided further, That funding appropriated herein for 
+     Dislocated Worker Employment and Training Activities under 
+     section 132(a)(2)(A) of the Workforce Investment Act of 1998 
+     may be distributed for Dislocated Worker Projects under 
+     section 171(d) of the Act without regard to the 10 percent 
+     limitation contained in section 171(d) of the Act.
+       For necessary expenses of the Workforce Investment Act, 
+     including the purchase and hire of passenger motor vehicles, 
+     the construction, alteration, and repair of buildings and 
+     other facilities, and the purchase of real property for 
+     training centers as authorized by the Workforce Investment 
+     Act; $2,463,000,000 plus reimbursements, of which 
+     $2,363,000,000 is available for obligation for the period 
+     October 1, 2000 through June 30, 2001; and of which 
+     $100,000,000 is available for the period October 1, 2000 
+     through June 30, 2003, for necessary expenses of 
+     construction, rehabilitation, and acquisition of Job Corps 
+     centers.
+
+
+            Community Service Employment for Older Americans
+
+       To carry out the activities for national grants or 
+     contracts with public agencies and public or private 
+     nonprofit organizations under paragraph (1)(A) of section 
+     506(a) of title V of the Older Americans Act of 1965, as 
+     amended, or to carry out older worker activities as 
+     subsequently authorized, $343,356,000.
+       To carry out the activities for grants to States under 
+     paragraph (3) of section 506(a) of title V of the Older 
+     Americans Act of 1965, as amended, or to carry out older 
+     worker activities as subsequently authorized, $96,844,000.
+
+
+              Federal Unemployment Benefits and Allowances
+
+       For payments during the current fiscal year of trade 
+     adjustment benefit payments and allowances under part I; and 
+     for training, allowances for job search and relocation, and 
+     related State administrative expenses under part II, 
+     subchapters B and D, chapter 2, title II of the Trade Act of 
+     1974, as amended, $415,150,000, together with such amounts as 
+     may be necessary to be charged to the subsequent 
+     appropriation for payments for any period subsequent to 
+     September 15 of the current year.
+
+
+     State Unemployment Insurance and Employment Service Operations
+
+       For authorized administrative expenses, $163,452,000, 
+     together with not to exceed $3,090,288,000 (including not to 
+     exceed $1,228,000 which may be used for amortization payments 
+     to States which had independent retirement plans in their 
+     State employment service agencies prior to 1980), which may 
+     be expended from the Employment Security Administration 
+     account in the Unemployment Trust Fund including the cost of 
+     administering section 1201 of the Small Business Job 
+     Protection Act of 1996, section 7(d) of the Wagner-Peyser 
+     Act, as amended, the Trade Act of 1974, as amended, the 
+     Immigration Act of 1990, and the Immigration and Nationality 
+     Act, as amended, and of which the sums available in the 
+     allocation for activities authorized by title III of the 
+     Social Security Act, as amended (42 U.S.C. 502-504), and the 
+     sums available in the allocation for necessary administrative 
+     expenses for carrying out 5 U.S.C. 8501-8523, shall be 
+     available for obligation by the States through December 31, 
+     2000, except that funds used for automation acquisitions 
+     shall be available for obligation by the States through 
+     September 30, 2002; and of which $163,452,000, together with 
+     not to exceed $738,283,000 of the amount which may be 
+     expended from said trust fund, shall be available for 
+     obligation for the period July 1, 2000 through June 30, 2001, 
+     to fund activities under the Act of June 6, 1933, as amended, 
+     including the cost of penalty mail authorized under 39 U.S.C. 
+     3202(a)(1)(E) made available to States in lieu of allotments 
+     for such purpose, and of which $125,000,000 shall be 
+     available only to the extent necessary for additional State 
+     allocations to administer unemployment compensation laws to 
+     finance increases in the number of unemployment insurance 
+     claims filed and claims paid or changes in a State law: 
+     Provided, That to the extent that the Average Weekly Insured 
+     Unemployment (AWIU) for fiscal year 2000 is projected by the 
+     Department of Labor to exceed 2,638,000, an additional 
+     $28,600,000 shall be available for obligation for every 
+     100,000 increase in the AWIU level (including a pro rata 
+     amount for any increment less than 100,000) from the 
+     Employment Security Administration Account of the 
+     Unemployment Trust Fund: Provided further, That funds 
+     appropriated in this Act which are used to establish a 
+     national one-stop career center network may be obligated in 
+     contracts, grants or agreements with non-State entities: 
+     Provided further, That funds appropriated under this Act for 
+     activities authorized under the Wagner-Peyser Act, as 
+     amended, and title III of the Social Security Act, may be 
+     used by the States to fund integrated Employment Service and 
+     Unemployment Insurance automation efforts, notwithstanding 
+     cost allocation principles prescribed under Office of 
+     Management and Budget Circular A-87.
+
+[[Page H10944]]
+
+        Advances to the Unemployment Trust Fund and Other Funds
+
+       For repayable advances to the Unemployment Trust Fund as 
+     authorized by sections 905(d) and 1203 of the Social Security 
+     Act, as amended, and to the Black Lung Disability Trust Fund 
+     as authorized by section 9501(c)(1) of the Internal Revenue 
+     Code of 1954, as amended; and for nonrepayable advances to 
+     the Unemployment Trust Fund as authorized by section 8509 of 
+     title 5, United States Code, and to the ``Federal 
+     unemployment benefits and allowances'' account, to remain 
+     available until September 30, 2001, $356,000,000.
+       In addition, for making repayable advances to the Black 
+     Lung Disability Trust Fund in the current fiscal year after 
+     September 15, 2000, for costs incurred by the Black Lung 
+     Disability Trust Fund in the current fiscal year, such sums 
+     as may be necessary.
+
+
+                         program administration
+
+       For expenses of administering employment and training 
+     programs, $100,944,000, including $6,431,000 to support up to 
+     75 full-time equivalent staff, the majority of which will be 
+     term Federal appointments lasting no more than 1 year, to 
+     administer welfare-to-work grants, together with not to 
+     exceed $45,056,000, which may be expended from the Employment 
+     Security Administration account in the Unemployment Trust 
+     Fund.
+
+              Pension and Welfare Benefits Administration
+
+
+                         Salaries and Expenses
+
+       For necessary expenses for the Pension and Welfare Benefits 
+     Administration, $96,000,000.
+
+                  Pension Benefit Guaranty Corporation
+
+
+               Pension Benefit Guaranty Corporation Fund
+
+       The Pension Benefit Guaranty Corporation is authorized to 
+     make such expenditures, including financial assistance 
+     authorized by section 104 of Public Law 96-364, within limits 
+     of funds and borrowing authority available to such 
+     Corporation, and in accord with law, and to make such 
+     contracts and commitments without regard to fiscal year 
+     limitations as provided by section 104 of the Government 
+     Corporation Control Act, as amended (31 U.S.C. 9104), as may 
+     be necessary in carrying out the program through September 
+     30, 2000, for such Corporation: Provided, That not to exceed 
+     $11,155,000 shall be available for administrative expenses of 
+     the Corporation: Provided further, That expenses of such 
+     Corporation in connection with the termination of pension 
+     plans, for the acquisition, protection or management, and 
+     investment of trust assets, and for benefits administration 
+     services shall be considered as non-administrative expenses 
+     for the purposes hereof, and excluded from the above 
+     limitation.
+
+                  Employment Standards Administration
+
+
+                         Salaries and Expenses
+
+       For necessary expenses for the Employment Standards 
+     Administration, including reimbursement to State, Federal, 
+     and local agencies and their employees for inspection 
+     services rendered, $333,260,000, together with $1,740,000 
+     which may be expended from the Special Fund in accordance 
+     with sections 39(c), 44(d) and 44( j) of the Longshore and 
+     Harbor Workers' Compensation Act: Provided, That $2,000,000 
+     shall be for the development of an alternative system for the 
+     electronic submission of reports as required to be filed 
+     under the Labor-Management Reporting and Disclosure Act of 
+     1959, as amended, and for a computer database of the 
+     information for each submission by whatever means, that is 
+     indexed and easily searchable by the public via the Internet: 
+     Provided further, That the Secretary of Labor is authorized 
+     to accept, retain, and spend, until expended, in the name of 
+     the Department of Labor, all sums of money ordered to be paid 
+     to the Secretary of Labor, in accordance with the terms of 
+     the Consent Judgment in Civil Action No. 91-0027 of the 
+     United States District Court for the District of the Northern 
+     Mariana Islands (May 21, 1992): Provided further, That the 
+     Secretary of Labor is authorized to establish and, in 
+     accordance with 31 U.S.C. 3302, collect and deposit in the 
+     Treasury fees for processing applications and issuing 
+     certificates under sections 11(d) and 14 of the Fair Labor 
+     Standards Act of 1938, as amended (29 U.S.C. 211(d) and 214) 
+     and for processing applications and issuing registrations 
+     under title I of the Migrant and Seasonal Agricultural Worker 
+     Protection Act (29 U.S.C. 1801 et seq.).
+
+
+                            Special Benefits
+
+                     (including transfer of funds)
+
+       For the payment of compensation, benefits, and expenses 
+     (except administrative expenses) accruing during the current 
+     or any prior fiscal year authorized by title 5, chapter 81 of 
+     the United States Code; continuation of benefits as provided 
+     for under the heading ``Civilian War Benefits'' in the 
+     Federal Security Agency Appropriation Act, 1947; the 
+     Employees' Compensation Commission Appropriation Act, 1944; 
+     sections 4(c) and 5(f ) of the War Claims Act of 1948 (50 
+     U.S.C. App. 2012); and 50 percent of the additional 
+     compensation and benefits required by section 10(h) of the 
+     Longshore and Harbor Workers' Compensation Act, as amended, 
+     $79,000,000 together with such amounts as may be necessary to 
+     be charged to the subsequent year appropriation for the 
+     payment of compensation and other benefits for any period 
+     subsequent to August 15 of the current year: Provided, That 
+     amounts appropriated may be used under section 8104 of title 
+     5, United States Code, by the Secretary of Labor to reimburse 
+     an employer, who is not the employer at the time of injury, 
+     for portions of the salary of a reemployed, disabled 
+     beneficiary: Provided further, That balances of 
+     reimbursements unobligated on September 30, 1999, shall 
+     remain available until expended for the payment of 
+     compensation, benefits, and expenses: Provided further, That 
+     in addition there shall be transferred to this appropriation 
+     from the Postal Service and from any other corporation or 
+     instrumentality required under section 8147(c) of title 5, 
+     United States Code, to pay an amount for its fair share of 
+     the cost of administration, such sums as the Secretary 
+     determines to be the cost of administration for employees of 
+     such fair share entities through September 30, 2000: Provided 
+     further, That of those funds transferred to this account from 
+     the fair share entities to pay the cost of administration, 
+     $21,849,000 shall be made available to the Secretary as 
+     follows: (1) for the operation of and enhancement to the 
+     automated data processing systems, including document imaging 
+     and medical bill review, in support of Federal Employees' 
+     Compensation Act administration, $13,433,000; (2) for program 
+     staff training to operate the new imaging system, $1,300,000; 
+     (3) for the periodic roll review program, $7,116,000; and (4) 
+     the remaining funds shall be paid into the Treasury as 
+     miscellaneous receipts: Provided further, That the Secretary 
+     may require that any person filing a notice of injury or a 
+     claim for benefits under chapter 81 of title 5, United States 
+     Code, or 33 U.S.C. 901 et seq., provide as part of such 
+     notice and claim, such identifying information (including 
+     Social Security account number) as such regulations may 
+     prescribe.
+
+
+                    black lung disability trust fund
+
+                     (including transfer of funds)
+
+       For payments from the Black Lung Disability Trust Fund, 
+     $1,013,633,000, of which $963,506,000 shall be available 
+     until September 30, 2001, for payment of all benefits as 
+     authorized by section 9501(d)(1), (2), (4), and (7) of the 
+     Internal Revenue Code of 1954, as amended, and interest on 
+     advances as authorized by section 9501(c)(2) of that Act, and 
+     of which $28,676,000 shall be available for transfer to 
+     Employment Standards Administration, Salaries and Expenses, 
+     $20,783,000 for transfer to Departmental Management, Salaries 
+     and Expenses, $312,000 for transfer to Departmental 
+     Management, Office of Inspector General, and $356,000 for 
+     payment into miscellaneous receipts for the expenses of the 
+     Department of Treasury, for expenses of operation and 
+     administration of the Black Lung Benefits program as 
+     authorized by section 9501(d)(5) of that Act: Provided, That, 
+     in addition, such amounts as may be necessary may be charged 
+     to the subsequent year appropriation for the payment of 
+     compensation, interest, or other benefits for any period 
+     subsequent to August 15 of the current year.
+
+             Occupational Safety and Health Administration
+
+
+                         salaries and expenses
+
+       For necessary expenses for the Occupational Safety and 
+     Health Administration, $370,000,000, including not to exceed 
+     $81,000,000 which shall be the maximum amount available for 
+     grants to States under section 23(g) of the Occupational 
+     Safety and Health Act, which grants shall be no less than 50 
+     percent of the costs of State occupational safety and health 
+     programs required to be incurred under plans approved by the 
+     Secretary under section 18 of the Occupational Safety and 
+     Health Act of 1970; and, in addition, notwithstanding 31 
+     U.S.C. 3302, the Occupational Safety and Health 
+     Administration may retain up to $750,000 per fiscal year of 
+     training institute course tuition fees, otherwise authorized 
+     by law to be collected, and may utilize such sums for 
+     occupational safety and health training and education grants: 
+     Provided, That, notwithstanding 31 U.S.C. 3302, the Secretary 
+     of Labor is authorized, during the fiscal year ending 
+     September 30, 2000, to collect and retain fees for services 
+     provided to Nationally Recognized Testing Laboratories, and 
+     may utilize such sums, in accordance with the provisions of 
+     29 U.S.C. 9a, to administer national and international 
+     laboratory recognition programs that ensure the safety of 
+     equipment and products used by workers in the workplace: 
+     Provided further, That none of the funds appropriated under 
+     this paragraph shall be obligated or expended to prescribe, 
+     issue, administer, or enforce any standard, rule, regulation, 
+     or order under the Occupational Safety and Health Act of 1970 
+     which is applicable to any person who is engaged in a farming 
+     operation which does not maintain a temporary labor camp and 
+     employs 10 or fewer employees: Provided further, That no 
+     funds appropriated under this paragraph shall be obligated or 
+     expended to administer or enforce any standard, rule, 
+     regulation, or order under the Occupational Safety and Health 
+     Act of 1970 with respect to any employer of 10 or fewer 
+     employees who is included within a category having an 
+     occupational injury lost workday case rate, at the most 
+     precise Standard Industrial Classification Code for which 
+     such data are published, less than the national average rate 
+     as such rates are most recently published by the Secretary, 
+     acting through the Bureau of Labor Statistics, in accordance 
+     with section 24 of that Act (29 U.S.C. 673), except--
+       (1) to provide, as authorized by such Act, consultation, 
+     technical assistance, educational and training services, and 
+     to conduct surveys and studies;
+       (2) to conduct an inspection or investigation in response 
+     to an employee complaint, to issue a citation for violations 
+     found during such inspection, and to assess a penalty for 
+     violations which are not corrected within a reasonable 
+     abatement period and for any willful violations found;
+       (3) to take any action authorized by such Act with respect 
+     to imminent dangers;
+       (4) to take any action authorized by such Act with respect 
+     to health hazards;
+       (5) to take any action authorized by such Act with respect 
+     to a report of an employment accident which is fatal to one 
+     or more employees or which results in hospitalization of two 
+     or more employees, and to take any action pursuant to such 
+     investigation authorized by such Act; and
+       (6) to take any action authorized by such Act with respect 
+     to complaints of discrimination
+
+[[Page H10945]]
+
+     against employees for exercising rights under such Act:
+
+     Provided further, That the foregoing proviso shall not apply 
+     to any person who is engaged in a farming operation which 
+     does not maintain a temporary labor camp and employs 10 or 
+     fewer employees.
+
+                 Mine Safety and Health Administration
+
+
+                         Salaries and Expenses
+
+       For necessary expenses for the Mine Safety and Health 
+     Administration, $228,373,000, including purchase and bestowal 
+     of certificates and trophies in connection with mine rescue 
+     and first-aid work, and the hire of passenger motor vehicles; 
+     including not to exceed $750,000 may be collected by the 
+     National Mine Health and Safety Academy for room, board, 
+     tuition, and the sale of training materials, otherwise 
+     authorized by law to be collected, to be available for mine 
+     safety and health education and training activities, 
+     notwithstanding 31 U.S.C. 3302; the Secretary is authorized 
+     to accept lands, buildings, equipment, and other 
+     contributions from public and private sources and to 
+     prosecute projects in cooperation with other agencies, 
+     Federal, State, or private; the Mine Safety and Health 
+     Administration is authorized to promote health and safety 
+     education and training in the mining community through 
+     cooperative programs with States, industry, and safety 
+     associations; and any funds available to the department may 
+     be used, with the approval of the Secretary, to provide for 
+     the costs of mine rescue and survival operations in the event 
+     of a major disaster.
+
+                       Bureau of Labor Statistics
+
+
+                         Salaries and Expenses
+
+       For necessary expenses for the Bureau of Labor Statistics, 
+     including advances or reimbursements to State, Federal, and 
+     local agencies and their employees for services rendered, 
+     $353,781,000, of which $6,986,000 shall be for expenses of 
+     revising the Consumer Price Index and shall remain available 
+     until September 30, 2001, together with not to exceed 
+     $55,663,000, which may be expended from the Employment 
+     Security Administration account in the Unemployment Trust 
+     Fund.
+
+                        Departmental Management
+
+
+                         Salaries and Expenses
+
+       For necessary expenses for Departmental Management, 
+     including the hire of three sedans, and including up to 
+     $7,250,000 for the President's Committee on Employment of 
+     People With Disabilities, and including the management or 
+     operation of Departmental bilateral and multilateral foreign 
+     technical assistance, $210,478,000; together with not to 
+     exceed $310,000, which may be expended from the Employment 
+     Security Administration account in the Unemployment Trust 
+     Fund: Provided, That no funds made available by this Act may 
+     be used by the Solicitor of Labor to participate in a review 
+     in any United States court of appeals of any decision made by 
+     the Benefits Review Board under section 21 of the Longshore 
+     and Harbor Workers' Compensation Act (33 U.S.C. 921) where 
+     such participation is precluded by the decision of the United 
+     States Supreme Court in Director, Office of Workers' 
+     Compensation Programs v. Newport News Shipbuilding, 115 S. 
+     Ct. 1278 (1995), notwithstanding any provisions to the 
+     contrary contained in Rule 15 of the Federal Rules of 
+     Appellate Procedure: Provided further, That no funds made 
+     available by this Act may be used by the Secretary of Labor 
+     to review a decision under the Longshore and Harbor Workers' 
+     Compensation Act (33 U.S.C. 901 et seq.) that has been 
+     appealed and that has been pending before the Benefits Review 
+     Board for more than 12 months: Provided further, That any 
+     such decision pending a review by the Benefits Review Board 
+     for more than 1 year shall be considered affirmed by the 
+     Benefits Review Board on the 1-year anniversary of the filing 
+     of the appeal, and shall be considered the final order of the 
+     Board for purposes of obtaining a review in the United States 
+     courts of appeals: Provided further, That these provisions 
+     shall not be applicable to the review or appeal of any 
+     decision issued under the Black Lung Benefits Act (30 U.S.C. 
+     901 et seq.).
+
+
+        Assistant Secretary for Veterans Employment and Training
+
+       Not to exceed $184,341,000 may be derived from the 
+     Employment Security Administration account in the 
+     Unemployment Trust Fund to carry out the provisions of 38 
+     U.S.C. 4100-4110A, 4212, 4214, and 4321-4327, and Public Law 
+     103-353, and which shall be available for obligation by the 
+     States through December 31, 2000.
+
+
+                      Office of Inspector General
+
+       For salaries and expenses of the Office of Inspector 
+     General in carrying out the provisions of the Inspector 
+     General Act of 1978, as amended, $48,095,000, together with 
+     not to exceed $3,830,000, which may be expended from the 
+     Employment Security Administration account in the 
+     Unemployment Trust Fund.
+
+                           GENERAL PROVISIONS
+
+       Sec. 101. None of the funds appropriated in this title for 
+     the Job Corps shall be used to pay the compensation of an 
+     individual, either as direct costs or any proration as an 
+     indirect cost, at a rate in excess of Executive Level II.
+
+
+                          (transfer of funds)
+
+       Sec. 102. Not to exceed 1 percent of any discretionary 
+     funds (pursuant to the Balanced Budget and Emergency Deficit 
+     Control Act of 1985, as amended) which are appropriated for 
+     the current fiscal year for the Department of Labor in this 
+     Act may be transferred between appropriations, but no such 
+     appropriation shall be increased by more than 3 percent by 
+     any such transfer: Provided, That the Appropriations 
+     Committees of both Houses of Congress are notified at least 
+     15 days in advance of any transfer.
+       This title may be cited as the ``Department of Labor 
+     Appropriations Act, 2000''.
+
+           TITLE II--DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+              Health Resources and Services Administration
+
+
+                     Health Resources and Services
+
+       For carrying out titles II, III, VII, VIII, X, XII, XIX, 
+     and XXVI of the Public Health Service Act, section 427(a) of 
+     the Federal Coal Mine Health and Safety Act, title V and 
+     section 1820 of the Social Security Act, the Health Care 
+     Quality Improvement Act of 1986, as amended, and the Native 
+     Hawaiian Health Care Act of 1988, as amended, $4,429,292,000, 
+     of which $150,000 shall remain available until expended for 
+     interest subsidies on loan guarantees made prior to fiscal 
+     year 1981 under part B of title VII of the Public Health 
+     Service Act, and of which $104,052,000 shall be available for 
+     the construction and renovation of health care and other 
+     facilities, and of which $25,000,000 from general revenues, 
+     notwithstanding section 1820( j) of the Social Security Act, 
+     shall be available for carrying out the Medicare rural 
+     hospital flexibility grants program under section 1820 of 
+     such Act: Provided, That the Division of Federal Occupational 
+     Health may utilize personal services contracting to employ 
+     professional management/administrative and occupational 
+     health professionals: Provided further, That of the funds 
+     made available under this heading, $250,000 shall be 
+     available until expended for facilities renovations at the 
+     Gillis W. Long Hansen's Disease Center: Provided further, 
+     That in addition to fees authorized by section 427(b) of the 
+     Health Care Quality Improvement Act of 1986, fees shall be 
+     collected for the full disclosure of information under the 
+     Act sufficient to recover the full costs of operating the 
+     National Practitioner Data Bank, and shall remain available 
+     until expended to carry out that Act: Provided further, That 
+     no more than $5,000,000 is available for carrying out the 
+     provisions of Public Law 104-73: Provided further, That of 
+     the funds made available under this heading, $214,932,000 
+     shall be for the program under title X of the Public Health 
+     Service Act to provide for voluntary family planning 
+     projects: Provided further, That amounts provided to said 
+     projects under such title shall not be expended for 
+     abortions, that all pregnancy counseling shall be 
+     nondirective, and that such amounts shall not be expended for 
+     any activity (including the publication or distribution of 
+     literature) that in any way tends to promote public support 
+     or opposition to any legislative proposal or candidate for 
+     public office: Provided further, That $518,000,000 shall be 
+     for State AIDS Drug Assistance Programs authorized by section 
+     2616 of the Public Health Service Act: Provided further, 
+     That, notwithstanding section 502(a)(1) of the Social 
+     Security Act, not to exceed $108,742,000 is available for 
+     carrying out special projects of regional and national 
+     significance pursuant to section 501(a)(2) of such Act: 
+     Provided further, That of the amount provided under the 
+     heading, $20,000,000 shall be available for children's 
+     hospitals graduate medical education payments, subject to 
+     authorization: Provided further, That of the amount provided 
+     under this heading, $900,000 shall be for the American 
+     Federation of Negro Affairs Education and Research Fund.
+
+
+               medical facilities guarantee and loan fund
+
+           federal interest subsidies for medical facilities
+
+       For carrying out subsections (d) and (e) of section 1602 of 
+     the Public Health Service Act, $1,000,000, together with any 
+     amounts received by the Secretary in connection with loans 
+     and loan guarantees under title VI of the Public Health 
+     Service Act, to be available without fiscal year limitation 
+     for the payment of interest subsidies. During the fiscal 
+     year, no commitments for direct loans or loan guarantees 
+     shall be made.
+
+
+               health education assistance loans program
+
+       Such sums as may be necessary to carry out the purpose of 
+     the program, as authorized by title VII of the Public Health 
+     Service Act, as amended. For administrative expenses to carry 
+     out the guaranteed loan program, including section 709 of the 
+     Public Health Service Act, $3,688,000.
+
+
+             vaccine injury compensation program trust fund
+
+       For payments from the Vaccine Injury Compensation Program 
+     Trust Fund, such sums as may be necessary for claims 
+     associated with vaccine-related injury or death with respect 
+     to vaccines administered after September 30, 1988, pursuant 
+     to subtitle 2 of title XXI of the Public Health Service Act, 
+     to remain available until expended: Provided, That for 
+     necessary administrative expenses, not to exceed $3,000,000 
+     shall be available from the Trust Fund to the Secretary of 
+     Health and Human Services.
+
+               Centers for Disease Control and Prevention
+
+
+                Disease Control, Research, and Training
+
+       To carry out titles II, III, VII, XI, XV, XVII, XIX and 
+     XXVI of the Public Health Service Act, sections 101, 102, 
+     103, 201, 202, 203, 301, and 501 of the Federal Mine Safety 
+     and Health Act of 1977, sections 20, 21, and 22 of the 
+     Occupational Safety and Health Act of 1970, title IV of the 
+     Immigration and Nationality Act and section 501 of the 
+     Refugee Education Assistance Act of 1980; including insurance 
+     of official motor vehicles in foreign countries; and hire, 
+     maintenance, and operation of aircraft, $2,798,886,000 of 
+     which $60,000,000 shall remain available until expended for 
+     equipment and construction and renovation of facilities, and 
+     in addition, such sums as may be derived from authorized user 
+     fees, which shall be credited to this account: Provided, That 
+     in addition to amounts provided herein, up to $71,690,000 
+     shall be available from amounts available under section 241 
+     of the Public Health Service Act, to carry out the National 
+     Center for Health Statistics surveys: Provided further, That 
+     none of the funds made available
+
+[[Page H10946]]
+
+     for injury prevention and control at the Centers for Disease 
+     Control and Prevention may be used to advocate or promote gun 
+     control: Provided further, That the Director may redirect the 
+     total amount made available under authority of Public Law 
+     101-502, section 3, dated November 3, 1990, to activities the 
+     Director may so designate: Provided further, That the 
+     Congress is to be notified promptly of any such transfer: 
+     Provided further, That notwithstanding any other provision of 
+     law, a single contract or related contracts for the 
+     development and construction of the infectious disease 
+     laboratory through the General Services Administration may be 
+     employed which collectively include the full scope of the 
+     project: Provided further, That the solicitation and contract 
+     shall contain the clause ``availability of funds'' found at 
+     48 CFR 52.232-18: Provided further, That not to exceed 
+     $10,000,000 may be available for making grants under section 
+     1509 of the Public Health Service Act to not more than 10 
+     States: Provided further, That of the amount provided under 
+     this heading, $3,000,000 shall be for the Center for 
+     Environmental Medicine and Toxicology at the University of 
+     Mississippi Medical Center at Jackson and $1,000,000 shall be 
+     for the University of South Alabama birth defects monitoring 
+     and prevention activities.
+       In addition, $51,000,000, to be derived from the Violent 
+     Crime Reduction Trust Fund, for carrying out sections 40151 
+     and 40261 of Public Law 103-322.
+
+                     National Institutes of Health
+
+
+                       national cancer institute
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to cancer, $3,332,317,000.
+
+
+               national heart, lung, and blood institute
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to cardiovascular, lung, and 
+     blood diseases, and blood and blood products, $2,040,291,000.
+
+
+         national institute of dental and craniofacial research
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to dental disease, 
+     $270,253,000.
+
+
+    national institute of diabetes and digestive and kidney diseases
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to diabetes and digestive and 
+     kidney disease, $1,147,588,000.
+
+
+        national institute of neurological disorders and stroke
+
+        For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to neurological disorders and 
+     stroke, $1,034,886,000.
+
+
+         national institute of allergy and infectious diseases
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to allergy and infectious 
+     diseases, $1,803,063,000.
+
+
+             national institute of general medical sciences
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to general medical sciences, 
+     $1,361,668,000.
+
+
+        national institute of child health and human development
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to child health and human 
+     development, $862,884,000.
+
+
+                         national eye institute
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to eye diseases and visual 
+     disorders, $452,706,000.
+
+
+          national institute of environmental health sciences
+
+       For carrying out sections 301 and 311 and title IV of the 
+     Public Health Service Act with respect to environmental 
+     health sciences, $444,817,000.
+
+
+                      national institute on aging
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to aging, $690,156,000.
+
+
+ national institute of arthritis and musculoskeletal and skin diseases
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to arthritis and 
+     musculoskeletal and skin diseases, $351,840,000.
+
+
+    national institute on deafness and other communication disorders
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to deafness and other 
+     communication disorders, $265,185,000.
+
+
+                 national institute of nursing research
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to nursing research, 
+     $90,000,000.
+
+
+           national institute on alcohol abuse and alcoholism
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to alcohol abuse and 
+     alcoholism, $293,935,000.
+
+
+                    national institute on drug abuse
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to drug abuse, $689,448,000.
+
+
+                  national institute of mental health
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to mental health, 
+     $978,360,000.
+
+
+                national human genome research institute
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to human genome research, 
+     $337,322,000.
+
+
+                 national center for research resources
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to research resources and 
+     general research support grants, $680,176,000: Provided, That 
+     none of these funds shall be used to pay recipients of the 
+     general research support grants program any amount for 
+     indirect expenses in connection with such grants: Provided 
+     further, That $75,000,000 shall be for extramural facilities 
+     construction grants.
+
+
+                  john e. fogarty international center
+
+       For carrying out the activities at the John E. Fogarty 
+     International Center, $43,723,000.
+
+
+                      national library of medicine
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to health information 
+     communications, $215,214,000, of which $4,000,000 shall be 
+     available until expended for improvement of information 
+     systems: Provided, That in fiscal year 2000, the Library may 
+     enter into personal services contracts for the provision of 
+     services in facilities owned, operated, or constructed under 
+     the jurisdiction of the National Institutes of Health.
+
+
+       national center for complementary and alternative medicine
+
+       For carrying out section 301 and title IV of the Public 
+     Health Service Act with respect to complementary and 
+     alternative medicine, $68,753,000.
+
+
+                         office of the director
+
+                     (including transfer of funds)
+
+       For carrying out the responsibilities of the Office of the 
+     Director, National Institutes of Health, $283,509,000, of 
+     which $44,953,000 shall be for the Office of AIDS Research: 
+     Provided, That funding shall be available for the purchase of 
+     not to exceed 29 passenger motor vehicles for replacement 
+     only: Provided further, That the Director may direct up to 1 
+     percent of the total amount made available in this or any 
+     other Act to all National Institutes of Health appropriations 
+     to activities the Director may so designate: Provided 
+     further, That no such appropriation shall be decreased by 
+     more than 1 percent by any such transfers and that the 
+     Congress is promptly notified of the transfer: Provided 
+     further, That the National Institutes of Health is authorized 
+     to collect third party payments for the cost of clinical 
+     services that are incurred in National Institutes of Health 
+     research facilities and that such payments shall be credited 
+     to the National Institutes of Health Management Fund: 
+     Provided further, That all funds credited to the National 
+     Institutes of Health Management Fund shall remain available 
+     for one fiscal year after the fiscal year in which they are 
+     deposited: Provided further, That up to $500,000 shall be 
+     available to carry out section 499 of the Public Health 
+     Service Act: Provided further, That, notwithstanding section 
+     499(k)(10) of the Public Health Service Act, funds from the 
+     Foundation for the National Institutes of Health may be 
+     transferred to the National Institutes of Health.
+
+
+                        buildings and facilities
+
+       For the study of, construction of, and acquisition of 
+     equipment for, facilities of or used by the National 
+     Institutes of Health, including the acquisition of real 
+     property, $135,376,000, to remain available until expended.
+
+       Substance Abuse and Mental Health Services Administration
+
+
+               substance abuse and mental health services
+
+       For carrying out titles V and XIX of the Public Health 
+     Service Act with respect to substance abuse and mental health 
+     services, the Protection and Advocacy for Mentally Ill 
+     Individuals Act of 1986, and section 301 of the Public Health 
+     Service Act with respect to program management, 
+     $2,549,728,000.
+
+               Agency for Health Care Policy and Research
+
+
+                    Health Care Policy and Research
+
+       For carrying out titles III and IX of the Public Health 
+     Service Act, and part A of title XI of the Social Security 
+     Act, $111,424,000; in addition, amounts received from Freedom 
+     of Information Act fees, reimbursable and interagency 
+     agreements, and the sale of data tapes shall be credited to 
+     this appropriation and shall remain available until expended: 
+     Provided, That the amount made available pursuant to section 
+     926(b) of the Public Health Service Act shall not exceed 
+     $83,576,000.
+
+                  Health Care Financing Administration
+
+
+                     grants to states for medicaid
+
+       For carrying out, except as otherwise provided, titles XI 
+     and XIX of the Social Security Act, $86,087,393,000, to 
+     remain available until expended.
+       For making, after May 31, 2000, payments to States under 
+     title XIX of the Social Security Act for the last quarter of 
+     fiscal year 2000 for unanticipated costs, incurred for the 
+     current fiscal year, such sums as may be necessary.
+       For making payments to States or in the case of section 
+     1928 on behalf of States under title XIX of the Social 
+     Security Act for the first quarter of fiscal year 2001, 
+     $30,589,003,000, to remain available until expended.
+       Payment under title XIX may be made for any quarter with 
+     respect to a State plan or plan amendment in effect during 
+     such quarter, if submitted in or prior to such quarter and 
+     approved in that or any subsequent quarter.
+
+
+                  payments to health care trust funds
+
+       For payment to the Federal Hospital Insurance and the 
+     Federal Supplementary Medical Insurance Trust Funds, as 
+     provided under sections 217(g) and 1844 of the Social 
+     Security Act, sections 103(c) and 111(d) of the Social 
+     Security Amendments of 1965, section 278(d) of Public Law 97-
+     248, and for administrative expenses incurred pursuant to 
+     section 201(g) of the Social Security Act, $69,289,100,000.
+
+
+                           Program Management
+
+       For carrying out, except as otherwise provided, titles XI, 
+     XVIII, XIX, and XXI of the Social Security Act, titles XIII 
+     and XXVII of the Public Health Service Act, and the Clinical 
+     Laboratory Improvement Amendments of 1988, not
+
+[[Page H10947]]
+
+     to exceed $1,971,648,000, to be transferred from the Federal 
+     Hospital Insurance and the Federal Supplementary Medical 
+     Insurance Trust Funds, as authorized by section 201(g) of the 
+     Social Security Act; together with all funds collected in 
+     accordance with section 353 of the Public Health Service Act 
+     and such sums as may be collected from authorized user fees 
+     and the sale of data, which shall remain available until 
+     expended, and together with administrative fees collected 
+     relative to Medicare overpayment recovery activities, which 
+     shall remain available until expended: Provided, That all 
+     funds derived in accordance with 31 U.S.C. 9701 from 
+     organizations established under title XIII of the Public 
+     Health Service Act shall be credited to and available for 
+     carrying out the purposes of this appropriation: Provided 
+     further, That $18,000,000 appropriated under this heading for 
+     the managed care system redesign shall remain available until 
+     expended: Provided further, That $2,000,000 of the amount 
+     available for research, demonstration, and evaluation 
+     activities shall be available to continue carrying out 
+     demonstration projects on Medicaid coverage of community-
+     based attendant care services for people with disabilities 
+     which ensures maximum control by the consumer to select and 
+     manage their attendant care services: Provided further, That 
+     $3,000,000 of the amount available for research, 
+     demonstration, and evaluation activities shall be awarded to 
+     an application from the University of Pennsylvania Medical 
+     Center, the University of Louisville Sciences Center, and St. 
+     Vincent's Hospital in Montana to conduct a demonstration to 
+     reduce hospitalizations among high-risk patients with 
+     congestive heart failure: Provided further, That $2,000,000 
+     of the amount available for research, demonstration, and 
+     evaluation activities shall be awarded to the AIDS Healthcare 
+     Foundation in Los Angeles: Provided further, That $100,000 of 
+     the amount available for research, demonstration, and 
+     evaluation activities shall be awarded to Littleton Regional 
+     Hospital in New Hampshire, to assist in the development of 
+     rural emergency medical services: Provided further, That 
+     $250,000 of the amount available for research, demonstration, 
+     and evaluation activities shall be awarded to the University 
+     of Missouri-Kansas City to test behavorial interventions of 
+     nursing home residents with moderate to severe dementia: 
+     Provided further, That the Secretary of Health and Human 
+     Services is directed to collect, in aggregate, $95,000,000 in 
+     fees in fiscal year 2000 from Medicare+Choice organizations 
+     pursuant to section 1857(e)(2) of the Social Security Act and 
+     from eligible organizations with risk-sharing contracts under 
+     section 1876 of that Act pursuant to section 1876(k)(4)(D) of 
+     that Act.
+
+
+      health maintenance organization loan and loan guarantee fund
+
+       For carrying out subsections (d) and (e) of section 1308 of 
+     the Public Health Service Act, any amounts received by the 
+     Secretary in connection with loans and loan guarantees under 
+     title XIII of the Public Health Service Act, to be available 
+     without fiscal year limitation for the payment of outstanding 
+     obligations. During fiscal year 2000, no commitments for 
+     direct loans or loan guarantees shall be made.
+
+                Administration for Children and Families
+
+
+  payments to states for child support enforcement and family support 
+                                programs
+
+       For making payments to States or other non-Federal entities 
+     under titles I, IV-D, X, XI, XIV, and XVI of the Social 
+     Security Act and the Act of July 5, 1960 (24 U.S.C. ch. 9), 
+     for the first quarter of fiscal year 2001, $650,000,000.
+       For making payments to each State for carrying out the 
+     program of Aid to Families with Dependent Children under 
+     title IV-A of the Social Security Act before the effective 
+     date of the program of Temporary Assistance to Needy Families 
+     (TANF) with respect to such State, such sums as may be 
+     necessary: Provided, That the sum of the amounts available to 
+     a State with respect to expenditures under such title IV-A in 
+     fiscal year 1997 under this appropriation and under such 
+     title IV-A as amended by the Personal Responsibility and Work 
+     Opportunity Reconciliation Act of 1996 shall not exceed the 
+     limitations under section 116(b) of such Act.
+       For making, after May 31 of the current fiscal year, 
+     payments to States or other non-Federal entities under titles 
+     I, IV-D, X, XI, XIV, and XVI of the Social Security Act and 
+     the Act of July 5, 1960 (24 U.S.C. ch. 9), for the last 3 
+     months of the current year for unanticipated costs, incurred 
+     for the current fiscal year, such sums as may be necessary.
+
+
+                   low income home energy assistance
+
+       For making payments under title XXVI of the Omnibus Budget 
+     Reconciliation Act of 1981, $1,100,000,000, to be available 
+     for obligation in the period October 1, 2000 through 
+     September 30, 2001.
+       For making payments under title XXVI of such Act, 
+     $300,000,000: Provided, That these funds are hereby 
+     designated by Congress to be emergency requirements pursuant 
+     to section 251(b)(2)(A) of the Balanced Budget and Emergency 
+     Deficit Control Act of 1985: Provided further, That these 
+     funds shall be made available only after submission to 
+     Congress of a formal budget request by the President that 
+     includes designation of the entire amount of the request as 
+     an emergency requirement as defined in the Balanced Budget 
+     and Emergency Deficit Control Act of 1985.
+       The $1,100,000,000 provided in the first paragraph under 
+     this heading in the Departments of Labor, Health and Human 
+     Services, and Education, and Related Agencies Appropriations 
+     Act, 1999 (as contained in section 101(f ) of division A of 
+     Public Law 105-277) is hereby designated by the Congress as 
+     an emergency requirement pursuant to section 251(b)(2)(A) of 
+     the Balanced Budget and Emergency Deficit Control Act of 
+     1985: Provided, That such funds shall be available only if 
+     the President submits to the Congress one official budget 
+     request for $1,100,000,000 that includes designation of the 
+     entire amount as an emergency requirement pursuant to such 
+     section: Provided further, That such funds shall be 
+     distributed in accordance with section 2604 of the Omnibus 
+     Budget Reconciliation Act of 1981 (42 U.S.C. 8623), other 
+     than subsection (e) of such section.
+
+
+                     refugee and entrant assistance
+
+       For making payments for refugee and entrant assistance 
+     activities authorized by title IV of the Immigration and 
+     Nationality Act and section 501 of the Refugee Education 
+     Assistance Act of 1980 (Public Law 96-422), $419,005,000: 
+     Provided, That funds appropriated pursuant to section 414(a) 
+     of the Immigration and Nationality Act under Public Law 105-
+     78 for fiscal year 1998 and under Public Law 105-277 for 
+     fiscal year 1999 shall be available for the costs of 
+     assistance provided and other activities through September 
+     30, 2001.
+       For carrying out section 5 of the Torture Victims Relief 
+     Act of 1998 (Public Law 105-320), $7,500,000.
+       The $426,505,000 provided under this heading is hereby 
+     designated by the Congress as an emergency requirement 
+     pursuant to section 251(b)(2)(A) of the Balanced Budget and 
+     Emergency Deficit Control Act of 1985: Provided, That such 
+     funds shall be available only if the President submits to the 
+     Congress one official budget request for $426,505,000 that 
+     includes designation of the entire amount as an emergency 
+     requirement pursuant to such section.
+
+
+   Payments to States for the Child Care and Development Block Grant
+
+       For carrying out sections 658A through 658R of the Omnibus 
+     Budget Reconciliation Act of 1981 (The Child Care and 
+     Development Block Grant Act of 1990), to become available on 
+     October 1, 2000 and remain available through September 30, 
+     2001, $1,182,672,000: Provided, That $19,120,000 shall be 
+     available for child care resource and referral and school-
+     aged child care activities.
+
+
+                      social services block grant
+
+       For making grants to States pursuant to section 2002 of the 
+     Social Security Act, $1,700,000,000: Provided, That: (1) 
+     notwithstanding section 2003(c) of such Act, as amended, the 
+     amount specified for allocation under such section for fiscal 
+     year 2000 shall be $1,700,000,000; and (2) notwithstanding 
+     subparagraph (B) of section 404(d)(2) of such Act, the 
+     applicable percent specified under such subparagraph for a 
+     State to carry out State programs pursuant to title XX of 
+     such Act for fiscal year 2000 shall be 4.25 percent.
+
+
+                Children and Families Services Programs
+
+                        (including rescissions)
+
+       For carrying out, except as otherwise provided, the Runaway 
+     and Homeless Youth Act, the Developmental Disabilities 
+     Assistance and Bill of Rights Act, the Head Start Act, the 
+     Child Abuse Prevention and Treatment Act, the Native American 
+     Programs Act of 1974, title II of Public Law 95-266 (adoption 
+     opportunities), the Adoption and Safe Families Act of 1997 
+     (Public Law 105-89), the Abandoned Infants Assistance Act of 
+     1988, part B(1) of title IV and sections 413, 429A, 1110, and 
+     1115 of the Social Security Act; for making payments under 
+     the Community Services Block Grant Act, section 473A of the 
+     Social Security Act, and title IV of Public Law 105-285; and 
+     for necessary administrative expenses to carry out said Acts 
+     and titles I, IV, X, XI, XIV, XVI, and XX of the Social 
+     Security Act, the Act of July 5, 1960 (24 U.S.C. ch. 9), the 
+     Omnibus Budget Reconciliation Act of 1981, title IV of the 
+     Immigration and Nationality Act, section 501 of the Refugee 
+     Education Assistance Act of 1980, section 5 of the Torture 
+     Victims Relief Act of 1998 (Public Law 105-320), sections 
+     40155, 40211, and 40241 of Public Law 103-322 and section 126 
+     and titles IV and V of Public Law 100-485, $6,708,733,000, of 
+     which $43,000,000, to remain available until September 30, 
+     2001, shall be for grants to States for adoption incentive 
+     payments, as authorized by section 473A of title IV of the 
+     Social Security Act (42 U.S.C. 670-679); of which 
+     $567,065,000 shall be for making payments under the Community 
+     Services Block Grant Act; and of which $5,267,000,000 shall 
+     be for making payments under the Head Start Act, of which 
+     $1,400,000,000 shall become available October 1, 2000 and 
+     remain available through September 30, 2001: Provided, That 
+     to the extent Community Services Block Grant funds are 
+     distributed as grant funds by a State to an eligible entity 
+     as provided under the Act, and have not been expended by such 
+     entity, they shall remain with such entity for carryover into 
+     the next fiscal year for expenditure by such entity 
+     consistent with program purposes: Provided further, That the 
+     Secretary shall establish procedures regarding the 
+     disposition of intangible property which permits grant funds, 
+     or intangible assets acquired with funds authorized under 
+     section 680 of the Community Services Block Grant Act, as 
+     amended, to become the sole property of such grantees after a 
+     period of not more than 12 years after the end of the grant 
+     for purposes and uses consistent with the original grant.
+       In addition, $101,000,000, to be derived from the Violent 
+     Crime Reduction Trust Fund for carrying out sections 40155, 
+     40211, and 40241 of Public Law 103-322.
+       Funds appropriated for fiscal year 2000 under section 
+     429A(e), part B of title IV of the Social Security Act shall 
+     be reduced by $6,000,000.
+       Funds appropriated for fiscal year 2000 under section 
+     413(h)(1) of the Social Security Act shall be reduced by 
+     $15,000,000.
+
+
+                   Promoting Safe and Stable Families
+
+       For carrying out section 430 of the Social Security Act, 
+     $295,000,000.
+
+
+       payments to states for foster care and adoption assistance
+
+       For making payments to States or other non-Federal entities 
+     under title IV-E of the Social Security Act, $4,307,300,000.
+
+[[Page H10948]]
+
+       For making payments to States or other non-Federal entities 
+     under title IV-E of the Social Security Act, for the first 
+     quarter of fiscal year 2001, $1,538,000,000.
+
+                        Administration on Aging
+
+
+                        Aging Services Programs
+
+       For carrying out, to the extent not otherwise provided, the 
+     Older Americans Act of 1965, as amended, and section 398 of 
+     the Public Health Service Act, $930,225,000: Provided, That 
+     notwithstanding section 308(b)(1) of the Older Americans Act 
+     of 1965, as amended, the amounts available to each State for 
+     administration of the State plan under title III of such Act 
+     shall be reduced not more than 5 percent below the amount 
+     that was available to such State for such purpose for fiscal 
+     year 1995: Provided further, That in considering grant 
+     applications for nutrition services for elder Indian 
+     recipients, the Assistant Secretary shall provide maximum 
+     flexibility to applicants who seek to take into account 
+     subsistence, local customs, and other characteristics that 
+     are appropriate to the unique cultural, regional, and 
+     geographic needs of the American Indian, Alaska and Hawaiian 
+     Native communities to be served.
+
+                        Office of the Secretary
+
+
+                    general departmental management
+
+       For necessary expenses, not otherwise provided, for general 
+     departmental management, including hire of six sedans, and 
+     for carrying out titles III, XVII, and XX of the Public 
+     Health Service Act, and the United States-Mexico Border 
+     Health Commission Act, $209,701,000, of which $20,000,000 
+     shall become available on October 1, 2000, and shall remain 
+     available until September 30, 2001, together with $5,851,000, 
+     to be transferred and expended as authorized by section 
+     201(g)(1) of the Social Security Act from the Hospital 
+     Insurance Trust Fund and the Supplemental Medical Insurance 
+     Trust Fund: Provided, That $450,000 shall be for a contract 
+     with the National Academy of Sciences to conduct a study of 
+     the proposed tuberculosis standard promulgated by the 
+     Occupational Safety and Health Administration: Provided 
+     further, That said contract shall be awarded not later than 
+     60 days after the enactment of this Act: Provided further, 
+     That said study shall be submitted to the Congress not later 
+     than 12 months after award of the contract: Provided further, 
+     That of the funds made available under this heading for 
+     carrying out title XX of the Public Health Service Act, 
+     $10,569,000 shall be for activities specified under section 
+     2003(b)(2), of which $9,131,000 shall be for prevention 
+     service demonstration grants under section 510(b)(2) of title 
+     V of the Social Security Act, as amended, without application 
+     of the limitation of section 2010(c) of said title XX: 
+     Provided further, That $2,000,000 shall be available to the 
+     Office of the Surgeon General, within the Office of Public 
+     Health and Science, to prepare and disseminate the findings 
+     of the Surgeon General's report on youth violence, and to 
+     coordinate with other agencies throughout the Federal 
+     Government, through the establishment of a Federal 
+     Coordinating Committee, activities to prevent youth violence: 
+     Provided further, That the Secretary may transfer a portion 
+     of such funds to other Federal entities for youth violence 
+     prevention coordination activities.
+
+
+                      Office of Inspector General
+
+       For expenses necessary for the Office of Inspector General 
+     in carrying out the provisions of the Inspector General Act 
+     of 1978, as amended, $31,500,000.
+
+
+                        office for civil rights
+
+       For expenses necessary for the Office for Civil Rights, 
+     $18,338,000, together with not to exceed $3,314,000, to be 
+     transferred and expended as authorized by section 201(g)(1) 
+     of the Social Security Act from the Hospital Insurance Trust 
+     Fund and the Supplemental Medical Insurance Trust Fund.
+
+
+                            policy research
+
+       For carrying out, to the extent not otherwise provided, 
+     research studies under section 1110 of the Social Security 
+     Act, $17,000,000.
+
+
+     retirement pay and medical benefits for commissioned officers
+
+       For retirement pay and medical benefits of Public Health 
+     Service Commissioned Officers as authorized by law, for 
+     payments under the Retired Serviceman's Family Protection 
+     Plan and Survivor Benefit Plan, for medical care of 
+     dependents and retired personnel under the Dependents' 
+     Medical Care Act (10 U.S.C. ch. 55), and for payments 
+     pursuant to section 229(b) of the Social Security Act (42 
+     U.S.C. 429(b)), such amounts as may be required during the 
+     current fiscal year.
+
+
+            Public Health and Social Services Emergency Fund
+
+       For expenses necessary to support activities related to 
+     countering potential biological, disease and chemical threats 
+     to civilian populations, $181,600,000: Provided, That this 
+     amount is distributed as follows: Centers for Disease Control 
+     and Prevention, $122,000,000, of which $30,000,000 shall be 
+     for the Health Alert Network, $1,000,000 shall be for the 
+     Carnegie Mellon Research Institute, $1,000,000 shall be for 
+     the St. Louis University School of Public Health, $1,000,000 
+     shall be for the University of Texas Medical Branch at 
+     Galveston, and $1,000,000 shall be for the Johns Hopkins 
+     University Center for Civilian Biodefense; Office of the 
+     Secretary, $30,000,000, Agency for Health Care Policy and 
+     Research, $5,000,000, and Office of Emergency Preparedness, 
+     $24,600,000. In addition, for expenses necessary for the 
+     portion of the Global Health Initiative conducted by the 
+     Centers for Disease Control and Prevention, $69,000,000: 
+     Provided further, That this amount is distributed as follows: 
+     $35,000,000 shall be for international HIV/AIDS programs, 
+     $9,000,000 shall be for malaria programs, $5,000,000 shall be 
+     for global micronutrient malnutrition programs and 
+     $20,000,000 shall be for carrying out polio eradication 
+     activities. In addition, $150,000,000 for carrying out the 
+     Department's Year 2000 computer conversion activities, 
+     $5,000,000 for the environmental health laboratory at the 
+     Centers for Disease Control and Prevention, $35,000,000 for 
+     minority AIDS prevention and treatment activities, 
+     $20,000,000 for the National Institutes of Health challenge 
+     grant program, and $50,000,000 to support the Ricky Ray 
+     Hemophilia Relief Fund Act of 1998: Provided further, That 
+     notwithstanding any other provision of law, up to $10,000,000 
+     of the amount provided for the Ricky Ray Hemophilia Relief 
+     Fund Act may be available for administrative expenses: 
+     Provided further, That the entire amount under this heading 
+     is hereby designated by the Congress to be emergency 
+     requirements pursuant to section 251(b)(2)(A) of the Balanced 
+     Budget and Emergency Deficit Control Act of 1985, as amended: 
+     Provided further, That the entire amount under this heading 
+     shall be made available only after submission to the Congress 
+     of a formal budget request by the President that includes 
+     designation of the entire amount of the request as an 
+     emergency requirement as defined in the Balanced Budget and 
+     Emergency Deficit Control Act of 1985, as amended: Provided 
+     further, That no funds shall be obligated until the 
+     Department of Health and Human Services submits an operating 
+     plan to the House and Senate Committees on Appropriations.
+
+                           GENERAL PROVISIONS
+
+       Sec. 201. Funds appropriated in this title shall be 
+     available for not to exceed $37,000 for official reception 
+     and representation expenses when specifically approved by the 
+     Secretary.
+       Sec. 202. The Secretary shall make available through 
+     assignment not more than 60 employees of the Public Health 
+     Service to assist in child survival activities and to work in 
+     AIDS programs through and with funds provided by the Agency 
+     for International Development, the United Nations 
+     International Children's Emergency Fund or the World Health 
+     Organization.
+       Sec. 203. None of the funds appropriated under this Act may 
+     be used to implement section 399L(b) of the Public Health 
+     Service Act or section 1503 of the National Institutes of 
+     Health Revitalization Act of 1993, Public Law 103-43.
+       Sec. 204. None of the funds appropriated in this Act for 
+     the National Institutes of Health and the Substance Abuse and 
+     Mental Health Services Administration shall be used to pay 
+     the salary of an individual, through a grant or other 
+     extramural mechanism, at a rate in excess of Executive Level 
+     II.
+       Sec. 205. None of the funds appropriated in this Act may be 
+     expended pursuant to section 241 of the Public Health Service 
+     Act, except for funds specifically provided for in this Act, 
+     or for other taps and assessments made by any office located 
+     in the Department of Health and Human Services, prior to the 
+     Secretary's preparation and submission of a report to the 
+     Committee on Appropriations of the Senate and of the House 
+     detailing the planned uses of such funds.
+
+
+                          (transfer of funds)
+
+       Sec. 206. Not to exceed 1 percent of any discretionary 
+     funds (pursuant to the Balanced Budget and Emergency Deficit 
+     Control Act of 1985, as amended) which are appropriated for 
+     the current fiscal year for the Department of Health and 
+     Human Services in this Act may be transferred between 
+     appropriations, but no such appropriation shall be increased 
+     by more than 3 percent by any such transfer: Provided, That 
+     the Appropriations Committees of both Houses of Congress are 
+     notified at least 15 days in advance of any transfer.
+       Sec. 207. The Director of the National Institutes of 
+     Health, jointly with the Director of the Office of AIDS 
+     Research, may transfer up to 3 percent among institutes, 
+     centers, and divisions from the total amounts identified by 
+     these two Directors as funding for research pertaining to the 
+     human immunodeficiency virus: Provided, That the Congress is 
+     promptly notified of the transfer.
+       Sec. 208. Of the amounts made available in this Act for the 
+     National Institutes of Health, the amount for research 
+     related to the human immunodeficiency virus, as jointly 
+     determined by the Director of the National Institutes of 
+     Health and the Director of the Office of AIDS Research, shall 
+     be made available to the ``Office of AIDS Research'' account. 
+     The Director of the Office of AIDS Research shall transfer 
+     from such account amounts necessary to carry out section 
+     2353(d)(3) of the Public Health Service Act.
+       Sec. 209. None of the funds appropriated in this Act may be 
+     made available to any entity under title X of the Public 
+     Health Service Act unless the applicant for the award 
+     certifies to the Secretary that it encourages family 
+     participation in the decision of minors to seek family 
+     planning services and that it provides counseling to minors 
+     on how to resist attempts to coerce minors into engaging in 
+     sexual activities.
+       Sec. 210. (a) The final rule entitled ``Organ Procurement 
+     and Transplantation Network'', promulgated by the Secretary 
+     of Health and Human Services on April 2, 1998 (63 Fed. Reg. 
+     16295 et seq.) (relating to part 121 of title 42, Code of 
+     Federal Regulations), together with the amendments to such 
+     rules promulgated on October 20, 1999 (64 Fed. Reg. 56649 et 
+     seq.) shall not become effective before the expiration of the 
+     90 day period beginning on the date of the enactment of this 
+     Act.
+       (b) For purposes of subsection (a):
+       (1) Not later than 3 days after the date of the enactment 
+     of this Act, the Secretary of Health and Human Services 
+     (referred to in this section as the ``Secretary'') shall 
+     publish in the Federal Register a notice providing that the 
+     period within which comments on the final rule may be 
+     submitted to the Secretary is 60 days after the date of such 
+     publication of the notice.
+
+[[Page H10949]]
+
+       (2) Not later than 21 days after the expiration of such 60-
+     day period, the Secretary shall complete the review of the 
+     comments submitted pursuant to paragraph (1) and shall amend 
+     the final rule with any revisions appropriate according to 
+     the review by the Secretary of such comments. The final rule 
+     may be in the form of amendments to the rule referred to in 
+     subsection (a) that was promulgated on April 2, 1998, and in 
+     the form of amendments to the rule referred to in such 
+     subsection that was promulgated on October 20, 1999.
+       Sec. 211. None of the funds appropriated by this Act 
+     (including funds appropriated to any trust fund) may be used 
+     to carry out the Medicare+Choice program if the Secretary 
+     denies participation in such program to an otherwise eligible 
+     entity (including a Provider Sponsored Organization) because 
+     the entity informs the Secretary that it will not provide, 
+     pay for, provide coverage of, or provide referrals for 
+     abortions: Provided, That the Secretary shall make 
+     appropriate prospective adjustments to the capitation payment 
+     to such an entity (based on an actuarially sound estimate of 
+     the expected costs of providing the service to such entity's 
+     enrollees): Provided further, That nothing in this section 
+     shall be construed to change the Medicare program's coverage 
+     for such services and a Medicare+Choice organization 
+     described in this section shall be responsible for informing 
+     enrollees where to obtain information about all Medicare 
+     covered services.
+       Sec. 212. (a) Mental Health.--Section 1918(b) of the Public 
+     Health Service Act (42 U.S.C. 300x-7(b)) is amended to read 
+     as follows:
+       ``(b) Minimum Allotments for States.--With respect to 
+     fiscal year 2000, the amount of the allotment of a State 
+     under section 1911 shall not be less than the amount the 
+     State received under section 1911 for fiscal year 1998.''.
+       (b) Substance Abuse.--Section 1933(b) of the Public Health 
+     Service Act (42 U.S.C. 300x-33(b)) is amended to read as 
+     follows:
+       ``(b) Minimum Allotments for States.--Each State's 
+     allotment for fiscal year 2000 for programs under this 
+     subpart shall be equal to such State's allotment for such 
+     programs for fiscal year 1999, except that, if the amount 
+     appropriated in fiscal year 2000 is less than the amount 
+     appropriated in fiscal year 1999, then the amount of a 
+     State's allotment under section 1921 shall be equal to the 
+     amount that the State received under section 1921 in fiscal 
+     year 1999 decreased by the percentage by which the amount 
+     appropriated for fiscal year 2000 is less than the amount 
+     appropriated for such section for fiscal year 1999.''.
+       Sec. 213. Notwithstanding any other provision of law, no 
+     provider of services under title X of the Public Health 
+     Service Act shall be exempt from any State law requiring 
+     notification or the reporting of child abuse, child 
+     molestation, sexual abuse, rape, or incest.
+       Sec. 214. Extension of Certain Adjudication Provisions.--
+     The Foreign Operations, Export Financing, and Related 
+     Programs Appropriations Act, 1990 (Public Law 101-167) is 
+     amended--
+       (1) in section 599D (8 U.S.C. 1157 note)--
+       (A) in subsection (b)(3), by striking ``1997, 1998, and 
+     1999'' and inserting ``1997, 1998, 1999, and 2000''; and
+       (B) in subsection (e), by striking ``October 1, 1999'' each 
+     place it appears and inserting ``October 1, 2000''; and
+       (2) in section 599E (8 U.S.C. 1255 note) in subsection 
+     (b)(2), by striking ``September 30, 1999'' and inserting 
+     ``September 30, 2000''.
+       Sec. 215. None of the funds provided in this Act or in any 
+     other Act making appropriations for fiscal year 2000 may be 
+     used to administer or implement in Arizona or in the Kansas 
+     City, Missouri or in the Kansas City, Kansas area the 
+     Medicare Competitive Pricing Demonstration Project (operated 
+     by the Secretary of Health and Human Services under authority 
+     granted in section 4011 of the Balanced Budget Act of 1997 
+     (Public Law 105-33)).
+       Sec. 216. Of the funds appropriated for the National 
+     Institutes of Health for fiscal year 2000, $7,500,000,000 
+     shall not be available for obligation until September 29, 
+     2000. Of the funds appropriated for the Health Resources and 
+     Services Administration for fiscal year 2000, $1,120,000,000 
+     shall not be available for obligation until September 29, 
+     2000. Of the funds appropriated for the Centers for Disease 
+     Control and Prevention for fiscal year 2000, $965,000,000 
+     shall not be available for obligation until September 29, 
+     2000. Of the funds appropriated for the Children and Families 
+     Services Programs for fiscal year 2000, $400,000,000 shall 
+     not be available for obligation until September 29, 2000. Of 
+     the funds appropriated for the Social Services Block Grant 
+     for fiscal year 2000, $425,000,000 shall not be available for 
+     obligation until September 29, 2000. Of the funds 
+     appropriated for the Substance Abuse and Mental Health 
+     Services Administration for fiscal year 2000, $450,000,000 
+     shall not be available for obligation until September 29, 
+     2000.
+       Sec. 217. Study and Report on the Geographic Adjustment 
+     Factors Under the Medicare Program. (a) Study.--The Secretary 
+     of Health and Human Services shall conduct a study on--
+       (1) the reasons why, and the appropriateness of the fact 
+     that, the geographic adjustment factor (determined under 
+     paragraph (2) of section 1848(e) (42 U.S.C. 1395w-4(e)) used 
+     in determining the amount of payment for physicians' services 
+     under the Medicare program is less for physicians' services 
+     provided in New Mexico than for physicians' services provided 
+     in Arizona, Colorado, and Texas; and
+       (2) the effect that the level of the geographic cost-of-
+     practice adjustment factor (determined under paragraph (3) of 
+     such section) has on the recruitment and retention of 
+     physicians in small rural States, including New Mexico, Iowa, 
+     Louisiana, and Arkansas.
+       (b) Report.--Not later than 3 months after the date of the 
+     enactment of this Act, the Secretary of Health and Human 
+     Services shall submit a report to Congress on the study 
+     conducted under subsection (a), together with any 
+     recommendations for legislation that the Secretary determines 
+     to be appropriate as a result of such study.
+       Sec. 218. Withholding of Substance Abuse Funds. (a) In 
+     General.--None of the funds appropriated by this Act may be 
+     used to withhold substance abuse funding from a State 
+     pursuant to section 1926 of the Public Health Service Act (42 
+     U.S.C. 300x-26) if such State certifies to the Secretary of 
+     Health and Human Services that the State will commit 
+     additional State funds, in accordance with subsection (b), to 
+     ensure compliance with State laws prohibiting the sale of 
+     tobacco products to individuals under 18 years of age.
+       (b) Amount of State Funds.--The amount of funds to be 
+     committed by a State under subsection (a) shall be equal to 1 
+     percent of such State's substance abuse block grant 
+     allocation for each percentage point by which the State 
+     misses the retailer compliance rate goal established by the 
+     Secretary of Health and Human Services under section 1926 of 
+     such Act, except that the Secretary may agree to a smaller 
+     commitment of additional funds by the State.
+       (c) Supplement not Supplant.--Amounts expended by a State 
+     pursuant to a certification under subsection (a) shall be 
+     used to supplement and not supplant State funds used for 
+     tobacco prevention programs and for compliance activities 
+     described in such subsection in the fiscal year preceding the 
+     fiscal year to which this section applies.
+       (d) Enforcement of State Expenditure.--The Secretary shall 
+     exercise discretion in enforcing the timing of the State 
+     expenditure required by the certification described in 
+     subsection (a) as late as July 31, 2000.
+       Sec. 219. None of the funds made available under this title 
+     may be used to carry out the transmittal of August 13, 1997 
+     (relating to self-administered drugs) of the Deputy Director 
+     of the Division of Acute Care of the Health Care Financing 
+     Administration to regional offices of such Administration or 
+     to promulgate any regulation or other transmittal or policy 
+     directive that has the effect of imposing (or clarifying the 
+     imposition of ) a restriction on the coverage of injectable 
+     drugs under section 1861(s)(2) of the Social Security Act 
+     beyond the restrictions applied before the date of such 
+     transmittal.
+       Sec. 220. In accordance with section 1557 of title 31, 
+     United States Code, funds obligated and awarded in fiscal 
+     years 1994 and 1995 under the heading ``National Cancer 
+     Institute'' for the Cancer Therapy and Research Center in San 
+     Antonio, Texas, grant numbers 1 C06 CA58690-01 and 3 C06 
+     CA58690-01S1, shall be exempt from subchapter IV of chapter 
+     15 of such title and the obligated unexpended dollars shall 
+     remain available to the grantee for expenditure without 
+     fiscal year limitation to fulfill the purpose of the award.
+       This title may be cited as the ``Department of Health and 
+     Human Services Appropriations Act, 2000''.
+
+                   TITLE III--DEPARTMENT OF EDUCATION
+
+
+                            Education Reform
+
+       For carrying out activities authorized by titles III and IV 
+     of the Goals 2000: Educate America Act, the School-to-Work 
+     Opportunities Act, and sections 3122, 3132, 3136, and 3141, 
+     parts B, C, and D of title III, and part I of title X of the 
+     Elementary and Secondary Education Act of 1965, 
+     $1,586,560,000, of which $456,500,000 for the Goals 2000: 
+     Educate America Act and $55,000,000 for the School-to-Work 
+     Opportunities Act shall become available on July 1, 2000 and 
+     remain available through September 30, 2001, and of which 
+     $87,000,000 shall be for section 3122: Provided, That none of 
+     the funds appropriated under this heading shall be obligated 
+     or expended to carry out section 304(a)(2)(A) of the Goals 
+     2000: Educate America Act, except that no more than 
+     $1,500,000 may be used to carry out activities under section 
+     314(a)(2) of that Act: Provided further, That section 
+     315(a)(2) of the Goals 2000: Educate America Act shall not 
+     apply: Provided further, That up to one-half of 1 percent of 
+     the amount available under section 3132 shall be set aside 
+     for the outlying areas, to be distributed on the basis of 
+     their relative need as determined by the Secretary in 
+     accordance with the purposes of the program: Provided 
+     further, That if any State educational agency does not apply 
+     for a grant under section 3132, that State's allotment under 
+     section 3131 shall be reserved by the Secretary for grants to 
+     local educational agencies in that State that apply directly 
+     to the Secretary according to the terms and conditions 
+     published by the Secretary in the Federal Register: Provided 
+     further, That of the funds made available to carry out 
+     section 3136 and notwithstanding any other provision of law, 
+     $500,000 shall be awarded to the Houston Independent School 
+     District for technology infrastructure, $8,000,000 shall be 
+     awarded to the I CAN LEARN program, $2,000,000 shall be 
+     awarded to the Linking Education Technology and Educational 
+     Reform (LINKS) project for educational technology, $1,000,000 
+     shall be awarded to the Center for Advanced Research and 
+     Technology (CART) for comprehensive secondary education 
+     reform, $250,000 shall be awarded to the Vaughn Reno Starks 
+     Community Center in Elizabethtown, Kentucky for a technology 
+     program, $125,000 shall be awarded to the Wyandanch Compel 
+     Youth Academy Educational Assistance Program in New York, 
+     $3,000,000 shall be awarded to Hi-Technology High School in 
+     San Bernardino County, California for technology enhancement, 
+     $300,000 shall be awarded to the Long Island 21st Century 
+     Technology and E-Commerce Alliance, $800,000 shall be awarded 
+     to Montana State University for a distance learning 
+     initiative, $2,000,000 for the Tupelo School District in 
+     Tupelo, Mississippi for technology innovation in
+
+[[Page H10950]]
+
+     education, $900,000 for the University of Alaska at Anchorage 
+     for distance learning education, $1,000,000 shall be awarded 
+     to the Seton Hill College in Greensburg, Pennsylvania for a 
+     model education technology training program, $500,000 shall 
+     be awarded to the University of Alaska-Fairbanks, in 
+     Fairbanks, Alaska for a teacher technology training program, 
+     $200,000 shall be awarded to the Alaska Department of 
+     Education for the Alaska State Distance Education Technology 
+     Consortium, $1,000,000 shall be awarded to the North East 
+     Vocational Area Cooperative in Washington State for a multi-
+     district technology education center, $400,000 shall be 
+     awarded to the University of Vermont for the Vermont Learning 
+     Gateway Program, $2,500,000 shall be awarded to the State 
+     University of New Jersey for the RUNet 2000 project at 
+     Rutgers for an integrated voice-video-data network to link 
+     students, faculty and administration via a high-speed, broad 
+     band fiber optic network, $500,000 shall be awarded to the 
+     Iowa Area Education Agency 13 for a public/private 
+     partnership to demonstrate the effective use of technology in 
+     grades 1-3, $235,000 shall be for the Louisville Deaf Oral 
+     School for technology enhancements: Provided further, That in 
+     the State of Alabama $50,000 shall be awarded to the Bibb 
+     County Board of Education for technology enhancements, 
+     $50,000 shall be awarded to the Calhoun County Board of 
+     Education for technology enhancements, $50,000 shall be 
+     awarded to the Chambers County Board of Education for 
+     technology enhancements, $50,000 shall be awarded to the 
+     Chilton County Board of Education for technology 
+     enhancements, $50,000 shall be awarded to the Clay County 
+     Board of Education for technology enhancements, $50,000 shall 
+     be awarded to the Cleburne County Board of Education for 
+     technology enhancements, $50,000 shall be awarded to the 
+     Coosa County Board of Education for technology enhancements, 
+     $50,000 shall be awarded to the Lee County Board of Education 
+     for technology enhancements, $50,000 shall be awarded to the 
+     Macon County Board of Education for technology enhancements, 
+     $50,000 shall be awarded to the St. Clair County Board of 
+     Education for technology enhancements, $50,000 shall be 
+     awarded to the Talladega County Board of Education for 
+     technology enhancements, $50,000 shall be awarded to the 
+     Tallapoosa County Board of Education for technology 
+     enhancements, $50,000 shall be awarded to the Randolph County 
+     Board of Education for technology enhancements, $50,000 shall 
+     be awarded to the Russell County Board of Education for 
+     technology enhancements, $50,000 shall be awarded to the 
+     Alexander City Board of Education for technology 
+     enhancements, $50,000 shall be awarded to the Anniston City 
+     Board of Education for technology enhancements, $50,000 shall 
+     be awarded to the Lanett City Board of Education for 
+     technology enhancements, $50,000 shall be awarded to the Pell 
+     City Board of Education for technology enhancements, $50,000 
+     shall be awarded to the Roanoke City Board of Education for 
+     technology enhancements, $50,000 shall be awarded to the 
+     Talledega City Board of Education for technology enhancements 
+     and $500,000 shall be to continue a state-of-the-art 
+     information technology system at Mansfield University, 
+     Mansfield, Pennsylvania: Provided further, That of the funds 
+     made available to carry out title III, part B of the 
+     Elementary and Secondary Education Act of 1965 and 
+     notwithstanding any other provision of law, $750,000 shall be 
+     awarded to the Technology Literacy Center at the Museum of 
+     Science and Industry, Chicago, $1,000,000 shall be awarded to 
+     an on-line math and science training program at Oklahoma 
+     State University, $4,000,000 shall be awarded to continue and 
+     expand the Iowa Communications Network statewide fiber optic 
+     demonstration project: Provided further, That of the funds 
+     made available for title X, part I of the Elementary and 
+     Secondary Education Act of 1965 and notwithstanding any other 
+     provision of law, $6,000 shall be awarded to the Study 
+     Partners Program, Inc., in Louisville, Kentucky, $12,000 
+     shall be awarded to the Shawnee Gardens Tenants Association 
+     Inc., in Louisville, Kentucky for a tutorial program, $12,000 
+     shall be awarded to the 100 Black Men of Louisville, Kentucky 
+     for a mentoring and leadership training program, $500,000 
+     shall be awarded to the Omaha, Nebraska Public Schools for 
+     the OPS 21st Century Learning Grant, $25,000 shall be for the 
+     Plymouth Renewal Center in Kentucky for a tutoring program, 
+     $25,000 shall be for the Canaan Community Development 
+     Corporation's Village Learning Center Program, $25,000 shall 
+     be for the St. Stephen Life Center After School Program, 
+     $25,000 shall be for the Louisville Central Community Centers 
+     Youth Education Program, $15,000 shall be for the Trinity 
+     Family Life Center tutoring program, $15,000 shall be for the 
+     New Zion Community Development Foundation, Inc., after school 
+     mentoring program, $20,000 shall be for the St. Joseph 
+     Catholic Orphan Society program for abused and neglected 
+     children, $25,000 shall be for the Portland Neighborhood 
+     House after school program, and $25,000 shall be for the St. 
+     Anthony Community Outreach Center, Inc., for the Education 
+     PAYs program.
+
+
+                    Education for the Disadvantaged
+
+       For carrying out title I of the Elementary and Secondary 
+     Education Act of 1965, and section 418A of the Higher 
+     Education Act of 1965, $8,547,986,000, of which 
+     $2,317,823,000 shall become available on July 1, 2000, and 
+     shall remain available through September 30, 2001, and of 
+     which $6,204,763,000 shall become available on October 1, 
+     2000 and shall remain available through September 30, 2001, 
+     for academic year 2000-2001: Provided, That $6,649,000,000 
+     shall be available for basic grants under section 1124: 
+     Provided further, That up to $3,500,000 of these funds shall 
+     be available to the Secretary on October 1, 1999, to obtain 
+     updated local-educational-agency-level census poverty data 
+     from the Bureau of the Census: Provided further, That 
+     $1,158,397,000 shall be available for concentration grants 
+     under section 1124A: Provided further, That $8,900,000 shall 
+     be available for evaluations under section 1501 and not more 
+     than $8,500,000 shall be reserved for section 1308, of which 
+     not more than $3,000,000 shall be reserved for section 
+     1308(d): Provided further, That grant awards under sections 
+     1124 and 1124A of title I of the Elementary and Secondary 
+     Education Act of 1965 shall be made to each State and local 
+     educational agency at no less than 100 percent of the amount 
+     such State or local educational agency received under this 
+     authority for fiscal year 1999: Provided further, That 
+     notwithstanding any other provision of law, grant awards 
+     under section 1124A of title I of the Elementary and 
+     Secondary Education Act of 1965 shall be made to those local 
+     educational agencies that received a Concentration Grant 
+     under the Department of Education Appropriations Act, 1998, 
+     but are not eligible to receive such a grant for fiscal year 
+     2000: Provided further, That each such local educational 
+     agency shall receive an amount equal to the Concentration 
+     Grant the agency received in fiscal year 1998, ratably 
+     reduced, if necessary, to ensure that these local educational 
+     agencies receive no greater share of their hold-harmless 
+     amounts than other local educational agencies: Provided 
+     further, That the Secretary shall not take into account the 
+     hold harmless provisions in this section in determining State 
+     allocations under any other program administered by the 
+     Secretary in any fiscal year: Provided further, That 
+     $160,000,000 shall be available under section 1002(g)(2) to 
+     demonstrate effective approaches to comprehensive school 
+     reform to be allocated and expended in accordance with the 
+     instructions relating to this activity in the statement of 
+     the managers on the conference report accompanying Public Law 
+     105-78 and in the statement of the managers on the conference 
+     report accompanying Public Law 105-277: Provided further, 
+     That in carrying out this initiative, the Secretary and the 
+     States shall support only approaches that show the most 
+     promise of enabling children served by title I to meet 
+     challenging State content standards and challenging State 
+     student performance standards based on reliable research and 
+     effective practices, and include an emphasis on basic 
+     academics and parental involvement.
+
+
+                               Impact Aid
+
+       For carrying out programs of financial assistance to 
+     federally affected schools authorized by title VIII of the 
+     Elementary and Secondary Education Act of 1965, $910,500,000, 
+     of which $737,200,000 shall be for basic support payments 
+     under section 8003(b), $50,000,000 shall be for payments for 
+     children with disabilities under section 8003(d), 
+     $76,000,000, to remain available until expended, shall be for 
+     payments under section 8003(f ), $10,300,000 shall be for 
+     construction under section 8007, $32,000,000 shall be for 
+     Federal property payments under section 8002 and $5,000,000 
+     to remain available until expended shall be for facilities 
+     maintenance under section 8008: Provided, That of the funds 
+     available for section 8007 and notwithstanding any other 
+     provision of law, $500,000 shall be awarded to the Fort Sam 
+     Houston Independent School District, Texas, $800,000 shall be 
+     awarded to the Hays Lodgepole School District, Montana, and 
+     $2,000,000 shall be awarded to the North Chicago Community 
+     Unit SD 187: Provided further, That these funds shall remain 
+     available until expended: Provided further, That the 
+     Secretary of Education shall treat as timely filed, and shall 
+     process for payment, an application for a fiscal year 1999 
+     payment from the local educational agency for Brookeland, 
+     Texas under section 8002 of the Elementary and Secondary 
+     Education Act of 1965 if the Secretary has received that 
+     application not later than 30 days after the enactment of 
+     this Act: Provided further, That section 8002(f ) of the 
+     Elementary and Secondary Education Act of 1965 is amended by 
+     adding a new paragraph ``(3)'' at the end to read as follows:
+       ``(3) For each fiscal year beginning with fiscal year 2000, 
+     the Secretary shall treat the Central Union, California; 
+     Island, California; Hill City, South Dakota; and Wall, South 
+     Dakota local educational agencies as meeting the eligibility 
+     requirements of subsection (a)(1)(C) of this section.'':
+     Provided further, That the Secretary of Education shall 
+     consider all payments received by the educational agency for 
+     Hatboro-Horsham and Delaware Valley, Pennsylvania for fiscal 
+     year 1995 under section 8002(a) of the Elementary and 
+     Secondary Education Act of 1965 (20 U.S.C. 7702(a)), and all 
+     payments under section 8002(h)(2)(A) for subsequent years 
+     through fiscal year 1999, to be correct: Provided further, 
+     That section 8002(f ) of the Elementary and Secondary 
+     Education Act of 1965 is amended by adding at the end thereof 
+     a new paragraph (4) to read as follows:
+       ``(4) For the purposes of payments under this section for 
+     each fiscal year beginning with fiscal year 2000, the 
+     Secretary shall treat the Hot Springs, South Dakota local 
+     educational agency as if it had filed a timely application 
+     under section 8002 of the Elementary and Secondary Education 
+     Act of 1965 for fiscal year 1994 if the Secretary has 
+     received the fiscal year 1994 application, as well as 
+     Exhibits A and B not later than December 1, 1999.'':
+     Provided further, That section 8002(f ) of the Elementary and 
+     Secondary Education Act of 1965 is amended by adding at the 
+     end thereof a new paragraph (5) to read as follows:
+       ``(5) For purposes of payments under this section for each 
+     fiscal year beginning with fiscal year 2000, the Secretary 
+     shall treat the Hueneme, California local educational agency 
+     as if it had filed a timely application under section 8002 of 
+     the Elementary and Secondary Education Act of 1965 if the 
+     Secretary has received
+
+[[Page H10951]]
+
+     the fiscal year 1995 application not later than December 1, 
+     1999.'':
+     Provided further, That the Secretary of Education shall treat 
+     as timely filed, and shall process for payment, an 
+     application for a fiscal year 1998 payment from the local 
+     educational agency for Hydaburg, Alaska, under section 8003 
+     of the Elementary and Secondary Education Act of 1965 if the 
+     Secretary has received that application not later than 30 
+     days after the enactment of this Act: Provided further, That 
+     the Secretary of Education shall treat as timely, and process 
+     for payment, an application for fiscal years 1996 and 1997 
+     payment from the local education agency for Fallbrook Unified 
+     High School District, California, under section 8002 of the 
+     Elementary and Secondary Education Act of 1965, if the 
+     Secretary has received that application not later than 30 
+     days after the enactment of this Act: Provided further, That 
+     for the purpose of computing the amount of a payment for a 
+     local educational agency for children identified under 
+     section 8003 of the Elementary and Secondary Education Act of 
+     1965, children residing in housing initially acquired or 
+     constructed under section 801 of the Military Construction 
+     Authorization Act of 1984 (Public Law 98-115) (``Build to 
+     Lease'' program) shall be considered as children described 
+     under section 8003(a)(1)(B) if the property described is 
+     within the fenced security perimeter of the military facility 
+     upon which such housing is situated: Provided further, That 
+     if such property is not owned by the Federal Government, is 
+     subject to taxation by a State or political subdivision of a 
+     State, and thereby generates revenues for a local educational 
+     agency which received a payment from the Secretary under 
+     section 8003, the Secretary shall: (1) require such local 
+     educational agency to provide certification from an 
+     appropriate official of the Department of Defense that such 
+     property is being used to provide military housing; and (2) 
+     reduce the amount of such payment by an amount equal to the 
+     amount of revenue from such taxation received in the second 
+     preceding fiscal year by such local educational agency, 
+     unless the amount of such revenue was taken into account by 
+     the State for such second preceding fiscal year and already 
+     resulted in a reduction in the amount of State aid paid to 
+     such local educational agency.
+
+
+                      School Improvement Programs
+
+       For carrying out school improvement activities authorized 
+     by titles II, IV, V-A and B, VI, IX, X, and XIII of the 
+     Elementary and Secondary Education Act of 1965 (``ESEA''); 
+     the Stewart B. McKinney Homeless Assistance Act; and the 
+     Civil Rights Act of 1964 and part B of title VIII of the 
+     Higher Education Act of 1965; $2,926,134,000, of which 
+     $875,300,000 shall become available on July 1, 2000, and 
+     remain available through September 30, 2001, and of which 
+     $1,530,000,000 shall become available on October 1, 2000 and 
+     shall remain available through September 30, 2001 for 
+     academic year 2000-2001: Provided, That of the amount 
+     appropriated, $335,000,000 shall be for Eisenhower 
+     professional development State grants under title II-B and 
+     $380,000,000 shall be for title VI and up to $750,000 shall 
+     be for an evaluation of comprehensive regional assistance 
+     centers under title XIII of ESEA: Provided further, That 
+     $1,200,000,000 is for a class size/teacher assistance 
+     initiative to be distributed as described in subparagraphs 
+     (A) and (B) of section 307(b)(1) of the Department of 
+     Education Appropriations Act, 1999. School districts may use 
+     the funds for class size reduction activities as described in 
+     section 307(c)(2)(A)(i)-(iii) of the Department of Education 
+     Appropriations Act, 1999: Provided further, That, if the 
+     local educational agency determines that it wishes to use the 
+     funds for purposes other than class size reduction as part of 
+     a local strategy for improving academic achievement, funds 
+     may be used for professional development activities, teacher 
+     training or any other local need that is designed to improve 
+     student performance: Provided further, That each such agency 
+     shall use funds under this section only to supplement, and 
+     not to supplant, State and local funds, that in absence of 
+     such funds, would otherwise be spent for activities under 
+     this section.
+
+
+                           READING EXCELLENCE
+
+       For necessary expenses to carry out the Reading Excellence 
+     Act, $65,000,000, which shall become available on July 1, 
+     2000 and shall remain available through September 30, 2001 
+     and $195,000,000 which shall become available on October 1, 
+     2000 and remain available through September 30, 2001.
+
+
+                            indian education
+
+       For expenses necessary to carry out, to the extent not 
+     otherwise provided, title IX, part A of the Elementary and 
+     Secondary Education Act of 1965, as amended, $77,000,000.
+
+
+                   Bilingual and Immigrant Education
+
+       For carrying out, to the extent not otherwise provided, 
+     bilingual, foreign language and immigrant education 
+     activities authorized by parts A and C and section 7203 of 
+     title VII of the Elementary and Secondary Education Act of 
+     1965, without regard to section 7103(b), $387,000,000: 
+     Provided, That State educational agencies may use all, or any 
+     part of, their part C allocation for competitive grants to 
+     local educational agencies.
+
+
+                           Special Education
+
+       For carrying out the Individuals with Disabilities 
+     Education Act, $6,036,646,000, of which $2,047,885,000 shall 
+     become available for obligation on July 1, 2000, and shall 
+     remain available through September 30, 2001, and of which 
+     $3,742,000,000 shall become available on October 1, 2000 and 
+     shall remain available through September 30, 2001, for 
+     academic year 2000-2001: Provided, That $1,500,000 shall be 
+     for the recipient of funds provided by Public Law 105-78 
+     under section 687(b)(2)(G) of the Act to provide information 
+     on diagnosis, intervention, and teaching strategies for 
+     children with disabilities: Provided further, That $1,500,000 
+     shall be awarded to the Organizing Committee for the 2001 
+     Special Olympics World Winter Games in Alaska and $1,000,000 
+     shall be awarded to the Salt Lake City Organizing Committee 
+     for the VIII Paralympic Winter Games: Provided further, That 
+     $1,000,000 shall be for the Early Childhood Development 
+     Project of the National Easter Seal Society for the 
+     Mississippi Delta Region, which funds shall be used to 
+     provide training, technical support, services and equipment 
+     to address personnel and other needs: Provided further, That 
+     $1,000,000 shall be awarded to the Center for Literacy and 
+     Assessment at the University of Southern Mississippi for 
+     research dissemination and teacher and parent training.
+
+
+            Rehabilitation Services and Disability Research
+
+       For carrying out, to the extent not otherwise provided, the 
+     Rehabilitation Act of 1973, the Assistive Technology Act of 
+     1998, and the Helen Keller National Center Act, 
+     $2,701,772,000: Provided, That notwithstanding section 
+     105(b)(1) of the Assistive Technology Act of 1998 (``the AT 
+     Act''), each State shall be provided $50,000 for activities 
+     under section 102 of the AT Act: Provided further, That of 
+     the funds available for section 303 of the Rehabilitation Act 
+     of 1973 and notwithstanding any other provision of law, 
+     $750,000 shall be awarded to the Krasnow Institute at George 
+     Mason University for a Receptive Language Disorders research 
+     center, $1,000,000 shall be awarded to the University of 
+     Central Florida for a virtual reality-based education and 
+     training program for the deaf, $2,000,000 shall be awarded to 
+     the Seattle Lighthouse for the Blind for interpreter, 
+     orientation, mobility, and education services for deaf, blind 
+     and other visually impaired adults, $1,000,000 shall be 
+     awarded to the Professional Development and Research 
+     Institute on Blindness in Louisiana for the training of 
+     professionals in the field of education and rehabilitation of 
+     blind adults and children, and $600,000 shall be awarded to 
+     the Alaska Center for Independent Living in Anchorage, Alaska 
+     to develop capacity to implement a self-directed model for 
+     personal assistance services, including training of self-
+     employed personal assistants and their clients: Provided 
+     further, That of the funds available for section 305 of the 
+     Rehabilitation Act of 1973 and notwithstanding any other 
+     provision of law, $1,000,000 shall be awarded to the 
+     California State University at Northridge for a Western 
+     Center for Adaptive Therapy.
+
+           Special Institutions for Persons With Disabilities
+
+
+                 american printing house for the blind
+
+       For carrying out the Act of March 3, 1879, as amended (20 
+     U.S.C. 101 et seq.), $10,100,000.
+
+
+               national technical institute for the deaf
+
+       For the National Technical Institute for the Deaf under 
+     titles I and II of the Education of the Deaf Act of 1986 (20 
+     U.S.C. 4301 et seq.), $48,151,000, of which $2,651,000 shall 
+     be for construction and shall remain available until 
+     expended: Provided, That from the total amount available, the 
+     Institute may at its discretion use funds for the endowment 
+     program as authorized under section 207.
+
+
+                          gallaudet university
+
+       For the Kendall Demonstration Elementary School, the Model 
+     Secondary School for the Deaf, and the partial support of 
+     Gallaudet University under titles I and II of the Education 
+     of the Deaf Act of 1986 (20 U.S.C. 4301 et seq.), 
+     $85,980,000, of which $2,500,000 shall be for construction 
+     and shall remain available until expended: Provided, That 
+     from the total amount available, the University may at its 
+     discretion use funds for the endowment program as authorized 
+     under section 207.
+
+
+                     Vocational and Adult Education
+
+       For carrying out, to the extent not otherwise provided, the 
+     Carl D. Perkins Vocational and Technical Education Act, the 
+     Adult Education and Family Literacy Act, and title VIII-D of 
+     the Higher Education Act of 1965, as amended, and Public Law 
+     102-73, $1,656,750,000, of which $3,500,000 shall remain 
+     available until expended, and of which $833,150,000 shall 
+     become available on July 1, 2000 and shall remain available 
+     through September 30, 2001 and of which $791,000,000 shall 
+     become available on October 1, 2000 and shall remain 
+     available through September 30, 2001: Provided, That of the 
+     amounts made available for the Carl D. Perkins Vocational and 
+     Technical Education Act, $4,600,000 shall be for tribally 
+     controlled vocational institutions under section 117: 
+     Provided further, That $9,000,000 shall be for carrying out 
+     section 118 of such act for all activities conducted by and 
+     through the National Occupational Information Coordinating 
+     Committee: Provided further, That of the amounts made 
+     available for the Adult Education and Family Literacy Act, 
+     $14,000,000 shall be for national leadership activities under 
+     section 243 and $6,000,000 shall be for the National 
+     Institute for Literacy under section 242: Provided further, 
+     That $19,000,000 shall be for Youth Offender Grants, of which 
+     $5,000,000, which shall become available on July 1, 2000, and 
+     remain available through September 30, 2001, shall be used in 
+     accordance with section 601 of Public Law 102-73 as that 
+     section was in effect prior to the enactment of Public Law 
+     105-220.
+
+
+                      Student Financial Assistance
+
+       For carrying out subparts 1, 3 and 4 of part A, part C and 
+     part E of title IV of the Higher Education Act of 1965, as 
+     amended, $9,435,000,000, which shall remain available through 
+     September 30, 2001.
+       The maximum Pell Grant for which a student shall be 
+     eligible during award year 2000-2001 shall be $3,300: 
+     Provided, That notwithstanding section 401(g) of the Act, if 
+     the Secretary determines, prior to publication of the payment
+
+[[Page H10952]]
+
+     schedule for such award year, that the amount included within 
+     this appropriation for Pell Grant awards in such award year, 
+     and any funds available from the fiscal year 1999 
+     appropriation for Pell Grant awards, are insufficient to 
+     satisfy fully all such awards for which students are 
+     eligible, as calculated under section 401(b) of the Act, the 
+     amount paid for each such award shall be reduced by either a 
+     fixed or variable percentage, or by a fixed dollar amount, as 
+     determined in accordance with a schedule of reductions 
+     established by the Secretary for this purpose.
+       For an additional amount for ``student financial 
+     assistance'' for payment of allocations to institutions of 
+     higher education for Federal Supplemental Educational 
+     Opportunity Grants for award years 1999-2000 and 2000-2001, 
+     made under title IV, part A, subpart 3, of the Higher 
+     Education Act of 1965, as amended, $10,000,000: Provided, 
+     That notwithstanding any other provision of law, the 
+     Secretary of Education may waive or modify any statutory or 
+     regulatory provision applicable to the Federal Supplemental 
+     Educational Opportunity Grant program and the determination 
+     of need for such grants, that the Secretary deems necessary 
+     to assist individuals who suffered financial harm resulting 
+     from the hurricanes, and the flooding associated with the 
+     hurricanes, that struck the eastern United States in August 
+     and September 1999, and who, at the time of the disaster were 
+     residing, attending an institution of higher education, or 
+     employed within an area affected by such a disaster on the 
+     date which the President declared the existence of a major 
+     disaster (or, in the case of an individual who is a dependent 
+     student, whose parent or stepparent suffered financial harm 
+     from such disaster, and who resided, or was employed in such 
+     an area at that time): Provided further, That notwithstanding 
+     section 437 of the General Education Provisions Act (20 
+     U.S.C. 1232) and section 553 of title 5, United States Code, 
+     the Secretary shall, by notice in the Federal Register, 
+     exercise this authority, through publication of waivers or 
+     modifications of statutory and regulatory provisions, as the 
+     Secretary deems necessary to assist such individuals: 
+     Provided further, That notwithstanding section 413D of the 
+     Higher Education Act of 1965, allocations from such 
+     additional amount shall not be taken into account in 
+     determining institutional allocations under such section in 
+     future years: Provided further, That the entire amount made 
+     available under this paragraph is designated by the Congress 
+     as an emergency requirement pursuant to section 251(b)(2)(A) 
+     of the Balanced Budget and Emergency Deficit Control Act of 
+     1985, and that the entire amount shall be available only to 
+     the extent an official budget request for the entire amount, 
+     that includes designation of the entire amount as an 
+     emergency requirement pursuant to the Balanced Budget and 
+     Emergency Deficit Control Act of 1985, is transmitted by the 
+     President to the Congress.
+
+
+             federal family education loan program account
+
+       For Federal administrative expenses to carry out guaranteed 
+     student loans authorized by title IV, part B, of the Higher 
+     Education Act of 1965, as amended, $48,000,000.
+
+
+                            Higher Education
+
+       For carrying out, to the extent not otherwise provided, 
+     section 121 and titles II, III, IV, V, VI, VII, and VIII of 
+     the Higher Education Act of 1965, as amended, and the Mutual 
+     Educational and Cultural Exchange Act of 1961; 
+     $1,466,826,000, of which $12,000,000 for interest subsidies 
+     authorized by section 121 of the Higher Education Act of 
+     1965, shall remain available until expended: Provided, That 
+     of the funds available for part A, subpart 2 of title VII of 
+     the Higher Education Act of 1965, $10,000,000 shall be 
+     available to fund awards for academic year 2000-2001, and 
+     $10,000,000 to remain available through September 30, 2001, 
+     shall be available to fund awards for academic year 2001-
+     2002, for fellowships under part A, subpart 1 of title VII of 
+     said Act, under the terms and conditions of part A, subpart 
+     1: Provided further, That section 852(b)(1) of the Higher 
+     Education Amendments of 1998 is amended--
+       (1) in the matter preceding subparagraph (A), by striking 
+     ``14'' and inserting ``16'';
+       (2) in subparagraph (E), by striking ``and'' after the 
+     semicolon;
+       (3) in subparagraph (F), by striking the period and 
+     inserting a semicolon; and
+       (4) by adding at the end the following:
+       ``(G) one member shall be appointed by the Chairperson of 
+     the Committee on Health, Education, Labor, and Pensions of 
+     the Senate from among members of the Senate; and
+       ``(H) one member shall be appointed by the Chairperson of 
+     the Committee on Education and the Workforce of the House of 
+     Representatives from among members of the House of 
+     Representatives.'':
+     Provided further, That the matter preceding paragraph (1) of 
+     section 853(b) of the Higher Education Amendments of 1998 is 
+     amended by striking ``6 months'' and inserting ``12 months'': 
+     Provided further, That the amounts provided under this 
+     heading in division A, section 101(f ) of Public Law 105-277 
+     for the Web-Based Education Commission, authorized by part J 
+     of title VIII of the Higher Education Amendments of 1998, 
+     shall remain available through September 30, 2000: Provided 
+     further, That $3,000,000 is for data collection and 
+     evaluation activities for programs under the Higher Education 
+     Act of 1965, including such activities needed to comply with 
+     the Government Performance and Results Act of 1993: Provided 
+     further, That of the funds available for title IV, part A, 
+     subpart 8 of the Higher Education Act of 1965 and 
+     notwithstanding any other provision of law, $3,000,000 shall 
+     be awarded to the University of South Florida for a distance 
+     learning program, $190,000 shall be awarded to the New York 
+     Global Communication Center in West Islip, New York for a 
+     distance learning program, $1,000,000 shall be awarded to the 
+     Alliance for Technology, Learning and Society (ATLAS) at the 
+     University of Colorado for technology-enhanced learning, 
+     $2,500,000 shall be awarded to the Illinois Community College 
+     Board to develop a systemwide, on-line virtual degree program 
+     for the community college system in Illinois, and $1,250,000 
+     shall be made available to the University of Idaho 
+     Interactive Learning Environments to develop and improve 
+     Internet-based delivery of education programs.
+
+
+                           howard university
+
+       For partial support of Howard University (20 U.S.C. 121 et 
+     seq.), $219,444,000, of which not less than $3,530,000 shall 
+     be for a matching endowment grant pursuant to the Howard 
+     University Endowment Act (Public Law 98-480) and shall remain 
+     available until expended.
+
+
+         college housing and academic facilities loans program
+
+       For Federal administrative expenses authorized under 
+     section 121 of the Higher Education Act of 1965, $737,000 to 
+     carry out activities related to existing facility loans 
+     entered into under the Higher Education Act of 1965.
+
+
+  Historically Black College and University Capital Financing Program 
+                                Account
+
+       The total amount of bonds insured pursuant to section 344 
+     of title III, part D of the Higher Education Act of 1965 
+     shall not exceed $357,000,000, and the cost, as defined in 
+     section 502 of the Congressional Budget Act of 1974, of such 
+     bonds shall not exceed zero.
+       For administrative expenses to carry out the Historically 
+     Black College and University Capital Financing Program 
+     entered into pursuant to title III, part D of the Higher 
+     Education Act of 1965, as amended, $207,000.
+
+
+            Education Research, Statistics, and Improvement
+
+       For carrying out activities authorized by the Educational 
+     Research, Development, Dissemination, and Improvement Act of 
+     1994, including part E; the National Education Statistics Act 
+     of 1994, including sections 411 and 412; section 2102 of 
+     title II, and parts A, B, and K and section 10102 and section 
+     10601 of title X, and part C of title XIII of the Elementary 
+     and Secondary Education Act of 1965, as amended, and title VI 
+     of Public Law 103-227, $492,679,000: Provided, That 
+     $25,000,000 shall be available to demonstrate effective 
+     approaches to comprehensive school reform, to be allocated 
+     and expended in accordance with the instructions relating to 
+     this activity in the statement of managers on the conference 
+     report accompanying Public Law 105-78 and in the statement of 
+     the managers on the conference report accompanying Public Law 
+     105-277: Provided further, That the funds made available for 
+     comprehensive school reform shall become available on July 1, 
+     2000, and remain available through September 30, 2001, and in 
+     carrying out this initiative, the Secretary and the States 
+     shall support only approaches that show the most promise of 
+     enabling children to meet challenging State content standards 
+     and challenging State student performance standards based on 
+     reliable research and effective practices, and include an 
+     emphasis on basic academics and parental involvement: 
+     Provided further, That $10,000,000 of the funds provided for 
+     the national education research institutes shall be allocated 
+     notwithstanding subparagrphs (B) and (C) of section 931(c)(2) 
+     of Public Law 103-227: Provided further, That of the funds 
+     appropriated under section 10601 of title X of the Elementary 
+     and Secondary Education Act of 1965, as amended, $1,500,000 
+     shall be used to conduct a violence prevention demonstration 
+     program: Provided further, That of the funds available for 
+     part A of title X of the Elementary and Secondary Education 
+     Act of 1965, $10,000,000 shall be awarded to the National 
+     Constitution Center, established by Public Law 100-433, for 
+     exhibition design, program planning and operation of the 
+     center, $10,000,000 shall be provided to continue a 
+     demonstration of public school facilities to the Iowa 
+     Department of Education, $1,000,000 shall be made available 
+     to the New Mexico Department of Education for school 
+     performance improvement and drop-out prevention, $300,000 
+     shall be made available to Semos Unlimited, Inc., in New 
+     Mexico to support bilingual education and literacy programs, 
+     $700,000 shall be awarded to Loyola University Chicago for 
+     recruitment and preparation of new teacher candidates for 
+     employment in rural and inner-city schools, $500,000 shall be 
+     awarded to Shedd Aquarium/Brookfield Zoo for science 
+     education/exposure programs for local elementary school 
+     students, $3,000,000 shall be awarded to Big Brothers/Big 
+     Sisters of America to expand school-based mentoring, 
+     $2,500,000 shall be awarded to the Chicago Public School 
+     System to support a substance abuse pilot program in 
+     conjunction with Elgin and East Aurora School Systems, 
+     $1,000,000 shall be awarded to the University of Virginia 
+     Center for Governmental Studies for the Youth Leadership 
+     Initiative, $800,000 shall be awarded to the Institute for 
+     Student Achievement at Holmes Middle School and Annandale 
+     High School in Virginia for academic enrichment programs, 
+     $100,000 shall be awarded to the Mountain Arts Center for 
+     educational programming, $1,500,000 shall be awarded to the 
+     University of Louisville for research in the area of academic 
+     readiness, $500,000 shall be awarded to the West Ed Regional 
+     Educational Laboratory for the 24 Challenge and Jumping 
+     Levels Math Demonstration Project, $1,000,000 shall be 
+     awarded to Central Michigan University for a charter schools 
+     development and performance institute, $950,000 shall be 
+     awarded to the Living Science Interactive Learning Model 
+     partnership in Indian River, Florida for a science education 
+     program, $825,000 shall be awarded to the North Babylon 
+     Community Youth Services for an educational program, 
+     $1,000,000 shall be awarded to the Los Angeles County Office 
+     of
+
+[[Page H10953]]
+
+     Education/Educational Telecommunications and Technology for a 
+     pilot program for teachers, $650,000 shall be awarded to the 
+     University of Northern Iowa for an institute of technology 
+     for inclusive education, $500,000 shall be awarded to Youth 
+     Crime Watch of America to expand a program to prevent crime, 
+     drugs and violence in schools, $892,000 shall be awarded to 
+     Muhlenberg College in Pennsylvania for an environmental 
+     science program, $560,000 shall be awarded to the Western 
+     Suffolk St. Johns-LaSalle Academy Science and Technology 
+     Mentoring Program, $4,000,000 shall be awarded to the 
+     National Teaching Academy of Chicago for a model teacher 
+     recruitment, preparation and professional development 
+     program, $2,000,000 shall be awarded to the University of 
+     West Florida for a teacher enhancement program, $1,000,000 
+     shall be awarded to Delta State University in Mississippi for 
+     innovative teacher training, $1,000,000 shall be awarded to 
+     the Alaska Humanities Forum, Inc., in Anchorage, Alaska, 
+     $250,000 shall be awarded to An Achievable Dream in Newport 
+     News, Virginia to improve academic performance of at-risk 
+     youths, $250,000 shall be awarded to the Rock School of 
+     Ballet in Philadelphia, Pennsylvania, to expand its 
+     community-outreach programs for inner-city children and 
+     underprivileged youth in Camden, New Jersey and southern New 
+     Jersey, $1,000,000 shall be awarded to the University of 
+     Maryland Center for Quality and Productivity to provide a 
+     link for the Blue Ribbon Schools, $1,000,000 shall be awarded 
+     to the Continuing Education Center and Teachers' Institute in 
+     South Boston, Virginia to promote participation among youth 
+     in the United States democratic process, $1,000,000 shall be 
+     for the National Museum of Women in the Arts to expand its 
+     ``Discovering Art'' program to elementary and secondary 
+     schools and other educational organizations, $400,000 shall 
+     be awarded to the Alaska Department of Education's summer 
+     reading program, $400,000 shall be awarded to the Partners in 
+     Education, Inc., to foster successful business-school 
+     partnerships, $250,000 shall be for the Kodiak Island Borough 
+     School District for development of an environmental education 
+     program, $2,000,000 shall be for the Reach Out and Read 
+     Program to expand literacy and health awareness for at-risk 
+     families, $1,000,000 shall be for the Virginia Living Museum 
+     in Newport News, Virginia for an educational program, 
+     $450,000 shall be for the Challenger Learning Center in 
+     Hardin County, Kentucky for technology assistance and teacher 
+     training, $250,000 shall be for the Crawford County School 
+     System in Georgia for technology and curriculum support, 
+     $500,000 shall be for the Berrien County School System in 
+     Georgia for technology development, $35,000 shall be for the 
+     Louisville Salvation Army Boys and Girls Club Diversion 
+     Enhancement Program, $100,000 shall be awarded to the 
+     Philadelphia Orchestra's Philly Pops to operate the Jazz in 
+     the Schools program in the Philadelphia school district, 
+     $500,000 for the Mississippi Delta Education for a teacher 
+     incentive program initiative, $500,000 shall be for enhanced 
+     teacher training in reading in the District of Columbia, and 
+     $100,000 shall be awarded to the Project 2000 D.C. mentoring 
+     project: Provided further, That of the funds available for 
+     section 10601 of title X of such Act, $2,000,000 shall be 
+     awarded to the Center for Educational Technologies for 
+     production and distribution of an effective CD-ROM product 
+     that would complement the ``We the People: The Citizen and 
+     the Constitution'' curriculum: Provided further, That, in 
+     addition to the funds for title VI of Public Law 103-227 and 
+     notwithstanding the provisions of section 601(c)(1)(C) of 
+     that Act, $1,000,000 shall be available to the Center for 
+     Civic Education to conduct a civic education program with 
+     Northern Ireland and the Republic of Ireland and, consistent 
+     with the civics and Government activities authorized in 
+     section 601(c)(3) of Public Law 103-227, to provide civic 
+     education assistance to democracies in developing countries. 
+     The term ``developing countries'' shall have the same meaning 
+     as the term ``developing country'' in the Education for the 
+     Deaf Act.
+
+                        Departmental Management
+
+
+                         program administration
+
+       For carrying out, to the extent not otherwise provided, the 
+     Department of Education Organization Act, including rental of 
+     conference rooms in the District of Columbia and hire of two 
+     passenger motor vehicles, $370,184,000.
+
+
+                        office for civil rights
+
+       For expenses necessary for the Office for Civil Rights, as 
+     authorized by section 203 of the Department of Education 
+     Organization Act, $71,200,000.
+
+
+                      office of inspector general
+
+       For expenses necessary for the Office of Inspector General, 
+     as authorized by section 212 of the Department of Education 
+     Organization Act, $34,000,000.
+
+                           GENERAL PROVISIONS
+
+       Sec. 301. No funds appropriated in this Act may be used for 
+     the transportation of students or teachers (or for the 
+     purchase of equipment for such transportation) in order to 
+     overcome racial imbalance in any school or school system, or 
+     for the transportation of students or teachers (or for the 
+     purchase of equipment for such transportation) in order to 
+     carry out a plan of racial desegregation of any school or 
+     school system.
+       Sec. 302. None of the funds contained in this Act shall be 
+     used to require, directly or indirectly, the transportation 
+     of any student to a school other than the school which is 
+     nearest the student's home, except for a student requiring 
+     special education, to the school offering such special 
+     education, in order to comply with title VI of the Civil 
+     Rights Act of 1964. For the purpose of this section an 
+     indirect requirement of transportation of students includes 
+     the transportation of students to carry out a plan involving 
+     the reorganization of the grade structure of schools, the 
+     pairing of schools, or the clustering of schools, or any 
+     combination of grade restructuring, pairing or clustering. 
+     The prohibition described in this section does not include 
+     the establishment of magnet schools.
+       Sec. 303. No funds appropriated under this Act may be used 
+     to prevent the implementation of programs of voluntary prayer 
+     and meditation in the public schools.
+
+
+                          (transfer of funds)
+
+       Sec. 304. Not to exceed 1 percent of any discretionary 
+     funds (pursuant to the Balanced Budget and Emergency Deficit 
+     Control Act of 1985, as amended) which are appropriated for 
+     the Department of Education in this Act may be transferred 
+     between appropriations, but no such appropriation shall be 
+     increased by more than 3 percent by any such transfer: 
+     Provided, That the Appropriations Committees of both Houses 
+     of Congress are notified at least 15 days in advance of any 
+     transfer.
+       Sec. 305. (a) From the funds appropriated for payments to 
+     local educational agencies under section 8003(f ) of the 
+     Elementary and Secondary Education Act of 1965 (``ESEA'') for 
+     fiscal year 2000, the Secretary of Education shall distribute 
+     supplemental payments for certain local educational agencies, 
+     as follows:
+       (1) First, from the amount of $74,000,000, the Secretary 
+     shall make supplemental payments to the following agencies 
+     under section 8003(f ) of ESEA:
+       (A) Local educational agencies that received assistance 
+     under section 8003(f ) for fiscal year 1999--
+       (i) in fiscal year 1997 had at least 40 percent federally 
+     connected children described in section 8003(a)(1) in average 
+     daily attendance; and in fiscal year 1997 had a tax rate for 
+     general fund purposes which was at least 95 percent of the 
+     State average tax rate for general fund purposes; or
+       (ii) whose boundary is coterminous with the boundary of a 
+     Federal military installation.
+       (B) Local educational agencies that received assistance 
+     under section 8003(f ) for fiscal year 1999; and in fiscal 
+     year 1997 had at least 30 percent federally connected 
+     children described in section 8003(a)(1) in average daily 
+     attendance; and in fiscal year 1997 had a tax rate for 
+     general fund purposes which was at least 125 percent of the 
+     State average tax rate for general fund purposes.
+       (C) Any eligible local educational agency that in fiscal 
+     year 1997, which had at least 25,000 children in average 
+     daily attendance, at least 50 percent federally connected 
+     children described in section 8003(a)(1) in average daily 
+     attendance, and at least 6,000 children described in 
+     subparagraphs (A) and (B) of section 8003(a)(1) in average 
+     daily attendance.
+       (2) From the remaining $2,000,000 and any amounts available 
+     after making payments under paragraph (1), the Secretary 
+     shall then make supplemental payments to local educational 
+     agencies that are not described in paragraph (1) of this 
+     subsection, but that meet the requirements of paragraphs (2) 
+     and (4) of section 8003(f ) of ESEA for fiscal year 2000.
+       (3) After making payments to all eligible local educational 
+     agencies described in paragraph (2) of subsection (a), the 
+     Secretary shall use any remaining funds from paragraph (2) 
+     for making payments to the eligible local educational 
+     agencies described in paragraph (1) of subsection (a) if the 
+     amount available under paragraph (1) is insufficient to fully 
+     fund all eligible local educational agencies.
+       (4) After making payments to all eligible local educational 
+     agencies as described in paragraphs 1 through 3, the 
+     Secretary shall use any remaining funds to increase basic 
+     support payments under section 8003(b) for fiscal year 2000 
+     for all eligible applicants.
+       (b) In calculating the amounts of supplemental payments for 
+     agencies described in subparagraphs (1)(A) and (B) and 
+     paragraph (2) of subsection (a), the Secretary shall use the 
+     formula contained in section 8003(b)(1)(C) of ESEA, except 
+     that--
+       (1) eligible local educational agencies may count all 
+     children described in section 8003(a)(1) in computing the 
+     amount of those payments;
+       (2) maximum payments for any of those agencies that use 
+     local contribution rates identified in section 8003(b)(1)(C) 
+     (i) or (ii) shall be computed by using four-fifths instead of 
+     one-half of those rates;
+       (3) the learning opportunity threshold percentage of all 
+     such agencies under section 8003(b)(2)(B) shall be deemed to 
+     be 100;
+       (4) for an eligible local educational agency with 35 
+     percent or more of its children in average daily attendance 
+     described in either subparagraph (D) or (E) of section 
+     8003(a)(1) in fiscal year 1997, the weighted student unit 
+     figure from its regular basic support payment shall be 
+     recomputed by using a factor of 0.55 for such children;
+       (5) for an eligible local educational agency with fewer 
+     than 100 children in average daily attendance in fiscal year 
+     1997, the weighted student unit figure from its regular basic 
+     support payment shall be recomputed by multiplying the total 
+     number of children described in section 8003(a)(1) by a 
+     factor of 1.75; and
+       (6) for an eligible local educational agency whose total 
+     number of children in average daily attendance in fiscal year 
+     1997 was at least 100, but fewer than 750, the weighted 
+     student unit figure from its regular basic support payment 
+     shall be recomputed by multiplying the total number of 
+     children described in section 8003(a)(1) by a factor of 1.25.
+       (c) For a local educational agency described in subsection 
+     (a)(1)(C) above, the Secretary shall use the formula 
+     contained in section 8003(b)(1)(C) of ESEA, except that the 
+     weighted student unit total from its regular basic support 
+     payment shall be recomputed by using a factor of 1.35 for 
+     children described in subparagraphs (A) and (B) of section 
+     8003(a)(1) and its learning
+
+[[Page H10954]]
+
+     opportunity threshold percentage shall be deemed to be 100.
+       (d) For each eligible local educational agency, the 
+     calculated supplemental section 8003(f ) payment shall be 
+     reduced by subtracting the agency's fiscal year 2000 section 
+     8003(b) basic support payment.
+       (e) If the sums described in subsections (a)(1) and (2) 
+     above are insufficient to pay in full the calculated 
+     supplemental payments for the local educational agencies 
+     identified in those subsections, the Secretary shall ratably 
+     reduce the supplemental section 8003(f ) payment to each 
+     local educational agency.
+       Sec. 306. (a) Section 1204(b)(1)(A) of the Elementary and 
+     Secondary Education Act of 1965 (20 U.S.C. 6364(b)(1)(a)) is 
+     amended--
+       (1) in clause (iv), by striking ``and'' after the 
+     semicolon;
+       (2) by striking clause (v) and adding the following:
+       ``(v) 50 percent in the fifth, sixth, seventh, and eighth 
+     such years; and
+       ``(vi) 35 percent in any subsequent such year.''.
+       (b) Section 1208(b) of the Elementary and Secondary 
+     Education Act of 1965 is amended--
+       (1) by striking paragraph (3) and inserting the following:
+       ``(3) Continuing eligibility.--In awarding subgrant funds 
+     to continue a program under this part after the first year, 
+     the State educational agency shall review the progress of 
+     each eligible entity in meeting the goals of the program 
+     referred to in section 1207(c)(1)(A) and shall evaluate the 
+     program based on the indicators of program quality developed 
+     by the State under section 1210.''; and
+       (2) in paragraph (5)(A), by striking the last sentence.
+       Sec. 307. (a) Notwithstanding sections 401( j) and 
+     435(a)(2) of the Higher Education Act of 1965 (20 U.S.C. 
+     1070a( j) and 1085(a)(2)) and subject to the requirements of 
+     subsection (b), the Secretary of Education shall--
+       (1) recalculate the official fiscal year 1996 cohort 
+     default rate for Jacksonville College of Jacksonville, Texas, 
+     on the basis of data corrections confirmed by the Texas 
+     Guaranteed Student Loan Corporation; and
+       (2) restore the eligibility of Jacksonville College to 
+     participate in the Federal Pell Grant Program for the 1999-
+     2000 award year and succeeding award years.
+       (b) Jacksonville College shall implement a default 
+     management plan that is satisfactory to the Secretary of 
+     Education.
+       (c) For purposes of determining its Federal Pell Grant 
+     Program eligibility, Jacksonville College shall be deemed to 
+     have withdrawn from the Federal Family Education Loan program 
+     as of October 6, 1998.
+       Sec. 308. An amount of $14,500,000 from the balances of 
+     returned reserve funds, formerly held by the Higher Education 
+     Assistance Foundation, that are currently held in Higher 
+     Education Assistance Foundation Claims Reserves, Treasury 
+     account number 91X6192, and $12,000,000 from funds formerly 
+     held by the Higher Education Assistance Foundation, that are 
+     currently held in trust, shall be deposited in the general 
+     fund of the Treasury.
+       Sec. 309. Of the funds provided in title III of this Act, 
+     under the heading ``Higher Education'', for title VII, part B 
+     of the Higher Education Act of 1965, $250,000 shall be 
+     awarded to the Snelling Center for Government at the 
+     University of Vermont for a model school program, $750,000 
+     shall be awarded to Texas A&M University, Corpus Christi, for 
+     operation of the Early Childhood Development Center, 
+     $1,000,000 shall be awarded to Southeast Missouri State 
+     University for equipment and curriculum development 
+     associated with the University's Polytechnic Institute, 
+     $800,000 shall be awarded to the Washington Virtual Classroom 
+     Consortium to develop, equip and implement an ecosystem 
+     curriculum, $500,000 shall be provided to the Puget Sound 
+     Center for Technology for faculty development activities for 
+     the use of technology in the classroom, $500,000 shall be 
+     awarded to the Center for the Advancement of Distance 
+     Education in Rural America, $3,000,000, to be available until 
+     expended, shall be awarded to the University Center of Lake 
+     County, Illinois and $1,000,000, to be available until 
+     expended, shall be awarded to the Oregon University System 
+     for activities authorized under title III, part A, section 
+     311(c)(2), of the Higher Education Act of 1965, as amended, 
+     $500,000 shall be awarded to Columbia College Illinois for a 
+     freshman retention program, $1,500,000 shall be awarded to 
+     the University of Hawaii at Manoa for a Globalization 
+     Research Center, $2,000,000 shall be awarded to the 
+     University of Arkansas at Pine Bluff for technology 
+     infrastructure, $1,000,000 shall be awarded to the I Have a 
+     Dream Foundation, $1,000,000 shall be awarded to a 
+     demonstration program for activities authorized under part G 
+     of title VIII of the Higher Education Act of 1965, as 
+     amended, $1,500,000 shall be awarded to the Daniel J. Evans 
+     School of Public Policy at the University of Washington, 
+     $200,000 shall be awarded to North Dakota State University 
+     for the Career Program for Dislocated Farmers and Ranchers, 
+     $350,000 shall be awarded to North Dakota State University 
+     for the Tech-based Industry Traineeship Program, $1,500,000 
+     shall be awarded to Washington State University for the 
+     Thomas S. Foley Institute to support programs in 
+     congressional studies, public policy, voter education, and to 
+     ensure community access and outreach, $200,000 shall be 
+     awarded to Minot State University for the Rural 
+     Communications Disabilities Program, $300,000 shall be 
+     awarded to Bryant College for the Linking International Trade 
+     Education Program (LITE), $1,000,000 shall be awarded to 
+     Concord College, West Virginia for a technology center to 
+     further enhance the technical skills of West Virginia 
+     teachers and students, $200,000 shall be awarded to Peirce 
+     College in Philadelphia, Pennsylvania for education and 
+     training programs, $250,000 shall be awarded to the 
+     Philadelphia Zoo for educational programs, $800,000 shall be 
+     awarded to Spelman College in Georgia for educational 
+     operations, $1,000,000 shall be awarded to the Philadelphia 
+     University Education Center for technology education, 
+     $725,000 shall be awarded to Lock Haven University for 
+     technology innovations, $250,000 for Middle Georgia College 
+     for an advanced distributed learning center demonstration 
+     program, $1,000,000 for the University of the Incarnate Word 
+     in San Antonio, Texas, to improve teacher capabilities in 
+     technology, $1,000,000 for Elmira College in New York for a 
+     technology enhancement initiative, $1,000,000 shall be 
+     awarded to the Southeastern Pennsylvania Consortium on Higher 
+     Education for education programs, $400,000 shall be awarded 
+     to Lehigh University Iacocca Institute for educational 
+     training, $250,000 shall be awarded to Lafayette College for 
+     arts education, $1,000,000 shall be awarded to Lewis and 
+     Clark College for the Crime Victims Law Institute, $1,650,000 
+     for Rust College in Mississippi for technology 
+     infrastructure, $500,000 for the University of Notre Dame for 
+     a teacher quality initiative, and $2,000,000 shall be awarded 
+     to the Western Governors University for a distance learning 
+     initiative.
+       This title may be cited as the ``Department of Education 
+     Appropriations Act, 2000''.
+
+                       TITLE IV--RELATED AGENCIES
+
+
+                      Armed Forces Retirement Home
+
+       For expenses necessary for the Armed Forces Retirement Home 
+     to operate and maintain the United States Soldiers' and 
+     Airmen's Home and the United States Naval Home, to be paid 
+     from funds available in the Armed Forces Retirement Home 
+     Trust Fund, $68,295,000, of which $12,696,000 shall remain 
+     available until expended for construction and renovation of 
+     the physical plants at the United States Soldiers' and 
+     Airmen's Home and the United States Naval Home: Provided, 
+     That, notwithstanding any other provision of law, a single 
+     contract or related contracts for development and 
+     construction, to include construction of a long-term care 
+     facility at the United States Naval Home, may be employed 
+     which collectively include the full scope of the project: 
+     Provided further, That the solicitation and contract shall 
+     contain the clause ``availability of funds'' found at 48 CFR 
+     52.232-18 and 252.232-7007, Limitation of Government 
+     Obligations.
+
+             Corporation for National and Community Service
+
+
+        Domestic Volunteer Service Programs, Operating Expenses
+
+       For expenses necessary for the Corporation for National and 
+     Community Service to carry out the provisions of the Domestic 
+     Volunteer Service Act of 1973, as amended, $295,645,000: 
+     Provided, That none of the funds made available to the 
+     Corporation for National and Community Service in this Act 
+     for activities authorized by part E of title II of the 
+     Domestic Volunteer Service Act of 1973 shall be used to 
+     provide stipends to volunteers or volunteer leaders whose 
+     incomes exceed the income guidelines established for payment 
+     of stipends under the Foster Grandparent and Senior Companion 
+     programs: Provided further, That the foregoing proviso shall 
+     not apply to the Seniors for Schools program.
+
+                  Corporation for Public Broadcasting
+
+       For payment to the Corporation for Public Broadcasting, as 
+     authorized by the Communications Act of 1934, an amount which 
+     shall be available within limitations specified by that Act, 
+     for the fiscal year 2002, $350,000,000: Provided, That no 
+     funds made available to the Corporation for Public 
+     Broadcasting by this Act shall be used to pay for receptions, 
+     parties, or similar forms of entertainment for Government 
+     officials or employees: Provided further, That none of the 
+     funds contained in this paragraph shall be available or used 
+     to aid or support any program or activity from which any 
+     person is excluded, or is denied benefits, or is 
+     discriminated against, on the basis of race, color, national 
+     origin, religion, or sex: Provided further, That in addition 
+     to the amounts provided above, $10,000,000 shall be for 
+     digitalization, only if specifically authorized by subsequent 
+     legislation enacted by September 30, 2000.
+
+               Federal Mediation and Conciliation Service
+
+
+                         Salaries and Expenses
+
+       For expenses necessary for the Federal Mediation and 
+     Conciliation Service to carry out the functions vested in it 
+     by the Labor Management Relations Act, 1947 (29 U.S.C. 171-
+     180, 182-183), including hire of passenger motor vehicles; 
+     for expenses necessary for the Labor-Management Cooperation 
+     Act of 1978 (29 U.S.C. 175a); and for expenses necessary for 
+     the Service to carry out the functions vested in it by the 
+     Civil Service Reform Act, Public Law 95-454 (5 U.S.C. ch. 
+     71), $36,834,000, including $1,500,000, to remain available 
+     through September 30, 2001, for activities authorized by the 
+     Labor-Management Cooperation Act of 1978 (29 U.S.C. 175a): 
+     Provided, That notwithstanding 31 U.S.C. 3302, fees charged, 
+     up to full-cost recovery, for special training activities and 
+     other conflict resolution services and technical assistance, 
+     including those provided to foreign governments and 
+     international organizations, and for arbitration services 
+     shall be credited to and merged with this account, and shall 
+     remain available until expended: Provided further, That fees 
+     for arbitration services shall be available only for 
+     education, training, and professional development of the 
+     agency workforce: Provided further, That the Director of the 
+     Service is authorized to accept and use on behalf of the 
+     United States gifts of services and real, personal, or other 
+     property in the aid of any projects or functions within the 
+     Director's jurisdiction.
+
+[[Page H10955]]
+
+            Federal Mine Safety and Health Review Commission
+
+
+                         salaries and expenses
+
+       For expenses necessary for the Federal Mine Safety and 
+     Health Review Commission (30 U.S.C. 801 et seq.), $6,159,000.
+
+                Institute of Museum and Library Services
+
+         Office of Library Services: Grants and Administration
+
+       For carrying out subtitle B of the Museum and Library 
+     Services Act, $163,250,000, of which $19,356,000 shall be 
+     awarded to national leadership projects, notwithstanding 
+     section 221(a)(1)(B): Provided, That of the amount provided, 
+     $700,000 shall be awarded to the Library and Archives of New 
+     Hampshire's Political Tradition at the New Hampshire State 
+     Library, $1,000,000 shall be awarded to the Vermont 
+     Department of Libraries in Montpelier, Vermont, $750,000 
+     shall be awarded to consolidation and preservation of 
+     archives and special collections at the University of Miami 
+     Library in Coral Gables, Florida, $1,900,000 shall be awarded 
+     to exhibits and library improvements for the Mississippi 
+     River Museum and Discovery Center in Dubuque, Iowa, $750,000 
+     shall be awarded to the Alaska Native Heritage Center in 
+     Anchorage, Alaska, $750,000 shall be awarded to the Peabody-
+     Essex Museum in Salem, Massachusetts, $750,000 shall be 
+     awarded to the Bishop Museum in Hawaii, $200,000 shall be 
+     awarded to Oceanside Public Library in California for a local 
+     cultural heritage project, $1,000,000 shall be awarded to the 
+     Urban Children's Museum Collaborative to develop and 
+     implement pilot programs dedicated to serving at-risk 
+     children and their families, $150,000 shall be awarded to the 
+     Troy State University Dothan in Alabama for archival of a 
+     special collection, $450,000 shall be awarded to Chadron 
+     State College in Nebraska for the Mari Sandoz Center, and 
+     $350,000 shall be awarded to the Alabama A&M University 
+     Alabama State Black Archives Research Center and Museum.
+
+                  Medicare Payment Advisory Commission
+
+
+                         salaries and expenses
+
+       For expenses necessary to carry out section 1805 of the 
+     Social Security Act, $7,015,000, to be transferred to this 
+     appropriation from the Federal Hospital Insurance and the 
+     Federal Supplementary Medical Insurance Trust Funds.
+
+        National Commission on Libraries and Information Science
+
+
+                         Salaries and Expenses
+
+       For necessary expenses for the National Commission on 
+     Libraries and Information Science, established by the Act of 
+     July 20, 1970 (Public Law 91-345, as amended), $1,300,000.
+
+                     National Council on Disability
+
+
+                         salaries and expenses
+
+       For expenses necessary for the National Council on 
+     Disability as authorized by title IV of the Rehabilitation 
+     Act of 1973, as amended, $2,400,000.
+
+                     National Education Goals Panel
+
+       For expenses necessary for the National Education Goals 
+     Panel, as authorized by title II, part A of the Goals 2000: 
+     Educate America Act, $2,250,000.
+
+                     National Labor Relations Board
+
+
+                         salaries and expenses
+
+       For expenses necessary for the National Labor Relations 
+     Board to carry out the functions vested in it by the Labor-
+     Management Relations Act, 1947, as amended (29 U.S.C. 141-
+     167), and other laws, $199,500,000: Provided, That no part of 
+     this appropriation shall be available to organize or assist 
+     in organizing agricultural laborers or used in connection 
+     with investigations, hearings, directives, or orders 
+     concerning bargaining units composed of agricultural laborers 
+     as referred to in section 2(3) of the Act of July 5, 1935 (29 
+     U.S.C. 152), and as amended by the Labor-Management Relations 
+     Act, 1947, as amended, and as defined in section 3(f ) of the 
+     Act of June 25, 1938 (29 U.S.C. 203), and including in said 
+     definition employees engaged in the maintenance and operation 
+     of ditches, canals, reservoirs, and waterways when maintained 
+     or operated on a mutual, nonprofit basis and at least 95 
+     percent of the water stored or supplied thereby is used for 
+     farming purposes.
+
+                        National Mediation Board
+
+
+                         Salaries and Expenses
+
+       For expenses necessary to carry out the provisions of the 
+     Railway Labor Act, as amended (45 U.S.C. 151-188), including 
+     emergency boards appointed by the President, $9,100,000: 
+     Provided, That unobligated balances at the end of fiscal year 
+     2000 not needed for emergency boards shall remain available 
+     for other statutory purposes through September 30, 2001.
+
+            Occupational Safety and Health Review Commission
+
+
+                         salaries and expenses
+
+       For expenses necessary for the Occupational Safety and 
+     Health Review Commission (29 U.S.C. 661), $8,500,000.
+
+                       Railroad Retirement Board
+
+
+                     dual benefits payments account
+
+       For payment to the Dual Benefits Payments Account, 
+     authorized under section 15(d) of the Railroad Retirement Act 
+     of 1974, $174,000,000, which shall include amounts becoming 
+     available in fiscal year 2000 pursuant to section 
+     224(c)(1)(B) of Public Law 98-76; and in addition, an amount, 
+     not to exceed 2 percent of the amount provided herein, shall 
+     be available proportional to the amount by which the product 
+     of recipients and the average benefit received exceeds 
+     $174,000,000: Provided, That the total amount provided herein 
+     shall be credited in 12 approximately equal amounts on the 
+     first day of each month in the fiscal year.
+
+
+          Federal Payments to the Railroad Retirement Accounts
+
+       For payment to the accounts established in the Treasury for 
+     the payment of benefits under the Railroad Retirement Act for 
+     interest earned on unnegotiated checks, $150,000, to remain 
+     available through September 30, 2001, which shall be the 
+     maximum amount available for payment pursuant to section 417 
+     of Public Law 98-76.
+
+
+                      Limitation on Administration
+
+       For necessary expenses for the Railroad Retirement Board 
+     for administration of the Railroad Retirement Act and the 
+     Railroad Unemployment Insurance Act, $91,000,000, to be 
+     derived in such amounts as determined by the Board from the 
+     railroad retirement accounts and from moneys credited to the 
+     railroad unemployment insurance administration fund.
+
+
+             Limitation on the Office of Inspector General
+
+       For expenses necessary for the Office of Inspector General 
+     for audit, investigatory and review activities, as authorized 
+     by the Inspector General Act of 1978, as amended, not more 
+     than $5,400,000, to be derived from the railroad retirement 
+     accounts and railroad unemployment insurance account: 
+     Provided, That none of the funds made available in any other 
+     paragraph of this Act may be transferred to the Office; used 
+     to carry out any such transfer; used to provide any office 
+     space, equipment, office supplies, communications facilities 
+     or services, maintenance services, or administrative services 
+     for the Office; used to pay any salary, benefit, or award for 
+     any personnel of the Office; used to pay any other operating 
+     expense of the Office; or used to reimburse the Office for 
+     any service provided, or expense incurred, by the Office.
+
+                     Social Security Administration
+
+
+                Payments to Social Security Trust Funds
+
+       For payment to the Federal Old-Age and Survivors Insurance 
+     and the Federal Disability Insurance trust funds, as provided 
+     under sections 201(m), 228(g), and 1131(b)(2) of the Social 
+     Security Act, $20,764,000.
+
+
+               special benefits for disabled coal miners
+
+       For carrying out title IV of the Federal Mine Safety and 
+     Health Act of 1977, $383,638,000, to remain available until 
+     expended.
+       For making, after July 31 of the current fiscal year, 
+     benefit payments to individuals under title IV of the Federal 
+     Mine Safety and Health Act of 1977, for costs incurred in the 
+     current fiscal year, such amounts as may be necessary.
+       For making benefit payments under title IV of the Federal 
+     Mine Safety and Health Act of 1977 for the first quarter of 
+     fiscal year 2001, $124,000,000, to remain available until 
+     expended.
+
+
+                  Supplemental Security Income Program
+
+       For carrying out titles XI and XVI of the Social Security 
+     Act, section 401 of Public Law 92-603, section 212 of Public 
+     Law 93-66, as amended, and section 405 of Public Law 95-216, 
+     including payment to the Social Security trust funds for 
+     administrative expenses incurred pursuant to section 
+     201(g)(1) of the Social Security Act, $21,503,085,000, to 
+     remain available until expended: Provided, That any portion 
+     of the funds provided to a State in the current fiscal year 
+     and not obligated by the State during that year shall be 
+     returned to the Treasury.
+       From funds provided under the previous paragraph, not less 
+     than $100,000,000 shall be available for payment to the 
+     Social Security trust funds for administrative expenses for 
+     conducting continuing disability reviews.
+       In addition, $200,000,000, to remain available until 
+     September 30, 2001, for payment to the Social Security trust 
+     funds for administrative expenses for continuing disability 
+     reviews as authorized by section 103 of Public Law 104-121 
+     and section 10203 of Public Law 105-33. The term ``continuing 
+     disability reviews'' means reviews and redeterminations as 
+     defined under section 201(g)(1)(A) of the Social Security 
+     Act, as amended.
+       For making, after June 15 of the current fiscal year, 
+     benefit payments to individuals under title XVI of the Social 
+     Security Act, for unanticipated costs incurred for the 
+     current fiscal year, such sums as may be necessary.
+       For making benefit payments under title XVI of the Social 
+     Security Act for the first quarter of fiscal year 2001, 
+     $9,890,000,000, to remain available until expended.
+
+
+                 limitation on administrative expenses
+
+       For necessary expenses, including the hire of two passenger 
+     motor vehicles, and not to exceed $10,000 for official 
+     reception and representation expenses, not more than 
+     $6,093,871,000 may be expended, as authorized by section 
+     201(g)(1) of the Social Security Act, from any one or all of 
+     the trust funds referred to therein: Provided, That not less 
+     than $1,800,000 shall be for the Social Security Advisory 
+     Board: Provided further, That unobligated balances at the end 
+     of fiscal year 2000 not needed for fiscal year 2000 shall 
+     remain available until expended to invest in the Social 
+     Security Administration computing network, including related 
+     equipment and non-payroll administrative expenses associated 
+     solely with this network: Provided further, That 
+     reimbursement to the trust funds under this heading for 
+     expenditures for official time for employees of the Social 
+     Security Administration pursuant to section 7131 of title 5, 
+     United States Code, and for facilities or support services 
+     for labor organizations pursuant to policies, regulations, or 
+     procedures referred to in section 7135(b) of such title shall 
+     be made by the Secretary of the Treasury, with interest, from 
+     amounts in the general fund not otherwise appropriated, as 
+     soon as possible after such expenditures are made.
+       From funds provided under the previous paragraph, 
+     notwithstanding the provision under this heading in Public 
+     Law 105-277 regarding unobligated balances at the end of 
+     fiscal year 1999 not needed for such fiscal year, an amount 
+     not to exceed $50,000,000 from such unobligated balances 
+     shall, in addition to funding already
+
+[[Page H10956]]
+
+     available under this heading for fiscal year 2000, be 
+     available for necessary expenses.
+       From funds provided under the first paragraph, not less 
+     than $200,000,000 shall be available for conducting 
+     continuing disability reviews.
+       In addition to funding already available under this 
+     heading, and subject to the same terms and conditions, 
+     $405,000,000, to remain available until September 30, 2001, 
+     for continuing disability reviews as authorized by section 
+     103 of Public Law 104-121 and section 10203 of Public Law 
+     105-33. The term ``continuing disability reviews'' means 
+     reviews and redeterminations as defined under section 
+     201(g)(1)(A) of the Social Security Act, as amended.
+       In addition, $80,000,000 to be derived from administration 
+     fees in excess of $5.00 per supplementary payment collected 
+     pursuant to section 1616(d) of the Social Security Act or 
+     section 212(b)(3) of Public Law 93-66, which shall remain 
+     available until expended. To the extent that the amounts 
+     collected pursuant to such section 1616(d) or 212(b)(3) in 
+     fiscal year 2000 exceed $80,000,000, the amounts shall be 
+     available in fiscal year 2001 only to the extent provided in 
+     advance in appropriations Acts.
+       From amounts previously made available under this heading 
+     for a state-of-the-art computing network, not to exceed 
+     $100,000,000 shall be available for necessary expenses under 
+     this heading, subject to the same terms and conditions.
+       From funds provided under the first paragraph, the 
+     Commissioner of Social Security may direct up to $3,000,000, 
+     in addition to funds previously appropriated for this 
+     purpose, to continue Federal-State partnerships which will 
+     evaluate means to promote Medicare buy-in programs targeted 
+     to elderly and disabled individuals under titles XVIII and 
+     XIX of the Social Security Act.
+
+
+                      Office of Inspector General
+
+                     (including transfer of funds)
+
+       For expenses necessary for the Office of Inspector General 
+     in carrying out the provisions of the Inspector General Act 
+     of 1978, as amended, $15,000,000, together with not to exceed 
+     $51,000,000, to be transferred and expended as authorized by 
+     section 201(g)(1) of the Social Security Act from the Federal 
+     Old-Age and Survivors Insurance Trust Fund and the Federal 
+     Disability Insurance Trust Fund.
+       In addition, an amount not to exceed 3 percent of the total 
+     provided in this appropriation may be transferred from the 
+     ``Limitation on Administrative Expenses'', Social Security 
+     Administration, to be merged with this account, to be 
+     available for the time and purposes for which this account is 
+     available: Provided, That notice of such transfers shall be 
+     transmitted promptly to the Committees on Appropriations of 
+     the House and Senate.
+
+                    United States Institute of Peace
+
+
+                           Operating Expenses
+
+       For necessary expenses of the United States Institute of 
+     Peace as authorized in the United States Institute of Peace 
+     Act, $13,000,000.
+
+                      TITLE V--GENERAL PROVISIONS
+
+       Sec. 501. The Secretaries of Labor, Health and Human 
+     Services, and Education are authorized to transfer unexpended 
+     balances of prior appropriations to accounts corresponding to 
+     current appropriations provided in this Act: Provided, That 
+     such transferred balances are used for the same purpose, and 
+     for the same periods of time, for which they were originally 
+     appropriated.
+       Sec. 502. No part of any appropriation contained in this 
+     Act shall remain available for obligation beyond the current 
+     fiscal year unless expressly so provided herein.
+       Sec. 503. (a) No part of any appropriation contained in 
+     this Act shall be used, other than for normal and recognized 
+     executive-legislative relationships, for publicity or 
+     propaganda purposes, for the preparation, distribution, or 
+     use of any kit, pamphlet, booklet, publication, radio, 
+     television, or video presentation designed to support or 
+     defeat legislation pending before the Congress or any State 
+     legislature, except in presentation to the Congress or any 
+     State legislature itself.
+       (b) No part of any appropriation contained in this Act 
+     shall be used to pay the salary or expenses of any grant or 
+     contract recipient, or agent acting for such recipient, 
+     related to any activity designed to influence legislation or 
+     appropriations pending before the Congress or any State 
+     legislature.
+       Sec. 504. The Secretaries of Labor and Education are 
+     authorized to make available not to exceed $20,000 and 
+     $15,000, respectively, from funds available for salaries and 
+     expenses under titles I and III, respectively, for official 
+     reception and representation expenses; the Director of the 
+     Federal Mediation and Conciliation Service is authorized to 
+     make available for official reception and representation 
+     expenses not to exceed $2,500 from the funds available for 
+     ``Salaries and expenses, Federal Mediation and Conciliation 
+     Service''; and the Chairman of the National Mediation Board 
+     is authorized to make available for official reception and 
+     representation expenses not to exceed $2,500 from funds 
+     available for ``Salaries and expenses, National Mediation 
+     Board''.
+       Sec. 505. Notwithstanding any other provision of this Act, 
+     no funds appropriated under this Act shall be used to carry 
+     out any program of distributing sterile needles or syringes 
+     for the hypodermic injection of any illegal drug.
+       Sec. 506. (a) Purchase of American-Made Equipment and 
+     Products.--It is the sense of the Congress that, to the 
+     greatest extent practicable, all equipment and products 
+     purchased with funds made available in this Act should be 
+     American-made.
+       (b) Notice Requirement.--In providing financial assistance 
+     to, or entering into any contract with, any entity using 
+     funds made available in this Act, the head of each Federal 
+     agency, to the greatest extent practicable, shall provide to 
+     such entity a notice describing the statement made in 
+     subsection (a) by the Congress.
+       (c) Prohibition of Contracts With Persons Falsely Labeling 
+     Products as Made in America.--If it has been finally 
+     determined by a court or Federal agency that any person 
+     intentionally affixed a label bearing a ``Made in America'' 
+     inscription, or any inscription with the same meaning, to any 
+     product sold in or shipped to the United States that is not 
+     made in the United States, the person shall be ineligible to 
+     receive any contract or subcontract made with funds made 
+     available in this Act, pursuant to the debarment, suspension, 
+     and ineligibility procedures described in sections 9.400 
+     through 9.409 of title 48, Code of Federal Regulations.
+       Sec. 507. When issuing statements, press releases, requests 
+     for proposals, bid solicitations and other documents 
+     describing projects or programs funded in whole or in part 
+     with Federal money, all grantees receiving Federal funds 
+     included in this Act, including but not limited to State and 
+     local governments and recipients of Federal research grants, 
+     shall clearly state: (1) the percentage of the total costs of 
+     the program or project which will be financed with Federal 
+     money; (2) the dollar amount of Federal funds for the project 
+     or program; and (3) percentage and dollar amount of the total 
+     costs of the project or program that will be financed by non-
+     governmental sources.
+       Sec. 508. (a) None of the funds appropriated under this 
+     Act, and none of the funds in any trust fund to which funds 
+     are appropriated under this Act, shall be expended for any 
+     abortion.
+       (b) None of the funds appropriated under this Act, and none 
+     of the funds in any trust fund to which funds are 
+     appropriated under this Act, shall be expended for health 
+     benefits coverage that includes coverage of abortion.
+       (c) The term ``health benefits coverage'' means the package 
+     of services covered by a managed care provider or 
+     organization pursuant to a contract or other arrangement.
+       Sec. 509. (a) The limitations established in the preceding 
+     section shall not apply to an abortion--
+       (1) if the pregnancy is the result of an act of rape or 
+     incest; or
+       (2) in the case where a woman suffers from a physical 
+     disorder, physical injury, or physical illness, including a 
+     life-endangering physical condition caused by or arising from 
+     the pregnancy itself, that would, as certified by a 
+     physician, place the woman in danger of death unless an 
+     abortion is performed.
+       (b) Nothing in the preceding section shall be construed as 
+     prohibiting the expenditure by a State, locality, entity, or 
+     private person of State, local, or private funds (other than 
+     a State's or locality's contribution of Medicaid matching 
+     funds).
+       (c) Nothing in the preceding section shall be construed as 
+     restricting the ability of any managed care provider from 
+     offering abortion coverage or the ability of a State or 
+     locality to contract separately with such a provider for such 
+     coverage with State funds (other than a State's or locality's 
+     contribution of Medicaid matching funds).
+       Sec. 510. (a) None of the funds made available in this Act 
+     may be used for--
+       (1) the creation of a human embryo or embryos for research 
+     purposes; or
+       (2) research in which a human embryo or embryos are 
+     destroyed, discarded, or knowingly subjected to risk of 
+     injury or death greater than that allowed for research on 
+     fetuses in utero under 45 CFR 46.208(a)(2) and section 498(b) 
+     of the Public Health Service Act (42 U.S.C. 289g(b)).
+       (b) For purposes of this section, the term ``human embryo 
+     or embryos'' includes any organism, not protected as a human 
+     subject under 45 CFR 46 as of the date of the enactment of 
+     this Act, that is derived by fertilization, parthenogenesis, 
+     cloning, or any other means from one or more human gametes or 
+     human diploid cells.
+       Sec. 511. (a) Limitation on Use of Funds for Promotion of 
+     Legalization of Controlled Substances.--None of the funds 
+     made available in this Act may be used for any activity that 
+     promotes the legalization of any drug or other substance 
+     included in schedule I of the schedules of controlled 
+     substances established by section 202 of the Controlled 
+     Substances Act (21 U.S.C. 812).
+       (b) Exceptions.--The limitation in subsection (a) shall not 
+     apply when there is significant medical evidence of a 
+     therapeutic advantage to the use of such drug or other 
+     substance or that federally sponsored clinical trials are 
+     being conducted to determine therapeutic advantage.
+       Sec. 512. None of the funds made available in this Act may 
+     be obligated or expended to enter into or renew a contract 
+     with an entity if--
+       (1) such entity is otherwise a contractor with the United 
+     States and is subject to the requirement in section 4212(d) 
+     of title 38, United States Code, regarding submission of an 
+     annual report to the Secretary of Labor concerning employment 
+     of certain veterans; and
+       (2) such entity has not submitted a report as required by 
+     that section for the most recent year for which such 
+     requirement was applicable to such entity.
+       Sec. 513. Except as otherwise specifically provided by law, 
+     unobligated balances remaining available at the end of fiscal 
+     year 2000 from appropriations made available for salaries and 
+     expenses for fiscal year 2000 in this Act, shall remain 
+     available through December 31, 2000, for each such account 
+     for the purposes authorized: Provided, That the House and 
+     Senate Committees on Appropriations shall be notified at 
+     least 15 days prior to the obligation of such funds.
+       Sec. 514. None of the funds made available in this Act may 
+     be used to promulgate or adopt any final standard under 
+     section 1173(b) of the
+
+[[Page H10957]]
+
+     Social Security Act (42 U.S.C. 1320d-2(b)) providing for, or 
+     providing for the assignment of, a unique health identifier 
+     for an individual (except in an individual's capacity as an 
+     employer or a health care provider), until legislation is 
+     enacted specifically approving the standard.
+       Sec. 515. Section 520(c)(2)(D) of the Departments of Labor, 
+     Health and Human Services, and Education, and Related 
+     Agencies Appropriations Act, 1997, as amended, is further 
+     amended by striking ``December 31, 1997'' and inserting 
+     ``December 31, 1999''.
+       Sec. 516. The United States-Mexico Border Health Commission 
+     Act (22 U.S.C. 290n et seq.) is amended--
+       (1) by striking section 2 and inserting the following:
+
+     ``SEC. 2. APPOINTMENT OF MEMBERS OF BORDER HEALTH COMMISSION.
+
+       ``Not later than 30 days after the date of the enactment of 
+     this section, the President shall appoint the United States 
+     members of the United States-Mexico Border Health Commission, 
+     and shall attempt to conclude an agreement with Mexico 
+     providing for the establishment of such Commission.''; and
+       (2) in section 3--
+       (A) in paragraph (1), by striking the semicolon and 
+     inserting ``; and'';
+       (B) in paragraph (2)(B), by striking ``; and'' and 
+     inserting a period; and
+       (C) by striking paragraph (3).
+       Sec. 517. The applicable time limitations with respect to 
+     the giving of notice of injury and the filing of a claim for 
+     compensation for disability or death by an individual under 
+     the Federal Employees' Compensation Act, as amended, for 
+     injuries sustained as a result of the person's exposure to a 
+     nitrogen or sulfur mustard agent in the performance of 
+     official duties as an employee at the Department of the 
+     Army's Edgewood Arsenal before March 20, 1944, shall not 
+     begin to run until the date of the enactment of this Act.
+       Sec. 518. Section 169(d)(2)(B) of Public Law 105-220, the 
+     Workforce Investment Act of 1998, is amended by striking ``or 
+     Alaska Native villages or Native groups (as such terms are 
+     defined in section 3 of the Alaska Native Claims Settlement 
+     Act (43 U.S.C. 1602)).'' and inserting ``or Alaska 
+     Natives.''.
+       Sec. 519. Of the funds appropriated or otherwise made 
+     available in this Act for salaries and expenses for fiscal 
+     year 2000, $121,000,000, to be allocated by the Office of 
+     Management and Budget, are permanently canceled: Provided, 
+     That, within 30 days of the enactment of this Act, the 
+     Director of the Office of Management and Budget shall submit 
+     a report to the Committees on Appropriations of the House of 
+     Representatives and the Senate showing the allocation of the 
+     $121,000,000.
+
+ TITLE VI--EARLY DETECTION, DIAGNOSIS, AND INTERVENTIONS FOR NEWBORNS 
+                     AND INFANTS WITH HEARING LOSS
+
+       Sec. 601. (a) Definitions.--For the purposes of this 
+     section only, the following terms in this section are defined 
+     as follows:
+       (1) Hearing screening.--Newborn and infant hearing 
+     screening consists of objective physiologic procedures to 
+     detect possible hearing loss and to identify newborns and 
+     infants who, after rescreening, require further audiologic 
+     and medical evaluations.
+       (2) Audiologic evaluation.--Audiologic evaluation consists 
+     of procedures to assess the status of the auditory system; to 
+     establish the site of the auditory disorder; the type and 
+     degree of hearing loss, and the potential effects of hearing 
+     loss on communication; and to identify appropriate treatment 
+     and referral options. Referral options should include linkage 
+     to State IDEA part C coordinating agencies or other 
+     appropriate agencies, medical evaluation, hearing aid/sensory 
+     aid assessment, audiologic rehabilitation treatment, national 
+     and local consumer, self-help, parent, and education 
+     organizations, and other family-centered services.
+       (3) Medical evaluation.--Medical evaluation by a physician 
+     consists of key components including history, examination, 
+     and medical decision making focused on symptomatic and 
+     related body systems for the purpose of diagnosing the 
+     etiology of hearing loss and related physical conditions, and 
+     for identifying appropriate treatment and referral options.
+       (4) Medical intervention.--Medical intervention is the 
+     process by which a physician provides medical diagnosis and 
+     direction for medical and/or surgical treatment options of 
+     hearing loss and/or related medical disorder associated with 
+     hearing loss.
+       (5) Audiologic rehabilitation.--Audiologic rehabilitation 
+     (intervention) consists of procedures, techniques, and 
+     technologies to facilitate the receptive and expressive 
+     communication abilities of a child with hearing loss.
+       (6) Early intervention.--Early intervention (e.g., 
+     nonmedical) means providing appropriate services for the 
+     child with hearing loss and ensuring that families of the 
+     child are provided comprehensive, consumer-oriented 
+     information about the full range of family support, training, 
+     information services, communication options and are given the 
+     opportunity to consider the full range of educational and 
+     program placements and options for their child.
+       (b) Purposes.--The purposes of this section are to clarify 
+     the authority within the Public Health Service Act to 
+     authorize statewide newborn and infant hearing screening, 
+     evaluation and intervention programs and systems, technical 
+     assistance, a national applied research program, and 
+     interagency and private sector collaboration for policy 
+     development, in order to assist the States in making progress 
+     toward the following goals:
+       (1) All babies born in hospitals in the United States and 
+     its territories should have a hearing screening before 
+     leaving the birthing facility. Babies born in other countries 
+     and residing in the United States via immigration or adoption 
+     should have a hearing screening as early as possible.
+       (2) All babies who are not born in hospitals in the United 
+     States and its territories should have a hearing screening 
+     within the first 3 months of life.
+       (3) Appropriate audiologic and medical evaluations should 
+     be conducted by 3 months for all newborns and infants 
+     suspected of having hearing loss to allow appropriate 
+     referral and provisions for audiologic rehabilitation, 
+     medical and early intervention before the age of 6 months.
+       (4) All newborn and infant hearing screening programs and 
+     systems should include a component for audiologic 
+     rehabilitation, medical and early intervention options that 
+     ensures linkage to any new and existing statewide systems of 
+     intervention and rehabilitative services for newborns and 
+     infants with hearing loss.
+       (5) Public policy in regard to newborn and infant hearing 
+     screening and intervention should be based on applied 
+     research and the recognition that newborns, infants, 
+     toddlers, and children who are deaf or hard-of-hearing have 
+     unique language, learning, and communication needs, and 
+     should be the result of consultation with pertinent public 
+     and private sectors.
+       (c) Statewide Newborn and Infant Hearing Screening, 
+     Evaluation and Intervention Programs and Systems.--Under the 
+     existing authority of the Public Health Service Act, the 
+     Secretary of Health and Human Services (in this section 
+     referred to as the ``Secretary''), acting through the 
+     Administrator of the Health Resources and Services 
+     Administration, shall make awards of grants or cooperative 
+     agreements to develop statewide newborn and infant hearing 
+     screening, evaluation and intervention programs and systems 
+     for the following purposes:
+       (1) To develop and monitor the efficacy of statewide 
+     newborn and infant hearing screening, evaluation and 
+     intervention programs and systems. Early intervention 
+     includes referral to schools and agencies, including 
+     community, consumer, and parent-based agencies and 
+     organizations and other programs mandated by part C of the 
+     Individuals with Disabilities Education Act, which offer 
+     programs specifically designed to meet the unique language 
+     and communication needs of deaf and hard-of-hearing newborns, 
+     infants, toddlers, and children.
+       (2) To collect data on statewide newborn and infant hearing 
+     screening, evaluation and intervention programs and systems 
+     that can be used for applied research, program evaluation and 
+     policy development.
+       (d) Technical Assistance, Data Management, and Applied 
+     Research.--
+       (1) Centers for disease control and prevention.--Under the 
+     existing authority of the Public Health Service Act, the 
+     Secretary, acting through the Director of the Centers for 
+     Disease Control and Prevention, shall make awards of grants 
+     or cooperative agreements to provide technical assistance to 
+     State agencies to complement an intramural program and to 
+     conduct applied research related to newborn and infant 
+     hearing screening, evaluation and intervention programs and 
+     systems. The program shall develop standardized procedures 
+     for data management and program effectiveness and costs, such 
+     as--
+       (A) to ensure quality monitoring of newborn and infant 
+     hearing loss screening, evaluation, and intervention programs 
+     and systems;
+       (B) to provide technical assistance on data collection and 
+     management;
+       (C) to study the costs and effectiveness of newborn and 
+     infant hearing screening, evaluation and intervention 
+     programs and systems conducted by State-based programs in 
+     order to answer issues of importance to State and national 
+     policymakers;
+       (D) to identify the causes and risk factors for congenital 
+     hearing loss;
+       (E) to study the effectiveness of newborn and infant 
+     hearing screening, audiologic and medical evaluations and 
+     intervention programs and systems by assessing the health, 
+     intellectual and social developmental, cognitive, and 
+     language status of these children at school age; and
+       (F) to promote the sharing of data regarding early hearing 
+     loss with State-based birth defects and developmental 
+     disabilities monitoring programs for the purpose of 
+     identifying previously unknown causes of hearing loss.
+       (2) National institutes of health.--Under the existing 
+     authority of the Public Health Service Act, the Director of 
+     the National Institutes of Health, acting through the 
+     Director of the National Institute on Deafness and Other 
+     Communication Disorders, shall for purposes of this section, 
+     continue a program of research and development on the 
+     efficacy of new screening techniques and technology, 
+     including clinical studies of screening methods, studies on 
+     efficacy of intervention, and related research.
+       (e) Coordination and Collaboration.--
+       (1) In general.--Under the existing authority of the Public 
+     Health Service Act, in carrying out programs under this 
+     section, the Administrator of the Health Resources and 
+     Services Administration, the Director of the Centers for 
+     Disease Control and Prevention, and the Director of the 
+     National Institutes of Health shall collaborate and consult 
+     with other Federal agencies; State and local agencies, 
+     including those responsible for early intervention services 
+     pursuant to title XIX of the Social Security Act (Medicaid 
+     Early and Periodic Screening, Diagnosis and Treatment 
+     Program); title XXI of the Social Security Act (State 
+     Children's Health Insurance Program); title V of the Social 
+     Security Act (Maternal and Child Health Block Grant Program); 
+     and part C of the Individuals with Disabilities Education 
+     Act; consumer groups of and that serve individuals who are 
+     deaf and hard-of-hearing and their families; appropriate 
+     national medical and other health and education specialty 
+     organizations; persons who are deaf and hard-of-hearing and 
+     their families; other qualified professional personnel who 
+     are proficient in
+
+[[Page H10958]]
+
+     deaf or hard-of-hearing children's language and who possess 
+     the specialized knowledge, skills, and attributes needed to 
+     serve deaf and hard-of-hearing newborns, infants, toddlers, 
+     children, and their families; third-party payers and managed 
+     care organizations; and related commercial industries.
+       (2) Policy development.--Under the existing authority of 
+     the Public Health Service Act, the Administrator of the 
+     Health Resources and Services Administration, the Director of 
+     the Centers for Disease Control and Prevention, and the 
+     Director of the National Institutes of Health shall 
+     coordinate and collaborate on recommendations for policy 
+     development at the Federal and State levels and with the 
+     private sector, including consumer, medical and other health 
+     and education professional-based organizations, with respect 
+     to newborn and infant hearing screening, evaluation and 
+     intervention programs and systems.
+       (3) State early detection, diagnosis, and intervention 
+     programs and systems; data collection.--Under the existing 
+     authority of the Public Health Service Act, the Administrator 
+     of the Health Resources and Services Administration and the 
+     Director of the Centers for Disease Control and Prevention 
+     shall coordinate and collaborate in assisting States to 
+     establish newborn and infant hearing screening, evaluation 
+     and intervention programs and systems under subsection (c) 
+     and to develop a data collection system under subsection (d).
+       (f ) Rule of Construction.--Nothing in this section shall 
+     be construed to preempt any State law.
+       (g) Authorization of Appropriations.--
+       (1) Statewide newborn and infant hearing screening, 
+     evaluation and intervention programs and systems.--For the 
+     purpose of carrying out subsection (c) under the existing 
+     authority of the Public Health Service Act, there are 
+     authorized to the Health Resources and Services 
+     Administration appropriations in the amount of $5,000,000 for 
+     fiscal year 2000, $8,000,000 for fiscal year 2001, and such 
+     sums as may be necessary for fiscal year 2002.
+       (2) Technical assistance, data management, and applied 
+     research; centers for disease control and prevention.--For 
+     the purpose of carrying out subsection (d)(1) under the 
+     existing authority of the Public Health Service Act, there 
+     are authorized to the Centers for Disease Control and 
+     Prevention, appropriations in the amount of $5,000,000 for 
+     fiscal year 2000, $7,000,000 for fiscal year 2001, and such 
+     sums as may be necessary for fiscal year 2002.
+       (3) Technical assistance, data management, and applied 
+     research; national institute on deafness and other 
+     communication disorders.--For the purpose of carrying out 
+     subsection (d)(2) under the existing authority of the Public 
+     Health Service Act, there are authorized to the National 
+     Institute on Deafness and Other Communication Disorders 
+     appropriations for such sums as may be necessary for each of 
+     the fiscal years 2000 through 2002.
+       This Act may be cited as the ``Departments of Labor, Health 
+     and Human Services, and Education, and Related Agencies 
+     Appropriations Act, 2000''.
+
+                               DIVISION C
+
+                        RESCISSIONS AND OFFSETS
+
+       Sec. 1001. (a) Across-the-Board Rescissions.--There is 
+     hereby rescinded an amount equal to 0.97 percent of--
+       (1) the budget authority provided (or obligation limitation 
+     established) for fiscal year 2000 for any discretionary 
+     account in any fiscal year 2000 appropriation law;
+       (2) the budget authority provided (or obligation limitation 
+     established) in any advance appropriation for fiscal year 
+     2000 for any discretionary account in any prior fiscal year 
+     appropriation law; and
+       (3) the budget authority provided in any fiscal year 2000 
+     appropriation law that would have been estimated as 
+     increasing direct spending for fiscal year 2000 under section 
+     252 of the Balanced Budget and Emergency Deficit Control Act 
+     of 1985 were it included in a law other than an appropriation 
+     law and not designated as an emergency requirement.
+       (b) Proportionate Application.--Any rescission made by 
+     subsection (a) shall be applied proportionately--
+       (1) to each discretionary account and each item of budget 
+     authority described in subsection (a)(3); and
+       (2) within each such account and item, to each program, 
+     project, and activity (with programs, projects, and 
+     activities as delineated in the appropriation Act or 
+     accompanying report for the relevant fiscal year covering 
+     such account or item, or for accounts and items not included 
+     in appropriation Acts, as delineated in the most recently 
+     submitted President's budget).
+       (c) Subsequent Appropriation Laws.--In the case of any 
+     fiscal year 2000 appropriation law enacted after the 
+     enactment of this section, any rescission required by 
+     subsection (a) shall take effect immediately after the 
+     enactment of such law.
+       (d) OMB Reports.--Within 30 days after the date of the 
+     enactment of this section (or, if later, 30 days after the 
+     date of the enactment of any fiscal year 2000 appropriation 
+     law), the Director of the Office of Management and Budget 
+     shall submit to the Committees on Appropriations of the House 
+     of Representatives and the Senate a report specifying the 
+     amount of each rescission made pursuant to this section.
+       (e) Same Percentage Reduction Applicable to Pay for Members 
+     of Congress.--
+       (1) In general.--In determining rates of pay for service 
+     performed in any fiscal year beginning after September 30, 
+     1999, the rate of pay for a Member of Congress shall be 
+     determined as if the fiscal year 2000 pay adjustment (taking 
+     effect in January 2000) had resulted in a rate equal to--
+       (A) the rate of pay that would otherwise have taken effect 
+     for the position involved beginning in January 2000 (if this 
+     section had not been enacted), reduced by
+       (B) the same percentage as specified in subsection (a).
+       (2) Definitions.--For purposes of this subsection--
+       (A) the term ``Member of Congress'' refers to any position 
+     under subparagraph (A), (B), or (C) of section 601(a)(1) of 
+     the Legislative Reorganization Act of 1946 (2 U.S.C. 
+     31(1)(A)-(C)); and
+       (B) the term ``fiscal year 2000 pay adjustment'' means the 
+     adjustment in rates of pay scheduled to take effect in fiscal 
+     year 2000 under section 601(a)(2) of the Legislative 
+     Reorganization Act of 1946 (2 U.S.C. 31(2)).
+       Sec. 1002. (a) Section 453( j) of the Social Security Act 
+     (42 U.S.C. 653( j)) is amended by adding at the end the 
+     following:
+       ``(6) Information comparisons and disclosure for 
+     enforcement of obligations on higher education act loans and 
+     grants.--
+       ``(A) Furnishing of information by the secretary of 
+     education.--The Secretary of Education shall furnish to the 
+     Secretary, on a quarterly basis or at such less frequent 
+     intervals as may be determined by the Secretary of Education, 
+     information in the custody of the Secretary of Education for 
+     comparison with information in the National Directory of New 
+     Hires, in order to obtain the information in such directory 
+     with respect to individuals who--
+       ``(i) are borrowers of loans made under title IV of the 
+     Higher Education Act of 1965 that are in default; or
+       ``(ii) owe an obligation to refund an overpayment of a 
+     grant awarded under such title.
+       ``(B) Requirement to seek minimum information necessary.--
+     The Secretary of Education shall seek information pursuant to 
+     this section only to the extent essential to improving 
+     collection of the debt described in subparagraph (A).
+       ``(C) Duties of the secretary.--
+       ``(i) Information comparison; disclosure to the secretary 
+     of education.--The Secretary, in cooperation with the 
+     Secretary of Education, shall compare information in the 
+     National Directory of New Hires with information in the 
+     custody of the Secretary of Education, and disclose 
+     information in that Directory to the Secretary of Education, 
+     in accordance with this paragraph, for the purposes specified 
+     in this paragraph.
+       ``(ii) Condition on disclosure.--The Secretary shall make 
+     disclosures in accordance with clause (i) only to the extent 
+     that the Secretary determines that such disclosures do not 
+     interfere with the effective operation of the program under 
+     this part. Support collection under section 466(b) shall be 
+     given priority over collection of any defaulted student loan 
+     or grant overpayment against the same income.
+       ``(D) Use of information by the secretary of education.--
+     The Secretary of Education may use information resulting from 
+     a data match pursuant to this paragraph only--
+       ``(i) for the purpose of collection of the debt described 
+     in subparagraph (A) owed by an individual whose annualized 
+     wage level (determined by taking into consideration 
+     information from the National Directory of New Hires) exceeds 
+     $16,000; and
+       ``(ii) after removal of personal identifiers, to conduct 
+     analyses of student loan defaults.
+       ``(E) Disclosure of information by the secretary of 
+     education.--
+       ``(i) Disclosures permitted.--The Secretary of Education 
+     may disclose information resulting from a data match pursuant 
+     to this paragraph only to--
+
+       ``(I) a guaranty agency holding a loan made under part B of 
+     title IV of the Higher Education Act of 1965 on which the 
+     individual is obligated;
+       ``(II) a contractor or agent of the guaranty agency 
+     described in subclause (I);
+       ``(III) a contractor or agent of the Secretary; and
+       ``(IV) the Attorney General.
+
+       ``(ii) Purpose of disclosure.--The Secretary of Education 
+     may make a disclosure under clause (i) only for the purpose 
+     of collection of the debts owed on defaulted student loans, 
+     or overpayments of grants, made under title IV of the Higher 
+     Education Act of 1965.
+       ``(iii) Restriction on redisclosure.--An entity to which 
+     information is disclosed under clause (i) may use or disclose 
+     such information only as needed for the purpose of collecting 
+     on defaulted student loans, or overpayments of grants, made 
+     under title IV of the Higher Education Act of 1965.
+       ``(F) Reimbursement of hhs costs.--The Secretary of 
+     Education shall reimburse the Secretary, in accordance with 
+     subsection (k)(3), for the additional costs incurred by the 
+     Secretary in furnishing the information requested under this 
+     subparagraph.''.
+       (b) Penalties for Misuse of Information.--Section 402(a) of 
+     the Child Support Performance and Incentive Act of 1998 (112 
+     Stat. 669) is amended in the matter added by paragraph (2) by 
+     inserting ``or any other person'' after ``officer or employee 
+     of the United States''.
+       (c) Effective Date.--The amendments made by this section 
+     shall become effective October 1, 1999.
+       Sec. 1003. Section 110 of title 23, United States Code, is 
+     amended by adding at the end the following:
+       ``(e) After making any calculation necessary to implement 
+     this section for fiscal year 2001, the amount available under 
+     paragraph (a)(1) shall be increased by $328,655,000. The 
+     amounts added under this subsection shall not apply to any 
+     calculation in any other fiscal year.
+       ``(f) For fiscal year 2001, prior to making any 
+     distribution under this section, $56,231,000 of the 
+     allocation under paragraph (a)(1) shall be available only for 
+     each program authorized under chapter 53 of title 49, United 
+     States Code, and
+
+[[Page H10959]]
+
+     title III of Public Law 105-178, in proportion to each such 
+     program's share of the total authorizations in section 5338 
+     (other than 5338(h)) of such title and sections 3037 and 3038 
+     of such Public Law, under the terms and conditions of chapter 
+     53 of such title.
+       ``(g) For fiscal year 2001, prior to making any 
+     distribution under this section, $1,019,000 of the allocation 
+     under paragraph (a)(1) shall be available only for motor 
+     carrier safety programs under sections 31104 and 31107 of 
+     title 49, United States Code; $698,000 for NHTSA operations 
+     and research under section 403 of title 23, United States 
+     Code; and $2,008,000 for NHTSA highway traffic safety grants 
+     under chapter 4 of title 23, United States Code.''.
+
+       Amend the title so as to read ``An Act making 
+     appropriations for the District of Columbia, and for the 
+     Departments of Labor, Health and Human Services, and 
+     Education, and Related Agencies for the fiscal year ending 
+     September 30, 2000, and for other purposes.''.
+       And the Senate agree to the same.
+     Ernest J. Istook, Jr.,
+     Randy ``Duke'' Cunningham,
+     Todd Tiahrt,
+     Robert B. Aderholt,
+     Jo Ann Emerson,
+     John E. Sununu,
+     Bill Young,
+                                Managers on the Part of the House.
+
+     Kay Bailey Hutchison,
+     Ted Stevens,
+     Pete Domenici,
+                               Managers on the Part of the Senate.
+
+       JOINT EXPLANATORY STATEMENT OF THE COMMITTEE OF CONFERENCE
+
+       The managers on the part of the House and Senate on the 
+     disagreeing votes of the two Houses on the amendment of the 
+     Senate to the bill (H.R. 3064) making appropriations for the 
+     District of Columbia and other activities chargeable in whole 
+     or in part against revenues of said District for the fiscal 
+     year ending September 30, 2000, and for other purposes, 
+     submit the following joint statement to the House and the 
+     Senate in explanation of the effect of the action agreed upon 
+     by the mangers and recommended in the accompanying conference 
+     report.
+       The composition of this conference agreement includes more 
+     than the District of Columbia Appropriations Act for fiscal 
+     year 2000. While the House version of H.R. 3064 and the 
+     Senate amendment in the nature of a substitute dealt only 
+     with District of Columbia appropriations, the conference 
+     report was expanded to include Departments of Labor, Health 
+     and Human Services, and Education and related agencies 
+     appropriations. Appropriations for the District of Columbia 
+     are included in Division A. Appropriations for the Department 
+     of Labor, Health and Human Services, and Education, and 
+     related agencies are included in Division B.
+       Since the conference agreement is expanded to include the 
+     Departments of Labor, Health and Human Services, and 
+     Education, and related agencies, the title of the bill is 
+     amended to reflect this.
+
+                               DIVISION A
+
+                  District of Columbia Appropriations
+
+       The conferees on H.R. 3064 agree with the matter inserted 
+     in this division of this conference agreement and the 
+     following description of this matter. This matter was 
+     developed through the negotiations on the differences in the 
+     House and Senate versions of H.R. 3064, the District of 
+     Columbia Appropriations Act, 2000, by members of the 
+     appropriations subcommittee of both the House and Senate with 
+     jurisdiction over H.R. 3064.
+       The Division A portion of this joint explanatory statement 
+     includes more than a description of the resolution of the 
+     differences between the House and Senate versions of H.R. 
+     3064. It also provides a more full description of the matter 
+     not in disagreement between the two Houses. Since H.R. 2587, 
+     the initial District of Columbia Appropriations Act, 2000, 
+     was vetoed, the conferees have expanded this statement to 
+     provide an explanation of the additional matter that was not 
+     changed in H.R. 3064 as guidance in implementing this 
+     conference agreement.
+       A description of the resolution of the differences between 
+     the House and Senate on H.R. 3064 follows next.
+
+                       DISTRICT OF COLUMBIA FUNDS
+
+                    Government Direction and Support
+
+       The conference action inserts a proviso as proposed by the 
+     Senate concerning the salary of members of the Council of the 
+     District of Columbia.
+
+                        Public Education System
+
+       The conferees are aware of the Values First program that is 
+     designed to bring character education to the District's 
+     public elementary schools. The conferees are aware that ten 
+     schools now have such a program. The conferees encourage the 
+     public school system to continue to expand the Values First 
+     program and expend the funds necessary to implement this 
+     program on a broader basis.
+
+                           General Provisions
+
+       The conference action inserts a new subsection (b) in 
+     section 129 as proposed by the Senate that allows an increase 
+     in payments to attorneys representing special education 
+     students if the Mayor, control board, and Superintendent of 
+     Public Schools concur in a Memorandum of Understanding 
+     setting forth the increase.
+       The conference action continues the prohibition in section 
+     150 on using Federal or local funds to support needle 
+     exchange programs, but without the restriction on privately-
+     funded programs.
+       The conference action revises section 151 concerning the 
+     monitoring of real property leases entered into by the 
+     District government.
+       The conference action revises section 152 concerning new 
+     leases and purchases of real property by the District 
+     government.
+       The conference action inserts a new section 173 as proposed 
+     by the Senate that allows the DC Corporation Counsel to 
+     review and comment on briefs in private lawsuits and to 
+     consult with officials of the District government regarding 
+     such lawsuits.
+       The conference action inserts a new section 174 as proposed 
+     by the Senate concerning wireless communication and antenna 
+     applications. The language recommended by the conferees 
+     requires the National Park Service to implement the notice of 
+     decision approved by the National Capital Regional Director, 
+     dated April 7, 1999, including the issuance of right-of-way 
+     permits, within 7 days of the enactment of this Act. 
+     Concerning future applications for siting on Federal land, 
+     the responsible Federal agency is directed to take final 
+     action to approve or deny each application, including action 
+     on the issuance of right-of-way permits at market rates, 
+     within 120 days of the receipt of such application. This 120-
+     day directive does not change or eliminate the obligation 
+     that the responsible Federal agency must comply with existing 
+     laws.
+       The conference action inserts a new section 175 that amends 
+     the Departments of Veterans Affairs and Housing and Urban 
+     Development, and Independent Agencies Appropriations Act, 
+     2000 (Public Law 106-74), by making certain technical 
+     corrections and adding language reflecting the intent of the 
+     conferees on that Act.
+       What follows next is a description of the resolution of 
+     selected differences between the House and Senate on the 
+     initial District of Columbia Appropriations Act, 2000, H.R. 
+     2587, that was vetoed. Even though there were differences 
+     between the House and Senate versions of H.R. 2587, the 
+     resolution of these selected differences was incorporated as 
+     identical text in both versions of H.R. 3064. A description 
+     of the resolution of these selected differences is included 
+     in this conference agreement on H.R. 3064 because an 
+     understanding of them is important to the overall 
+     implementation of this Act.
+       The conference agreement on H.R. 3064 incorporates some of 
+     the provisions of both the House and Senate versions of H.R. 
+     2587. The language and allocations set forth in House Report 
+     106-249 and Senate Report 106-88 are to be complied with 
+     unless specifically addressed in the accompanying bill and 
+     statement of the managers to the contrary. The agreement 
+     herein, while repeating some report language for emphasis, 
+     does not negate the language referenced above unless 
+     expressly provided. General provisions which were identical 
+     in the House and Senate passed versions of H.R. 2587 and not 
+     changed in H.R. 3064 and that are unchanged by this 
+     conference agreement are approved unless provided to the 
+     contrary herein.
+
+                TITLE I--FISCAL YEAR 2000 APPROPRIATIONS
+
+                             FEDERAL FUNDS
+
+              Federal Payment for Resident Tuition Support
+
+       Appropriates $17,000,000 as proposed by the House and the 
+     Senate and makes modifications specifying that the entire 
+     $17,000,000 will be available if the authorized program is a 
+     nationwide program and $11,000,000 will be available if the 
+     program is for a limited number of States. The language also 
+     allows the District to use local tax revenues for this 
+     program.
+
+        Federal Payment for Incentives for Adoption of Children
+
+       Appropriates $5,000,000 instead of $8,500,000 as proposed 
+     by the House and includes language allowing the funds to be 
+     used for local tax credits to offset costs incurred by 
+     individuals in adopting children in the District's foster 
+     care system and for health care needs of the children in 
+     accordance with legislation to be enacted by the District 
+     government.
+
+         Federal Payment to the Citizen Complaint Review Board
+
+       Appropriates $500,000 instead of $1,200,000 as proposed by 
+     the House. This amount together with $700,000 in local funds 
+     will provide a total of $1,200,000 for the Board's operations 
+     in fiscal year 2000. The conferees recognize the importance 
+     of an independent review body to act as a forum for the 
+     review and resolution of complaints against officers of the 
+     Metropolitan Police Department and special officers employed 
+     by the District of Columbia. The conferees also request that 
+     the Mayor's office provide a comprehensive plan for the use 
+     of the Civilian Complaint Review Board. The plan/report 
+     should contain information about the problems of the previous 
+     review board and what will be done to avoid these problems 
+     with the new board.
+
+          Federal Payment to the Department of Human Services
+
+       Appropriates $250,000 for a mentoring program and for 
+     hotline services as proposed by the House.
+
+    Federal Payment to the District of Columbia Corrections Trustee 
+                               Operations
+
+       Appropriates $176,000,000 as proposed by the Senate instead 
+     of $183,000,000 as proposed by
+
+[[Page H10960]]
+
+     the House and includes language allowing the Corrections 
+     Trustee to use interest earnings of up to $4,600,000 to 
+     assist the Trustee with the sharp, rather unexpected increase 
+     in the overall inmate population.
+
+           Federal Payment to the District of Columbia Courts
+
+       Appropriates $99,714,000 instead of $100,714,000 as 
+     proposed by the House and $136,440,000 as proposed by the 
+     Senate. The reduction below the House allowance reflects the 
+     $1,000,000 in the capital program as proposed by the Senate.
+       Courts' budget.--The conferees request that budget 
+     information submitted by the Courts with their FY 2001 and 
+     future budgets include grants and reimbursements from all 
+     other sources so that information on total resources 
+     available to the courts will be available.
+
+          Defender Services in the District of Columbia Courts
+
+       Appropriates $33,336,000 as proposed by the House and 
+     includes language proposed by the Senate requiring monthly 
+     financial reports. The conferees have included language 
+     allowing the Joint Committee on Judicial Administration to 
+     use interest earnings of up to $1,200,000 to make payments 
+     for obligations incurred during fiscal year 1999 for services 
+     provided by attorneys for indigents. The availability of this 
+     additional amount is contingent on a certification by the 
+     Comptroller General. The Courts have reported that they 
+     anticipate a shortfall of ``approximately $1,000,000'' in 
+     fiscal year 1999 for the Criminal Justice Act program.
+
+ Federal Payment to the Court Services and Offender Supervision Agency 
+                      for the District of Columbia
+
+       Appropriates $93,800,000 instead of $105,500,000 as 
+     proposed by the House and $80,300,000 as proposed by the 
+     Senate. The increase above the Senate allowance includes 
+     $7,000,000 for increased drug testing and treatment and 
+     $6,500,000 for additional parole and probation officers 
+     instead of $13,200,000 and $10,000,000, respectively, as 
+     proposed by the House.
+
+                   Children's National Medical Center
+
+       Appropriates $2,500,000 for Children's National Medical 
+     Center instead of $3,500,000 as proposed by the House.
+
+           Federal Payment for Metropolitan Police Department
+
+       Appropriates $1,000,000 for the Metropolitan Police as 
+     proposed by the Senate. The conferees recognize the 
+     devastating problems caused by illegal drug use and fully 
+     support this program to eliminate open air drug trafficking 
+     in all four quadrants of the District of Columbia. The 
+     conferees have included language requiring quarterly reports 
+     to the Congress on all four quadrants. The reports should 
+     include, at a minimum, the amounts expended, the number of 
+     personnel involved, and the overall results and effectiveness 
+     of the open air drug program in eliminating the drug 
+     trafficking problem.
+
+                       DISTRICT OF COLUMBIA FUNDS
+
+                   Governmental Direction and Support
+
+
+                 office of the chief technology officer
+
+       The conferees are concerned that the District's child 
+     support system is not Y2K compliant. The conferees have been 
+     advised that the Office of Corporation Counsel is responsible 
+     for developing, operating, and maintaining this system which 
+     is used by the District's courts to collect child support 
+     payments from absentee parents, disburse payments to 
+     custodial parents, and account for these activities. The 
+     conferees urge the District's Chief Technology Officer to 
+     provide the Office of Corporation Counsel with the necessary 
+     support to ensure that: (1) The system is promptly remediated 
+     and tested, and (2) a business continuity and contingency 
+     plan that includes a Courts' child support functions is in 
+     place. The conferees request a report on this matter by 
+     November 1, 1999.
+
+
+                       public safety and justice
+
+       Appropriates $778,770,000 including $565,511,000 from local 
+     funds and $184,247,000 from other funds instead of 
+     $785,670,000 including $565,411,000 from local funds and 
+     $191,247,000 from other funds as proposed by the House and 
+     $778,470,000 including $565,211,000 from local funds and 
+     $184,247,000 from other funds as proposed by the Senate. 
+     The increase of $300,000 above the Senate allowance will 
+     provide a total of $1,200,000 for the Citizen Complaint 
+     Review Board consisting of $500,000 in Federal funds and 
+     $700,000 in local funds instead of a total of $900,000 in 
+     local funds as proposed by the Senate.
+       The conference action retains the proviso that caps the 
+     number of police officers assigned to the Mayor's security 
+     detail at 15 as proposed by the House.
+       The conference action includes a proviso that allows up to 
+     $700,000 in local funds for the Citizen Complaint Review 
+     Board instead of $900,000 in local funds as proposed by the 
+     Senate.
+
+
+                            fire department
+
+       The conferees recommend that the Fire and Emergency Medical 
+     Services Department conduct a study about the need for 
+     placement of automated external defibrillators in Federal 
+     buildings.
+
+
+                        public education system
+
+       The conference action includes the proviso proposed by the 
+     Senate concerning the Weighted Student Formula and the 
+     setting aside of five percent of the total budget which is to 
+     be apportioned when the current student count for public and 
+     charter schools has been completed. The conference action 
+     also includes a proviso proposed by the Senate allowing 
+     $500,000 for a Schools Without Violence program.
+
+
+                         human support services
+
+       Appropriates $1,526,361,000 including $635,373,000 from 
+     local funds as proposed by the House instead of 
+     $1,526,111,000 including $635,123,000 as proposed by the 
+     Senate.
+
+
+                              public works
+
+       The conference action deletes the proviso earmarking funds 
+     as proposed by the Senate.
+
+
+                         receivership programs
+
+       Appropriates $342,077,000 including $217,606,000 from local 
+     funds instead of $345,577,000 including $221,106,000 from 
+     local funds as proposed by the House and $337,077,000 
+     including $212,606,000 from local funds as proposed by the 
+     Senate.
+
+
+                                reserve
+
+       The conference action deletes the proviso concerning 
+     expenditure criteria as proposed by the Senate.
+
+
+district of columbia financial responsibility and management assistance 
+                               authority
+
+       The conference action retains the proviso concerning the 
+     cap on the salary levels of the Executive Director and the 
+     General Counsel as proposed by the House.
+
+
+                           productivity bank
+
+       The conference action retains the proviso requiring 
+     quarterly reports as proposed by the House.
+
+
+                       productivity bank savings
+
+       The conference action retains the proviso requiring 
+     quarterly reports as proposed by the House.
+
+
+                   procurement and management savings
+
+       The conference action restores the proviso requiring 
+     quarterly reports as proposed by the House and deletes the 
+     proviso requiring Council approval of a resolution 
+     authorizing management reform savings proposed by the Senate.
+
+
+                         d.c. retirement board
+
+       The conference action amends the cap on the compensation of 
+     the Chairman of the Board and the Chairman of the Investment 
+     Committee of the Board to $7,500 instead of $10,000 as 
+     proposed by the House.
+
+                             Capital Outlay
+
+       The conference action revises the first paragraph for 
+     clarity as proposed by the House.
+
+   Summary Table of Conference Recommendations by Agency and FY 2000 
+                             Financial Plan
+
+       A summary table showing the Federal appropriations by 
+     account and the allocation of District funds by agency or 
+     office under each appropriation heading for fiscal year 1999, 
+     the fiscal year 2000 request, the House and Senate 
+     recommendations, and the conference allowance, and the fiscal 
+     year 2000 Financial Plan which is the starting point for the 
+     independent auditor's comparison with actual year-end results 
+     as required by section 143 of the bill follow:
+
+[[Page H10961]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.001
+     
+
+
+[[Page H10962]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.002
+     
+
+
+[[Page H10963]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.003
+     
+
+
+[[Page H10964]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.004
+     
+
+
+[[Page H10965]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.005
+     
+
+
+[[Page H10966]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.006
+     
+
+
+[[Page H10967]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.007
+     
+
+
+[[Page H10968]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.008
+     
+
+
+[[Page H10969]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.009
+     
+
+
+[[Page H10970]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.010
+     
+
+
+[[Page H10971]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.011
+     
+
+
+[[Page H10972]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.012
+     
+
+
+[[Page H10973]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.013
+     
+
+
+[[Page H10974]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.014
+     
+
+
+[[Page H10975]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.015
+     
+
+
+[[Page H10976]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.016
+     
+
+
+[[Page H10977]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.017
+     
+
+
+[[Page H10978]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.018
+     
+
+
+[[Page H10979]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.019
+     
+
+
+[[Page H10980]]
+
+                           General Provisions
+
+       The conference action changes several section numbers for 
+     sequential purposes and makes technical revisions in certain 
+     citations.
+       The conference action restores section 117 of the House 
+     bill prohibiting the use of Federal funds for a personal 
+     cook, chauffeur, or other personal servants to any officer or 
+     employee of the District of Columbia government.
+       The conference action approves section 119 of the House 
+     bill in lieu of section 118 of the Senate bill concerning the 
+     cap on the salary of the City Administrator and the per diem 
+     compensation to the directors of the Redevelopment Land 
+     Agency.
+       The conference action approves section 127 of the Senate 
+     bill (new section 128) concerning financial management 
+     services.
+       The conference action revises the ceiling on operating 
+     expenses in section 135 (new section 136) to $5,515,379,000 
+     including $3,113,854,000 from local funds instead of 
+     $5,522,779,000 including $3,117,254,000 as proposed by the 
+     House and $5,486,829,000 including $3,108,304,000 as proposed 
+     by the Senate.
+       The conference action deletes subsection (d) of section 135 
+     of the House bill concerning the application of excess 
+     revenues as proposed by the Senate.
+       The conference action deletes section 137 of the House bill 
+     concerning a report on public school openings as proposed by 
+     the Senate.
+       The conference action requires the inventory of motor 
+     vehicles required by section 139 of the House bill and 138 of 
+     the Senate bill (new section 139) to be submitted by the 
+     Chief Financial Officer as proposed by the House instead of 
+     by the Mayor as proposed by the Senate.
+       The conference action restores section 142 of the House 
+     bill concerning the Compliance with Buy American Act.
+       the conference action deletes section 141 of the Senate 
+     bill concerning certain real property in the District of 
+     Columbia. The language was made permanent in Public Law 105-
+     277.
+       The conference action deletes the date referenced in 
+     section 146 of the Senate bill concerning the correctional 
+     facility in Youngstown, Ohio as proposed by the Senate (new 
+     section 147).
+       The conference action approves section 148 of the Senate 
+     bill concerning a reserve and positive fund balance for the 
+     District of Columbia. The conferees believe that the reserve 
+     fund will now serve as a true ``rainy day'' fund. Further, 
+     the conferees have now required the District to maintain a 
+     budget surplus of not less than 4 percent. Any funds in 
+     excess of this level could be used for debt reduction and 
+     non-recurring expenses. The conferees believe that this 
+     combination of reforms will provide the District with a 
+     stable financial situation that will in time reduce the 
+     District's debt and lead to an improved bond rating.
+       The conference action deletes section 151 of the House bill 
+     which prohibits the use of Federal funds for legalizing 
+     marijuana or reducing penalties. Section 168 of the House 
+     bill (new section 167) prohibits Federal and local funds for 
+     legalizing marijuana or reducing penalties.
+       The conference action restores section 154 of the House 
+     bill (new section 153) concerning public charter school 
+     construction and repair funds and amends the language to 
+     provide $5,000,000 for a credit enhancement fund.
+       The conference action restores section 156 of the House 
+     bill (new section 155) concerning the authorization period 
+     for public charter schools.
+       The conference action restores section 157 of the House 
+     bill (new section 156) concerning sibling preference at 
+     public charter schools.
+       The conference action restores section 158 of the House 
+     bill (new section 157) concerning buyouts and management 
+     reforms and provides $18,000,000 instead of $20,000,000 as 
+     proposed by the House. The conference action also inserts a 
+     proviso concerning the spending and release of the funds.
+       The conference action restores section 159 of the House 
+     bill (new section 158) concerning the 14th Street Bridge and 
+     provides $5,000,000 instead of $7,500,000 as proposed by the 
+     House. The conference action also changes the source of funds 
+     from the infrastructure fund to the District's highway trust 
+     fund. The conferees direct that responsibility for this 
+     project along with these funds be transferred to the Federal 
+     Highway Administration for execution.
+       The conference action restores section 160 of the House 
+     bill (new section 159) concerning the Anacostia River 
+     environmental cleanup.
+       The conference action restores section 161 of the House 
+     bill (new section 160) concerning the Crime Victims 
+     Compensation Fund and amends the language so that funds are 
+     retained each year to pay crime victims at the beginning of 
+     the next year. The conference action also inserts language 
+     that ratifies payments and deposits to conform with the 
+     Revitalization Act (Public Law 105-33).
+       The conference action restores section 162 of the House 
+     bill (new section 161) requiring the chief financial officers 
+     of the District of Columbia government to certify that they 
+     understand the duties and restrictions required by this Act.
+       The conference action restores section 163 of the House 
+     bill (new section 162) requiring the fiscal year 2001 budget 
+     to specify potential adjustments that might be necessary if 
+     the proposed management savings are not achieved.
+       The conference action restores section 164 of the House 
+     bill (new section 163) requiring descriptions of certain 
+     budget categories.
+       The conference action restores section 165 of the House 
+     bill (new section 164) concerning improvements to the 
+     Southwest Waterfront in the District and modifies the 
+     language to provide flexibility for the Mayor in executing 
+     new 30-year leases with the existing lessee or their 
+     successors at the Municipal Fish Wharf and the Washington 
+     Marina.
+       The conference action restores section 166 of the House 
+     bill (new section 165) expressing the sense of Congress 
+     concerning the American National Red Cross project at 2025 E 
+     Street Northwest.
+       The conference action restores section 167 of the House 
+     bill (new section 166) concerning sex offender registration.
+       The conference action restores section 168 of the House 
+     bill (new section 167) prohibiting the use of funds to 
+     legalize marijuana or reduce penalties.
+       The conference action retains and amends section 149 of the 
+     Senate bill (new section 168) providing $5,000,000 to offset 
+     local taxes for a commercial revitalization program in 
+     enterprise zones and low and moderate income areas in the 
+     District of Columbia. The conferees believe that the 
+     Commercial Revitalization program will be an important tool 
+     for the city to improve blighted neighborhoods in the 
+     District of Columbia. The conferees believe it is important 
+     to bring new commercial enterprises into neglected areas of 
+     the city. The conferees direct the District to review 
+     Congressional proposals on this issue in order to use the 
+     funds effectively.
+       The conference action inserts section 151 of the Senate 
+     bill (new section 170) concerning quality-of-life issues and 
+     changes the findings from a sense of the Senate to a sense of 
+     the Congress.
+       The conference action inserts section 152 of the Senate 
+     bill (new section 171) concerning the use of Federal Medicaid 
+     payments to Disproportionate Share Hospitals.
+       The conference action inserts section 153 of the Senate 
+     bill (new section 172) concerning a study by the General 
+     Accounting Office of the District's criminal justice system. 
+     The conferees request that this be a comprehensive study of 
+     all components of the criminal justice system including law 
+     enforcement, courts, corrections, probation, and parole. The 
+     report should include recommendations for improving the 
+     performance of the overall system as well as the individual 
+     agencies and programs.
+       The conference action deletes section 154 of the Senate 
+     bill concerning termination of parole for illegal drug use.
+
+                        TITLE II--TAX REDUCTION
+
+       The conference action restores Title II--Tax Reduction 
+     commending the District of Columbia for its action to reduce 
+     taxes and ratifying the District's Service Improvement and 
+     Fiscal Year 2000 Budget Support Act of 1999 as proposed by 
+     the House.
+
+                   Conference Total--With Comparisons
+
+       The total new budget (obligational) authority for the 
+     fiscal year 2000 recommended by the Committee of Conference, 
+     with comparisons to the fiscal year 1999 amount, the 2000 
+     budget estimates, and the House and Senate bills for 2000 
+     follow:
+
+Federal Funds:
+    New budget (obligational) authority, fiscal year 1999...683,639,000
+    Budget estimates of new (obligational) authority, fiscal393,740,000
+    House bill, fiscal year 2000............................429,100,000
+    Senate bill, fiscal year 2000...........................429,100,000
+    Conference agreement, fiscal year 2000..................429,100,000
+    Conference agreement compared with:
+        New budget (obligational) authority, fiscal year 19-254,539,000
+        Budget estimates of new (obligations) authority, fiscal 
+        year 2000............................................35,360,000
+        House bill, fiscal year 2000...............................
+        Senate bill, fiscal year 2000..............................
+District of Columbia funds:
+    New Budget (obligational) authority, fiscal year 1999.6,790,168,737
+    Budget estimates of new (obligational) authority, fisc6,745,278,500
+    House bill, fiscal year 2000..........................6,778,432,500
+    Senate bill, fiscal year 2000.........................6,778,432,500
+    Conference agreement, fiscal year 2000................6,778,432,500
+    Conference agreement compared with:
+        New budget (obligational) authority, fiscal year 199-11,736,237
+        Budget estimates of new (obligations) authority, fiscal 
+        year 2000............................................33,154,000
+        House bill, fiscal year 2000...............................
+        Senate bill, fiscal year 2000..............................
+
+[[Page H10981]]
+
+                               DIVISION B
+
+  Departments of Labor, Health and Human Services, and Education, and 
+                    Related Agencies Appropriations
+
+       The conferees on H.R. 3064 agree with the matter inserted 
+     in this division of this conference agreement and the 
+     following description of this matter. This matter was 
+     developed through negotiations on the differences in the 
+     House reported version of H.R. 3037 and the Senate version of 
+     S. 1650, the Departments of Labor, Health and Human Services, 
+     and Education, and Related Agencies Appropriation Act, 2000, 
+     by members of the subcommittee of both the House and Senate 
+     with jurisdiction over H.R. 3037 and S. 1650.
+       In implementing this agreement, the Departments and 
+     agencies should comply with the language and instructions set 
+     forth in House Report 106-370 and Senate Report 106-166.
+       In the case where the language and instructions 
+     specifically address the allocation of funds, the Departments 
+     and agencies are to follow the funding levels specified in 
+     the Congressional budget justifications accompanying the 
+     fiscal year 2000 budget or the underlying authorizing statute 
+     and should give full consideration to all items, including 
+     items allocating specific funding included in the House and 
+     Senate reports. With respect to the provisions in the House 
+     and Senate reports that specifically allocate funds, each has 
+     been reviewed and those which are jointly concurred in have 
+     been included in this joint statement.
+       The provisions of the House Report (105-205) are endorsed 
+     that direct ``. . . the Departments of Labor, Health and 
+     Human Services, and Education and the Social Security 
+     Administration and the Railroad Retirement Board to submit 
+     operating plans with respect to discretionary appropriations 
+     to the House and Senate Committees on Appropriations. These 
+     plans, which are to be submitted within 30 days of the final 
+     passage of the bill, must be signed by the respective 
+     Departmental Secretaries, the Social Security Commissioner 
+     and the Chairman of the Railroad Retirement Board.''
+       The Departments and agencies covered by this directive are 
+     expected to meet with the House and Senate Committees as soon 
+     as possible after enactment of the bill to develop a 
+     methodology to assure adequate and timely information on the 
+     allocation of funds within accounts within this conference 
+     report while minimizing the need for unnecessary and 
+     duplicative submissions.
+       The Departments of Labor, Health and Human Services, and 
+     Education, and Related Agencies Appropriations Act, FY 2000, 
+     put in place by this bill, incorporates the following 
+     agreements of the managers:
+
+                      TITLE I--DEPARTMENT OF LABOR
+
+                 Employment and Training Administration
+
+
+                    Training and Employment Services
+
+       The conference agreement appropriates $5,465,618,000, 
+     instead of $4,572,058,000 as proposed by the House and 
+     $5,472,560,000 as proposed by the Senate. Of the amount 
+     appropriated, $2,463,000,000 becomes available on October 1, 
+     2000, instead of $2,607,300,000 as proposed by the House and 
+     $2,720,315,000 as proposed by the Senate.
+       The agreement includes language authorizing the use of 
+     funds under the dislocated workers program for projects that 
+     provide assistance to new entrants in the workforce and 
+     incumbent workers as proposed by the Senate. It also includes 
+     language proposed by the Senate modified to waive a 10 
+     percent limitation in the Workforce Investment Act with 
+     respect to the use of discretionary funds to carry out 
+     demonstration and pilot projects, multiservice projects and 
+     multistate projects with regard to dislocated workers and to 
+     waive certain other provisions in that Act. The House bill 
+     had no similar provisions.
+       The Department is expected to make every effort to be 
+     flexible in the use of worker training funds for reactivated 
+     shipyards, such as those referenced in the Senate Report. The 
+     conference agreement encourages the Department to use 
+     national emergency grants under the dislocated workers 
+     program to supplement available resources for (1) worker 
+     training needs at reactivated shipyards that have experienced 
+     large-scale worker dislocation, (2) continuing training to 
+     utilize the workplace as site for learning, (3) supporting 
+     training for American workers at state-of-the-art foreign 
+     shipyards, and (4) continuing upgrading of workers skills to 
+     increase employability and job retention.
+       The agreement includes a citation to the Women in 
+     Apprenticeship and Nontraditional Occupations Act as proposed 
+     by the House. The Senate bill did not cite this Act.
+       The conference agreement includes $5,000,000 under Job 
+     Corps for the purpose of constructing or rehabilitating 
+     facilities on some Job Corps campuses to co-locate Head Start 
+     programs to serve Job Corps students and their children as 
+     proposed in the House Report.
+       The Labor Department is encouraged to continue and provide 
+     technical assistance to the Role Models America Academy 
+     Demonstration Program.
+       The Ways to Work family loan program is an innovative 
+     micro-loan program which provides small loans to low-income 
+     families who are attempting to make the transition from 
+     public assistance to the workforce or retain employment. This 
+     program allows families who often lack access to loans from 
+     mainstream sources because of their weak credit histories to 
+     receive the necessary financial resources to meet emergency 
+     expenses. The Department is urged to consider making 
+     available up to $1 million for this program to demonstrate 
+     its effectiveness in assisting low-income parents in 
+     obtaining and retaining jobs.
+       The conference agreement includes the following amounts for 
+     the following projects and activities:
+     Dislocated workers
+       --$1,000,000 for the York Skill Center, York, PA
+       --$2,000,000 for development of a new model for high-tech 
+     workforce development at San Diego State University
+       --$1,000,000 for the Central Indiana Technology Training 
+     Center at Ball State University
+       --$1,000,000 for Clayton College and State University in 
+     Georgia for a virtual education and training project to 
+     improve military-to-civilian employment transition
+       --$1,500,000 for a dislocated farmer retraining project at 
+     the University of Idaho
+       --$1,000,000 for the Chipola Junior College in Florida to 
+     retrain dislocated workers.
+       --$500,000 for the State of New Mexico for rural employment 
+     in telecommunications
+       --$500,000 for the Puget Sound Center for Technology to 
+     help alleviate the shortage of information technology workers 
+     in the Puget Sound Region
+       --$400,000 for the Philadelphia Area Accelerated 
+     Manufacturing Education, Inc.
+       --$1,500,000 for the Pennsylvania training consortium
+       --$600,000 for the Lehigh University integrated product 
+     development
+       --$2,500,000 to train foreign workers, including Russians 
+     in oil field management in Alaska
+     Pilots and demonstrations
+       --$800,000 for the Center for Workforce Preparation at the 
+     U.S. Chamber of Commerce
+       --$1,000,000 for Green Thumb for replication in rural areas 
+     of a project to train disadvantaged individuals for jobs in 
+     the information technology industry
+       --$1,000,000 for Focus:HOPE in Detroit for information 
+     technology training
+       --$300,000 for the Bowling Green, KY Housing Authority for 
+     workforce preparation and training for low-income youth and 
+     adults
+       --$400,000 for the Collegiate Consortium for Workforce and 
+     Economic Development
+       --$2,000,000 for the Springfield Workforce Development 
+     Center in Springfield, Vermont for a model regional workforce 
+     development
+       --$200,000 to Northlands Job Corps Center in Vergennes, 
+     Vermont for a center child care project
+       --$170,000 for the Greater Burlington Industrial 
+     Corporation in Burlington, Vermont for a model pre-employment 
+     counseling program
+       --$100,000 for the Commonwealth of Pennsylvania, Department 
+     of Labor and Industry, to study the financial impact of 
+     professional employer arrangements on the Unemployment 
+     Compensation Fund
+       --$1,000,000 for the Lorain County Community College for a 
+     workforce development project
+       --$800,000 for Jobs for America's Graduates
+       --$2,500,000 for Alaska Works in Fairbanks, Alaska for 
+     construction job training
+       --$2,500,000 for Hutchinson Career Center in Fairbanks, 
+     Alaska to upgrade equipment to provide vocational training
+       --$1,500,000 to train Alaska Native and local low income 
+     youth as cultural tour guides and in museum operations for 
+     the Alaska Native Heritage Center, Bishop Museum in Hawaii, 
+     and Peabody-Essex Museum in Massachusetts
+       --$1,500,000 for the University of Missouri-St. Louis for 
+     the design and implementation of the Regional Center for 
+     Education and Work
+       --$400,000 for the Vermont Technical College for a 
+     Technology Training Initiative
+       --$150,000 to the Nebraska Urban League for a welfare-to-
+     work pilot project
+       --$1,000,000 to the Des Moines Community College for SMART 
+     Partners, a public-private partnership which guarantees full-
+     time employment to students who meet the competencies and 
+     skill standards required in modern advanced high performance 
+     manufacturing
+       --$500,000 to the American Indian Science and Engineering 
+     Society for the Native American Rural Computer Utilization 
+     Training Program
+       --$500,000 to the Maui Economic Development Board for the 
+     Rural Computer Utilization Training Program
+       --$250,000 to the Job Corps of North Dakota for the 
+     Fellowship Executive Training Program
+       --$250,000 for the University of Colorado Health Sciences 
+     Center to provide training and assistance through the 
+     University's telehealth/telemedicine distance learning.
+       The conference agreement also provides funds to continue in 
+     FY 2000 those projects and activities which were awarded 
+     under the dislocated workers program and under pilots and 
+     demonstrations in FY 1999 as described in the Senate Report, 
+     subject to project performance, demand for activities and 
+     services, and utilization of prior year funding.
+       The conference agreement includes $15,000,000 to continue 
+     and expand the Youth Offender grant program serving youth who 
+     are or have been under criminal justice system supervision.
+       There is awareness of the job training activities of the 
+     South Dakota Intertribal Bison Cooperative. The Department is 
+     urged to consider funding of a proposal for a vocational 
+     training program which will provide employment-related skills 
+     for native tribes
+
+[[Page H10982]]
+
+     in bison herd management, meat processing, animal husbandry, 
+     hide tanning and leather work.
+
+
+              federal unemployment benefits and allowances
+
+       The conference agreement appropriates $415,150,000 as 
+     proposed by the Senate instead of $314,400,000 as proposed by 
+     the House.
+
+
+     state unemployment insurance and employment service operations
+
+       The conference agreement appropriates $3,253,740,000, 
+     instead of $3,141,740,000 as proposed by the House and 
+     $3,358,073,000 as proposed by the Senate.
+       The agreement includes $41,300,000 for the alien labor 
+     certification program as proposed by the Senate instead of 
+     $36,300,000 as proposed by the House. For administration of 
+     the work opportunity tax credit and the welfare-to-work tax 
+     credit, the agreement includes $22,000,000 as proposed by the 
+     Senate instead of $20,000,000 as proposed by the House. For 
+     one-stop centers/labor market information, the agreement 
+     includes $140,000,000 instead of $100,000,000 as proposed by 
+     the House and $146,500,000 as proposed by the Senate. 
+     Included in the amount of $140,000,000 is $20,000,000 for 
+     work incentives grants. The Senate proposed to fund this as a 
+     separate line item. The House did not propose to fund it. 
+     Funds are included for a ``talking'' America's Job Bank for 
+     the blind.
+       The agreement does not include a citation to section 461 of 
+     the Job Training Partnership Act proposed by the Senate. The 
+     House bill did not include this citation.
+
+                         Program Administration
+
+       The conference agreement appropriates $146,000,000, instead 
+     of $138,126,000 as proposed by the House and $149,340,000 as 
+     proposed by the Senate. The agreement also includes language 
+     proposed by the House requiring that the majority of the 
+     welfare-to-work program staff shall be term appointments 
+     lasting no more than one year. The Senate bill contained no 
+     such language.
+       The Department is expected to conduct an analysis of the 
+     case backlog in the alien labor certification program and 
+     report its findings to the Appropriations Committees by 
+     February 1, 2000. Further, it is expected that the Department 
+     will submit at the same time its proposed schedule for 
+     eliminating this backlog.
+       There is a proposal by the City of Salinas, CA to transfer 
+     a DOL building to the local government for use as a child 
+     care facility. The Department of Labor is urged to work with 
+     the City of Salinas to resolve this matter in a timely 
+     manner.
+
+              Pension and Welfare Benefits Administration
+
+
+                         salaries and expenses
+
+       The conference agreement appropriates $96,000,000, instead 
+     of $90,000,000 as proposed by the House and $99,831,000 as 
+     proposed by the Senate.
+
+
+                  pension benefit guaranty corporation
+
+       The conference agreement provides $11,155,000 for the 
+     administrative expense limitation, instead of $10,958,000 as 
+     proposed by the House and $11,352,000 as proposed by the 
+     Senate.
+
+                  Employment Standards Administration
+
+
+                         salaries and expenses
+
+       The conference agreement appropriates $335,000,000, instead 
+     of $314,000,000 as proposed by the House and $342,787,000 as 
+     proposed by the Senate.
+       There is concern about the December 3, 1997 Opinion Letter 
+     issued by the Employment Standards Administration regarding 
+     section 3(o) of the Fair Labor Standards Act. Within the 
+     constraints of not preempting the Department's discussions 
+     with industry or the courts' impartial consideration of the 
+     merits of this issue, the Department is urged to clarify this 
+     letter with regard to retroactivity and to existing 
+     collective bargaining agreements or private litigation.
+
+
+                    black lung disability trust fund
+
+       The conference agreement appropriates $49,771,000 for 
+     salaries and expenses from the Trust Fund, instead of 
+     $49,404,000 as proposed by the House and $50,138,000 as 
+     proposed by the Senate. The agreement includes a definite 
+     annual appropriation for black lung benefit payments and 
+     interest payments on advances made to the Trust Fund as 
+     proposed by the House instead of an indefinite permanent 
+     appropriation as proposed by the Senate.
+       There is concern about the structural deficit in the Black 
+     Lung Disability Trust Fund. The Administration is directed to 
+     provide its recommended solution for the problem of the 
+     increasing indebtedness of the Trust Fund to the Congress as 
+     part of its fiscal year 2001 budget request.
+
+             Occupational Safety and Health Administration
+
+
+                         salaries and expenses
+
+       The conference agreement appropriates $370,000,000, instead 
+     of $337,408,000 as proposed by the House and $388,142,000 as 
+     proposed by the Senate. The agreement does not include 
+     language proposed by the Senate that would have earmarked 
+     one-half of the increase over the FY 1999 appropriation for 
+     State consultation grants and one-half for enforcement and 
+     all other purposes. The House bill had no similar provision. 
+     The detailed table at the end of this joint statement 
+     reflects the activity distribution agreed upon.
+       The Department is urged to consider allowing the use of all 
+     FDA-approved devices which reduce the risk of needlestick 
+     injury, whether or not such safety feature is integrated into 
+     the needle or other sharp medical object, if the non-
+     integrated device is at least as safe and effective as other 
+     FDA-approved devices.
+       Without any intent to delay pending regulations, the 
+     conference agreement includes $450,000 elsewhere in this bill 
+     for a National Academy of Sciences study of the proposed 
+     standard on tuberculosis.
+       Concerns have been expressed about recommendations of the 
+     Metalworking Fluids Standards Advisory Committee, established 
+     by the Department, with respect to metalworking fluids 
+     exposure levels. The Department is expected to carefully 
+     consider peer-reviewed scientific research and examine the 
+     technical feasibility and economic consequences of its 
+     recommendations. An economic analysis to the three-digit SIC 
+     code and a risk assessment should be completed on the impact 
+     of reduced exposure levels.
+
+                 Mine Safety and Health Administration
+
+
+                         salaries and expenses
+
+       The conference agreement appropriates $228,373,000, instead 
+     of $211,165,000 as proposed by the House and $230,873,000 as 
+     proposed by the Senate. The agreement includes $2,500,000 
+     over the budget request for physical improvements at the 
+     National Mine Safety and Health Academy.
+       The agreement does not include language proposed by the 
+     House that would have prohibited the use of funds to carry 
+     out the miner training provisions of the Mine Safety and 
+     Health Act with respect to certain industries, including sand 
+     and gravel and surface stone, until June 1, 2000. The Senate 
+     bill did not include a similar provision.
+       The agreement also does not include language proposed by 
+     the Senate that would have allowed MSHA to retain and spend 
+     up to $1,000,000 in fees collected for the approval and 
+     certification of mine equipment and materials. The House bill 
+     did not include a similar provision.
+       Concerns have been expressed about the possible 
+     ramifications of a rulemaking on the use of conveyor belts in 
+     underground coal mines, including concerns about the validity 
+     of the testing on which the rule is based. MSHA is urged to 
+     carefully examine the record and to conduct additional 
+     research that may be required to address any significant 
+     concerns that have been raised.
+       MSHA is urged to examine the ongoing NCI/NIOSH study of 
+     Lung Cancer and Diesel Exhaust among Non-Metal Miners in 
+     connection with the promulgation of a proposed rule on diesel 
+     exhaust.
+
+                       Bureau of Labor Statistics
+
+
+                         salaries and expenses
+
+       The conference agreement appropriates $409,444,000 as 
+     proposed by the Senate instead of $394,697,000 as proposed by 
+     the House.
+
+                        Departmental Management
+
+
+                         salaries and expenses
+
+       The conference agreement appropriates $210,788,000, instead 
+     of $191,131,000 as proposed by the House and $247,311,000 as 
+     proposed by the Senate. The agreement includes language 
+     proposed by the Senate that authorizes the expenditure of 
+     funds for the management or operation of Departmental 
+     bilateral and multilateral foreign technical assistance. The 
+     House bill included no such language. The agreement does not 
+     include language proposed by the Senate that would have 
+     authorized the use of up to $10,000 of DOL salaries and 
+     expenses funds in this Act for receiving and hosting 
+     officials of foreign states and official foreign delegations. 
+     The House bill included no such language. Instead, the 
+     agreement authorizes the Secretary to use up to $20,000 from 
+     funds available for salaries and expenses for official 
+     reception and representation expenses in a general provision 
+     in title V of the bill (Sec. 504), instead of $15,000 as 
+     proposed in both the House and Senate bills.
+       International child labor activities are funded at the 
+     level requested in the President's budget.
+       The agreement does not include statutory language proposed 
+     by the Senate requiring a report to Congress containing 
+     options to promote a legal domestic workforce in the 
+     agricultural sector, provide for improved compensation and 
+     benefits, improved living conditions and better 
+     transportation between jobs and address other issues related 
+     to agricultural labor that the Secretary determines to be 
+     necessary. However, the Department is instructed to prepare 
+     such a report and submit it to Congress as soon as possible.
+
+        Assistant Secretary for Veterans Employment and Training
+
+       The conference agreement appropriates $184,341,000, instead 
+     of $182,719,000 as proposed by the House and $185,613,000 as 
+     proposed by the Senate.
+
+                      Office of Inspector General
+
+       The conference agreement appropriates $51,925,000 as 
+     proposed by the Senate instead of $47,500,000 as proposed by 
+     the House.
+
+                           General Provisions
+
+
+                           job corps pay cap
+
+       The conference agreement includes language proposed by the 
+     House adjusting the salary cap for employees of Job Corps 
+     contractors from Federal Executive Level III to Executive 
+     Level II. The Senate bill left the cap at the current level 
+     of Executive Level III.
+
+
+                     davis-bacon helper regulations
+
+       The conference agreement does not include language proposed 
+     by the House that would
+
+[[Page H10983]]
+
+     have prohibited the use of funds in the bill to implement the 
+     proposed Davis-Bacon helper regulations issued by the Wage 
+     and Hour Division on April 9, 1999. The Senate bill contained 
+     no such provision.
+
+
+                       health claims regulations
+
+       The conference agreement does not include language proposed 
+     by the House that would have prohibited the use of funds in 
+     the bill to implement the proposed regulations issued by the 
+     Labor Department on September 9, 1998 concerning changes in 
+     ERISA health claims processing requirements. The Senate bill 
+     contained no such provision.
+
+           TITLE II--DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+              Health Resources and Services Administration
+
+
+                     health resources and services
+
+       The conference agreement includes $4,429,292,000 for Health 
+     Resources and Services instead of $4,204,395,000 as proposed 
+     by the House and $4,365,498,000 as proposed by the Senate.
+       The conference agreement includes bill language identifying 
+     $104,052,000 for the construction and renovation of health 
+     care and other facilities instead of $10,000,000 as proposed 
+     by the Senate. The House bill contained no similar provision. 
+     These funds are to be used for the following projects: 
+     Northwestern University/Evanston Hospital Center for Genomics 
+     and Molecular Medicine; Sinai Family Health Centers of 
+     Chicago; Condell Medical Center Regional Center for Cardiac 
+     Health Services; Northwestern Memorial Hospital; Hackensack 
+     University Medical Center; Brookfield Zoo/Loyola University 
+     School of Medicine; Westcare Fresno Community Healthcare 
+     Campus, Fresno, California; Northern Illinois University 
+     Center for the Study of Family Violence and Sexual Assault; 
+     Memorial Hermann Healthcare System, Houston, Texas; George 
+     Mason University Center for Services to Families and Schools; 
+     Dominican College Center for Health Sciences; Marklund 
+     Children's Home, Bloomingdale, Illinois; Lawton and Rhea 
+     Chiles Center for Healthy Mothers and Babies Perinatal Data 
+     Center; Aging Health Services Center, Somerset, Kentucky; St. 
+     Joseph's Hospital Health Center, Syracuse, New York; 
+     Northeastern Ohio Universities College of Medicine; Gateway 
+     Community Health Center, Laredo, Texas; Uvalde County Clinic, 
+     Uvalde, Texas; Vida y Salud Community Health Center, Crystal 
+     City, Texas; Sul Ross State University, Alpine, Texas; 
+     University of Mississippi Medical Center, Guyton Building; 
+     Children's Hospital of Alabama, Birmingham, Alabama; Edward 
+     Health Services, Naperville, Illinois; Marquette University 
+     School of Dentistry; St. Christopher-Ottilie Residential 
+     Treatment Center, Sea Cliff, Long Island; Louisiana State 
+     University Feist-Weiller Cancer Center, Shreveport, 
+     Louisiana; Columbus Community Healthcare Center, Buffalo, New 
+     York; Children's Hospital Los Angeles Research Institute; 
+     Englewood Hospital and Medical Center, Englewood, New Jersey; 
+     Marywood University Northeast Pennsylvania Healthy Families 
+     Center, Scranton, Pennsylvania; Temple University Outpatient 
+     Facility; Temple University Children's Medical Center; 
+     Pittsburgh Magee-Women's Hospital Women's Center; College of 
+     Physicians, Philadelphia, Pennsylvania; Drexel University 
+     National Chemical and Biological Research Center; University 
+     of Pittsburgh Cancer Center; Philadelphia College of 
+     Osteopathic Medicine; Fairbanks Memorial Hospital, Fairbanks, 
+     Alaska; Yukon-Kuskokwim Health Corporation, Bethel, Alaska; 
+     University of Vermont Cancer Center; Burlington, Vermont 
+     community health center; Central Wyoming community health 
+     center; Clinical Diabetes Islet Transplanation Research 
+     Center at the former NIH/Perrine, Florida Animal Research 
+     Facility; Cooper Green Hospital, Alabama; Central Ozarks 
+     Medical Center, Richland, Missouri; University of Alabama at 
+     Birmingham Interdisciplinary Biomedical Research Institute; 
+     Lawton Chiles Foundation, Florida; Mississippi Institute for 
+     Cancer Research; Jackson Medical Mall Foundation, 
+     Mississippi; Union Hospital, Terre Haute, Indiana; St. Joe's 
+     Hospital of Ohio; University of Northern Colorado, Rocky 
+     Mountain Cancer Rehabilitation Institute; National Jewish 
+     Medical and Research Center; University of Florida Genetics 
+     Institute; Hidalgo County Health Complex, Lordsburg, New 
+     Mexico; community health centers in Iowa; Medical University 
+     of South Carolina Cancer Center; Child Health Institute at 
+     the University of Medicine and Dentistry of New Jersey; Harts 
+     Health Center, Harts, West Virginia; West Virginia University 
+     Eye Institute; University of South Dakota Medical School 
+     Research Facility; Tufts University, Biomedical/Nutrition 
+     Research Center; New York University Program in Women's 
+     Cancer; Laguna Honda Hospital, San Francisco, California; and 
+     University of Montana Institute for Environmental and Health 
+     Sciences.
+       The conference agreement includes bill language identifying 
+     $214,932,000 for family planning instead of $215,000,000 as 
+     proposed by the House and $222,432,000 as proposed by the 
+     Senate.
+       There is concern that there has been a steady erosion of 
+     title X funds being made available by the Department for 
+     authorized section 1001 clinical services. The Department is 
+     directed to allocate at least 90 percent of the funds 
+     appropriated for title X specifically for clinical services. 
+     The conference agreement concurs with the language contained 
+     in the Senate report regarding the expenditure of year-end 
+     funds and allocation of title X funds to regional offices.
+       The conference agreement does not include a provision to 
+     allow funds to be used to operate the Council on Graduate 
+     Medical Education as proposed by the Senate. The House bill 
+     contained no similar provision. The Health Professions 
+     Education Partnerships Act of 1998 authorizes the use of 
+     funds for this purpose.
+       The conference agreement provides $50,000,000 for the Ricky 
+     Ray Hemophilia Relief Fund Act as proposed by the Senate 
+     instead of $20,000,000 as proposed by the House. This funding 
+     is included in the Public Health and Social Services 
+     Emergency Fund as proposed by the House. The Senate bill 
+     provided funding in the HRSA account. Within the total 
+     provided, $10,000,000 shall be for HRSA administrative costs.
+       The conference agreement does not include a provision 
+     related to the Health Care Fraud and Abuse Data Collection 
+     Program as proposed by the Senate. The House bill contained 
+     no similar provision.
+       The conference agreement provides $1,024,000,000 for 
+     community health centers as proposed by the Senate instead of 
+     $985,000,000 as proposed by the House. Within the total 
+     provided, $5,000,000 is for native Hawaiian health programs.
+       The demonstration project by the Utah area health education 
+     centers was identified under community health centers in the 
+     Senate report and should be considered under the area health 
+     education centers account.
+       The conference agreement provides $38,244,000 for the 
+     national health service corps, field placements as proposed 
+     by the House instead of $36,997,000 as proposed by the 
+     Senate. Within the total provided, $1,000,000 is to expand 
+     the availability of behavioral and mental health services 
+     nationwide.
+       The conference agreement provides $78,666,000 for national 
+     health service corps, recruitment instead of $78,166,000 as 
+     proposed by both the House and Senate. The amount provided 
+     includes $500,000 to increase the number of SEARCH grantees 
+     so as to include the Illinois Primary Health Care 
+     Association. The conference agreement concurs with the Senate 
+     report language concerning increasing health care 
+     availability in underserved areas.
+       The conference agreement provides $324,277,000 for health 
+     professions instead of $301,986,000 as proposed by the House 
+     and $226,916,000 as proposed by the Senate. The conference 
+     agreement includes $1,000,000 within allied health special 
+     projects for expansion of the Illinois Community College 
+     Board's program, in coordination with the Illinois Department 
+     of Human Services, to train and place welfare recipients in 
+     the allied health field using distance technology.
+       The conference agreement includes $20,000,000 for pediatric 
+     graduate medical education, subject to authorization. The 
+     funds would be used to support health professions training at 
+     children's teaching hospitals. The Secretary is directed to 
+     provide a detailed operating plan that clearly specifies 
+     those hospitals deemed eligible for funding, the methodology 
+     and criteria used in determining payments, and performance 
+     measurements and outcomes. It is intended that the funds 
+     provided for this activity will be a one-time payment, 
+     pending action by the authorizing Committees to establish 
+     statutory guidelines for the structure and operation of the 
+     program.
+       The conference agreement provides $20,282,000 for Hansen's 
+     Disease Services instead of $18,670,000 as proposed by the 
+     House and $17,282,000 as proposed by the Senate. The 
+     conference agreement includes $3,000,000 to continue the 
+     Diabetes Lower Extremity Amputation Prevention (LEAP) 
+     programs at the University of South Alabama, the Louisiana 
+     State University School of Medicine, and the Roosevelt Warm 
+     Springs Institute for Rehabilitation.
+       The conference agreement provides $710,000,000 for the 
+     maternal and child health block grant instead of $800,000,000 
+     as proposed by the House and $695,000,000 as proposed by the 
+     Senate. The conference agreement includes bill language 
+     designating $108,742,000 of the funds provided for the block 
+     grant for special projects of regional and national 
+     significance (SPRANS) instead of $198,742,000 as proposed by 
+     the House. The Senate bill contained no similar provision. It 
+     is intended that $5,000,000 of this amount be used for the 
+     continuation of the traumatic brain injury State 
+     demonstration projects as authorized by title XII of the 
+     Public Health Service Act.
+       Within the funds provided, sufficient funds are included to 
+     initiate a multi-state dental sealant demonstration program 
+     identified in the Senate bill. The agency is urged to work 
+     closely with the Departments of Health of New Mexico and 
+     Alaska to develop dental sealant programs that address the 
+     needs of medically underserved children, especially those 
+     living in rural, American Indian, and Native Alaskan 
+     communities.
+       Within the total provided, $150,000 is included for the 
+     Whole Kids Outreach program in southeast Missouri.
+       Within the total provided, the agency is encouraged to 
+     support the efforts of the Kids Peace program in Orefield, 
+     Pennsylvania, that assist children to overcome situational 
+     crises.
+       The conference agreement provides $90,000,000 for healthy 
+     start instead of $110,000,000 as proposed by the Senate. The 
+     House bill provided $90,000,000 for healthy start within the 
+     Maternal and Child Health
+
+[[Page H10984]]
+
+     block grant SPRANS account. It is intended that these 
+     projects will be evaluated and States will begin to 
+     incorporate those activities that are proven successful and 
+     can be replicated into the mission of the maternal and child 
+     health program.
+       The conference agreement provides $3,500,000 for newborn 
+     and infant hearing screening instead of $2,500,000 as 
+     proposed by the House and $4,000,000 as proposed by the 
+     Senate. These funds are to be used to implement title VI of 
+     this Act, Early Detection, Diagnosis, and Interventions for 
+     Newborns and Infants with Hearing Loss.
+       The conference agreement provides $32,067,000 for rural 
+     health outreach grants instead of $38,892,000 as proposed by 
+     the House and $31,396,000 as proposed by the Senate. Within 
+     the total provided, $1,200,000 is to continue and expand the 
+     development of the Center for Acadiana Genetics and 
+     Hereditary Health Care at Louisiana State University Medical 
+     Center.
+       The conference agreement provides $30,548,000 for rural 
+     health research instead of $11,713,000 as proposed by the 
+     House and $6,085,000 as proposed by the Senate. The 
+     conference agreement includes the following amounts for the 
+     following projects and activities:
+       --$300,000 for the Northern California Telemedicine Network 
+     at Santa Rosa Memorial Hospital;
+       --$385,000 for a rural telemedicine distance learning 
+     project at Daemen College, Amherst, New York;
+       --$1,000,000 for a University of New Mexico and University 
+     of Hawaii joint telehealth initiative;
+       --$1,000,000 for the Medical University of South Carolina 
+     Center for the joint MUSC/Walter Reed/Sloan Kettering 
+     Telemedicine program;
+       --$1,500,000 for the Southwest Alabama Rural Telehealth 
+     Network at the University of South Alabama College of 
+     Medicine;
+       --$1,500,000 for the Children's Hospital and Regional 
+     Medical Center, Seattle, telemedicine project;
+       --$1,650,000 for the University of Maine rural children's 
+     health assessment and follow-up program;
+       --$2,000,000 for the University of Mississippi Center for 
+     Sustainable Health Outreach;
+       --$2,500,000 for the Mississippi State University Rural 
+     Health, Safety, and Security Institute;
+       --$3,000,000 for a telehealth deployment research testbed 
+     program; and
+       --$4,000,000 for the Alaska Federal Health Care Access 
+     Network, Anchorage.
+       The conference agreement does not provide separate funding 
+     for the Office for the Advancement of Telehealth as proposed 
+     by the Senate. The House bill contained no similar provision.
+       The conference agreement provides $5,000,000 for traumatic 
+     brain injury demonstrations within the Maternal and Child 
+     Health block grant SPRANS account as proposed by the House. 
+     The Senate bill provided $5,000,000 as a separate 
+     appropriation.
+       The conference agreement does not provide separate funding 
+     for trauma care as proposed by the Senate. The House bill 
+     contained no similar provision. Within funds available for 
+     maternal and child health, HRSA is urged to work with the 
+     National Highway Traffic Safety Administration and the 
+     American Trauma Society to assess emergency medical services 
+     systems.
+       The conference agreement provides $3,000,000 for poison 
+     control as proposed by the Senate. The House bill contained 
+     no similar provision. Efforts are underway by HRSA and the 
+     Centers for Disease Control and Prevention to initiate 
+     planning for a national toll-free number for poison control 
+     services. Funding is provided to support this effort and 
+     related system enhancements such as the development and 
+     assessment of uniform patient management guidelines. The 
+     agency is also urged to assist the poison control centers' 
+     planning and stabilization efforts.
+       The conference agreement provides $6,000,000 for black lung 
+     clinics as proposed by the Senate instead of $5,000,000 as 
+     proposed by the House.
+       The conference agreement provides a total of $1,550,000,000 
+     for Ryan White programs instead of $1,519,000,000 as proposed 
+     by the House and $1,610,500,000 as proposed by the Senate. 
+     Included in this amount is $525,000,000 for emergency 
+     assistance, $814,000,000 for comprehensive care, $132,000,000 
+     for early intervention, $51,000,000 for pediatric 
+     demonstrations, $20,000,000 for dental services, and 
+     $8,000,000 for education and training centers.
+       The conference agreement includes bill language identifying 
+     $518,000,000 for the Ryan White Title II State AIDS drug 
+     assistance programs. The House bill identified $500,000,000 
+     and the Senate bill identified $536,000,000.
+       The conference agreement provides $125,000,000 for program 
+     management instead of $115,500,000 as proposed by the House 
+     and $133,000,000 as proposed by the Senate. Within the total 
+     provided, it is intended that $900,000 will be allocated to 
+     support the efforts of the American Federation for Negro 
+     Affairs Education and Research Fund of Philadelphia and 
+     $750,000 is for the University of Northern Iowa Global Health 
+     Corps project.
+       There are plans by several transplant organizations to hold 
+     a National Consensus Conference on Living Organ Donation in 
+     early 2000 to examine the opportunities and challenges 
+     surrounding living organ donation. Despite efforts to 
+     increase organ donation, the demand for donations continues 
+     to surpass the number of donated organs. The support of the 
+     Administration is an important part of organ donation 
+     efforts. The Department is urged to be a partner in this 
+     upcoming conference.
+
+               CENTERS FOR DISEASE CONTROL AND PREVENTION
+
+                Disease Control, Research, and Training
+
+       The conference agreement includes $2,798,886,000 for 
+     disease control, research, and training instead of 
+     $2,621,476,000 as proposed by the House and $2,760,544,000 as 
+     proposed by the Senate. In addition, the conference agreement 
+     includes bill language designating $51,000,000 for violence 
+     against women programs financed from the Violent Crime 
+     Reduction Trust Fund as proposed by both the House and 
+     Senate.
+       The conference agreement provides $60,000,000 for 
+     equipment, construction, and renovation of facilities instead 
+     of $40,000,000 as proposed by the House and $59,800,000 as 
+     proposed by the Senate, of which $20,000,000 was included in 
+     the Public Health and Social Services Emergency Fund. The 
+     conference agreement also repeats bill language included in 
+     the fiscal year 1999 appropriations bill to allow the General 
+     Services Administration to enter into a single contract or 
+     related contracts for the full scope of the infectious 
+     disease laboratory and that the solicitation and contract 
+     shall contain the clause ``availability of funds'' found in 
+     the Code of Federal Regulations.
+       The conference agreement provides a total of $100,000,000 
+     for the National Center for Health Statistics instead of 
+     $94,573,000 as proposed by the House and $109,573,000 as 
+     proposed by the Senate. The conference agreement also 
+     includes bill language designating $71,690,000 of the total 
+     to be available to the Center under the Public Health Service 
+     one percent evaluation set-aside instead of $71,793,000 as 
+     proposed by the House and $109,573,000 as proposed by the 
+     Senate. The Center is urged to give priority to the NHANES 
+     survey.
+       The table accompanying the conference agreement includes a 
+     breakout of program costs and salaries and expenses by 
+     program. Salaries and expenses activities encompass all non-
+     extramural activities with the exception of program support 
+     services, centrally managed services, buildings and 
+     facilities, and the Office of the Director. It is intended 
+     that designated amounts for salaries and expenses are 
+     ceilings. The agency may allocate administrative funds for 
+     extramural program activities according to its judgment. 
+     Funds should be apportioned and allocated consistent with the 
+     table, and any changes in funding are subject to the normal 
+     notification procedures.
+       The conference agreement provides $135,204,000 for the 
+     prevention health services block grant instead of 
+     $152,247,000 as proposed by the House and $118,161,000 as 
+     proposed by the Senate.
+       The conference agreement provides $17,500,000 for 
+     prevention centers as proposed by the House instead of 
+     $15,500,000 as proposed by the Senate. Within the total 
+     provided, sufficient funds are included to establish an 
+     Appalachian prevention center at the University of Kentucky.
+       The conference agreement provides $461,875,000 for 
+     childhood immunization instead of $421,477,000 as proposed by 
+     the House and $512,273,000 as proposed by the Senate. In 
+     addition, the conference agreement provides $20,000,000 for 
+     polio eradication in the Public Health and Social Services 
+     Emergency Fund. In addition, the Vaccines for Children (VFC) 
+     program funded through the Medicaid program is expected to 
+     provide $545,043,000 in vaccine purchases and distribution 
+     support in fiscal year 2000, for a total program level of 
+     $1,006,918,000.
+       The conference agreement provides $662,276,000 for HIV/AIDS 
+     as proposed by the Senate instead of $657,036,000 as proposed 
+     by the House.
+       The conference agreement provides $123,574,000 for 
+     tuberculosis instead of $121,962,000 as proposed by the House 
+     and $125,185,000 as proposed by the Senate.
+       The conference agreement provides $129,097,000 for sexually 
+     transmitted diseases as proposed by the House instead of 
+     $128,808,000 as proposed by the Senate. CDC is encouraged to 
+     address chlamydia as a disease with widespread prevalence 
+     among teens and young adults.
+       The conference agreement provides $361,705,000 for chronic 
+     and environmental diseases instead of $315,511,000 as 
+     proposed by the House and $327,081,000 as proposed by the 
+     Senate. In addition, the conference agreement provides 
+     $5,000,000 for the environmental health laboratory in the 
+     Public Health and Social Services Emergency Fund. Included in 
+     this amount are increases for the following activities: 
+     $500,000 for oral health; $500,000 for prostate cancer; 
+     $500,000 colorectal cancer; $500,000 for autism; $503,261 for 
+     chronic fatigue syndrome; $538,820 for radiation; $539,055 
+     for folic acid; $1,000,000 for limb loss; $1,000,000 for 
+     arthritis; $1,000,000 for women's health/ovarian cancer; 
+     $1,176,793 for birth defects; $2,000,000 for diabetes; 
+     $2,300,000 for pfiesteria; $3,500,000 for newborn and infant 
+     hearing screening; $5,000,000 for nutrition/obesity; 
+     $10,000,000 for asthma; $10,000,000 for cardiovascular 
+     diseases; and $27,000,000 for smoking and health/tobacco. The 
+     agency is urged to give full and fair consideration to the 
+     Hale County, Alabama, HERO program.
+
+[[Page H10985]]
+
+       The conference agreement provides $167,051,000 for breast 
+     and cervical cancer screening as proposed by the Senate 
+     instead of $161,071,000 as proposed by the House. The 
+     conference agreement includes bill language to allow the 
+     agency to expand the WISEWOMAN program to not more than 10 
+     States. The agency is urged to give full and fair 
+     consideration to proposals from Pennsylvania, Iowa, and 
+     Connecticut.
+       The conference agreement provides a total of $165,610,000 
+     for infectious diseases as proposed by both the House, when 
+     adjusted for transfers from the Public Health and Social 
+     Services Emergency Fund, and the Senate. Within this amount, 
+     $145,610,000 is provided in this account and $20,000,000 is 
+     provided in the Public Health and Social Services Emergency 
+     Fund for bioterrorism surveillance-emergency preparedness and 
+     response activities.
+       The conference agreement provides $38,248,000 for lead 
+     poisoning as proposed by the House instead of $37,205,000 as 
+     proposed by the Senate.
+       The conference agreement provides $86,198,000 for injury 
+     control instead of $57,581,000 as proposed by the House and 
+     $82,819,000 as proposed by the Senate. The conference 
+     agreement includes the following amounts for the following 
+     projects and activities:
+       --$200,000 to the City of Waterloo, Iowa, for expansion of 
+     Fire PALS, a school-based injury prevention program;
+       --$500,000 for the Trauma Information Exchange Program as 
+     described in the House and Senate reports;
+       --$2,500,000 to expand injury control centers; and
+       --$12,500,000 to initiate or expand youth violence 
+     programs, of which $10,000,000 shall be for national academic 
+     centers of excellence on youth violence prevention and 
+     $2,500,000 shall be for a national youth violence prevention 
+     resource center.
+       The conference agreement provides $215,000,000 for the 
+     national occupational safety and health program as proposed 
+     by the Senate instead of $200,000,000 as proposed by the 
+     House.
+       The conference agreement provides $85,916,000 for epidemic 
+     services as proposed by the House instead of $81,349,000 as 
+     proposed by the Senate. Within the total provided, it is 
+     intended that $1,600,000 will be allocated to support 
+     expansion of an existing post-traumatic peer support model 
+     intervention network to address the needs of landmine victims 
+     in affected regions overseas.
+       The conference agreement provides $36,322,000 for the 
+     Office of the Director instead of $31,136,000 as proposed by 
+     the House and $32,322,000 as proposed by the Senate. The 
+     conference agreement includes the following amounts for the 
+     following projects and activities:
+       --$1,000,000 to establish a sustainable pilot program that 
+     would initiate an interdisciplinary approach to mind-body 
+     medicine and to assess their preventive health impact. To 
+     ensure a program of the highest quality, a strong peer-review 
+     process for all proposals should be put in place.
+       --$1,000,000 for the University of South Alabama birth 
+     defects monitoring and prevention activities; and
+       --$3,000,000 for the Center for Environmental Medicine and 
+     Toxicology at the University of Mississippi Medical Center at 
+     Jackson.
+       The conference agreement provides $30,000,000 for health 
+     disparities demonstrations instead of $10,000,000 as proposed 
+     by the House and $35,000,000 as proposed by the Senate. The 
+     agency is urged to expand the REACH initiative to additional 
+     communities and collaborate with Missouri community health 
+     centers as well as other worthy centers across the country.
+
+                     NATIONAL INSTITUTES OF HEALTH
+
+                       National Cancer Institute
+
+       The conference agreement provides $3,332,317,000 for the 
+     National Cancer Institute instead of $3,163,727,000 as 
+     proposed by the House, when adjusted for transfers from the 
+     Public Health and Social Services Emergency Fund, and 
+     $3,286,859,000 as proposed by the Senate.
+
+                National Heart, Lung and Blood Institute
+
+       The conference agreement provides $2,040,291,000 for the 
+     National Heart, Lung and Blood Institute instead of 
+     $1,937,404,000 as proposed by the House and $2,001,185,000 as 
+     proposed by the Senate.
+
+         National Institute of Dental and Craniofacial Research
+
+       The conference agreement provides $270,253,000 for the 
+     National Institute of Dental and Craniofacial Research 
+     instead of $257,349,000 as proposed by the House, when 
+     adjusted for transfers from the Public Health and Social 
+     Services Emergency Fund, and $267,543,000 as proposed by the 
+     Senate.
+
+    National Institute of Diabetes and Digestive and Kidney Diseases
+
+       The conference agreement provides $1,147,588,000 for the 
+     National Institute of Diabetes and Digestive and Kidney 
+     Diseases instead of $1,087,455,000 as proposed by the House 
+     and $1,130,056,000 as proposed by the Senate.
+
+        National Institute of Neurological Disorders and Stroke
+
+       The conference agreement provides $1,034,886,000 for the 
+     National Institute of Neurological Disorders and Stroke 
+     instead of $979,281,000 as proposed by the House and 
+     $1,019,271,000 as proposed by the Senate.
+
+         National Institute of Allergy and Infectious Diseases
+
+       The conference agreement provides $1,803,063,000 for the 
+     National Institute of Allergy and Infectious Diseases instead 
+     of $1,714,705,000 as proposed by the House, when adjusted for 
+     transfers from the Public Health and Social Services 
+     Emergency Fund, and $1,786,718,000 as proposed by the Senate.
+
+             National Institute of General Medical Sciences
+
+       The conference agreement provides $1,361,668,000 for the 
+     National Institute of General Medical Sciences instead of 
+     $1,298,551,000 as proposed by the House and $1,352,843,000 as 
+     proposed by the Senate.
+
+        National Institute of Child Health and Human Development
+
+       The conference agreement provides $862,884,000 for the 
+     National Institute of Child Health and Human Development 
+     instead of $817,470,000 as proposed by the House, when 
+     adjusted for transfers from the Public Health and Social 
+     Services Emergency Fund, and $848,044,000 as proposed by the 
+     Senate.
+
+                         National Eye Institute
+
+       The conference agreement provides $452,706,000 for the 
+     National Eye Institute instead of $428,594,000 as proposed by 
+     the House and $445,172,000 as proposed by the Senate.
+
+          National Institute of Environmental Health Sciences
+
+       The conference agreement provides $444,817,000 for the 
+     National Institute of Environmental Health Sciences instead 
+     of $421,109,000 as proposed by the House, when adjusted for 
+     transfers from the Public Health and Social Services 
+     Emergency Fund, instead of $436,113,000 as proposed by the 
+     Senate.
+
+                      National Institute on Aging
+
+       The conference agreement provides $690,156,000 for the 
+     National Institute on Aging instead of $651,665,000 as 
+     proposed by the House and $680,332,000 as proposed by the 
+     Senate.
+
+ National Institute of Arthritis and Musculoskeletal and Skin Diseases
+
+       The conference agreement provides $351,840,000 for the 
+     National Institute of Arthritis and Musculoskeletal and Skin 
+     Diseases instead of $333,378,000 as proposed by the House and 
+     $350,429,000 as proposed by the Senate.
+
+    National Institute on Deafness and Other Communication Disorders
+
+       The conference agreement provides $265,185,000 for the 
+     National Institute on Deafness and Other Communication 
+     Disorders instead of $251,218,000 as proposed by the House 
+     and $261,962,000 as proposed by the Senate.
+
+                 National Institute of Nursing Research
+
+       The conference agreement provides $90,000,000 for the 
+     National Institute of Nursing Research as proposed by the 
+     Senate instead of $76,204,000 as proposed by the House.
+
+           National Institute of Alcohol Abuse and Alcoholism
+
+       The conference agreement provides $293,935,000 for the 
+     National Institute of Alcohol Abuse and Alcoholism instead of 
+     $279,901,000 as proposed by the House and $291,247,000 as 
+     proposed by the Senate.
+
+                    National Institute on Drug Abuse
+
+       The conference agreement provides $689,448,000 for the 
+     National Institute on Drug Abuse instead of $656,551,000 as 
+     proposed by the House and $682,536,000 as proposed by the 
+     Senate.
+
+                  National Institute of Mental Health
+
+       The conference agreement provides $978,360,000 for the 
+     National Institute of Mental Health instead of $930,436,000 
+     as proposed by the House and $969,494,000 as proposed by the 
+     Senate.
+
+                National Human Genome Research Institute
+
+       The conference agreement provides $337,322,000 for the 
+     National Human Genome Research Institute as proposed by the 
+     Senate instead of $308,012,000 as proposed by the House.
+
+                 National Center for Research Resources
+
+       The conference agreement provides $680,176,000 for the 
+     National Center for Research Resources instead of 
+     $642,311,000 as proposed by the House, when adjusted for 
+     transfers from the Public Health and Social Services 
+     Emergency Fund, and $655,988,000 as proposed by the Senate. 
+     The conference agreement also includes bill language 
+     designating $75,000,000 for extramural facilities 
+     construction grants. These funds will provide seed money to 
+     stimulate greater public and private sector investments in 
+     this needed modernization effort. In awarding grants with 
+     these funds, NCRR is directed to recognize the special needs 
+     of smaller and developing institutions. NCRR shall assure 
+     that, given a sufficient number of meritorious applications 
+     from smaller and developing institutions, no less than 50 
+     percent of the awards are made to these institutions. In 
+     addition, NCRR shall take all steps necessary to assure that 
+     small and developing institutions are notified of the funds 
+     available in this account and are provided adequate technical 
+     assistance in the application process. The conference 
+     agreement does not include a provision proposed by the Senate 
+     to provide $30,000,000 for extramural facilities available on 
+     October 1, 2000. The House bill contained no similar 
+     provision.
+
+[[Page H10986]]
+
+       The total provided also includes $40,000,000 for the 
+     Institutional Development Awards (IDeA) program as proposed 
+     by the House instead of $20,000,000 as proposed by the 
+     Senate. In addition, $15,000,000 is included to enhance the 
+     science education program as referenced in the House and 
+     Senate reports.
+       The conference agreement concurs with language contained in 
+     the Senate report concerning animal research facilities in 
+     minority health professional schools.
+
+                  John E. Fogarty International Center
+
+       The conference agreement provides $43,723,000 for the John 
+     E. Fogarty International Center as proposed by the Senate 
+     instead of $40,440,000 as proposed by the House, when 
+     adjusted for transfers from the Public Health and Social 
+     Services Emergency Fund.
+
+                      National Library of Medicine
+
+       The conference agreement provides $215,214,000 for the 
+     National Library of Medicine instead of $202,027,000 as 
+     proposed by the House and $210,183,000 as proposed by the 
+     Senate.
+
+       National Center for Complementary and Alternative Medicine
+
+       The conference agreement provides $68,753,000 for the 
+     National Center for Complementary and Alternative Medicine 
+     instead of $68,000,000 as proposed by the House and 
+     $56,214,000 as proposed by the Senate. The conference 
+     agreement does not include bill language proposed by the 
+     Senate to make these funds available for obligation through 
+     September 30, 2001. The House bill contained no similar 
+     provision.
+       It is believed that Federal policy in a number of areas is 
+     failing to keep up with the increased use of complementary 
+     and alternative therapies. Funding was provided in fiscal 
+     year 1999 to support the establishment and operation of a 
+     White House Commission on Complementary and Alternative 
+     Medicine Policy to study and make recommendations to the 
+     Congress on appropriate policies regarding consumer 
+     information, training, insurance coverage, licensing, and 
+     other pressing issues in this area. It is believed that the 
+     Commission is not intended to review the work of or set the 
+     priorities for the Center. Rather, the Center is expected 
+     simply to provide administrative support to the Commission.
+       The conference agreement concurs with the House and Senate 
+     report language regarding the training of physicians in 
+     integrative medicine, but urges the Center to also support 
+     the training of nurses in integrative medicine through 
+     appropriate mechanisms. The Center is also urged to study 
+     strategies for integrating complementary and alternative 
+     medicine into all nursing curricula.
+
+                         Office of the Director
+
+
+                     (Including Transfer of Funds)
+
+       The conference agreement provides $283,509,000 for the 
+     Office of the Director instead of $270,383,000 as proposed by 
+     the House and $299,504,000 as proposed by the Senate. The 
+     conference agreement includes a designation in bill language 
+     of $44,953,000 for the operations of the Office of AIDS 
+     Research as proposed by the House. The Senate bill contained 
+     no similar provision.
+       It is expected that the Minority Access to Research 
+     Careers, Minority Biomedical Research Support, Research 
+     Centers in Minority Institutions, and the Office of Research 
+     on Minority Health programs will continue to be supported at 
+     a level commensurate with their importance.
+       Investigations into the causes, prevention, treatment, and 
+     cure for diabetes are important. The Diabetes Research 
+     Working Group report outlines many scientific opportunities 
+     and NIH is encouraged to pursue research on all types of 
+     diabetes with equal vigor.
+       NIH is expected to consult closely with the research 
+     community, clinicians, patient advocates, and the Congress 
+     regarding Parkinson's research and fulfillment of the goals 
+     of the Morris K. Udall Parkinson's Research Act. NIH is 
+     requested to develop a report to Congress by March 1, 2000 
+     outlining a research agenda for Parkinson's focused research 
+     for the next five years, along with professional judgment 
+     funding projections. The NIH Director should be prepared to 
+     discuss Parkinson's focused research planning and 
+     implementation for fiscal year 2000 and fiscal year 2001.
+       Continued advances in biomedical imaging and engineering, 
+     including the development of new techniques and technologies 
+     for both clinical applications and medical research and the 
+     transfer of new technologies from research projects to the 
+     public health sector are important. The disciplines of 
+     biomedical imaging and engineering have broad applications to 
+     a range of disease processes and organ systems and research 
+     in these fields does not fit into the current disease and 
+     organ system organizational structure of the NIH. The present 
+     organization of the NIH does not accommodate basic scientific 
+     research in these fields and encourages unproductive 
+     diffusion of imaging and engineering research. Several 
+     efforts have been made in the past to fit imaging into the 
+     NIH structure, but these have proved to be inadequate.
+       For these reasons, NIH is urged to establish an Office of 
+     Bioimaging/Bioengineering and to review the feasibility of 
+     establishing an Institute of Biomedical Imaging and 
+     Engineering. This Office should coordinate imaging and 
+     bioengineering research activities, both across the NIH and 
+     with other Federal agencies. The NIH shall report to the 
+     Appropriations Committees of the House and Senate on the 
+     progress achieved by this Office no later than June 30, 2000.
+       Security at Federal facilities is a growing concern and 
+     with the number of visitors to the NIH campus, including both 
+     domestic and foreign dignitaries, and the type of research 
+     that occurs on campus, adequate security at NIH is critical. 
+     The Director is requested to contract with an independent 
+     group to study the overall security situation at the Bethesda 
+     campus. This study should include, but not be limited to, 
+     recommendations regarding the appropriate manpower, training, 
+     and equipment needed to provide adequate security for NIH 
+     employees and all visitors to the campus as well as any 
+     recommended changes to the current security policy.
+       Infantile autism and autism spectrum disorders are 
+     biologically based neurodevelopmental diseases that cause 
+     severe impairments in language and communication and 
+     generally manifest in young children sometime during the 
+     first two years of life. Best estimates indicate that 1 in 
+     500 children born today will be diagnosed with an autism 
+     spectrum disorder and that 400,000 Americans have autism or 
+     an autism spectrum disorder. NIH is strongly encouraged to 
+     dedicate more resources and to expand and intensify these 
+     efforts through the NIH Autism Coordinating Committee. More 
+     knowledge is needed concerning the underlying causes of 
+     autism and autism spectrum disorders, how to treat and 
+     prevent these disorders; the epidemiology and risk factors 
+     for the disorders; the development of methods for early 
+     medical diagnosis; dissemination to medical personnel, 
+     particularly pediatricians, to aid in the early diagnosis and 
+     treatment of this disease; and the costs incurred in 
+     educating and caring for individuals with autism and autism 
+     spectrum disorders. NIH is also encouraged to explore 
+     mechanisms, including innovative collaborative approaches in 
+     autism, supported by the Institutes to conduct basic and 
+     clinical research into the cause, diagnosis, early detection, 
+     prevention, control, and treatment of autism, including 
+     research in the fields of developmental neurobiology, 
+     genetics, and psychopharmacology.
+       NIDDK and NIAID are to be commended for jointly supporting 
+     research on foodborne illness. The Institutes are encouraged 
+     to enhance research on the reaction of the gut to foodborne 
+     pathogens, including research on the pathogenesis of the 
+     disease, the reasons for antibiotic resistance, the reaction 
+     of the gut to infections, the development of animal models 
+     to test therapies, and the invention of vaccines or 
+     substances that bind with the toxins to prevent the 
+     illness.
+
+
+                        Buildings and Facilities
+
+       The conference agreement provides $135,376,000 for 
+     buildings and facilities instead of $108,376,000 as proposed 
+     by the House and $100,732,000 as proposed by the Senate. In 
+     addition, $40,000,000 was provided in the fiscal year 1999 
+     appropriations bill for the Clinical Center.
+
+       Substance Abuse and Mental Health Services Administration
+
+
+               substance abuse and mental health services
+
+       The conference agreement provides $2,549,728,000 for 
+     substance abuse and mental health services instead of 
+     $2,413,731,000 as proposed by the House and $2,799,516,000 as 
+     proposed by the Senate. The conference agreement does not 
+     provide $148,816,000 to become available on October 1, 2000 
+     as proposed by the Senate. The House bill contained no 
+     similar provisions.
+     Center for Mental Health Services
+       The conference agreement provides $300,000,000 for the 
+     mental health block grant as proposed by the House instead of 
+     $358,816,000, of which $48,816,000 was to become available on 
+     October 1, 2000, as proposed by the Senate.
+       The conference agreement provides $83,000,000 for 
+     children's mental health as proposed by the House instead of 
+     $78,000,000 as proposed by the Senate.
+       Mental health services for children and adolescents could 
+     be strengthened by a comprehensive system that measures the 
+     quality and effectiveness of these services. The Center's 
+     Committee on Child and Adolescent Outcomes has supported the 
+     collaboration between Vanderbilt University and Australia in 
+     developing such an evaluation system in the United States. 
+     The Department is urged to continue this collaboration.
+       The National Mental Health Self-Help Clearinghouse, the 
+     Consumer Organization and Networking Technical Assistance 
+     Center, and the National Empowerment Center provide 
+     information and resources to individuals suffering from 
+     mental illnesses and their families. Continued funding of 
+     these Centers will allow services to be provided 
+     uninterrupted.
+       The conference agreement provides $31,000,000 for grants to 
+     states for the homeless (PATH) as proposed by the Senate 
+     instead of $28,000,000 as proposed by the House.
+       The conference agreement provides $25,000,000 for 
+     protection and advocacy as proposed by the Senate instead of 
+     $22,957,000 as proposed by the House.
+       The conference agreement provides $137,932,000 for 
+     knowledge development and application as proposed by the 
+     Senate instead of $85,851,000 as proposed by the House. The 
+     conference agreement has doubled funding for mental health 
+     services for school-age children, as part of an effort to 
+     reduce school violence. It is intended that $80,000,000 be
+
+[[Page H10987]]
+
+     used for the support and delivery of school-based and school-
+     related mental health services for school-age youth. It is 
+     intended that the Department will continue to collaborate its 
+     efforts with the Department of Education to develop a 
+     coordinated approach.
+       Within the total provided, $1,000,000 is for the Northwest 
+     Suburban Cook County and Lake County Public Action to Deliver 
+     Shelter (PADS) provider organizations to address long-term 
+     homelessness through service integration.
+     Center for Substance Abuse Treatment
+       The conference agreement provides $1,585,000,000 for the 
+     substance abuse block grant as proposed by the House instead 
+     of $1,715,000,000 as proposed by the Senate. The conference 
+     agreement does not include a provision proposed by the Senate 
+     to provide $100,000,000 on October 1, 2000. The House bill 
+     contained no similar provision.
+       The conference agreement provides $181,741,000 for 
+     knowledge development and application instead of $136,613,000 
+     as proposed by the House and $226,868,000 as proposed by the 
+     Senate. Within the total provided, $200,000 is for the Center 
+     Point Program in Marin County, California, for substance 
+     abuse and related services to high-risk individuals and 
+     families.
+       Recent reports by NIH and the Institute of Medicine 
+     recommend expansion of effective treatment approaches for 
+     adolescent drug abusers. CSAT is to be commended for its work 
+     in developing and testing manuals for program interventions 
+     through the Cannabis Youth Treatment initiative. CSAT is 
+     encouraged to expand this initiative by examining the 
+     immediate and long-term outcomes across the developmental 
+     period when adolescents are at risk for peak drug use, and by 
+     taking steps to replicate and improve such treatment 
+     approaches.
+       The Norton Sound Health Corporation project for substance 
+     abuse treatment services should be given full and fair 
+     consideration for funding.
+     Center for Substance Abuse Prevention
+       The conference agreement provides $139,955,000 for 
+     knowledge development and application instead of $118,910,000 
+     as proposed by the House and $161,000,000 as proposed by the 
+     Senate. Within the total provided, $750,000 is for the Rio 
+     Arriba and Santa Fe Counties ``black tar'' heroin program and 
+     $3,000,000 is for a regional consortium of South Dakota, 
+     North Dakota, Minnesota, and Montana to provide Fetal Alcohol 
+     Syndrome services.
+       The conference agreement provides $7,000,000 for high risk 
+     youth grants as proposed by the Senate. The House bill 
+     contained no similar provision.
+     Program Management
+       The conference agreement provides $59,100,000 for program 
+     management instead of $53,400,000 as proposed by the House 
+     and $58,900,000 as proposed by the Senate. It is intended 
+     that $1,000,000 of the increase over the Administration 
+     request is to support the school violence prevention 
+     initiative.
+       It is intended that, from within the funds reserved for 
+     rural programs, $12,000,000 be allocated for CSAT grants and 
+     $8,000,000 be allocated for CSAP grants.
+       The conference agreement includes $3,700,000 to initiate 
+     and test the effectiveness of Community Assessment and 
+     Intervention Centers in providing integrated mental health 
+     and substance abuse services to troubled and at-risk children 
+     and youth, and their families in four Florida communities. 
+     Building upon successful juvenile programs, this effort 
+     responds directly to nationwide concerns about youth 
+     violence, substance abuse, declining levels of service 
+     availability and the inability of certain communities to 
+     respond to the needs of their youth in a coordinated manner. 
+     The total provided includes: $2,000,000 from mental health 
+     knowledge development and application; $500,000 from 
+     substance abuse prevention knowledge development and 
+     application; $1,000,000 from substance abuse treatment 
+     knowledge development and application; and $200,000 from 
+     program management.
+       The Senate recently heard testimony about pathological 
+     gambling disorders and the importance of additional federal 
+     research in this area as recommended by the National Gambling 
+     Impact Study Commission. The Center is urged to conduct 
+     demonstration projects to determine effective strategies and 
+     best practices for preventing and treating pathological 
+     gambling.
+
+               Agency for Health Care Policy and Research
+
+
+                    health care policy and research
+
+       The conference agreement provides $111,424,000 in 
+     appropriated funds instead of $104,403,000 as proposed by the 
+     House and $19,504,000 as proposed by the Senate.
+       The conference agreement designates $83,576,000 to be 
+     available to the Agency under the Public Health Service one 
+     percent evaluation set-aside instead of $70,647,000 as 
+     proposed by the House and $191,751,000 as proposed by the 
+     Senate.
+       In addition, $5,000,000 previously identified by the Senate 
+     report for bioterrorsm activities is included in the Public 
+     Health and Social Services Emergency Fund for the same 
+     purpose.
+
+                  Health Care Financing Administration
+
+
+                           program management
+
+       The conference agreement provides $1,971,648,000 for 
+     program management instead of $1,752,050,000 as proposed by 
+     the House and $1,991,321,000 as proposed by the Senate. The 
+     House bill assumed that the Administration's user fee 
+     proposal would be enacted prior to conference. An additional 
+     appropriation of $630,000,000 has been provided for this 
+     activity in the Health Insurance Portability and 
+     Accountability Act of 1996.
+       The conference agreement provides $95,000,000 for 
+     Medicare+Choice as proposed by the Senate instead of 
+     $15,000,000 as proposed by the House.
+       The conference agreement does not include language proposed 
+     by the Senate that would have allowed Medicaid and CHIP 
+     funding to be interchangeable. The House bill contained no 
+     similar provision.
+       The conference agreement repeats language included in last 
+     year's bill related to administrative fees collected relative 
+     to Medicare overpayment recovery activities.
+       The conference agreement does not include bill language 
+     proposed by the Senate to allow appropriated funds to be used 
+     to increase Medicare provider audits. The House bill 
+     contained no similar provision.
+     Research, Demonstration, and Evaluation
+       The conference agreement provides $60,000,000 for research, 
+     demonstration, and evaluation instead of $50,000,000 as 
+     proposed by the House and $65,000,000 as proposed by the 
+     Senate. The conference agreement includes the following 
+     amounts for the following projects and activities:
+       --$100,000 for Littleton Regional Hospital in New Hampshire 
+     to assist in the development of rural emergency medical 
+     services;
+       --$250,000 for the University of Missouri-Kansas City to 
+     test behavioral interventions of nursing home residents with 
+     moderate to severe dementia;
+       --$2,000,000 for a nursing home transition initiative;
+       --$2,000,000 for a demonstration of residential and 
+     outpatient treatment facilities at the AIDS Healthcare 
+     Foundation in Los Angeles; and
+       --$3,000,000 for the University of Pennsylvania Medical 
+     Center, the University of Louisville Sciences Center, and St. 
+     Vincent's Hospital in Montana to conduct a demonstration to 
+     reduce hospitalizations among high-risk patients with 
+     congestive heart failure.
+       HCFA is urged to conduct a demonstration project to test 
+     the potential savings to the Federal government and to the 
+     Medicare program by comparing different products used for 
+     diabetic wound-care treatment. Such a demonstration should 
+     compare the aggregate costs of wound care treatment using 
+     different wound-care gel products as well as different gel 
+     application regimens.
+       HCFA is urged to conduct a demonstration project addressing 
+     the extraordinary adverse health status of native Hawaiians 
+     at the Waimanalo health center exploring the use of 
+     preventive and indigenous health care expertise.
+       HCFA is urged to conduct a demonstration project in Hawaii 
+     and Alaska to address the extraordinary adverse health status 
+     and limited access to health services of the indigenous 
+     people in Hawaii and Alaska natives and others residing in 
+     southwest Alaska.
+       There is strong concern over HCFA's failure to articulate 
+     clear guidelines and set expeditious timetables for 
+     consideration of new technologies, procedures and products 
+     for Medicare coverage. Two particularly troubling examples 
+     are HCFA's lengthy delays and failure to articulate clear 
+     standards regarding Medicare coverage of positron emission 
+     tomography (PET) and lung volume reduction surgery (LVRS). 
+     The effect of these delays in instituting Medicare coverage 
+     is to deny the benefits of these technologies and products to 
+     Medicare patients. There is also concern that HCFA appears to 
+     be requiring new technologies to repeat clinical trials and 
+     testing already successfully completed by the new products in 
+     the process of gaining FDA approval or in NIH clinical trials 
+     and which serve as signals to private insurers to cover new 
+     technologies. The recent creation of a 120-person advisory 
+     committee to review new technologies is also of some concern 
+     and it is noted that the Appropriations Committees will be 
+     observing the new advisory committee to review its costs and 
+     to see whether its use further delays Medicare coverage of 
+     new products. Because of the possible duplication of efforts 
+     among HHS agencies and related unnecessary costs to the 
+     Medicare program and the Department, it is expected that the 
+     Secretary will take a leadership role in resolving this 
+     matter expeditiously.
+       The Secretary is strongly urged to appoint a three-person 
+     Medicare-Technology Consumer Advisory Committee. The 
+     Committee should be appointed from among knowledgeable 
+     patient advocates and members of the medical community with 
+     expert knowledge of new technologies and cost-benefit 
+     analysis. The new Committee should study the current HCFA 
+     process for determining new coverages and should report at 
+     least every six months to the Secretary, the Appropriations 
+     Committees, and the general public on its findings and 
+     recommendations. The Secretary is expected to report prior to 
+     fiscal year 2001 appropriations hearings about its 
+     recommendations on streamlining HCFA's approval process for 
+     Medicare coverage of new technologies.
+       If the Secretary of the Department of Health and Human 
+     Services, under existing demonstration authority, chooses to 
+     implement a program to improve health care access for 
+     uninsured workers, the Secretary should encourage 
+     applications from private, not-for-profit multi-state health 
+     systems in urban and rural areas. Such multi-state systems 
+     should be given special consideration if
+
+[[Page H10988]]
+
+     they are willing to provide private matching funds to create 
+     model public-private partnerships which enhance integrated 
+     systems of health care for the working poor.
+     Medicare contractors
+       The conference agreement provides $1,244,000,000 for 
+     Medicare contractors as proposed by the Senate instead of 
+     $1,176,950,000 as proposed by the House. The amount provided 
+     reflects HCFA's proposal to change its approach for 
+     processing managed care encounter data, which will result in 
+     estimated savings of $30,000,000.
+     State survey and certification
+       The conference agreement provides $189,674,000 for State 
+     survey and certification instead of $106,000,000 as proposed 
+     by the House and $204,347,000 as proposed by the Senate.
+     Federal administration
+       The conference agreement provides $480,000,000 for Federal 
+     administration as proposed by the Senate instead of 
+     $421,126,000 as proposed by the House.
+       The conference agreement concurs with House report language 
+     regarding its concern that the current performance evaluation 
+     and recertification process for Organ Procurement 
+     Organizations (OPO) may hinder the goal of increased organ 
+     donations. HCFA is urged to work with and support the 
+     industry in its effort to develop alternative performance 
+     measures. HCFA is also urged to use existing authority to 
+     extend the OPO certification period until such time as an 
+     alternative process has been adopted.
+       Hospices in Wichita, Kansas will be adversely affected in 
+     their Medicare reimbursement in fiscal year 2000 because of 
+     an error in a faulty hospital cost report in 1995, over which 
+     they had no control, and because of a faulty tabulation by 
+     HCFA or its fiscal intermediary. HCFA is expected to correct 
+     the error in the publication of the hospice wage index for 
+     the Wichita, Kansas MSA by using the July 30, 1999 hospital 
+     wage index, published in the Federal Register, for the 
+     current fiscal year, rather than delaying until the following 
+     fiscal year, and by publishing a revised notice to reflect 
+     this correction.
+       Congress enacted the Indian Health Care Improvement Act 
+     with the intention of improving access to health care for 
+     Native Americans, including access to Medicaid-funded 
+     services. Congress intended to cover 100 percent of amounts 
+     that States expend for medical assistance received through an 
+     Indian Health Service (IHS) facility or a tribally-operated 
+     facility, including contractual and referral arrangements 
+     made through IHS or tribally-operated health programs. 
+     Moreover, medical assistance includes the full array of 
+     services for which a State Medicaid program can claim Federal 
+     matching funds. Therefore, HCFA is urged to reconsider its 
+     interpretation of the Indian Health Care Improvement Act.
+
+                Administration for Children and Families
+
+
+  payments to states for child support enforcement and family support 
+                                programs
+
+       The conference agreement provides no extended availability 
+     of funds proposed by the Senate. The House bill proposed no 
+     extended availability.
+
+
+                   low income home energy assistance
+
+       The conference agreement includes language proposed by the 
+     House designating that the $1,100,000,000 appropriated for 
+     LIHEAP for FY 2000 in the FY 1999 appropriations act is an 
+     emergency under the Budget Act and requiring that such funds 
+     be allocated in accordance with the statutory formula. The 
+     Senate bill contained no such language. The agreement also 
+     includes the House legal citation to section 251(b)(2)(A) of 
+     the Balanced Budget and Emergency Deficit Control Act.
+
+
+                     refugee and entrant assistance
+
+       The conference agreement appropriates $426,505,000, instead 
+     of $423,500,000 as proposed by the House and $430,500,000 as 
+     proposed by the Senate. The agreement provides for an annual 
+     appropriation as proposed by the House instead of three-year 
+     availability of funds proposed by the Senate. In the case of 
+     the Torture Victims Relief Act funds, the agreement provides 
+     for an annual appropriation as proposed by the House instead 
+     of the funds remaining available until expended proposed by 
+     the Senate.
+       In addition, the conference agreement includes language not 
+     contained in either bill that designates all funding in this 
+     account as an emergency requirement under the Budget Act.
+       The conference agreement includes $20,000,000 from 
+     carryover funds that are to be used under social services to 
+     increase educational support to schools with a significant 
+     proportion of refugee children and for the development of 
+     alternative cash assistance programs that involve case 
+     management approaches to improve resettlement outcomes. Such 
+     support should include intensive English language training 
+     and cultural assimilation programs.
+       The agreement also includes $26,000,000 for increased 
+     support to communities with large concentrations of refugees 
+     whose cultural differences make assimilation especially 
+     difficult justifying a more intense level and longer duration 
+     of Federal assistance.
+
+
+                 Child Care and Development Block Grant
+
+       The conference agreement appropriates $1,182,672,000 as an 
+     advance appropriation for fiscal year 2001, instead of 
+     $2,000,000,000 as proposed by the Senate. The agreement 
+     further provides that $19,120,000 shall be for child care 
+     resource and referral and school-aged child care activities 
+     as proposed by the Senate. The House bill had no 
+     appropriation for this account.
+       The conference agreement includes $500,000 for a toll-free 
+     child care services program hotline to be operated by Child 
+     Care Aware.
+       States are encouraged to create or enhance systems of care 
+     that support and educate families expecting a baby or with 
+     young children, and help them understand that day-to-day 
+     interaction with children helps them develop cognitively, 
+     socially, physically and emotionally. Many states have 
+     already created state and local collaboratives that 
+     coordinate early childhood development, and these efforts are 
+     to be commended.
+       In the case of states that have yet to initiate such 
+     coordination, they are encouraged to look at best practices 
+     from across the country. The National Governors Association 
+     has developed goals, model indicators, and measures of 
+     performance to help states focus on improving the conditions 
+     of young children and their families. The State of Ohio has a 
+     successful initiative known as Family and Children First that 
+     could serve as a model. All states are encouraged to continue 
+     to develop and expand healthy early childhood systems of 
+     care.
+
+
+                      Social Services Block Grant
+
+       The conference agreement includes $1,700,000,000, instead 
+     of $1,909,000,000 as proposed by the House and $1,050,000,000 
+     as proposed by the Senate. The agreement also includes the 
+     provision in the House bill that limits the ability of States 
+     to transfer TANF funds to the Social Services Block Grant to 
+     4.25 percent instead of the 5 percent proposed in the Senate 
+     bill.
+       The conference agreement does not include section 216 of 
+     the Senate bill which increased the appropriation to 
+     $2,380,000,000 but specified that $1,330,000,000 of that 
+     amount would not become available for obligation until fiscal 
+     year 2001 and that the amount available for allocation to 
+     States in fiscal year 2001 would be $3,030,000,000. The House 
+     had no similar provision.
+
+
+                Children and Families Services Programs
+
+                        (including rescissions)
+
+       The conference agreement appropriates $6,809,733,000, 
+     instead of $6,240,216,000 as proposed by the House and 
+     $6,789,635,000 as proposed by the Senate. In addition, the 
+     agreement rescinds $21,000,000 from permanent appropriations 
+     as proposed by the House.
+       The agreement includes an advance appropriation of 
+     $1,400,000,000 for Head Start for fiscal year 2001 as 
+     proposed by the House instead of $1,900,000,000 proposed by 
+     the Senate.
+       An amount of $10,000,000 is included under social services 
+     and income maintenance research for establishing Individual 
+     Development Accounts. The House proposed to fund this as a 
+     separate line item.
+       The Hull House Association's Neighbor to Neighbor (NTN) 
+     program in Chicago and Florida provides specialized placement 
+     and family services for sibling groups, keeping such children 
+     together, placed within their community, and stabilized in 
+     one foster home. Outcomes for this program have been 
+     noteworthy, including high rates of family reunification, 
+     placement stability and foster parent retention. The 
+     conference agreement includes $500,000 to support the 
+     Association's project to provide training, technical 
+     assistance and implementation assistance to establishment of 
+     NTN programs within public and private foster care agencies 
+     in other states and localities.
+       The conference agreement includes language not contained in 
+     either House or Senate bills that requires the Department to 
+     establish certain procedures regarding the disposition of 
+     intangible property in the community economic development 
+     program under the Community Services Block Grant Act.
+       There is awareness of efforts by the state information 
+     technology consortium to identify best practices with regard 
+     to implementing Temporary Assistance to Needy Families, 
+     including best practices developed by states, the federal 
+     government, and the private sector. The next phase of this 
+     effort will enable states to discern which best practices are 
+     appropriate for their particular needs, then work with the 
+     consortium to implement those practices. Continuation of this 
+     effort at the current level of support is urged.
+       It is important that the Congress determine the economic 
+     status of former recipients of Temporary Assistance to Needy 
+     Families, and the conference agreement provides funds to 
+     support such research and evaluation.
+       Head Start grantees may use their basic grant funds, 
+     quality funds, and expansion funds for minor renovations and 
+     rehabilitation of existing Head Start facilities. The 
+     Secretary is urged to give special attention to Native 
+     American communities with particular needs, including the 
+     Alaskan communities of Chevak, Napakiak, Haines, Marshall, 
+     Noorvik, Selawik, Pilot Station, Hooper Bay, and Dillingham.
+       Within the funds provided for Runaway Youth--Transitional 
+     Living, the conference agreement includes $500,000 for the 
+     House of Mercy in Des Moines, Iowa.
+       Within the funds provided for child abuse prevention 
+     programs, the conference agreement includes $1,000,000 for a 
+     one-stop shopping demonstration for Catholic Social Services 
+     in Juneau, Alaska; $2,000,000 for the Healthy Beginnings 
+     Program in Alaska; $500,000 for Children's Advocacy Services
+
+[[Page H10989]]
+
+     Center of Greater St. Louis; $50,000 for the Taos Community 
+     Against Violence for ongoing services for children and 
+     victims of domestic violence; and $1,000,000 for the 
+     University of Louisville, Center for Research in Early 
+     Childhood Development.
+       Within the funds provided for Native American programs, the 
+     conference agreement includes $700,000 for the Cook Inlet 
+     Tribal Council, Inc. and $300,000 for Kawerak, Inc.
+       The conference agreement includes $2,000,000 for the Public 
+     Children Services Association of Ohio to build a multi-State 
+     grassroots network that results in a State infrastructure of 
+     local child protection agencies.
+       The conference agreement includes $400,000 for the National 
+     Adoption Center to develop a national adoption photo listing 
+     service on the Internet.
+       Within the funds provided for developmental disabilities, 
+     projects of national significance, the conference agreement 
+     includes $1,000,000 for the Sertoma Center in Knoxville, 
+     Tennessee to work in conjunction with other entities to 
+     develop a training regime for providers of services for the 
+     developmentally disabled.
+
+
+                   Promoting Safe and Stable Families
+
+       The conference agreement changes the name of this 
+     appropriation account to ``Promoting Safe and Stable 
+     Families'' as proposed by the Senate instead of ``Family 
+     Preservation and Support'' proposed by the House.
+
+
+       Payments to States for Foster Care and Adoption Assistance
+
+       The conference agreement appropriates $4,307,300,000 as 
+     proposed by the House instead of $4,312,300,000 as proposed 
+     by the Senate.
+
+                        Administration on Aging
+
+
+                        Aging Services Programs
+
+       The conference agreement appropriates $930,225,000, instead 
+     of $881,976,000 as proposed by the House and $942,355,000 as 
+     proposed by the Senate. The agreement includes a legal 
+     citation as proposed by the Senate with respect to the 
+     Alzheimer's initiative.
+       The conference agreement includes the following amounts 
+     under aging research and training:
+       --$3,000,000 for social research into Alzheimer's disease 
+     care options, best practices and other Alzheimer's research 
+     priorities as specified in the House Report
+       --$10,000,000 for the ``Senior Waste Patrol'' pilot project 
+     to determine the most effective means of eliminating Medicare 
+     fraud, waste and abuse
+       --$2,000,000 for the Texas Tech University Center for 
+     Healthy Aging
+       --$500,000 for the West Virginia University Rural Aging 
+     Project
+       --$850,000 for Elder Services, Inc. in Middlebury, Vermont
+       --$2,200,000 for the Anchorage, Alaska Senior Center
+       --$450,000 for the Deaconess Billings Clinic Northwest Area 
+     Center for Aging in Montana
+       --$1,000,000 for Family Friends
+       --$100,000 for the Nevada Rural Counties Retired and Senior 
+     Volunteer Home Companion Program to provide services to 
+     homebound elderly in rural areas
+       Within the funds provided for state and local innovations/
+     projects of national significance, the conference agreement 
+     intends that funds be used for ongoing projects scheduled for 
+     refunding in FY 2000.
+       Nearly one in four American households is currently 
+     involved in family caregiving to elderly relatives or 
+     friends. The Administration on Aging should give full and 
+     fair consideration to a demonstration and evaluation of the 
+     Metropolitan Family Services' community-based program that 
+     builds on the strengths of families to provide cost-effective 
+     and high quality care.
+
+                        Office of the Secretary
+
+                    general departmental management
+
+       The conference agreement appropriates $215,552,000, instead 
+     of $227,787,000 as proposed by the House and $189,420,000 as 
+     proposed by the Senate. To the extent that any staffing 
+     reductions are required to implement the conference agreement 
+     to freeze the basic salaries and expenses funding in this 
+     account at the fiscal year 1999 level, the Secretary should 
+     make the reductions in such overhead areas as the immediate 
+     office of the Secretary, public affairs, Congressional 
+     affairs, and intergovernmental affairs.
+       The agreement includes $1,500,000 for the United States-
+     Mexico Border Health Commission. The conference agreement 
+     concurs with the Senate Report language concerning the human 
+     services transportation technical assistance program. It also 
+     concurs with the Senate Report language concerning the amount 
+     available for a public education campaign on osteoporosis in 
+     the Office on Women's Health. Within the amount allocated to 
+     the Office on Women's Health, $2,000,000 is for the 
+     initiation of biological, chemical and botanical studies to 
+     assist in the development of the clinical evaluation of 
+     phytomedicines in women's health.
+       The conference agreement includes language proposed by the 
+     House that earmarks $450,000 for a contract with the National 
+     Academy of Sciences to conduct a study of OSHA's proposed 
+     rule relating to occupational exposure to tuberculosis. The 
+     study should address the following questions:
+       1. Are health care workers at a greater risk of infection, 
+     disease, and mortality due to tuberculosis than the general 
+     community within which they reside? If so, what is the excess 
+     risk due to occupational exposure?
+       2. Can the occupationally acquired risk be quantified for 
+     different work environments, different job classifications, 
+     etc., as a result of implementation of the 1994 Centers for 
+     Disease Control and Prevention (CDC) guidelines for the 
+     prevention of tuberculosis transmission at the worksite or 
+     the implementation of specific parts of the CDC guidelines?
+       3. What effect will the implementation of OSHA's proposed 
+     tuberculosis standard have in minimizing or eliminating the 
+     risk of infection, disease, and mortality due to 
+     tuberculosis?
+       The agreement includes language as proposed by the Senate 
+     setting aside $10,569,000 under the adolescent family life 
+     program for activities specified under Sec. 2003(b)(2) of the 
+     Public Health Service Act, of which $9,131,000 shall be for 
+     prevention grants under Sec. 510(b)(2) of the Social Security 
+     Act, without application of the limitation of Sec. 2010(c) of 
+     the Public Health Service Act. The House bill had no similar 
+     provision.
+       With respect to the advance appropriation of $20,000,000 
+     for title XX of the Public Health Service Act, it is intended 
+     that these funds be used for grants to organizations that 
+     clearly and consistently focus on abstinence for preventing 
+     STD's and unwanted pregnancy. [Abstinence shall have the same 
+     meaning as in Public Law 104-193, title IX, section 912.] 
+     Grants to these organizations should focus on training 
+     persons as abstinence instructors and on providing actual 
+     presentations to youth at vulnerable ages (grades 7 through 
+     12). The Department shall hold competition for these grants 
+     during the regular grant cycle in fiscal year 2000 and issue 
+     these grants at the beginning of fiscal year 2001.
+       The conference agreement concurs with the language in the 
+     House Report relating to an Institute of Medicine study on 
+     ethnic bias in medicine.
+       Sufficient funds are available to continue the inner city 
+     childhood asthma project at the Children's Hospital of 
+     Philadelphia.
+       It is understood that the screening of blood and blood 
+     products could be improved through the use of nucleic acid 
+     testing (NAT) to better detect known infectious diseases such 
+     as Human Immunodeficiency Virus (HIV-1) and Hepatitis C virus 
+     (HCV). The National Heart, Lung and Blood Institute in the 
+     National Institutes of Health has contracted with private 
+     companies to develop fully automated NAT tests for HIV-1 and 
+     HCV. In view of NIH's financial commitment to NAT and the 
+     approval of NAT in other countries, the Public Health Service 
+     Blood Safety Committee, chaired by the Surgeon General/
+     Assistant Secretary for Health, is urged to encourage the 
+     adoption of these screening tools for individual donor 
+     testing of blood and plasma.
+       The conference agreement includes language proposed by the 
+     Senate modified to earmark $2,000,000 to be utilized by the 
+     Surgeon General to prepare and disseminate the findings of 
+     the Surgeon General's report on youth violence and to 
+     coordinate with other agencies activities to prevent youth 
+     violence. The House bill had no similar provision.
+       The conference agreement also includes the following 
+     amounts for the following projects:
+       --$1,000,000 for the Albert Einstein Medical Center LIFE 
+     elderly care model
+       --$500,000 for the Thomas Jefferson University Hospital 
+     alternative medicine program
+       --$500,000 for the Thomas Jefferson University Hospital 
+     sickle cell program
+       --$1,000,000 for the CORE Center at Cook County Hospital in 
+     Chicago to develop a model HIV/AIDS Education and Training 
+     Center.
+
+
+                      Office of Inspector General
+
+       The conference agreement appropriates $31,500,000, instead 
+     of $29,000,000 as proposed by the House and $35,000,000 as 
+     proposed by the Senate. The agreement does not include 
+     language proposed by the House to limit the amount of funds 
+     available to the Inspector General in FY 2000 under the 
+     Health Insurance Portability and Accountability Act of 1996 
+     (HIPAA) to no more than $100,000,000, the same amount as in 
+     FY 1999. The Senate bill had no similar provision.
+       Sufficient funds are available to initiate activities in 
+     Pittsburgh, PA as mentioned in the Senate Report.
+
+
+                        Office for Civil Rights
+
+       The conference agreement appropriates $21,652,000, instead 
+     of $20,652,000 as proposed by the House and $22,159,000 as 
+     proposed by the Senate.
+
+
+                            Policy Research
+
+       The conference agreement appropriates $17,000,000, instead 
+     of $15,000,000 as proposed by the Senate and $14,000,000 as 
+     proposed by the House. The agreement includes $850,000 for 
+     the East St. Louis Center operated by Southern Illinois 
+     University to analyze problems faced by health service 
+     providers in administering multiple sources of funding.
+
+
+            Public Health and Social Services Emergency Fund
+
+       The conference agreement provides $510,600,000 for the 
+     Public Health and Social Services Emergency Fund instead of 
+     $391,833,000 as proposed by the House and $475,000,000 as 
+     proposed by the Senate. The conference agreement also 
+     includes a provision that these funds shall be made available 
+     only upon submission of a budget request designating the 
+     entire amount as an emergency requirement as defined in the 
+     Balanced Budget and Emergency Deficit Control
+
+[[Page H10990]]
+
+     Act of 1985 as proposed by the House. The Senate bill did not 
+     propose this account as an emergency.
+       The amount provided includes $196,000,000 for the Centers 
+     for Disease Control and Prevention. Included in this amount 
+     is $122,000,000 for the following bioterrorism activities:
+       --$1,000,000 to enhance technical capabilities to identify 
+     certain biological agents;
+       --$2,000,000 to assist States in developing emergency 
+     preparedness plans;
+       --$2,000,000 for public health training centers;
+       --$2,000,000 to discover, develop, and transition anti-
+     infective agents to combat emerging diseases;
+       --$2,000,000 to expand epidemiological intelligence 
+     service;
+       --$4,000,000 for conducting independent studies of health 
+     and bioterrorism threats, of which $1,000,000 is for the 
+     Carnegie Mellon Research Institute, $1,000,000 is for the St. 
+     Louis University School of Public Health, $1,000,000 is for 
+     the University of Texas Medical Branch at Galveston; and 
+     $1,000,000 is for the Johns Hopkins University Center for 
+     Civilian Biodefense;
+       --$5,000,000 to develop rapid toxic screening;
+       --$7,000,000 to strengthen State and local epidemiological 
+     and surveillance capacity;
+       --$8,400,000 to better identify potential biological and 
+     chemical terrorism agents;
+       --$9,000,000 to develop new sources and methods for 
+     surveillance;
+       --$9,600,000 for regional laboratories for measuring 
+     biological and chemical agents;
+       --$20,000,000 for infectious diseases emergency 
+     preparedness and response;
+       --$30,000,000 for a national health alert network; and
+       --$20,000,000 for a pharmaceutical and vaccine stockpile.
+       The remaining $74,000,000 is provided for the following 
+     activities: $5,000,000 for the environmental health 
+     laboratory; and $69,000,000 for a global health initiative, 
+     of which $5,000,000 is for micronutrient malnutrition 
+     programs; $9,000,000 is for malaria programs; $20,000,000 is 
+     for polio eradication activities; and $35,000,000 is for 
+     international HIV/AIDS programs.
+       The amount provided also includes $30,000,000 for the 
+     Office of the Secretary, $24,600,000 for the Office of 
+     Emergency Preparedness, and $5,000,000 for the Agency for 
+     Health Care Policy and Research for bioterrorism activities; 
+     $20,000,000 for NIH Challenge Grants; $35,000,000 for 
+     minority HIV/AIDS activities within the Office of the 
+     Secretary; $50,000,000 for Ricky Ray Hemophilia Relief Fund 
+     Act within the Health Resources and Services Administration, 
+     of which $10,000,000 is for program administration; and 
+     $150,000,000 for Y2K activities at the Health Care Financing 
+     Administration.
+       Within the increase provided to NIH, sufficient funds are 
+     available for global health initiative activities identified 
+     in the Senate report.
+
+                           General Provisions
+
+
+                       NIH and SAMHSA Salary Cap
+
+       The conference agreement includes a provision limiting the 
+     use of the National Institutes of Health and the Substance 
+     Abuse and Mental Health Services Administration funds to pay 
+     the salary of an individual, through a grant or other 
+     extramural mechanism, at a rate not to exceed Level II of the 
+     Executive Schedule instead of Level III as proposed by the 
+     Senate. The House bill contained no similar provision.
+
+
+                           Transfer Authority
+
+       The conference agreement includes a provision proposed by 
+     the House to prohibit any appropriation from increasing by 
+     more than three percent as a result of use of the Secretary's 
+     one percent transfer authority. The Senate bill contained a 
+     similar provision except it exempted the Public Health and 
+     Social Services Emergency Fund.
+
+
+                      Organ Allocation Final Rule
+
+       The conference agreement includes a provision to provide a 
+     60-day comment period on the final rule entitled ``Organ 
+     Procurement and Transplantation Network'', promulgated by the 
+     Secretary of Health and Human Services on April 2, 1998 
+     together with the amendments to such rule promulgated on 
+     October 20, 1999. The comment period begins 3 days after the 
+     date of enactment of this Act. Following the comment period, 
+     the Department will have 21-days to review submitted comments 
+     and to amend the rule, if necessary. The rule shall not 
+     become effective before the end of a 90-day period beginning 
+     from the date of enactment of this Act. The House bill 
+     included a provision to prohibit the rule from becoming 
+     effective until October 1, 2000. The Senate bill contained no 
+     similar provision.
+
+
+             Substance Abuse Block Grant Formula Allocation
+
+       The conference agreement includes a provision proposed by 
+     the House to provide each State with the same funding level 
+     in fiscal year 2000 as it received in fiscal year 1999. The 
+     Senate bill contained a similar provision except it was based 
+     on an increased appropriation amount.
+
+
+              Extension of Certain Adjudication Provisions
+
+       The conference agreement includes a provision proposed by 
+     the Senate to extend the refugee status for persecuted 
+     religious groups. The House bill contained no similar 
+     provision.
+
+
+           Medicare Competitive Pricing Demonstration Project
+
+       The conference agreement includes a provision proposed by 
+     the Senate to prohibit funding to implement or administer the 
+     Medicare Prepaid Competitive Pricing Demonstration Project in 
+     Arizona or in Kansas City, Missouri or in the Kansas City, 
+     Kansas area. The House bill contained no similar provision.
+
+
+                          Delayed Obligations
+
+       The conference agreement includes a provision to delay the 
+     obligation of $7,500,000,000 of NIH funds; $1,120,000,000 of 
+     HRSA funds; $965,000,000 of CDC funds; $450,000,000 of SAMHSA 
+     funds; $425,000,000 of Social Services Block Grant funds; and 
+     $400,000,000 of Children and Families Services funds until 
+     September 29, 2000. The Senate bill contained a provision to 
+     delay the obligation of $3,000,000,000 of NIH funds until 
+     September 29, 2000. The House bill contained no similar 
+     provision.
+
+
+      Sense of the Senate Regarding Diabetes Awareness and Funding
+
+       The conference agreement deletes without prejudice a sense 
+     of the Senate provision regarding diabetes awareness and 
+     support for increased diabetes research funding. The House 
+     bill contained no similar provision.
+
+
+   Study of the Geographic Adjustment Factors in the Medicare Program
+
+       The conference agreement includes a provision proposed by 
+     the Senate to require the Secretary of HHS to conduct a study 
+     on appropriateness of the geographic adjustment factors used 
+     to determine the amount of payment for physicians' services 
+     under the Medicare program in New Mexico, Arizona, Colorado, 
+     and Texas and the effect these factors have on recruitment 
+     and retention of physicians in small rural States. The 
+     House bill contained no similar provision.
+
+
+                  Dental Sealant Demonstration Program
+
+       The conference agreement deletes a provision proposed by 
+     the Senate to establish a multi-State dental sealant 
+     demonstration program. The House bill contained no similar 
+     provision. The agreement includes sufficient funds within the 
+     Maternal and Child Health block grant to initiate such a 
+     program.
+
+
+                  Withholding of Substance Abuse Funds
+
+       The conference agreement includes a provision proposed by 
+     the Senate to allow a State to avoid a penalty under section 
+     1926 of the Public Health Service Act (commonly known as the 
+     Synar Amendment) if the State agrees to commit new State 
+     funding to help ensure compliance with State laws prohibiting 
+     youth purchase of tobacco products. It is noted that the 
+     provision applies only for fiscal year 2000 and States are 
+     expected to continue to try to meet the established Synar 
+     Amendment targets for enforcement of their youth tobacco 
+     laws. It is also noted that there is increasing sentiment 
+     that the Synar Amendment needs to be reexamined and all 
+     concerned parties are encouraged to work toward a compromise 
+     solution next year with the appropriate authorizing 
+     committees. The provision allows the Secretary to exercise 
+     discretion in enforcing the timing of the new State 
+     expenditures in order to provide flexibility to States that 
+     do not immediately have available funds for this purpose. It 
+     is expected that within 30 days of accepting an agreement to 
+     increase funding for enforcement, the State will provide a 
+     report to the Secretary of all State resources spent in 
+     fiscal year 1999 on enforcement of the State law by program 
+     activity and by May 15, 2000, a report on FY 2000 obligations 
+     regarding enforcement unless otherwise negotiated by the 
+     Secretary. The Secretary shall deliver the findings of these 
+     reports to Congress. The language provides the Secretary 
+     authority to permit a State to commit an amount smaller than 
+     its formula amount as described in subsection (b) in order to 
+     recognize that an individual state may have been granted 
+     ``delayed applicability'' status under the Synar Amendment by 
+     the Substance Abuse and Mental Health Services 
+     Administration.
+
+
+                   Medicare Injectable Drug Coverage
+
+       The conference agreement includes a provision not proposed 
+     by either House or Senate related to Medicare injectable drug 
+     coverage. There is concern that an August 13, 1997 memorandum 
+     and subsequent interpretations will inappropriately restrict 
+     beneficiary access to injectable drugs that are and have been 
+     covered by the Medicare program. It is noted that for many 
+     years, Medicare policy (as stated in Section 2049.2 of the 
+     Medicare Carriers Manual) has allowed coverage of a drug or 
+     biological administered incident to a physician's service 
+     where the product is one that is not usually self-
+     administered by the patient. It is intended that HCFA 
+     continue to cover such products under Social Security Act 
+     section 1861(s)(2) and communicate this policy through a 
+     program memorandum to all HCFA regional offices.
+
+
+                       National Cancer Institute
+
+       The conference agreement includes a provision to allow the 
+     Cancer Therapy and Research Center in San Antonio, Texas to 
+     continue to use prior year construction grant funding without 
+     fiscal year limitation.
+
+
+                            Childhood Asthma
+
+       The conference agreement deletes a provision proposed by 
+     the Senate to provide an earmark of $8,706,000 for the asthma 
+     prevention program on October 1, 2000. The House bill 
+     contained no similar provision. The conference agreement 
+     includes $11,294,053 for
+
+[[Page H10991]]
+
+     asthma prevention as part of the Centers for Disease Control 
+     and Prevention.
+
+
+                           Title II Citation
+
+       The conference agreement includes a provision proposed by 
+     the House to cite title II as the ``Department of Health and 
+     Human Services Appropriations Act, 2000''. The Senate bill 
+     contained no similar provision.
+
+                   TITLE III--DEPARTMENT OF EDUCATION
+
+                            Education Reform
+
+       The conference agreement includes $1,586,560,000 for 
+     Education Reform, instead of the $800,100,000 proposed by the 
+     House and $1,655,600,000 as proposed by the Senate. The 
+     agreement does not include advance funding of $344,625,000 as 
+     proposed by the Senate. The House had no similar provision.
+     Goals 2000
+       For Goals 2000, the conference agreement provides 
+     $491,000,000. The Senate provided $494,000,000. The House 
+     proposed no funding for this program. This amount includes 
+     $458,000,000 for state grants, instead of $461,000,000 as 
+     proposed by the Senate. The House proposed no funding for 
+     this program. For parental assistance, the conference 
+     agreement includes $33,000,000, the same level as in the 
+     Senate bill. The House did not propose funding for this 
+     program.
+     School-to-Work Opportunities
+       The conference agreement provides $55,000,000 for School-
+     to-Work Opportunities, the same amount provided by the 
+     Senate. The House provided no funding for this program.
+     Education technology
+       For education technology, the conference agreement provides 
+     $740,560,000. The Senate provided $706,600,000. The House 
+     proposed $500,100,000.
+     Technology Literacy Challenge Fund
+       For the Technology Literacy Challenge Fund, the conference 
+     agreement includes $425,000,000 proposed by the Senate. The 
+     House provided $375,000,000.
+     Technology Innovation Challenge Grants
+       For the Technology Innovation Challenge Grants, the 
+     conference agreement provides $143,310,000. Both the House 
+     and the Senate provided $115,100,000. Within the amount 
+     provided for Technology Innovation Challenge Grants, the 
+     conference report specifies funding for the following 
+     activities:
+
+Houston Independent School District for technology infrastructu$500,000
+Long Island 21st Century Technology and E-Commerce Alliance.....300,000
+I CAN LEARN...................................................8,000,000
+Linking Education Technology and Educational Reform (LINKS) for 
+  educational technology......................................2,000,000
+Center for Advanced Research and Technology (CART) for comprehensive 
+  secondary education reform..................................1,000,000
+Vaughn Reno Starks Community Center in Elizabethtown, KY for a 
+  technology program............................................250,000
+Wyandanch Compel Youth Academy Educational Assistance Program in New 
+  York..........................................................125,000
+Hi-Technology High School in San Bernardino County, California for 
+  technology enhancement......................................3,000,000
+Montana State University for a distance learning initiative.....800,000
+Tupelo School District in MS for technology innovation........2,000,000
+Seton Hill College in Greensburg, PA for a model education 
+  technology training program.................................1,000,000
+University of Alaska-Fairbanks..................................500,000
+North East Vocational Area Cooperative in WA for a multi-district 
+  technology education center.................................1,000,000
+University of Vermont for the Vermont Learning Gateway Program..400,000
+State University of New Jersey for the RUNet 2000 project at Rutgers 
+  for an integrated voice-video-data network to link students, 
+  faculty and administration via a high-speed, broad band fiber 
+  optic network...............................................2,500,000
+Iowa Area Education Agency 13 for a public/private partnership to 
+  demonstrate the effective use of technology in grades one through 
+  three.........................................................500,000
+Louisville Deaf Oral School for technology enhancements.........235,000
+Bibb County Board of Education for technology enhancements.......50,000
+Calhoun County Board of Education for technology enhancements....50,000
+Chambers County Board of Education for technology enhancements...50,000
+Chilton County Board of Education for technology enhancements....50,000
+Clay County Board of Education for technology enhancements.......50,000
+Cleburne County Board of Education for technology enhancements...50,000
+Coosa County Board of Education for technology enhancements......50,000
+Lee County Board of Education for technology enhancements........50,000
+Macon County Board of Education for technology enhancements......50,000
+St. Clair County Board of Education for technology enhancements..50,000
+Talladega County Board of Education for technology enhancements..50,000
+Tallapoosa County Board of Education for technology enhancements.50,000
+Randolph County Board of Education for technology enhancements...50,000
+Russell County Board of Education for technology enhancements....50,000
+Alexander City Board of Education for technology enhancements....50,000
+Anniston City Board of Education for technology enhancements.....50,000
+Lanett City Board of Education for technology enhancements.......50,000
+Pell City Board of Education for technology enhancements.........50,000
+Roanoke City Board of Education for technology enhancements......50,000
+Talledega City Board of Education for technology enhancements....50,000
+University of Alaska at Anchorage for distance learning educatio900,000
+Alaska Department of Education for the Alaska State Distance 
+  Education Technology Consortium...............................200,000
+Mansfield University to continue a technology demonstration.....500,000
+     Regional technology in education consortia
+       For Regional technology in education consortia, the 
+     conference agreement includes $10,000,000 proposed by the 
+     Senate. The House provided no funding for this program.
+     National activities
+       The conference agreement includes $87,000,000 for education 
+     technology initiatives funded under National Activities: 
+     $75,000 for teacher training in technology, $10,000,000 to 
+     establish computer learning centers in low-income 
+     communities, and $2,000,000 for national technology 
+     leadership activities. The amounts provided are the same 
+     as provided by the Senate. The House provided $10,000,000 
+     for Community Based Technology Centers and no funding for 
+     other programs within this account.
+     Star Schools
+       For Star Schools, the conference agreement provides 
+     $50,750,000. The Senate bill provided $45,000,000. The House 
+     bill provided no funding for this program. Within the amount 
+     provided for Star Schools, the conference report specifies 
+     funding for the following activities:
+
+Technology Literacy Center at the Museum of Science & Industry, 
+  Chicago......................................................$750,000
+Oklahoma State University for an on-line math and science training 
+  program.....................................................1,000,000
+Continuation and expansion of the Iowa Communications network 
+  statewide fiber optic demonstration.........................4,000,000
+     Ready to learn television
+       The conference agreement provides $16,000,000 as proposed 
+     by the Senate. The House proposed no funds. The conference 
+     agreement notes that only $3,369,913 of the $25,000,000 
+     appropriated for this program since fiscal year 1997 have 
+     been outlayed to date. The conference agreement accordingly 
+     directs the Corporation for Public Broadcasting to report to 
+     the Appropriations Committees in the House and the Senate 
+     during each quarter of fiscal year 2000 the amount of funds 
+     obligated and outlayed from each of the fiscal years 1997, 
+     1998, 1999 and 2000 appropriations, the dates on which 
+     outlays occur during fiscal year 2000 and the specific uses 
+     to which such outlays are put.
+     Telecommunications demonstration project for mathematics
+       The conference agreement provides $8,500,000 for 
+     telecommunications demonstration project for mathematics as 
+     proposed by the Senate. The House proposed no funds.
+     21st Century Learning Centers
+       The conference agreement includes $300,000,000 for the 21st 
+     Century Learning Centers proposed by the House instead of 
+     $400,000,000 proposed by the Senate. Within the amount 
+     provided, the conference report specifies funding for the 
+     following activities:
+
+Study Partners Program, Inc. in Louisville, KY...................$6,000
+Shawnee Gardens Tenants Association Inc. in Louisville, KY.......12,000
+100 Black Men of Louisville, KY for a mentoring program..........12,000
+Omaha Nebraska Public Schools for the OPS 21st Century Learning 
+  Grant.........................................................500,000
+Plymouth Renewal Center in Kentucky for a tutoring program.......25,000
+Canaan Community Development Corporation's Village Learning Center 
+  Program........................................................25,000
+St. Stephen Life Center After School Program.....................25,000
+Louisville Central Community Centers Youth Education Program.....25,000
+Trinity Family Life Center tutoring program......................15,000
+New Zion Community Development Foundation, Inc. after school 
+  mentoring program..............................................15,000
+
+[[Page H10992]]
+
+St. Joseph Catholic Orphan Society program for abused and neglected 
+  children.......................................................20,000
+Portland Neighborhood House after school program.................25,000
+St. Anthony Community Outreach Center, Inc. for the Education PAYs 
+  program........................................................25,000
+
+                    Education for the Disadvantaged
+
+       The conference agreement includes $8,547,986,000 for 
+     Education for the Disadvantaged instead of the $8,750,986,000 
+     proposed by the Senate and $8,417,897,000 as proposed by the 
+     House. The agreement includes advance funding for this 
+     account of $6,204,763,000, the same as both the House and 
+     the Senate.
+       For Grants to Local Education Agencies (LEAs) the agreement 
+     provides $7,807,397,000, compared with $8,052,397,000 
+     provided in the Senate bill and $7,732,397,000 provided in 
+     the House bill. Of the funds made available for basic grants, 
+     $5,046,366,000 becomes available on October 1, 1999 for the 
+     academic year 1999-2000.
+       The agreement includes $6,649,000,000 for basic state 
+     grants and $1,158,397,000 for concentration grants. Of this 
+     total, $1,158,397,000 for fiscal year 2000 was advance funded 
+     in the fiscal year 1999 Departments of Labor, Health and 
+     Human Services and Education and Related Agencies Act (P.L. 
+     105-277). The conference agreement funding of $1,158,397,000 
+     for concentration grants is advanced for fiscal year 2001.
+       The conference agreement includes $12,000,000 for capital 
+     expenses for private school children, instead of $15,000,000 
+     proposed by the Senate. The House contained no funding for 
+     this program.
+       The conference agreement provides $150,000,000 for the Even 
+     Start program as proposed by the House. The Senate provided 
+     $145,000,000 for this program.
+       The conference agreement provides $42,000,000 for Neglected 
+     and Delinquent Youth as proposed by the Senate. The House 
+     provided $40,311,000 for this program.
+       The conference agreement provides $8,900,000 for evaluation 
+     of title I programs as proposed by the Senate. The House 
+     provided $7,500,000 for this activity.
+       The conference agreement includes the provision contained 
+     in the Senate bill regarding a 100% hold harmless for States 
+     and LEAs for both basic and concentration grants. The 
+     conference agreement also adopts language included in the 
+     Senate bill providing that the Department shall make 100% 
+     hold harmless awards to LEAs who were eligible for 
+     concentration grants in 1998 but are not eligible to receive 
+     grants in fiscal year 2000, ratably reduced if necessary.
+       The House nevertheless opposes the hold harmless provision 
+     because it unfairly penalizes underprivileged and immigrant 
+     children in growing states, including Arizona, Arkansas, 
+     California, Connecticut, Florida, Georgia, Hawaii, Montana, 
+     Nevada, New Mexico, New York, North Carolina, South Carolina, 
+     Texas, Virginia and the District of Columbia. These states 
+     represent over half of the U.S. population of underprivileged 
+     schoolchildren.
+       The House also notes that the 100% hold harmless provision 
+     is opposed by the House authorizing committee of jurisdiction 
+     and the Administration. The House will continue to oppose the 
+     inclusion of such a provision in the future.
+       The conference agreement also adopts language included in 
+     the Senate bill providing that the Secretary of Education 
+     shall not take into account the 100% hold harmless provision 
+     in determining State allocations under any other program.
+       The conference agreement includes $160,000,000 for 
+     demonstrations of comprehensive school reform; both the House 
+     and Senate funded this program at $120,000,000. The 
+     conference agreement directs the Department to follow the 
+     directives in the conference report accompanying the fiscal 
+     year 1998 bill (House Report 105-390) and in the conference 
+     report accompanying the fiscal year 1999 bill (House Report 
+     105-825).
+
+
+                               IMPACT AID
+
+       The conference agreement provides $910,500,000 for the 
+     Impact Aid programs. The House proposed $907,200,000. The 
+     Senate proposed $892,000,000. For basic grants the conference 
+     agreement includes $737,200,000, for payments for children 
+     with disabilities the agreement includes $50,000,000, and for 
+     payments for heavily impacted districts the agreement 
+     includes $76,000,000. The agreement also includes $5,000,000 
+     for facilities maintenance, $10,300,000 for construction, and 
+     $32,000,000 for payments for federal property. The conference 
+     agreement provides within the account for construction, 
+     $500,000 for the Ft. Sam Houston ISD, $800,000 for the Hays 
+     Lodgepole School District in MT and $2,000,000 for the North 
+     Chicago Community Unit School District.
+       The conference agreement also includes the following 
+     language provisions: eligibility for the Central Union, 
+     Island, and Hueneme School Districts in California and the 
+     Hill City, Wall, and Hot Springs School Districts in South 
+     Dakota; timely filing of applications by the Brookeland 
+     School District in Texas, the Fallbrook High School District 
+     in California and Hydaburg School District in Alaska; 
+     forgiveness of overpayment for the Hatboro-Horsham and 
+     Delaware Valley School Districts in Pennsylvania; and 
+     computing payments for Travis School District in California. 
+     Neither the House nor Senate bills contained similar 
+     provisions.
+       The conference agreement notes the Administration's 
+     proposal to significantly expand the Military Family Housing 
+     Privatization Initiative, which has since been scaled back. 
+     In some privatization projects, the property itself is 
+     privatized, causing serious implications for the affected 
+     school districts' ability to receive funding under the Impact 
+     Aid program. Thus, the conference agreement strongly urges 
+     the Administration to clarify that military family housing 
+     privatization proposals will have no effect on Impact Aid 
+     payments to local school districts, even if land is 
+     privatized.
+
+                      School Improvement Programs
+
+       The conference agreement provides $2,926,134,000 for School 
+     Improvement Programs, instead of $3,115,188,000 as proposed 
+     by the House and $2,961,634,000 as proposed by the Senate. 
+     The agreement provides $1,396,134,000 in fiscal year 2000 and 
+     $1,530,000,000 in fiscal year 2001 funding for this account.
+     Eisenhower professional development
+       For the Eisenhower professional development activities, the 
+     agreement provides $335,000,000, the same level as in the 
+     Senate bill. The House provided no funding for this activity.
+     Innovative education program strategies
+       For innovative education program strategies, title VI of 
+     the Elementary and Secondary Education Act of 1965, the 
+     conference agreement provides $380,000,000. The House 
+     provided $385,000,000 and the Senate bill included 
+     $375,000,000.
+     Class size/Teacher Assistance Initiative
+       The conference agreement includes $1,200,000,000 for a 
+     class size/teacher assistance initiative. The House bill 
+     provided $1,800,000,000 for the Teacher Empowerment Act, 
+     subject to authorization. The Senate bill provided 
+     $1,200,000,000 for teacher assistance activities subject to 
+     authorization. The agreement provides $300,000,000 in fiscal 
+     year 2000 and $900,000,000 in fiscal year 2001 funding for 
+     this account.
+       The conference agreement modifies language contained in the 
+     Senate bill regarding a class size/teacher assistance 
+     initiative.
+       The modified provision distributes funds according to the 
+     formula developed for the class size reduction initiative in 
+     the fiscal year 1999 Departments of Labor, Health and Human 
+     Services and Education and Related Agencies Act (P.L. 105-
+     277). The provision allows school districts to use funds for 
+     class size reduction activities; however, if the local 
+     educational agency determines that it wishes to use the funds 
+     for purposes other than class size reduction as part of a 
+     local strategy for improving academic achievement, funds may 
+     be used for professional development activities, teacher 
+     training or any other local need that is designed to improve 
+     student performance. Funds must be used to supplement and not 
+     supplant state and local funds that would otherwise be spent 
+     for activities under this section.
+       The Senate bill provided funds for the initiative if 
+     authorized by July 1, 2000. If the initiative was not 
+     authorized by July 1, 2000, funds could be used for any 
+     activity authorized by Title VI of the Elementary and 
+     Secondary Education Act of 1965 that would improve the 
+     academic achievement of all students.
+     Safe and drug free schools
+       The conference agreement includes $605,000,000 for the Safe 
+     and Drug Free Schools and Communities Act instead of the 
+     $566,000,000 proposed by the House and $636,000,000 proposed 
+     by the Senate. The agreement provides $115,000,000 in fiscal 
+     year 2000 and $345,000,000 in fiscal year 2001 funding for 
+     this account.
+       Included within this amount is $460,000,000 for state 
+     grants, instead of $441,000,000 as proposed by the House and 
+     $476,000,000 as proposed by the Senate.
+       The conference agreement also includes $95,000,000 for 
+     national programs, instead of $90,000,000 as proposed by the 
+     House and $100,000,000 as proposed by the Senate.
+       The conference agreement includes $850,000 within the safe 
+     and drug free schools national programs to continue the 
+     National Recognition Awards programs to provide models of 
+     alcohol and drug abuse prevention and education at the 
+     college level.
+       The conference agreement includes $50,000,000 under 
+     national programs for the Safe and Drug Free Schools 
+     coordinator initiative, instead of $35,000,000 as proposed by 
+     the House and $60,000,000 as proposed by the Senate.
+     Reading is Fundamental
+       For the Reading is Fundamental program, the conference 
+     agreement provides $20,000,000 instead of $21,500,000 as 
+     proposed by the Senate and $18,000,000 as proposed by the 
+     House.
+     Arts in education
+       For Arts in Education, the conference agreement provides 
+     $11,500,000, instead of $10,500,000 as proposed by the House 
+     and $12,500,000 as proposed by the Senate.
+     Magnet Schools Assistance Program
+       For the Magnet Schools Assistance Program, the conference 
+     agreement provides $110,000,000 instead of $104,000,000 as 
+     proposed by the House and $112,000,000 as proposed by the 
+     Senate.
+     Education of Native Hawaiians
+       The conference agreement includes $23,000,000 for the 
+     Education of Native Hawaiians, the same level as in the 
+     Senate. The House included $20,000,000 for this account. The 
+     conference agreement assumes that
+
+[[Page H10993]]
+
+     when allocating these funds, the Secretary of Education will 
+     fund the following activities as described in the Report of 
+     the Senate Committee (Senate Report No. 106-166).
+     Alaska Native educational equity
+       The conference agreement includes $13,000,000 for the 
+     Alaska Native Educational Equity program, the same level as 
+     in the Senate. The House included $10,000,000 for this 
+     account.
+     Charter schools
+       The conference agreement includes $145,000,000 for Charter 
+     Schools, instead of $130,000,000 proposed by the House and 
+     $150,000,000 proposed by the Senate.
+     Comprehensive Regional Assistance Centers
+       The conference agreement includes $28,000,000 for 
+     Comprehensive Regional Assistance Centers as proposed by the 
+     Senate instead of $27,054,000 as proposed by the House. The 
+     conference agreement includes $750,000 within these funds for 
+     an evaluation to collect performance indicator data.
+     Advanced placement fees
+       For advanced placement fees, the conference agreement 
+     provides $15,000,000 as proposed by the Senate instead of 
+     $4,000,000 as proposed by the House. The conference agreement 
+     notes that less than half of our Nation's high schools offer 
+     some form of Advanced Placement (AP) course instruction for 
+     junior and senior high school students. The lack of access to 
+     this instruction is particularly acute in rural parts of the 
+     country. Internet-based AP course instruction is a dynamic 
+     and cost-effective way to deliver AP instruction to students 
+     living in rural areas and other areas where conventional 
+     instructor-led training for AP courses is not available. 
+     Accordingly, the conference agreement encourages the 
+     Secretary to use some of the Advanced Placement Incentive 
+     Program funds to award grants to States or LEAs seeking to 
+     establish Internet-based AP pilot programs in rural parts of 
+     the country or other under-served districts where students 
+     would otherwise not have access to AP instruction.
+
+
+                           READING EXCELLENCE
+
+       The conference agreement includes $260,000,000 for 
+     activities authorized under the Reading Excellence Act 
+     instead of the $200,000,000 proposed by the House and 
+     $285,000,000 proposed by the Senate. The agreement provides 
+     $65,000,000 in fiscal year 2000 and $195,000,000 in fiscal 
+     year 2001 funding for this account.
+
+
+                            INDIAN EDUCATION
+
+       The conference agreement includes $77,000,000 for Indian 
+     Education, the same level as in the Senate. The House 
+     proposed $66,000,000 for this account.
+
+
+                   BILINGUAL AND IMMIGRANT EDUCATION
+
+       The conference agreement includes $387,000,000 for 
+     Bilingual and Immigrant Education programs instead of the 
+     $380,000,000 proposed by the House and $394,000,000 proposed 
+     by the Senate.
+       For Instructional Services, the agreement includes 
+     $162,500,000 instead of the $160,000,000 proposed by the 
+     House and $165,000,000 proposed by the Senate. For Support 
+     Services, the agreement provides $14,000,000, the same level 
+     as in the House and Senate bills. For Professional Services, 
+     the agreement provides $52,500,000 instead of the $50,000,000 
+     proposed by the House and $55,000,000 proposed by the Senate. 
+     For immigrant education, the agreement provides $150,000,000, 
+     the same level as in the House and Senate bills. The 
+     agreement also provides $8,000,000 for foreign language 
+     assistance instead of the $6,000,000 proposed by the House 
+     and $10,000,000 proposed by the Senate.
+
+
+                           special education
+
+       The conference agreement includes $6,036,646,000 for 
+     Special Education instead of the $5,833,146,000 proposed by 
+     the House and $6,035,646,000 proposed by the Senate. The 
+     agreement provides $2,294,646,000 in fiscal year 2000 and 
+     $3,742,000,000 in fiscal year 2001 funding for this account.
+       Included in these funds is $4,989,685,000 for Grants to the 
+     States, the same as the Senate level. The House provided 
+     $4,810,700,000. This funding level provides an additional 
+     $679,000,000 to assist the States in meeting the additional 
+     per pupil costs of services to special education students.
+       The conference agreement provides $390,000,000 for 
+     Preschool Grants as proposed by the Senate instead of 
+     $373,985,000 as proposed by the House.
+       The conference agreement includes $375,000,000 for Grants 
+     for Infants and Families as proposed by the Senate instead of 
+     $370,000,000 as proposed by the House.
+       The conference agreement also includes $1,000,000 for the 
+     completion of the Easter Seal Society's Early Childhood 
+     Development Project for the Mississippi River Delta Region 
+     and $1,000,000 for the Center for Literacy and Assessment at 
+     the University of Southern Mississippi. The conference 
+     agreement also includes $1,500,000 for the 2001 Special 
+     Olympics World Winter Games in Alaska and $1,000,000 for the 
+     VIII Paralympic Winter Games.
+       Included in the conference agreement is $34,523,000 for 
+     technology and media services proposed by the Senate instead 
+     of the $33,523,000 as proposed by the House. The conference 
+     agreement includes $7,500,000 for Recordings for the Blind 
+     and Dyslexic as described in the House and Senate Reports. 
+     The conference agreement contemplates that these funds be 
+     distributed to RFB&D as early in the fiscal year as possible.
+       The conference agreement also includes $1,500,000 for 
+     Public Telecommunications Information and Training 
+     Dissemination as proposed by the Senate. The House did not 
+     contain funds for this activity.
+
+
+            Rehabilitation Services and Disability Research
+
+       The conference agreement includes $2,701,772,000 for 
+     Rehabilitation Services and Disability Research instead of 
+     $2,687,150,000 proposed by the House and $2,692,872,000 
+     proposed by the Senate.
+       For Vocational Rehabilitation State Grants, the agreement 
+     provides $2,338,977,000, the same as the House and Senate 
+     levels.
+       The conference agreement includes $21,842,000 for 
+     demonstration and training programs instead of $13,942,000 
+     proposed by the House and $18,942,000 proposed by the Senate.
+       The conference agreement also includes $11,894,000 for 
+     Protection and Advocacy of Individual Rights, the same level 
+     as in the House bill. The Senate provided $10,894,000.
+       The conference agreement also provides $48,000,000 for 
+     Independent Living Centers proposed by the Senate instead of 
+     $46,109,000 proposed by the House. The conference agreement 
+     includes $15,000,000 for services for older blind individuals 
+     as proposed by the Senate instead of $11,169,000 as proposed 
+     by the House.
+       The conference agreement also includes $34,000,000 for 
+     Assistive Technology, the same level as in the House bill. 
+     The Senate provided $30,000,000.
+       Within the amounts provided, the conference report 
+     specifies funding for the following activities:
+
+Krasnow Institute at George Mason University for a receptive 
+  language disorders research center...........................$750,000
+University of Central Florida for a virtual reality-based education 
+  and training program for the deaf..........................$1,000,000
+Seattle Lighthouse for the Blind.............................$2,000,000
+Professional development and Research Institute on Blindness in 
+  Louisiana..................................................$1,000,000
+California State University at Northridge for a Western Center for 
+  Adaptive Aquatic Therapy...................................$1,000,000
+Alaska Center for Independent Living in Anchorage..............$600,000
+
+       The conference agreement recognizes the importance of 
+     supporting grants for the purchase of assistive technology 
+     for persons with disabilities to help them become employable 
+     and live independently. This technology can improve the lives 
+     of over 50 million Americans with physical or mental 
+     disabilities. The conference agreement recommends that, after 
+     state assistive technology projects have been allocated, 
+     remaining funds should be used for Title III grants, which 
+     enable consumers with disabilities to purchase needed 
+     assistive technology.
+
+           Special Institutions for Persons With Disabilities
+
+
+                 American Printing House for the Blind
+
+       The conference agreement provides $10,100,000 for American 
+     Printing House for the Blind as proposed by the Senate, 
+     instead of $9,000,000 as proposed by the House.
+
+
+                          gallaudet university
+
+       The conference agreement provides $85,980,000 for Gallaudet 
+     University as proposed by the House instead of $85,500,000 as 
+     proposed by the Senate.
+
+
+                     Vocational and Adult Education
+
+       The conference agreement includes $1,656,750,000 for 
+     Vocational and Adult Education instead of the $1,582,247,000 
+     as proposed by the House and $1,676,750,000 as proposed by 
+     the Senate. The agreement provides $865,750,000 in fiscal 
+     year 2000 and $791,000,000 in fiscal year 2001 funding for 
+     this account.
+       $1,055,650,000 is included in the agreement for Vocational 
+     Education basic state grants, instead of the $1,080,650,000 
+     as proposed by the House and $1,030,650,000 as proposed by 
+     the Senate.
+       The conference agreement provides $4,600,000 for Tribally 
+     Controlled Postsecondary Vocational Institutions as proposed 
+     by the Senate instead of $4,100,000 as proposed by the House.
+       The conference agreement also includes $17,500,000 for 
+     vocational education national programs instead of $13,497,000 
+     proposed by the House and $19,500,000 proposed by the Senate. 
+     The conference agreement provides $9,000,000 for National 
+     Occupational Information Coordinating Committee activities as 
+     proposed by the Senate. The House did not include funding for 
+     this activity.
+       For Adult Education State Grants, the agreement provides 
+     $425,000,000 instead of the $365,000,000 provided in the 
+     House bill and $468,000,000 in the Senate bill.
+       The conference agreement provides $14,000,000 for adult 
+     education national leadership activities as proposed by the 
+     Senate instead of $7,000,000 as proposed by the House.
+       The conference agreement also includes $19,000,000 for 
+     State Grants for Incarcerated Youth as proposed by the 
+     Senate. The House did not provide funding for this activity.
+
+[[Page H10994]]
+
+                      Student Financial Assistance
+
+       The conference agreement provides $9,435,000,000 for 
+     Student Financial Assistance instead of $9,259,000,000 as 
+     proposed by the House and $9,548,000,000 as proposed by the 
+     Senate. The conference agreement sets the maximum Pell Grant 
+     at $3,300 and provides a program level of $7,700,000,000 for 
+     current law Pell Grants. The conference agreement does not 
+     provide advance funding for this account. The House advance 
+     funded $2,286,000,000 and the Senate advance funded 
+     $1,226,400,000 for this account.
+       $621,000,000 is included in the agreement for Federal 
+     Supplemental Educational Opportunity Grants (SEOG), instead 
+     of the $619,000,000 as proposed by the House and $631,000,000 
+     as proposed by the Senate. The agreement also includes an 
+     additional emergency appropriation of $10,000,000 and allows 
+     the Secretary of Education to waive the usual rules regarding 
+     the SEOG program for low-income college students that live in 
+     or attend school in areas affected by Hurricane Floyd and 
+     subsequent flooding as proposed by the House. The Senate 
+     included no similar language.
+       $934,000,000 is included in the agreement for Federal Work 
+     Study as proposed by the Senate. The House proposed 
+     $880,000,000.
+       The agreement includes $40,000,000 for Leveraging 
+     Educational Assistance Partnerships (LEAP), instead of the 
+     $75,000,000 as proposed by the Senate. The House did not 
+     provide funding for this program.
+
+             federal family education loan program account
+
+       The conference agreement provides $48,000,000 for the 
+     Federal Family Education Loan Program Account as proposed by 
+     the Senate instead of $46,482,000 as proposed by the House.
+
+
+                            higher education
+
+       The conference agreement provides $1,466,826,000 for Higher 
+     Education instead of $1,151,786,000 as proposed by the House 
+     and $1,406,631,000 as proposed by the Senate.
+       The conference agreement includes $42,250,000 for Hispanic 
+     Serving Institutions as proposed by the Senate instead of 
+     $28,000,000 as proposed by the House.
+       The conference agreement includes $141,500,000 for 
+     strengthening Historically Black Colleges and Universities as 
+     proposed by the Senate instead of $136,000,000 as proposed by 
+     the House.
+       The conference agreement includes $31,000,000 for 
+     Historically Black Graduate Institutions as proposed by the 
+     Senate instead of $30,000,000 as proposed by the House.
+       The conference agreement includes $5,000,000 for Alaska and 
+     Native Hawaiian Institutions proposed by the Senate instead 
+     of $3,000,000 proposed by the House.
+       The conference agreement also includes $6,000,000 for 
+     strengthening Tribal Colleges proposed by the Senate instead 
+     of $3,000,000 proposed by the House.
+       The conference agreement includes $62,075,000 for the Fund 
+     for the Improvement of Postsecondary Education instead of 
+     $27,500,000 as proposed by the Senate and $22,500,000 as 
+     proposed by the House.
+       The conference agreement includes $62,000,000 for 
+     International Education domestic programs as proposed by the 
+     House instead of $61,320,000 as proposed by the Senate. The 
+     conference agreement also includes $6,680,000 for 
+     International Education overseas programs as proposed by the 
+     Senate instead of $6,536,000 as proposed by the House. The 
+     conference agreement also includes $1,022,000 for the 
+     Institute for International Public Policy as proposed by the 
+     Senate instead of $1,000,000 as proposed by the House.
+       The conference agreement includes $645,000,000 for TRIO 
+     rather than the $630,000,000 included in the Senate bill and 
+     the $660,000,000 included in the House bill.
+       The conference agreement includes $180,000,000 for the 
+     Gaining Early Awareness and Readiness for Undergraduate 
+     Programs (GEAR UP), the same level proposed by the Senate. 
+     The House contained no funds for this program.
+       The conference agreement includes $39,859,000 for Byrd 
+     Scholarships as proposed by the Senate. The House did not 
+     provide funding for this program.
+       The conference agreement includes $51,000,000 for Graduate 
+     Assistance in Areas of National Need (GAANN) as proposed by 
+     the Senate instead of $31,000,000 as proposed by the House. 
+     Within the total, $10,000,000 is provided to fund the Javits 
+     Fellowship program in school year 2000-2001. An additional 
+     $10,000,000 is also provided within this total to allow the 
+     Javits Fellowship program to be forward funded.
+       The conference agreement includes $17,940,000 for the 
+     Learning Anytime Anywhere Partnerships instead of $10,000,000 
+     proposed by the Senate. The House did not fund this program. 
+     Within the amount provided, the conference report specifies 
+     funding for the following activities:
+
+University of South Florida for a distance learning program..$3,000,000
+New York Global Communication Center in West Islip, NY for a 
+  distance learning program.....................................190,000
+Alliance for Technology, Learning and Society (ATLAS) at the 
+  University of Colorado for technology-enhanced learning.....1,000,000
+Interactive Learning Environments at the University of Idaho for a 
+  distance learning program...................................1,250,000
+Illinois Community College Board to develop a systemwide, on-line 
+  virtual degree program for the community college system.....2,500,000
+       The conference agreement includes $80,000,000 for Teacher 
+     Quality Enhancement Grants as proposed by the Senate instead 
+     of $75,000,000 as proposed by the House.
+       The conference agreement also includes $1,750,000 for the 
+     Underground Railroad Educational and Cultural Program as 
+     proposed by the Senate. The House did not fund this activity.
+       The conference agreement includes $1,000,000 for community 
+     scholarship mobilization, instead of $2,000,000 as proposed 
+     by the Senate. The House did not fund this program.
+       The conference agreement includes $3,000,000 for data 
+     collection and program evaluations in higher education 
+     programs, including the development of performance 
+     measurement data, instead of $4,000,000 as proposed by the 
+     House. The Senate did not provide separate line item funding 
+     for this activity.
+
+
+             COLLEGE HOUSING AND ACADEMIC FACILITIES LOANS
+
+       The conference agreement includes $737,000 for 
+     administering the College Housing and Academic Facilities 
+     Loans program as proposed by the Senate instead of $698,000 
+     as proposed by the House.
+
+
+               HISTORICALLY BLACK COLLEGE AND UNIVERSITY
+
+                           CAPITAL FINANCING
+
+                            PROGRAM ACCOUNT
+
+       The conference agreement provides $207,000 for the 
+     Historically Black College and University Capital Financing 
+     Program Account as proposed by the Senate instead of $96,000 
+     as proposed by the House.
+
+
+             EDUCATION RESEARCH, STATISTICS AND IMPROVEMENT
+
+       The conference agreement includes $492,679,000 for 
+     Education Research, Statistics and Improvement instead of the 
+     $390,867,000 as proposed by the House and $368,867,000 as 
+     proposed in the Senate.
+       The conference agreement provides $93,567,000 for research 
+     instead of $83,567,000 proposed by the House and $82,567,000 
+     proposed by the Senate. Within this increase, $10,000,000 is 
+     included for an expansion of comprehensive school reform 
+     activities and $1,000,000 is included for the development of 
+     a five-year plan for an expanded research program of large-
+     scale, systematic experimentation and demonstration focused 
+     on strategic education issues in accordance with the 
+     guidelines outlined in the Report of the House Committee 
+     (House Report 106-370).
+       The conference agreement provides $65,000,000 for regional 
+     educational labs as proposed by the Senate instead of 
+     $61,000,000 as proposed by the House. The conference 
+     agreement provides that the regional laboratory governing 
+     boards set the research and development priorities to guide 
+     the work funded and that funds be obligated and distributed 
+     in accordance with the fiscal year 1999 allocations by 
+     December 1, 1999.
+       The conference agreement provides $68,000,000 for 
+     statistics as proposed by the House instead of $70,000,000 
+     proposed by the Senate.
+       The conference agreement provides $4,000,000 for NAGB as 
+     proposed by the House instead of $4,500,000 as proposed by 
+     the Senate.
+     Fund for the improvement of education
+       For the fund for the improvement of education (FIE), the 
+     conference agreement provides $155,812,000 instead of the 
+     $76,000,000 as proposed by the House and $39,500,000 as 
+     proposed by the Senate.
+       The conference agreement provides $25,000,000 for 
+     continuation grants for schools in their third year of 
+     implementing comprehensive school reform.
+       The conference agreement provides funds for the 
+     continuation of Project Jump Start and provides funds for the 
+     continuation and expansion of the Youth Safety Corps. The 
+     conference agreement also includes $400,000 for the National 
+     Student and Parent Mock Elections and $500,000 for the 
+     continuation and expansion of the Boston Symphony Orchestra's 
+     education resource center.
+       Within the amount provided, $20,000,000 is to be used for 
+     the Elementary School Counseling Demonstration Program to 
+     establish or expand counseling programs in elementary 
+     schools.
+       Within the amount provided, the conference report specifies 
+     funding for the following activities:
+
+Loyola University Chicago for recruitment and preparation of new 
+  teacher candidates for employment in rural and inner-city sch$700,000
+Shedd Aquarium/Brookfield Zoo for science education programs....500,000
+Big Brothers/Big Sisters of America to expand school-based men3,000,000
+Chicago Public School System to support a substance abuse pilot 
+  program in conjunction with Elgin and East Aurora School Sys2,500,000
+University of Virginia Center for Governmental Studies for the Youth 
+  Leadership Initiative.......................................1,000,000
+Institute for Student Achievement at Holmes Middle School and 
+  Annandale High School in Virginia for academic enrichment.....800,000
+
+[[Page H10995]]
+
+Mountain Arts Center in Kentucky for educational programming....100,000
+University of Louisville for research in the area of academic 
+  readiness...................................................1,500,000
+WestEd Regional Educational Laboratory for the 24 Challenge and 
+  Jumping Levels Math Demonstration Project.....................500,000
+Central Michigan University for a charter schools development and 
+  performance institute.......................................1,000,000
+Living Science Interactive Learning Model partnership in Indian 
+  River, FL for a science education program.....................950,000
+North Babylon Community Youth Services for an educational progra825,000
+Los Angeles County Office of Education/Educational 
+  Telecommunications and............................................
+Technology for a pilot program for teachers...................1,000,000
+University of Northern Iowa for an institute of technology for 
+  inclusive education...........................................650,000
+Youth Crime Watch of America to expand a program to prevent crime, 
+  drugs and violence in schools.................................500,000
+Muhlenberg College in Pennsylvania for an environmental science 
+  program.......................................................892,000
+Western Suffolk St. Johns-LaSalle Academy Science and Technology 
+  Mentoring Program.............................................560,000
+National Teaching Academy of Chicago for a model teacher 
+  recruitment, preparation and professional development progra4,000,000
+University of West Florida for a teacher enhancement program..2,000,000
+Virginia Living Museum in Newport News, VA for an educational 
+  program.....................................................1,000,000
+Challenger Learning Center in Hardin County, KY for technology 
+  assistance and teacher training...............................450,000
+Crawford County School System in Georgia for technology and 
+  curriculum support............................................250,000
+Berrien County School System in Georgia for technology developme500,000
+Louisville Salvation Army Boys and Girls Club Diversion Enhancement 
+  Program........................................................35,000
+New Mexico Department of Education for school performance 
+  improvement and drop-out prevention.........................1,000,000
+Semos Unlimited Inc. in New Mexico to support bilingual education 
+  and literacy programs.........................................300,000
+Delta State University in MS for innovative teacher training..1,000,000
+Alaska Humanities Forum, Inc. in Anchorage....................1,000,000
+An Achievable Dream in Newport News to improve academic performance 
+  of at-risk youths.............................................250,000
+Rock School of Ballet in Philadelphia to expand its community-
+  outreach programs for inner-city children and underprivileged 
+  youth in Camden, NJ and southern NJ...........................250,000
+University of Maryland Center for Quality and Productivity to 
+  provide a link for the Blue Ribbon Schools..................1,000,000
+Continuing Education Center and Teachers' Institute in South Boston, 
+  Virginia to promote participation among youth in the U.S. 
+  democratic process..........................................1,000,000
+National Museum of Women in the Arts to expand its ``Discovering 
+  Art'' program to elementary and secondary schools and other 
+  educational organizations...................................1,000,000
+Alaska Department of Education's summer reading program.........400,000
+Partners in Education, Inc. to foster successful business-school 
+  partnerships..................................................400,000
+Kodiak Island Borough School district for development of an 
+  environmental education program...............................250,000
+Reach out and Read Program to expand literacy and health awareness 
+  for at-risk families........................................2,000,000
+Jazz in the Schools program for educational programs............100,000
+Mississippi Delta Education Initiative..........................500,000
+Project 2000 D.C. Mentoring Project.............................100,000
+National Constitution Center.................................10,000,000
+Continuation of Iowa public school facilities repair demonstration 
+  administered by the Iowa Department of Education...........10,000,000
+Continuation of Foorman, Frances, and Fletcher NICHD-approved 
+  longitudinal project ``Early Interventions for Children with 
+  Reading Problems'' in public elementary schools in the District of 
+  Columbia......................................................500,000
+       For Civics Education, the conference agreement provides 
+     $9,500,000, the same level as in the Senate, rather than the 
+     $5,500,000 included in the House bill.
+       The conference agreement provides $9,000,000 for the 
+     National Writing Project instead of $10,000,000 as proposed 
+     by the Senate and $5,000,000 as proposed by the House.
+
+                        Departmental Management
+
+       The conference agreement includes $475,384,000 for 
+     Departmental Management as proposed by the Senate instead of 
+     $459,242,000 proposed by the House. Within this amount, the 
+     agreement provides $71,200,000 for the Office of Civil Rights 
+     and $34,000,000 for the Office of Inspector General as 
+     provided by the Senate. The House provided $66,000,000 for 
+     the Office of Civil Rights and $31,242,000 for the Office of 
+     the Inspector General.
+       The conference agreement urges the Secretary of Education 
+     to take whatever steps are necessary to select and fill the 
+     Liaison for Proprietary Institutions of Higher Education 
+     position which is provided for in section 219 of the Higher 
+     Education Act, as amended (HEA). The conference agreement 
+     notes that section 219 requires the Secretary to appoint the 
+     Liaison within 6 months of passage of HEA.
+
+                           General Provisions
+
+
+           Calculations for Heavily Impacted School Districts
+
+       The conference agreement modifies a legislative provision 
+     that was contained in the House bill relating to payments for 
+     heavily impacted school districts (section 8003(f)) that 
+     changes the method by which payments made under this section 
+     are allocated to provide supplemental payments for federally 
+     connected students. The Senate bill had no similar provision.
+
+
+            Extension of Participation in Even Start Program
+
+       The conference agreement contains an amendment to the 
+     Elementary and Secondary Education Act of 1965 that was 
+     contained in the House bill that allows local grantees to 
+     continue to participate in the Even Start program beyond 
+     eight years and reduces the federal share for the ninth and 
+     succeeding years from 50 percent to 35 percent. The Senate 
+     bill had no similar provision.
+
+
+                 Federal Family Education Loans (FFEL)
+
+       The conference agreement includes a provision regarding the 
+     FFEL program that was not contained in either House or Senate 
+     bills.
+
+
+             Higher Education Assistance Foundation (HEAF)
+
+       The conference agreement includes a provision regarding 
+     HEAF claims reserves that was not contained in either House 
+     or Senate bills.
+
+
+                  Additional Higher Education Funding
+
+       The conference agreement includes the following amounts for 
+     the following projects and activities. Neither the House nor 
+     the Senate bills contained this language.
+
+Middle Georgia College for an advanced distributed learning center 
+  demonstration program........................................$250,000
+University Center of Lake County, IL..........................3,000,000
+Oregon University System......................................1,000,000
+Columbia College in IL for a freshman retention program.........500,000
+University of Hawaii at Manoa for a globalization research cen1,500,000
+University of Arkansas at Pine Bluff for technology infrastruc2,000,000
+I Have a Dream Foundation.....................................1,000,000
+Demonstration program for activities authorized under part G of 
+  title VII of the Higher Education Act.......................1,000,000
+University of the Incarnate Word in San Antonio, TX to improve 
+  teacher capabilities in technology..........................1,000,000
+Elmira College in New York for a technology enhancement initia1,000,000
+Rust College in MS for technology infrastructure..............1,650,000
+Snelling Center for Government at the University of Vermont for a 
+  model school program..........................................250,000
+Texas A&M University, Corpus Christi for the operation of the Early 
+  Childhood Development Center..................................750,000
+Southeast Missouri State University for equipment and curriculum 
+  development associated with the university's Polytechnic Ins1,000,000
+
+[[Page H10996]]
+
+Washington Virtual Classroom Consortium.........................800,000
+Puget Sound Center for Technology for faculty development activities 
+  for the use of technology in the classroom....................500,000
+Center for the Advancement of Distance Education in Rural Americ500,000
+Daniel J. Evans School of Public Policy at the University of 
+  Washington..................................................1,500,000
+North Dakota State University for the Career Program for Dislocated 
+  Farmers and Ranchers..........................................200,000
+North Dakota State University for the Tech-based Industry 
+  Traineeship Program...........................................350,000
+Washington State University for the Thomas S. Foley Institute to 
+  support programs in congressional studies, public policy, voter 
+  education, and to ensure community access and outreach......1,500,000
+Minot State University for the Rural Communications Disabilities 
+  Program.......................................................200,000
+Bryant College for the Linking International Trade Education Program 
+  (LITE)........................................................300,000
+Concord College, WV for a technology center to further enhance the 
+  technical skills of WV teachers and students................1,000,000
+Peirce College in Philadelphia for education and training progra200,000
+Philadelphia Zoo for educational programs.......................250,000
+Philadelphia University Education Center for technology educat1,000,000
+Lock Haven University for technology innovations................725,000
+Southeastern Pennsylvania Consortium on Higher Education for 
+  education programs..........................................1,000,000
+Lehigh University Iacocca Institute for educational training....400,000
+Lafayette College for arts education............................250,000
+Lewis and Clark College for the Crime Victims Law Institute...1,000,000
+University of Notre Dame for a teacher quality initiative.......500,000
+Spelman College in Georgia for educational operations...........800,000
+Western Governors University for a distance learning initiativ2,000,000
+
+             Technical Correction to Fiscal Year 1999 Bill
+
+       The conference agreement deletes a provision contained in 
+     the House bill which made a technical correction to P.L. 105-
+     277 (the Omnibus Consolidated and Emergency Supplemental 
+     Appropriations Act, 1999). The Senate bill had no similar 
+     provision.
+
+
+               Direct Student Loan Administrative Account
+
+       The conference agreement deletes a provision contained in 
+     the House bill which froze the administrative account for the 
+     Direct Student Loan program at fiscal year 1999 levels. The 
+     Senate bill had no similar provision.
+
+
+                        Voluntary National Tests
+
+       The conference agreement does not include a provision 
+     contained in the Senate bill regarding voluntary national 
+     tests. This language is not necessary since P.L. 105-277 (the 
+     Omnibus Consolidated and Emergency Supplemental 
+     Appropriations Act, 1999) adopted a permanent change to the 
+     law that specifically prohibited any pilot testing, field 
+     testing, administration or distribution of individualized 
+     national tests that are not specifically and explicitly 
+     provided for in authorizing legislation enacted into law. At 
+     the present time, there is no specific and explicit authority 
+     in Federal law for individualized national tests.
+
+
+                                Funding
+
+       The conference agreement deletes a provision contained in 
+     the Senate bill which redistributed funding for certain 
+     education programs. The House bill contained no similar 
+     provision.
+
+
+         Leveraging Educational Assistance Partnership Program
+
+       The conference agreement deletes a provision contained in 
+     the Senate bill that provided advance funding for the LEAP 
+     program. The House bill contained no similar provision.
+
+                       TITLE IV--RELATED AGENCIES
+
+                      Armed Forces Retirement Home
+
+       The conference agreement provides $68,295,000 for the Armed 
+     Forces Retirement Home as proposed by the House. The Senate 
+     bill contained no appropriation for the Home.
+
+             Corporation for National and Community Service
+
+
+        DOMESTIC VOLUNTEER SERVICE PROGRAMS, OPERATING EXPENSES
+
+       The conference agreement provides $295,645,000 for the 
+     Domestic Volunteer Service programs instead of $293,261,000 
+     as proposed by the Senate and $274,959,000 as proposed by the 
+     House.
+     Volunteers in Service to America (VISTA)
+       The conference agreement provides $81,000,000 for VISTA as 
+     proposed by the Senate instead of $73,000,000 proposed by the 
+     House.
+     National Senior Volunteer Corps
+       The conference agreement provides $95,782,000 for the 
+     Foster Grandparent Program (FGP), $39,669,000 for the Senior 
+     Companion Program (SCP), and $46,565,000 for the Retired 
+     Senior Volunteer Program (RSVP). The House proposed 
+     $93,256,000 for Foster Grandparents, $36,573,000 for Senior 
+     Companions and $43,001,000 for Retired Senior Volunteers. The 
+     Senate proposed $95,000,000 for FGP, $39,031,000 for SCP and 
+     $46,001,000 for RSVP.
+       One-third of the increases provided for the FGP, SCP, and 
+     RSVP programs shall be used to fund Programs of National 
+     Significance expansion grants to allow existing FGP, RSVP and 
+     SCP programs to expand the number of volunteers serving in 
+     areas of critical need as identified by Congress in the 
+     Domestic Volunteer Service Act.
+       Sufficient funding has been included to provide a 2 percent 
+     increase for administrative costs realized by all current 
+     grantees in the FGP and SCP programs, and a 4 percent 
+     increase for administrative costs realized by all current 
+     grantees in the RSVP program. Funds remaining above these 
+     amounts should be used to begin new FGP, RSVP and SCP 
+     programs in geographic areas currently unserved. The 
+     conference agreement expects these projects to be awarded via 
+     a nationwide competition among potential community-based 
+     sponsors.
+       The Corporation for National and Community Service shall 
+     comply with the directive that use of funding increases in 
+     the Foster Grandparent Program, Retired and Senior Volunteer 
+     Program and VISTA not be restricted to America Reads 
+     activities. The agreement further directs that the 
+     Corporation shall not stipulate a minimum or maximum amount 
+     for PNS grant augmentations.
+       The conference agreement also provides $1,500,000 for 
+     senior demonstration activities, instead of $3,100,000 
+     proposed by the Senate. The House did not propose funding for 
+     this activity. Sufficient funds are provided for the third 
+     and final year of the Seniors for Schools demonstration. Of 
+     the total, $350,000 is provided to conduct an evaluation of 
+     existing demonstration activities and to bring to closure the 
+     Seniors for Schools demonstration project.
+       Funds are also provided to continue other existing senior 
+     demonstration activities, except that no funds are provided 
+     for the payment of non-taxable, non-income stipends to 
+     individuals not meeting income requirements established by 
+     Congress. No new demonstration projects may be begun with 
+     these funds. None of the increases provided for FGP, SCP, or 
+     RSVP in fiscal year 2000 may be used for demonstration 
+     activities. The agreement further expects that all future 
+     demonstration activities will be funded through allocations 
+     made through Part E of the Domestic Volunteer Service Act.
+       Funds appropriated for Fiscal Year 2000 may not be used to 
+     implement or support service collaboration agreements or any 
+     other changes in the administration and/or governance of 
+     national service programs prior to passage of a bill by the 
+     authorizing committees of jurisdiction specifying such 
+     changes.
+     Program administration
+       The conference agreement includes $31,129,000 for program 
+     administration of DVSA programs at the Corporation, instead 
+     of $29,129,000 that was provided in both House and Senate 
+     bills. The additional $2,000,000 is provided to assist the 
+     Corporation in correcting its financial management weaknesses 
+     and obtaining a clean opinion on its financial statements. 
+     Funding should be used to fully implement the new core 
+     financial management system and to make other technology 
+     enhancements that will improve customer service and field 
+     communications.
+
+                  Corporation for Public Broadcasting
+
+       The conference agreement provides $350,000,000 in advance 
+     funding for fiscal year 2002 for the Corporation for Public 
+     Broadcasting as proposed by the Senate instead of 
+     $340,000,000 as proposed by the House.
+       The conference agreement includes language proposed by the 
+     House providing an additional $10,000,000 for digitalization, 
+     if specifically authorized by subsequent legislation by 
+     September 30, 2000. The Federal Communications Commission 
+     (FCC) has mandated that all public television be converted 
+     from analog to digital transmission by May 2003. Because 
+     television and radio broadcast infrastructures are closely 
+     linked, the conversion of television to digital will create 
+     immediate costs not only for television, but also for public 
+     radio stations. Public broadcasting stations with limited 
+     resources, in particular small rural stations, will be faced 
+     with extreme hardship because of the significant cost of 
+     converting to digital, therefore, the conference agreement 
+     encourages funds provided to be targeted to those stations 
+     with the most financial need.
+       The conference agreement commends the Corporation for 
+     adoption of the Listener Access 2000 initiative and other 
+     related efforts that recognize the need to enhance service in 
+     rural and underserved areas. These steps will expand the 
+     number of stations defined as serving rural areas, create a 
+     new incentive grant tailored to areas with limited financial 
+     resources, while maintaining the public-private nature of 
+     public broadcasting.
+       While this approach is a meaningful initial investment, the 
+     conference agreement urges the Corporation to continue to 
+     explore additional ways to ensure that its goal of universal 
+     service throughout the country is achieved. The conference 
+     agreement recognizes that stations serving rural and 
+     underserved audiences typically have limited local
+
+[[Page H10997]]
+
+     potential for fundraising because of sparse populations 
+     serviced, limited number of local businesses, and low-income 
+     levels.
+       The conference agreement strongly urges the Corporation to 
+     consider expanding its Rural Listener Access Incentive Fund, 
+     which will support further enhancements to and reliability of 
+     service in rural and underserved areas. Furthermore, the 
+     conference agreement supports additional actions that will 
+     assist stations in serving rural and underserved areas.
+
+               Federal Mediation and Conciliation Service
+
+       The conference agreement provides $36,834,000 for the 
+     Federal Mediation and Conciliation Service as proposed by the 
+     Senate instead of $34,620,000 as proposed by the House. The 
+     conference agreement also includes bill language proposed by 
+     the Senate stating that FMCS may charge for training 
+     activities, services, and assistance, including those 
+     provided to foreign governments and international 
+     organizations.
+
+            Federal Mine Safety and Health Review Commission
+
+       The conference agreement provides $6,159,000 for the 
+     Federal Mine Safety and Health Review Commission as proposed 
+     by the Senate instead of $6,060,000 as proposed by the House.
+
+                Institute of Museum and Library Services
+
+       The conference agreement provides $163,250,000 for the 
+     Institute of Museum and Library Services. The Senate proposed 
+     $154,500,000. The House proposed $149,500,000. The conference 
+     agreement does not accept the President's request for 
+     $5,000,000 under National Leadership Grants for Libraries for 
+     the National Digital Library initiative. The increase in 
+     funding for this account should be used for new awards under 
+     the regular grant competition. Within the amount provided, 
+     the conference report specifies funding for the following 
+     activities:
+
+Library & Archives of New Hampshire's Political Tradition at the New 
+  Hampshire State Library......................................$700,000
+Vermont Department of Libraries in Montpelier, Vermont........1,000,000
+Consolidation and preservation of archives and special collections 
+  at the University of Miami Library in Coral Gables, FL........750,000
+Exhibits and library improvements for the Mississippi River Museum 
+  and Discovery Center in Dubuque, Iowa.......................1,900,000
+Alaska Native Heritage Center in Anchorage......................750,000
+Peabody-Essex Museum in Salem, MA...............................750,000
+Bishop Museum in Hawaii.........................................750,000
+Oceanside Public Library in California for a local cultural heritage 
+  project.......................................................200,000
+Urban Children's Museum Collaborative to develop and implement pilot 
+  programs dedicated to serving at-risk children and their fam1,000,000
+Troy State University Dothan in Alabama for archival of a special 
+  collection....................................................150,000
+Chadron State College in Nebraska for the Mari Sandoz Center....450,000
+Alabama A&M University Alabama State Black Archives Research Center 
+  and Museum....................................................350,000
+
+        National Commission on Libraries and Information Science
+
+       The conference agreement provides $1,300,000 for the 
+     National Commission on Libraries and Information Science as 
+     proposed by the Senate instead of $1,000,000 as proposed by 
+     the House. The conference agreement also includes bill 
+     language citing Public Law 91-345, as amended.
+
+                     National Council on Disability
+
+       The conference agreement provides $2,400,000 for the 
+     National Council on Disability as proposed by the Senate 
+     instead of $2,344,000 as proposed by the House.
+
+                     National Education Goals Panel
+
+       The conference agreement provides $2,250,000 for the 
+     National Education Goals Panel as proposed by the Senate 
+     instead of $2,100,000 as proposed by the House.
+
+                     National Labor Relations Board
+
+       The conference agreement provides $199,500,000 for the 
+     National Labor Relations Board instead of $210,193,000 as 
+     proposed by the Senate and $174,661,000 as proposed by the 
+     House.
+       The conference agreement deletes language proposed by the 
+     House which prohibits the NLRB from expending any funds to 
+     promulgate a final rule regarding the use of single location 
+     bargaining units in representation cases. The conference 
+     agreement notes that the NLRB has indefinitely withdrawn from 
+     active consideration its proposed rulemaking proceedings in 
+     this area.
+
+                        National Mediation Board
+
+       The conference agreement provides $9,100,000 for the 
+     National Mediation Board as proposed by the Senate instead of 
+     $8,400,000 as proposed by the House. The conference agreement 
+     also includes bill language that unobligated balances at the 
+     end of fiscal year 2000 not needed for emergencies shall 
+     remain available through September 30, 2001.
+
+            Occupational Safety and Health Review Commission
+
+       The conference agreement provides $8,500,000 for the 
+     Occupational Safety and Health Review Commission as proposed 
+     by the Senate instead of $8,100,000 as proposed by the House.
+
+                       Railroad Retirement Board
+
+
+                     DUAL BENEFITS PAYMENT ACCOUNT
+
+       The conference agreement provides $174,000,000 for dual 
+     benefits payments instead of $175,000,000 as proposed by both 
+     the House and the Senate.
+
+
+                      LIMITATION ON ADMINISTRATION
+
+       The conference agreement includes a limitation on transfers 
+     from the railroad trust funds of $91,000,000 for 
+     administrative expenses instead of $90,000,000 as proposed by 
+     both the House and the Senate.
+
+                     Social Security Administration
+
+
+                  SUPPLEMENTAL SECURITY INCOME PROGRAM
+
+       The conference agreement includes $21,503,085,000 for the 
+     Supplemental Security Income Program instead of 
+     $21,553,085,000 as proposed by the Senate and $21,474,000,000 
+     as proposed by the House.
+
+
+                 LIMITATION ON ADMINISTRATIVE EXPENSES
+
+       The conference agreement includes a limitation of 
+     $6,093,871,000 on transfers from the Social Security and 
+     Medicare trust funds and Supplemental Security Income program 
+     for administrative activities instead of $6,188,871,000 as 
+     proposed by the Senate and $5,996,000,000 as proposed by the 
+     House.
+       The conference agreement includes language authorizing the 
+     Commissioner of Social Security to use up to $3,000,000, in 
+     addition to amounts appropriated previously, for Federal-
+     State partnerships to evaluate ways to promote Medicare buy-
+     in programs targeted to elderly and disabled individuals.
+
+                      Office of Inspector General
+
+       The conference agreement provides $66,000,000 for the 
+     Office of Inspector General through a combination of general 
+     revenues and limitations on trust fund transfers as proposed 
+     by the Senate instead of $56,000,000 as proposed by the 
+     House.
+
+                    United States Institute of Peace
+
+       The conference agreement provides $13,000,000 for the 
+     United States Institute of Peace as proposed by the Senate 
+     instead of $12,160,000 as proposed by the House. The 
+     conference agreement directs the United States Institute of 
+     Peace to provide information in the fiscal year 2001 
+     Congressional budget justification regarding the use of 
+     appropriated funds in the Endowment. Included in this 
+     information should be the total amount of appropriated funds 
+     transferred into the Endowment from the most recent fiscal 
+     year available, the total amount of interest earned in the 
+     fiscal year on those funds, a list of all dates in which draw 
+     downs occur and those amounts, and a beginning and end of 
+     year balance of the Endowment.
+
+                      TITLE V--GENERAL PROVISIONS
+
+
+                    Distribution of Sterile Needles
+
+       The conference agreement includes a general provision as 
+     proposed by the House that prohibits the use of funds in this 
+     Act to carry out any program of distributing sterile needles 
+     or syringes for the hypodermic injection of any illegal drug. 
+     The Senate bill included the same provision except that it 
+     would not have become effective until one day after the date 
+     of enactment of this Act.
+
+
+                   Unobligated Salaries and Expensesa
+
+       The conference agreement includes a general provision 
+     proposed by the House that would allow salaries and expenses 
+     funds in the bill that are unobligated at the end of the 
+     fiscal year to remain available for three additional months, 
+     provided that the Appropriations Committees are notified 
+     before they are obligated. The Senate bill had no similar 
+     provision.
+
+
+                   Railroad Retirement Board Buyouts
+
+       The conference agreement includes a provision amending 
+     existing law as proposed by the Senate to allow the Railroad 
+     Retirement Board to offer voluntary separation incentives to 
+     Board employees who either retire or resign by December 31, 
+     1999. The House bill contained no similar provision.
+
+
+                         Brooklyn Museum of Art
+
+       The conference agreement does not include a provision 
+     expressing the sense of the Senate that the conferees on H.R. 
+     2466, the FY 2000 Interior Appropriations Act, shall include 
+     language prohibiting the use of funds for the Brooklyn Museum 
+     of Art unless the Museum immediately cancels the exhibit 
+     ``Sensation'' which contains obscene and pornographic 
+     pictures and other offensive material.
+
+
+                      Hospital Outpatient Services
+
+       The conference agreement deletes without prejudice a sense 
+     of the Senate provision that the Secretary of HHS should 
+     carry out congressional intent and cease her inappropriate 
+     interpretation of the provisions of the prospective payment 
+     system for hospital outpatient department services under 
+     section 1833(t) of the Social Security Act (42 U.S.C. 
+     13951(t)).
+
+
+                  Former Recipients of TANF Assistance
+
+       The conference agreement deletes without prejudice a sense 
+     of the Senate provision stating that it is important that 
+     Congress determine the economic status of former recipients 
+     of assistance under the TANF program.
+
+
+                   Scientific Validity of Polygraphy
+
+       The conference agreement deletes without prejudice a sense 
+     of the Senate provision stating that the Director of the NIH 
+     should
+
+[[Page H10998]]
+
+     enter into appropriate arrangements with the National Academy 
+     of Sciences to conduct a comprehensive study and 
+     investigation into the scientific validity of polygraphy as a 
+     screening tool for Federal and Federal contractor personnel. 
+     However, the Secretary of HHS is urged to conduct such a 
+     study and report her findings to Congress.
+
+
+                        Prostate Cancer Research
+
+       The conference agreement deletes without prejudice a sense 
+     of the Senate provision stating that finding treatment 
+     breakthroughs and a cure for prostate cancer should be made a 
+     national health priority, that significant increases in 
+     prostate cancer research funding should be made available to 
+     NIH and DoD, and that these agencies should prioritize 
+     research that is directed toward innovative clinical and 
+     translational projects.
+
+
+                      Border Health Commission Act
+
+       The conference agreement includes a Senate provision 
+     amending the United States-Mexico Border Health Commission 
+     Act to require the President to appoint the United States 
+     members of the Commission and attempt to conclude an 
+     agreement with Mexico providing for the establishment of such 
+     Commission no later than 30 days after the date of enactment 
+     of this provision. The House bill contained no similar 
+     provision.
+
+
+             Access to Obstetric and Gynecological Services
+
+       The conference agreement deletes without prejudice a sense 
+     of the Senate provision stating that Congress should enact 
+     legislation that requires health plans to provide women with 
+     direct access to a participating obstetrician/gynecologist 
+     without first having to obtain a referral from a primary care 
+     provider or the health plan.
+
+
+                        Public Education Reform
+
+       The conference agreement deletes without prejudice a sense 
+     of the Senate provision stating that the Federal government 
+     should support state and local educational agencies engaged 
+     in comprehensive reform of their public education systems.
+
+
+                  Federal Employees' Compensation Act
+
+       The conference agreement includes a Senate provision with 
+     respect to a compensation claim arising from injuries 
+     sustained as a result of an employee's exposure to a nitrogen 
+     or sulfur mustard agent at the Department of the Army's 
+     Edgewood Arsenal before March 20, 1944. The House had no 
+     similar provision.
+
+
+                        Workforce Investment Act
+
+       The conference agreement includes a Senate provision 
+     amending the Workforce Investment Act with respect to Alaska 
+     Natives. The House had no similar provision.
+
+
+                          Needlestick Injuries
+
+       The conference agreement deletes without prejudice a sense 
+     of the Senate provision stating that the Senate should pass 
+     legislation to eliminate or minimize the risk of needlestick 
+     injury to health care workers.
+
+
+                    Salaries and Expenses Reduction
+
+       The conference agreement includes a reduction of 
+     $121,000,000 in the salaries and expenses funds contained in 
+     this bill to be allocated by the Office of Management and 
+     Budget among the Departments and agencies in the bill. This 
+     provision was not included in either House or Senate bills. 
+     Within 30 days of enactment, the Director of OMB shall submit 
+     a report showing the allocation of the reduction. In making 
+     these reductions, the Departments and agencies are strongly 
+     urged to make reductions first in such areas as public 
+     affairs, Congressional affairs, intergovernmental affairs, 
+     planning and evaluation, and the immediate offices of the 
+     Secretaries. Administrative travel costs should also be 
+     closely scrutinized and should be one of the first things to 
+     be reduced.
+
+                                TITLE VI
+
+
+         Newborn and Infant Hearing Screening and Intervention
+
+       The conference agreement includes a separate title as 
+     proposed by the House which authorizes grants to States on a 
+     voluntary basis for a three-year period to aid in setting up 
+     newborn infant hearing screening programs. This language 
+     authorizes funding for the Health Resources and Services 
+     Administration, the Centers for Disease Control and 
+     Prevention, and the National Institutes of Health for the 
+     implementation of these programs and provides that State 
+     programs shall work with participants to ensure that all 
+     children are given options for care to include, but not be 
+     limited to medical, audiologic, rehabilitative, education, 
+     and community service programs. The Senate bill contained no 
+     similar language.
+
+                            Other Provisions
+
+       The conference agreement deletes without prejudice a House 
+     provision to require any elementary or secondary school or 
+     public library that has received any Federal funds for the 
+     acquisition or operation of any computer that is accessible 
+     to minors and that has access to the Internet to install 
+     software on such computer designed to prevent minors from 
+     obtaining access to any obscene information using that 
+     computer and to ensure that such software is operational 
+     whenever that computer is used by minors. Exceptions are 
+     granted to permit a minor to have access to information that 
+     is not obscene or otherwise unprotected by the Constitution 
+     under the direct supervision of an adult designated by the 
+     school or library. The Senate bill contained no similar 
+     provision.
+       The conference agreement does not include House language 
+     amending the National Labor Relations Act to require the NLRB 
+     to adjust its jurisdictional threshold amounts for the 
+     inflation that has occurred since the adoption of the current 
+     thresholds on August 1, 1959. The Senate bill contained no 
+     similar provision.
+       The conference agreement does not include House language 
+     amending the Internal Revenue Code to require that Earned 
+     Income Tax Credit payments be paid on a monthly basis rather 
+     than in a lump sum annual payment. The Senate bill contained 
+     no similar language.
+       The conference agreement does not include House language 
+     amending the Higher Education Act to require the Secretary of 
+     Education to charge an origination fee on direct student 
+     loans of four percent. The Senate bill included no similar 
+     provision.
+       The conference agreement does not include House language 
+     amending the National Housing Act to eliminate the premium 
+     rebate on FHA home mortgages. The Senate bill included no 
+     similar provision.
+       The conference agreement does not include an appropriation 
+     of $508,000,000 proposed by the House for the Department of 
+     Agriculture to provide assistance to producers for crop and 
+     livestock losses incurred as a result of the hurricanes, and 
+     the flooding associated with the hurricanes, that struck the 
+     eastern United States in August and September, 1999. The 
+     Senate bill included no similar appropriation.
+
+                          Conference Agreement
+
+       The following table displays the amounts agreed to for each 
+     program, project or activity with appropriate comparisons:
+
+[[Page H10999]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.020
+     
+
+
+[[Page H11000]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.021
+     
+
+
+[[Page H11001]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.022
+     
+
+
+[[Page H11002]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.023
+     
+
+
+[[Page H11003]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.024
+     
+
+
+[[Page H11004]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.025
+     
+
+
+[[Page H11005]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.026
+     
+
+
+[[Page H11006]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.027
+     
+
+
+[[Page H11007]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.028
+     
+
+
+[[Page H11008]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.029
+     
+
+
+[[Page H11009]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.030
+     
+
+
+[[Page H11010]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.031
+     
+
+
+[[Page H11011]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.032
+     
+
+
+[[Page H11012]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.033
+     
+
+
+[[Page H11013]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.034
+     
+
+
+[[Page H11014]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.035
+     
+
+
+[[Page H11015]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.036
+     
+
+
+[[Page H11016]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.037
+     
+
+
+[[Page H11017]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.038
+     
+
+
+[[Page H11018]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.039
+     
+
+
+[[Page H11019]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.040
+     
+
+
+[[Page H11020]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.041
+     
+
+
+[[Page H11021]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.042
+     
+
+
+[[Page H11022]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.043
+     
+
+
+[[Page H11023]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.044
+     
+
+
+[[Page H11024]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.045
+     
+
+
+[[Page H11025]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.046
+     
+
+
+[[Page H11026]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.047
+     
+
+
+[[Page H11027]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.048
+     
+
+
+[[Page H11028]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.049
+     
+
+
+[[Page H11029]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.050
+     
+
+
+[[Page H11030]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.051
+     
+
+
+[[Page H11031]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.052
+     
+
+
+[[Page H11032]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.053
+     
+
+
+[[Page H11033]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.054
+     
+
+
+[[Page H11034]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.055
+     
+
+
+[[Page H11035]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.056
+     
+
+
+[[Page H11036]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.057
+     
+
+
+[[Page H11037]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.058
+     
+
+
+[[Page H11038]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.059
+     
+
+
+[[Page H11039]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.060
+     
+
+
+[[Page H11040]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.061
+     
+
+
+[[Page H11041]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.062
+     
+
+
+[[Page H11042]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.063
+     
+
+
+[[Page H11043]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.064
+     
+
+
+[[Page H11044]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.065
+     
+
+
+[[Page H11045]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.066
+     
+
+
+[[Page H11046]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.067
+     
+
+
+[[Page H11047]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.068
+     
+
+
+[[Page H11048]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.069
+     
+
+
+[[Page H11049]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.070
+     
+
+
+[[Page H11050]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.071
+     
+
+
+[[Page H11051]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.072
+     
+
+
+[[Page H11052]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.073
+     
+
+
+[[Page H11053]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.074
+     
+
+
+[[Page H11054]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.075
+     
+
+
+[[Page H11055]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.076
+     
+
+
+[[Page H11056]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.077
+     
+
+
+[[Page H11057]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.078
+     
+
+
+[[Page H11058]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.079
+     
+
+
+[[Page H11059]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.080
+     
+
+
+[[Page H11060]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.081
+     
+
+
+[[Page H11061]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.082
+     
+
+
+[[Page H11062]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.083
+     
+
+
+[[Page H11063]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.084
+     
+
+
+[[Page H11064]]
+
+     [GRAPHIC] [TIFF OMITTED] TH27OC99.085
+     
+
+
+[[Page H11065]]
+
+                               DIVISION C
+
+
+                        RESCISSIONS AND OFFSETS
+
+       Sec. 1001. The conference agreement includes a government-
+     wide across-the-board reduction of 0.97 percent to all 
+     discretionary accounts. The managers expect that Federal 
+     agencies will, to the maximum extent possible, meet the 
+     reduced funding levels by eliminating waste, fraud, abuse, 
+     and excessive overhead expenses in Federal programs.
+
+
+                    National Directory of New Hires
+
+       Sec. 1002. The conference agreement includes a provision 
+     that amends the Social Security Act and the Child Support 
+     Performance and Incentive Act of 1998 to allow the Department 
+     of Education to access data from the National Directory of 
+     New Hires, maintained by the Department of Health and Human 
+     Services, to enhance student loan default collection efforts. 
+     This provision was not contained in either the House or the 
+     Senate bills.
+     Ernest J. Istook, Jr.,
+     Randy ``Duke'' Cunningham,
+     Todd Tiahrt,
+     Robert B. Aderholt,
+     Jo Ann Emerson,
+     John E. Sununu,
+     Bill Young,
+                                Managers on the Part of the House.
+
+     Kay Bailey Hutchison,
+     Ted Stevens,
+     Pete Domenici,
+     Managers on the Part of the Senate.
+
+                          ____________________
+```
