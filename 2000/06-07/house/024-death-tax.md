@@ -1,0 +1,34 @@
+---
+granule: CRECB-2000-pt7-Pg9768-4
+date: 2000-06-07
+edition: CRECB
+section: HOUSE
+page: 9768
+---
+
+# DEATH TAX
+
+```
+                               DEATH TAX
+
+  (Mr. SAM JOHNSON of Texas asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. SAM JOHNSON of Texas. Mr. Speaker, today we are faced with the 
+largest tax burden since World War II and what many people do not 
+realize is that the Federal Government is really taxing American 
+values. A good example is the death tax.
+  The death tax is one of the most onerous taxes imposed by the Federal 
+Government. It is double and triple taxation on American families' 
+hard-earned savings. Even worse, the death tax forces grieving sons and 
+daughters to sell family businesses or farms just to pay the tax. It is 
+absolutely outrageous that we allow the Federal Government to do this 
+to families.
+  Enough is enough. It is time to repeal the death tax and end the 
+assault on American values of family, hard work, savings, and 
+entrepreneurship.
+  Let us bury the death tax now. By doing this, we will be giving 
+freedom and a new birth to the next generation of families, farmers, 
+and small business owners.
+
+                          ____________________
+```

@@ -1,0 +1,41 @@
+---
+granule: CRECB-2000-pt7-Pg9711
+date: 2000-06-07
+edition: CRECB
+section: SENATE
+page: 9711
+---
+
+# MEASURES REFERRED
+
+```
+                           MEASURES REFERRED
+
+  The following bills were read the first and second times by unanimous 
+consent, and referred as indicated:
+
+       H.R. 3030. An act to designate the facility of the United 
+     States Postal Service located at 757 Warren Road in Ithaca, 
+     New York, as the ``Matthew F. McHugh Post Office''; to the 
+     Committee on Governmental Affairs.
+       H.R. 3535. An act to amend the Magnuson-Stevens Fishery 
+     Conservation and Management Act to eliminate the wasteful and 
+     unsportsmanlike practice of shark finning; to the Committee 
+     on Commerce, Science, and Transportation.
+       H.R. 4241. An act to designate the facility of the United 
+     States Postal Service located at 1818 Milton Avenue in 
+     Janesville, Wisconsin, as the ``Les Aspin Post Office 
+     Building''; to the Committee on Governmental Affairs.
+
+  The following concurrent resolution was read, and referred as 
+indicated:
+
+       H. Con. Res. 229. A concurrent resolution expressing the 
+     sense of Congress regarding the United States Congressional 
+     Philharmonic Society and its mission of promoting musical 
+     excellence throughout the educational system and encouraging 
+     people of all ages to commit to the love and expression of 
+     musical performance; to the Committee on the Judiciary.
+
+                          ____________________
+```

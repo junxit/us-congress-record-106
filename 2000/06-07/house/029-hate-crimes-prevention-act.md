@@ -1,0 +1,31 @@
+---
+granule: CRECB-2000-pt7-Pg9769-3
+date: 2000-06-07
+edition: CRECB
+section: HOUSE
+page: 9769
+---
+
+# HATE CRIMES PREVENTION ACT
+
+```
+                       HATE CRIMES PREVENTION ACT
+
+  (Mr. CONYERS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. CONYERS. Mr. Speaker, I am the author of the Hate Crimes 
+Prevention Act. We have 191 cosponsors. Today is the day that marks the 
+senseless death, lynching of James Byrd, Jr. in Jasper, Texas, when he 
+was dragged for miles over a country road, chained by the ankles to a 
+pickup truck. His body was shredded and ripped in the 2-hour ordeal.
+  Since the 2 years of his murder, the House has done nothing to 
+address the nationwide outburst of hate violence. So my bill really 
+should be taken up by the Committee on the Judiciary. We should stop 
+the stalling.
+  We know that the year of 1999 was called the summer of hate. Events 
+of violence have occurred throughout the country. So we cannot, as a 
+body, dismiss these atrocities as anonymous agents of lunatics. We need 
+a hate crimes prevention law.
+
+                          ____________________
+```

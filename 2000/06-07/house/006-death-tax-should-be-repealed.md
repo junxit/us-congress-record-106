@@ -1,0 +1,34 @@
+---
+granule: CRECB-2000-pt7-Pg9765-5
+date: 2000-06-07
+edition: CRECB
+section: HOUSE
+page: 9765
+---
+
+# DEATH TAX SHOULD BE REPEALED
+
+```
+                      DEATH TAX SHOULD BE REPEALED
+
+  (Mr. GIBBONS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. GIBBONS. Mr. Speaker, Woody Allen once said that ``death should 
+not be viewed as the end, but as a very effective way to cut down 
+expenses.''
+  Well, unfortunately, this maxim just does not hold true. Currently, 
+at the time of death, Americans are assessed an additional tax on the 
+value of their property known as the death tax. This added expense is 
+why over 70 percent of the family businesses do not survive to the 
+second generation.
+  Mr. Speaker, it is simply shameful that the Federal Government 
+requires an American to pay up to 60 percent of their savings, their 
+businesses, or their farm in taxes when they die. Therefore, I 
+encourage all of my colleagues to support H.R. 8 which will eliminate 
+the unfair death tax over the next 10 years. Americans should not have 
+to mourn the loss of a family, a business, or a farm in addition to the 
+loss of a loved one.
+  It is time to bury the death tax once and for all.
+
+                          ____________________
+```

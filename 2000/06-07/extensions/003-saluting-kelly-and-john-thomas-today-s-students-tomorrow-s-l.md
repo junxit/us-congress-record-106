@@ -1,0 +1,58 @@
+---
+granule: CRECB-2000-pt7-Pg9884-2
+date: 2000-06-07
+edition: CRECB
+section: EXTENSIONS
+page: 9884
+---
+
+# SALUTING KELLY AND JOHN THOMAS: TODAY'S STUDENTS, TOMORROW'S LEADERS
+
+```
+  SALUTING KELLY AND JOHN THOMAS: TODAY'S STUDENTS, TOMORROW'S LEADERS
+
+                                 ______
+                                 
+
+                          HON. JAMES E. ROGAN
+
+                             of california
+
+                    in the house of representatives
+
+                        Wednesday, June 7, 2000
+
+  Mr. ROGAN. Mr. Speaker, too often, we in Congress take to heart the 
+negativity so often seen in the news, on television, and in popular 
+culture. It is refreshing however, to return home to our districts and 
+see stories that inspire, motivate and remind us that this is not the 
+case. Indeed, as I have recently seen, today's students are tomorrow's 
+leaders.
+  In my home district, two local students, John and Kelly Thomas have 
+taken their compassion for older Americans and united it with some 
+technological know-how. Their efforts are proving that they are indeed 
+shining examples of tomorrow's leaders. In honor of their recent 
+accomplishments, and in recognition of their commitment to older 
+Americans, I ask my colleagues here today to join me in saluting John 
+and Kelly Thomas.
+  Kelly is a senior at Flintridge Preparatory School in La Canada 
+Flintridge, California. As part of her community service requirement at 
+school, she began playing the piano in area senior centers. And, as the 
+Glendale News-Press recently reported, Kelly with the help of her 
+younger brother John harnessed the power of a new home computer and 
+began to reach out to seniors all across the country.
+  The brother and sister team had noticed that seniors throughout the 
+community were often isolated and alone living in retirement homes. 
+John and Kelly's new Internet site became a launching pad uniting 
+seniors who are too often lonely with concerned neighbors online and in 
+person. Their web site http://come.to/writeseniors.com, has brought 
+people together and proved that John and Kelly, while still in high 
+school are successful not just as businesspeople, but as concerned 
+citizens as well.
+  In recognition of their accomplishments and with gratitude for their 
+commitment to others in the community, I ask my colleagues to join me 
+in saluting Kelly and John Thomas: Today's students, tomorrow's 
+leaders.
+
+                          ____________________
+```

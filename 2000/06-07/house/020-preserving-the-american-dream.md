@@ -1,0 +1,34 @@
+---
+granule: CRECB-2000-pt7-Pg9767-6
+date: 2000-06-07
+edition: CRECB
+section: HOUSE
+page: 9767
+---
+
+# PRESERVING THE AMERICAN DREAM
+
+```
+                     PRESERVING THE AMERICAN DREAM
+
+  (Mr. CHABOT asked and was given permission to address the House for 1 
+minute.)
+  Mr. CHABOT. Mr. Speaker, imagine an American working and sacrificing 
+their entire life, hoping to one day be able to pass the fruits of 
+their hard work on to their family. Then imagine that after they die, 
+the Federal Government swoops down like an enormous vulture, grabs what 
+they have earned and saved as if it is a carcass, and tosses the 
+remains to their relatives.
+  That, Mr. Speaker, is the death tax. Every year, the death tax 
+ravages thousands of family-owned businesses and farms to the tune of 
+$46 billion in tax penalties and administrative costs.
+  No American family should be forced to pay 60 percent of their 
+savings and their business or their farm in taxes when a loved one 
+dies. By repealing the death tax, we will help to preserve thousands of 
+family-owned farms and small businesses across the country that will 
+not have to be sold just to pay this onerous tax.
+  Mr. Speaker, we are not just ending a tax; we are attempting to 
+preserve the American dream.
+
+                          ____________________
+```
