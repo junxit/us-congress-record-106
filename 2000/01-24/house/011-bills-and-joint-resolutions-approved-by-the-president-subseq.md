@@ -1,0 +1,167 @@
+---
+granule: CREC-2000-01-24-pt1-PgH2
+date: 2000-01-24
+edition: CREC
+section: HOUSE
+page: H2
+citation: 146 Cong. Rec. H2
+---
+
+# BILLS AND JOINT RESOLUTIONS APPROVED BY THE PRESIDENT SUBSEQUENT TO SINE DIE ADJOURNMENT
+
+**Measures:** H.R. 15, H.R. 20, H.J.Res. 46, H.J.Res. 65, H.J.Res. 85, H.R. 322, H.R. 449, H.R. 459, H.R. 592, H.R. 658, H.R. 747, H.R. 748, H.R. 791, H.R. 970, H.R. 1094, H.R. 1104, H.R. 1180, H.R. 1191, H.R. 1251, H.R. 1327, H.R. 1528, H.R. 1555, H.R. 1619, H.R. 1665, H.R. 1693, H.R. 1794, H.R. 1887, H.R. 1932, H.R. 2079, H.R. 2140, H.R. 2401, H.R. 2632, H.R. 2737, H.R. 2886, H.R. 2889, H.R. 3257, H.R. 3373, H.R. 3381, H.R. 3419, H.R. 3443, H.R. 3456
+
+```
+  BILLS AND JOINT RESOLUTIONS APPROVED BY THE PRESIDENT SUBSEQUENT TO 
+                          SINE DIE ADJOURNMENT
+
+           December 3, 1999:
+       H.R. 20. An act to authorize the Secretary of the Interior 
+     to construct and operate a visitor center for the Upper 
+     Delaware Scenic and Recreational River on land owned by the 
+     State of New York.
+       H.R. 322. An act for the relief of Suchada Kwong.
+       H.R. 1555. An act to authorize appropriations for fiscal 
+     year 2000 for intelligence and intelligence-related 
+     activities of the United States Government, the Community 
+     Management Account, and the Central Intelligence Agency 
+     Retirement and Disability System, and for other purposes.
+           December 6, 1999:
+       H.J. Res. 85. Joint resolution appointing the day for the 
+     convening of the second session of the One Hundred Sixth 
+     Congress.
+       H.R. 459. An act to extend the deadline under the Federal 
+     Power Act for FERC Project No. 9401, the Mt. Hope Waterpower 
+     Project.
+       H.R. 1094. An act to amend the Federal Reserve Act to 
+     broaden the range of discount window loans which may be used 
+     as collateral for Federal reserve notes.
+       H.R. 1191. An act to designate certain facilities of the 
+     United States Postal Service in Chicago, Illinois.
+       H.R. 1251. An act to designate certain facilities of the 
+     United States Postal Service building located at 8850 South 
+     700 East, Sandy, Utah, as the ``Noal Cushing Bateman Post 
+     Office Building.''
+       H.R. 1327. An act to designate the United States Postal 
+     Service building located at 34480 Highway 101 South in 
+     Cloverdale, Oregon, as the ``Maurine B. Neuberger United 
+     States Post Office.''
+       H.R. 3373. An act to require the Secretary of the Treasury 
+     to mint coins in conjunction with the minting of coins by the 
+     Republic of Iceland in commemoration of the millennium of the 
+     discovery of the New World by Leif Ericsson.
+           December 7, 1999:
+       H.J. Res. 65. Joint resolution commending the World War II 
+     veterans who fought in the Battle of the Bulge, and for other 
+     purposes.
+       H.R. 449. An act to authorize the Gateway Visitor Center at 
+     Independence National Historical Park, and for other 
+     purposes.
+       H.R. 592. An act to designate a portion of Gateway National 
+     Recreation Area as ``World War Veterans Park at Miller 
+     Field.''
+       H.R. 747. An act to protect the permanent trust funds of 
+     the State of Arizona from erosion due to inflation and modify 
+     the basis on which distributions are made from those funds.
+       H.R. 748. An act to amend the Act that established the 
+     Keweenaw National Historical Park to require the Secretary of 
+     the Interior to consider nominees of various local interests 
+     in appointing members of the Keweenaw National Historical 
+     Park Advisory Commission.
+       H.R. 791. An act to amend the National Trails System Act to 
+     designate the route of the War of 1812 British invasion of 
+     Maryland and Washington, District of Columbia, and the route 
+     of the American defense, for study for potential additional 
+     to the national trails system.
+       H.R. 970. An act to authorize the Secretary of the Interior 
+     to provide assistance to the Perkins County Rural Water 
+     System, Inc., for the construction of water supply facilities 
+     in Perkins County, South Dakota.
+       H.R. 1794. An act concerning the participation of Taiwan in 
+     the World Health Organization (WHO).
+       H.R. 2079. An act to provide for the conveyance of certain 
+     National Forest System lands in the State of South Dakota.
+       H.R. 2886. An act to amend the Immigration and Nationality 
+     Act to provide that an adopted alien who is less than 18 
+     years of age may be considered a child under such Act if 
+     adopted with or after a sibling who is a child under such 
+     Act.
+       H.R. 2889. An act to amend the Central Utah Project 
+     Completion Act to provide for acquisition of water and water 
+     rights for Central Utah Project Purposes, completion of 
+     Central Utah project facilities, and implementation of water 
+     conservation measures.
+       H.R. 3257. An act to amend the Congressional Budget Act of 
+     1974 to assist the Congressional Budget Office with the 
+     scoring of State and local mandates.
+           December 9, 1999:
+       H.J. Res. 46. Joint resolution conferring status as an 
+     honorary veteran of the United States Armed Forces on Zachary 
+     Fisher.
+       H.R. 15. An act to designate a portion of the Otay Mountain 
+     region of California as wilderness.
+       H.R. 658. An act to establish the Thomas Cole National 
+     Historic Site in the State of New York as an affiliated area 
+     of the National Park System.
+       H.R. 1104. An act to authorize the Secretary of the 
+     Interior to transfer administrative jurisdiction over land 
+     within the boundaries of the Home of Franklin D. Roosevelt 
+     National Historic Site to the Archivist of the United States 
+     for the construction of a visitor center.
+       H.R. 1528. An act to reauthorize and amend the National 
+     Geologic Mapping Act of 1992.
+       H.R. 1619. An act to amend the Quinebaug and Shetucket 
+     Rivers Valley National Heritage Corridor Act of 1994 to 
+     expand the boundaries of the Corridor.
+       H.R. 1665. An act to allow the National Park Service to 
+     acquire certain land for addition to Wilderness Battlefield 
+     in Virginia, as previously authorized by law, by purchase or 
+     exchange as well as by donation.
+       H.R. 1693. An act to amend the Fair Labor Standards Act of 
+     1938 to clarify the overtime exemption for employees engaged 
+     in fire protection activities.
+       H.R. 1887. An act to amend title 18, United States Code, to 
+     punish the depiction of animal cruelty.
+       H.R. 1932. An act to authorize the President to award a 
+     gold medal on behalf of the Congress to Father Theodore M. 
+     Hesburgh, in recognition of his outstanding and enduring 
+     contributions to civil rights, higher education, the Catholic 
+     Church, the Nation, and the global community.
+       H.R. 2140. An act to improve protection and management of 
+     the Chattahoochee River National Recreation Area in the State 
+     of Georgia.
+       H.R. 2401. An act to amend the U.S. Holocaust Assets 
+     Commission Act of 1998 to extend the period by which the 
+     final report is due and to authorize additional funding.
+       H.R. 2632. An act to designate certain Federal lands in the 
+     Talladega National Forest in the State of Alabama as the 
+     Dugger Mountain Wilderness.
+       H.R. 2737. An act to authorize the Secretary of the 
+     Interior to convey to the State of Illinois certain Federal 
+     land associated with the Lewis and Clark National Historic 
+     Trail to be used as an historic and interpretive site along 
+     the Trail.
+       H.R. 3381. An act to reauthorize the Overseas Private 
+     Investment Corporation and the Trade and Development Agency, 
+     and for other purposes.
+       H.R. 3419. An act to amend title 49, United States Code, to 
+     establish the Federal Motor Carrier Safety Administration, 
+     and for other purposes.
+       H.R. 3456. An act to amend statutory damages provisions of 
+     title 17, United States Code.
+           December 14, 1999:
+       H.R. 3443. An act to amend part E of title IV of the Social 
+     Security Act to provide States with more funding and greater 
+     flexibility in carrying out programs designed to help 
+     children make the transition from foster care to self-
+     sufficiency, and for other purposes.
+           December 17, 1999:
+       H.R. 1180. An act to amend the Social Security Act to 
+     expand the availability to health care coverage for working 
+     individuals with disabilities, to establish a Ticket to Work 
+     and Self-Sufficiency Program in the Social Security 
+     Administration to provide such individuals with meaningful 
+     opportunities to work, and for other purposes.
+
+                          ____________________
+```
