@@ -1,0 +1,23 @@
+---
+granule: CRECB-1999-pt5-Pg7537-3
+date: 1999-04-27
+edition: CRECB
+section: SENATE
+page: 7537
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate April 27, 1999:
+
+
+                          DEPARTMENT OF STATE
+
+       JOYCE E. LEADER, OF THE DISTRICT OF COLUMBIA, A CAREER 
+     MEMBER OF THE SENIOR FOREIGN SERVICE, CLASS OF COUNSELOR, TO 
+     BE AMBASSADOR EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED 
+     STATES OF AMERICA TO THE REPUBLIC OF GUINEA.
+```
