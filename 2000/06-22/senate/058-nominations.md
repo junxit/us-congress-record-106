@@ -1,0 +1,66 @@
+---
+granule: CRECB-2000-pt9-Pg11983-5
+date: 2000-06-22
+edition: CRECB
+section: SENATE
+page: 11983
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate June 22, 2000:
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+MAJ. GEN. ROY E. BEAUCHAMP, 0000
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+MAJ. GEN. JOSEPH M. COSUMANO, JR., 0000
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                    To be rear admiral (lower half)
+
+CAPT. CLINTON E. ADAMS, 0000
+CAPT. STEVEN E. HART, 0000
+CAPT. LOUIS V. IASIELLO, 0000
+CAPT. STEVEN W. MAAS, 0000
+CAPT. WILLIAM J. MAGUIRE, 0000
+CAPT. JOHN M. MATECZUN, 0000
+CAPT. ROBERT L. PHILLIPS, 0000
+CAPT. DAVID D. PRUETT, 0000
+CAPT. DENNIS D. WOOFTER, 0000
+
+
+
+
+             CONGRESSIONAL RECORD 
+
+                United States
+                 of America
+
+
+June 22, 2000
+```
