@@ -1,0 +1,24 @@
+---
+granule: CRECB-2000-pt17-Pg24355
+date: 2000-10-25
+edition: CRECB
+section: HOUSE
+page: 24355
+---
+
+# SPECIAL ORDERS
+
+```
+[[Page 24355]]
+
+                             SPECIAL ORDERS
+
+  The SPEAKER pro tempore (Mr. Ose). Under the Speaker's announced 
+policy of January 6, 1999, and under a previous order of the House, the 
+following Members will be recognized for 5 minutes each.
+
+
+
+
+                          ____________________
+```
