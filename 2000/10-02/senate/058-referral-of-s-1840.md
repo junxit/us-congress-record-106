@@ -1,0 +1,29 @@
+---
+granule: CREC-2000-10-02-pt1-PgS9642
+date: 2000-10-02
+edition: CREC
+section: SENATE
+page: S9642
+citation: 146 Cong. Rec. S9642
+---
+
+# REFERRAL OF S. 1840
+
+**Speaking:** Kyl, Jon (K000352) [R-AZ]
+
+**Measures:** S. 1840
+
+```
+                          REFERRAL OF S. 1840
+
+  Mr. KYL. Mr. President, I ask unanimous consent that when the 
+Committee on Indian Affairs reports S. 1840, a bill to provide for the 
+transfer of public lands to certain California Indian tribes, it then 
+be referred to the Energy Committee for a period not to exceed 7 
+calendar days. I further ask consent that if S. 1840 is not reported 
+prior to the 7 days, the bill then be discharged from the Energy 
+Committee and placed on the calendar.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
