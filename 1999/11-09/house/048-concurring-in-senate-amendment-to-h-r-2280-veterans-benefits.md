@@ -1,0 +1,278 @@
+---
+granule: CRECB-1999-pt20-Pg29196
+date: 1999-11-09
+edition: CRECB
+section: HOUSE
+page: 29196
+---
+
+# CONCURRING IN SENATE AMENDMENT TO H.R. 2280, VETERANS BENEFITS IMPROVEMENT ACT OF 1999, WITH AMENDMENTS
+
+```
+    CONCURRING IN SENATE AMENDMENT TO H.R. 2280, VETERANS BENEFITS 
+                IMPROVEMENT ACT OF 1999, WITH AMENDMENTS
+
+  Mr. STUMP. Mr. Speaker, I move to suspend the rules and agree to the 
+resolution (H. Res. 368) providing for the concurrence by the House 
+with amendments in the amendment of the Senate to H.R. 2280.
+  The Clerk read as follows:
+
+                              H. Res. 368
+
+       Resolved, That, upon the adoption of this resolution, the 
+     House shall be considered to have taken from the Speaker's 
+     table the bill H.R. 2280, with the Senate amendment thereto, 
+     and to have concurred in the Senate amendment with the 
+     following amendments:
+       (1) Amend the title so as to read: ``An Act to amend title 
+     38, United States Code, to provide a cost-of-living 
+     adjustment in the rates of disability compensation for 
+     veterans with service-connected disabilities and the rates of 
+     dependency and indemnity compensation for survivors of such 
+     veterans.''.
+       (2) In lieu of the matter proposed to be inserted by the 
+     amendment of the Senate, insert the following:
+
+     SECTION 1. SHORT TITLE; REFERENCES TO TITLE 38, UNITED STATES 
+                   CODE.
+
+       (a) Short Title.--This Act may be cited as the ``Veterans' 
+     Compensation Cost-of-Living Adjustment Act of 1999''.
+       (b) References to Title 38, United States Code.--Except as 
+     otherwise expressly provided, whenever in this Act an 
+     amendment or repeal is expressed in terms of an amendment to, 
+     or repeal of, a section or other provision, the reference 
+     shall be considered to be made to a section or other 
+     provision of title 38, United States Code.
+
+     SEC. 2. DISABILITY COMPENSATION.
+
+       (a) Increase in Rates.--Section 1114 is amended--
+       (1) by striking ``$95'' in subsection (a) and inserting 
+     ``$98'';
+       (2) by striking ``$182'' in subsection (b) and inserting 
+     ``$188'';
+       (3) by striking ``$279'' in subsection (c) and inserting 
+     ``$288'';
+       (4) by striking ``$399'' in subsection (d) and inserting 
+     ``$413'';
+       (5) by striking ``$569'' in subsection (e) and inserting 
+     ``$589'';
+       (6) by striking ``$717'' in subsection (f) and inserting 
+     ``$743'';
+       (7) by striking ``$905'' in subsection (g) and inserting 
+     ``$937'';
+       (8) by striking ``$1,049'' in subsection (h) and inserting 
+     ``$1,087'';
+       (9) by striking ``$1,181'' in subsection (i) and inserting 
+     ``$1,224'';
+       (10) by striking ``$1,964'' in subsection (j) and inserting 
+     ``$2,036'';
+       (11) in subsection (k)--
+       (A) by striking ``$75'' both places it appears and 
+     inserting ``$76''; and
+       (B) by striking ``$2,443'' and ``$3,426'' and inserting 
+     ``$2,533'' and ``$3,553'', respectively;
+       (12) by striking ``$2,443'' in subsection (l) and inserting 
+     ``$2,533'';
+       (13) by striking ``$2,694'' in subsection (m) and inserting 
+     ``$2,794'';
+       (14) by striking ``$3,066'' in subsection (n) and inserting 
+     ``$3,179'';
+       (15) by striking ``$3,426'' each place it appears in 
+     subsections (o) and (p) and inserting ``$3,553'';
+       (16) by striking ``$1,471'' and ``$2,190'' in subsection 
+     (r) and inserting ``$1,525'' and ``$2,271'', respectively; 
+     and
+       (17) by striking ``$2,199'' in subsection (s) and inserting 
+     ``$2,280''.
+       (b) Special Rule.--The Secretary of Veterans Affairs may 
+     authorize administratively, consistent with the increases 
+     authorized by this section, the rates of disability 
+     compensation payable to persons within the purview of section 
+     10 of Public Law 85-857 who are not in receipt of 
+     compensation payable pursuant to chapter 11 of title 38, 
+     United States Code.
+
+     SEC. 3. ADDITIONAL COMPENSATION FOR DEPENDENTS.
+
+       Section 1115(1) is amended--
+       (1) by striking ``$114'' in clause (A) and inserting 
+     ``$117'';
+       (2) by striking ``$195'' and ``$60'' in clause (B) and 
+     inserting ``$201'' and ``$61'', respectively;
+       (3) by striking ``$78'' and ``$60'' in clause (C) and 
+     inserting ``$80'' and ``$61'', respectively;
+       (4) by striking ``$92'' in clause (D) and inserting 
+     ``$95'';
+       (5) by striking ``$215'' in clause (E) and inserting 
+     ``$222''; and
+       (6) by striking ``$180'' in clause (F) and inserting 
+     ``$186''.
+
+     SEC. 4. CLOTHING ALLOWANCE FOR CERTAIN DISABLED VETERANS.
+
+       Section 1162 is amended by striking ``$528'' and inserting 
+     ``$546''.
+
+     SEC. 5. DEPENDENCY AND INDEMNITY COMPENSATION FOR SURVIVING 
+                   SPOUSES.
+
+       (a) New Law Rates.--Section 1311(a) is amended--
+       (1) by striking ``$850'' in paragraph (1) and inserting 
+     ``$881''; and
+       (2) by striking ``$185'' in paragraph (2) and inserting 
+     ``$191''.
+       (b) Old Law Rates.--The table in section 1311(a)(3) is 
+     amended to read as follows:
+
+``Pay grade rate                                                Monthly
+  E-1..............................................................$881
+  E-2...............................................................881
+  E-3...............................................................881
+  E-4...............................................................881
+  E-5...............................................................881
+  E-6...............................................................881
+  E-7...............................................................911
+  E-8...............................................................962
+  E-9..........................................................\1\1,003
+  W-1...............................................................930
+  W-2...............................................................968
+  W-3...............................................................997
+  W-4.............................................................1,054
+  O-1...............................................................930
+  O-2...............................................................962
+  O-3.............................................................1,028
+  O-4.............................................................1,087
+  O-5.............................................................1,198
+  O-6.............................................................1,349
+  O-7.............................................................1,458
+  O-8.............................................................1,598
+  O-9.............................................................1,712
+
+[[Page 29197]]
+
+  O-10........................................................\2\71,878
+
+``\1\If the veteran served as sergeant major of the Army, senior 
+enlisted advisor of the Navy, chief master sergeant of the Air Force, 
+sergeant major of the Marine Corps, or master chief petty officer of 
+the Coast Guard, at the applicable time designated by section 1302 of 
+this title, the surviving spouse's rate shall be $1,082.
+``\2\If the veteran served as Chairman or Vice-Chairman of the Joint 
+Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, 
+Chief of Staff of the Air Force, Commandant of the Marine Corps, or 
+Commandant of the Coast Guard, at the applicable time designated by 
+section 1302 of this title, the surviving spouse's rate shall be 
+$2,013.''.
+
+       (c) Additional DIC for Children.--Section 1311(b) is 
+     amended by striking ``$215'' and inserting ``$222''.
+       (d) Aid and Attendance Allowance.--Section 1311(c) is 
+     amended by striking ``$215'' and inserting ``$222''.
+       (e) Housebound Rate.--Section 1311(d) is amended by 
+     striking ``$104'' and inserting ``$107''.
+
+     SEC. 6. DEPENDENCY AND INDEMNITY COMPENSATION FOR CHILDREN.
+
+       (a) DIC for Orphan Children.--Section 1313(a) is amended--
+       (1) by striking ``$361'' in paragraph (1) and inserting 
+     ``$373'';
+       (2) by striking ``$520'' in paragraph (2) and inserting 
+     ``$538'';
+       (3) by striking ``$675'' in paragraph (3) and inserting 
+     ``$699''; and
+       (4) by striking ``$675'' and ``$132'' in paragraph (4) and 
+     inserting ``$699'' and ``$136'', respectively.
+       (b) Supplemental DIC for Disabled Adult Children.--Section 
+     1314 is amended--
+       (1) by striking ``$215'' in subsection (a) and inserting 
+     ``$222'';
+       (2) by striking ``$361'' in subsection (b) and inserting 
+     ``$373''; and
+       (3) by striking ``$182'' in subsection (c) and inserting 
+     ``$188''.
+
+     SEC. 7. EFFECTIVE DATE.
+
+       The amendments made by this Act shall take effect on 
+     December 1, 1999.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+Arizona (Mr. Stump) and the gentleman from Illinois (Mr. Evans) each 
+will control 20 minutes.
+  The Chair recognizes the gentleman from Arizona (Mr. Stump).
+
+
+                             General Leave
+
+  Mr. STUMP. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days within which to revise and extend their remarks 
+and include extraneous material on this measure.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Arizona?
+  There was no objection.
+  Mr. STUMP. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, this is a clean bill providing a cost-of-living 
+adjustment to disabled veterans and surviving spouses. The other 
+provisions in the House-passed bill are part of an ongoing conference 
+between the House and the Senate and we hope to have a report on that 
+by tomorrow.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. EVANS. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, I salute the gentleman from Arizona (Mr. Stump), the 
+chairman of the committee, for his efforts to ensure a timely and 
+accurate cost-of-living adjustment of 2.4 percent which will be 
+provided to our Nation's service-connected disabled veterans and their 
+dependents and survivors who are in receipt of compensation and DIC 
+benefits. This increase in benefits will be reflected in payments 
+beginning January, 2000. Mr. Speaker, this measure deserves the support 
+of every Member of the House. I urge my colleagues to support the bill.
+  Mr. Speaker, I yield back the balance of my time.
+  Mr. STUMP. Mr. Speaker, I yield myself such time as I may consume.
+  I want to thank the ranking member of the Committee on Veterans' 
+Affairs for all his work on this provision as well as the gentleman 
+from New York (Mr. Quinn), the chairman of the subcommittee, and the 
+gentleman from California (Mr. Filner), the ranking member, and urge 
+all Members to support this COLA, cost-of-living increase, for our 
+veterans.
+  Mr. Speaker, I yield such time as he may consume to the gentleman 
+from Florida (Mr. Foley).
+  Mr. FOLEY. Mr. Speaker, I thank the gentleman from Arizona for his 
+hard work on this issue and obviously for recognition of all veterans. 
+We are getting ready certainly to celebrate Veterans Day this year. I 
+think it is incumbent upon us when we are considering the needs of the 
+United States of America, we prioritize those that have fought 
+valiantly for the freedoms that we all enjoy.
+  It is one of the unique things, having come to Congress and being 
+able to speak on the floor and advocate for constituents from the 16th 
+District, to realize many of those fundamental opportunities have been 
+given to us because of the fight the veterans made in previous 
+conflicts. I think it is incumbent especially as well to recognize that 
+years and years ago I remember the veterans were told that they would 
+have to wait for their cost-of-living, we have to make budgetary 
+matters first and we have got to balance the books and do all these 
+other things.
+  I think the gentleman from Arizona prioritizes the fact that veterans 
+should not be treated any differently than any other citizen, that if 
+there are cost-of-living benefits going to employees of the Federal 
+Government, to Social Security recipients, that they should also be 
+included for those disabled, those veterans and other groups.
+  I want to strongly urge obviously my colleagues' consideration of 
+this measure but also once again to underscore the fact that very few 
+of us would be able to speak freely in this Chamber had it not been for 
+the valiant effort of men and women who have sacrificed, men and women 
+who have gone to theaters around the globe to protect freedom here and 
+abroad.
+  Mr. STUMP. Mr. Speaker, I thank the gentleman for his remarks.
+  Mr. Speaker, I have no further requests for time, and I yield back 
+the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Arizona (Mr. Stump) that the House suspend the rules and 
+agree to the resolution, House Resolution 368.
+  The question was taken; and (two-thirds having voted in favor 
+thereof) the rules were suspended and the resolution was agreed to.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
