@@ -1,0 +1,208 @@
+---
+granule: CREC-1999-11-10-pt1-PgH11915
+date: 1999-11-10
+edition: CREC
+section: HOUSE
+page: H11915
+citation: 145 Cong. Rec. H11915
+---
+
+# WATER RESOURCES DEVELOPMENT ACT TECHNICAL CORRECTIONS
+
+**Speaking:** Boehlert, Sherwood (B000586) [R-NY], Borski, Robert A. (B000644) [D-PA]
+
+**Measures:** H.R. 2724
+
+```
+         WATER RESOURCES DEVELOPMENT ACT TECHNICAL CORRECTIONS
+
+  Mr. BOEHLERT. Mr. Speaker, I move to suspend the rules and concur in 
+the Senate amendment to the bill (H.R. 2724) to make technical 
+corrections to the Water Resources Development Act of 1999.
+  The Clerk read as follows:
+       Senate amendment:
+       Strike out all after the enacting clause and insert:
+
+     SECTION 1. ENVIRONMENTAL INFRASTRUCTURE.
+
+       (a) Jackson County, Mississippi.--Section 219 of the Water 
+     Resources Development Act of 1992 (106 Stat. 4835; 110 Stat. 
+     3757) is amended--
+       (1) in subsection (c), by striking paragraph (5) and 
+     inserting the following:
+       ``(5) Jackson county, mississippi.--Provision of an 
+     alternative water supply and a project for the elimination or 
+     control of combined sewer overflows for Jackson County, 
+     Mississippi.''; and
+       (2) in subsection (e)(1), by striking ``$10,000,000'' and 
+     inserting ``$20,000,000''.
+       (b) Manchester, New Hampshire.--Section 219(e)(3) of the 
+     Water Resources Development Act of 1992 (106 Stat. 4835; 110 
+     Stat. 3757) is amended by striking ``$10,000,000'' and 
+     inserting ``$20,000,000''.
+       (c) Atlanta, Georgia.--Section 219(f)(1) of the Water 
+     Resources Development Act of 1992 (106 Stat. 4835; 113 Stat. 
+     335) is amended by striking ``$25,000,000 for''.
+       (d) Paterson, Passaic County, and Passaic Valley, New 
+     Jersey.--Section 219(f)(2) of the Water Resources Development 
+     Act of 1992 (106 Stat. 4835; 113 Stat. 335) is amended by 
+     striking ``$20,000,000 for''.
+       (e) Elizabeth and North Hudson, New Jersey.--Section 219(f) 
+     of the Water Resources Development Act of 1992 (106 Stat. 
+     4835; 113 Stat. 335) is amended--
+       (1) in paragraph (33), by striking ``$20,000,000'' and 
+     inserting ``$10,000,000''; and
+       (2) in paragraph (34)--
+       (A) by striking ``$10,000,000'' and inserting 
+     ``$20,000,000''; and
+       (B) by striking ``in the city of North Hudson'' and 
+     inserting ``for the North Hudson Sewerage Authority''.
+
+     SEC. 2. UPPER MISSISSIPPI RIVER ENVIRONMENTAL MANAGEMENT 
+                   PROGRAM.
+
+       Section 1103(e)(5) of the Water Resources Development Act 
+     of 1986 (33 U.S.C. 652(e)(5)) (as amended by section 
+     509(c)(3) of the Water Resources Development Act of 1999 (113 
+     Stat. 340)) is amended by striking ``paragraph (1)(A)(i)'' 
+     and inserting ``paragraph (1)(B)''.
+
+     SEC. 3. DELAWARE RIVER, PENNSYLVANIA AND DELAWARE.
+
+       Section 346 of the Water Resources Development Act of 1999 
+     (113 Stat. 309) is amended by striking ``economically 
+     acceptable'' and inserting ``environmentally acceptable''.
+
+     SEC. 4. PROJECT REAUTHORIZATIONS.
+
+       Section 364 of the Water Resources Development Act of 1999 
+     (113 Stat. 313) is amended--
+       (1) by striking ``Each'' and all that follows through the 
+     colon and inserting the following: ``Each of the following 
+     projects is authorized to
+
+[[Page H11916]]
+
+     be carried out by the Secretary, and no construction on any 
+     such project may be initiated until the Secretary determines 
+     that the project is technically sound, environmentally 
+     acceptable, and economically justified:'';
+       (2) by striking paragraph (1); and
+       (3) by redesignating paragraphs (2) through (6) as 
+     paragraphs (1) through (5), respectively.
+
+     SEC. 5. SHORE PROTECTION.
+
+       Section 103(d)(2)(A) of the Water Resources Development Act 
+     of 1986 (33 U.S.C. 2213(d)(2)(A)) (as amended by section 
+     215(a)(2) of the Water Resources Development Act of 1999 (113 
+     Stat. 292)) is amended by striking ``or for which a 
+     feasibility study is completed after that date,'' and 
+     inserting ``except for a project for which a District 
+     Engineer's Report is completed by that date,''.
+
+     SEC. 6. COMITE RIVER, LOUISIANA.
+
+       Section 371 of the Water Resources Development Act of 1999 
+     (113 Stat. 321) is amended--
+       (1) by inserting ``(a) In General.--'' before ``The''; and
+       (2) by adding at the end the following:
+       ``(b) Crediting of Reduction in Non-Federal Share.--The 
+     project cooperation agreement for the Comite River Diversion 
+     Project shall include a provision that specifies that any 
+     reduction in the non-Federal share that results from the 
+     modification under subsection (a) shall be credited toward 
+     the share of project costs to be paid by the Amite River 
+     Basin Drainage and Water Conservation District.''.
+
+     SEC. 7. CHESAPEAKE CITY, MARYLAND.
+
+       Section 535(b) of the Water Resources Development Act of 
+     1999 (113 Stat. 349) is amended by striking ``the city of 
+     Chesapeake'' each place it appears and inserting ``Chesapeake 
+     City''.
+
+     SEC. 8. CONTINUATION OF SUBMISSION OF CERTAIN REPORTS BY THE 
+                   SECRETARY OF THE ARMY.
+
+       (a) Recommendations of Inland Waterways Users Board.--
+     Section 302(b) of the Water Resources Development Act of 1986 
+     (33 U.S.C. 2251(b)) is amended in the last sentence by 
+     striking ``The'' and inserting ``Notwithstanding section 3003 
+     of Public Law 104-66 (31 U.S.C. 1113 note; 109 Stat. 734), 
+     the''.
+       (b) List of Authorized but Unfunded Studies.--Section 
+     710(a) of the Water Resources Development Act of 1986 (33 
+     U.S.C. 2264(a)) is amended in the first sentence by striking 
+     ``Not'' and inserting ``Notwithstanding section 3003 of 
+     Public Law 104-66 (31 U.S.C. 1113 note; 109 Stat. 734), 
+     not''.
+       (c) Reports on Participation of Minority Groups and 
+     Minority-Owned Firms in Mississippi River-Gulf Outlet 
+     Feature.--Section 844(b) of the Water Resources Development 
+     Act of 1986 (100 Stat. 4177) is amended in the second 
+     sentence by striking ``The'' and inserting ``Notwithstanding 
+     section 3003 of Public Law 104-66 (31 U.S.C. 1113 note; 109 
+     Stat. 734), the''.
+       (d) List of Authorized but Unfunded Projects.--Section 
+     1001(b)(2) of the Water Resources Development Act of 1986 (33 
+     U.S.C. 579a(b)(2)) is amended in the first sentence by 
+     striking ``Every'' and inserting ``Notwithstanding section 
+     3003 of Public Law 104-66 (31 U.S.C. 1113 note; 109 Stat. 
+     734), every''.
+
+     SEC. 9. AUTHORIZATIONS FOR PROGRAM PREVIOUSLY AND CURRENTLY 
+                   FUNDED.
+
+       (a) Program Authorization.--The program described in 
+     subsection (c) is hereby authorized.
+       (b) Authorization of Appropriations.--Funds are hereby 
+     authorized to be appropriated for the Department of 
+     Transportation for the program authorized in subsection (a) 
+     in amounts as follows:
+       (1) Fiscal year 2000.--For fiscal year 2000, $10,000,000.
+       (2) Fiscal year 2001.--For fiscal year 2001, $10,000,000.
+       (3) Fiscal year 2002.--For fiscal year 2002, $7,000,000.
+       (c) Applicability.--The program referred to in subsection 
+     (a) is the program for which funds appropriated in title I of 
+     Public Law 106-69 under the heading ``FEDERAL RAILROAD 
+     ADMINISTRATION'' are available for obligation upon the 
+     enactment of legislation authorizing the program.
+
+                              {time}  1745
+
+  The SPEAKER pro tempore (Mr. Barrett of Nebraska). Pursuant to the 
+rule, the gentleman from New York (Mr. Boehlert) and the gentleman from 
+Pennsylvania (Mr. Borski) each will control 20 minutes.
+  The Chair recognizes the gentleman from New York (Mr. Boehlert).
+  Mr. BOEHLERT. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, the bill's clarifications and revisions were developed 
+in close coordination with the Senate and the administration.
+  Mr. Speaker, Senator Chafee worked very closely with the House 
+conferees on the Water Resources Development Act. If I am not mistaken, 
+it was the last major legislative achievement before his untimely 
+death. He also worked very closely with us to fine-tune this 
+legislation and then expedite its passage. It is a tribute to him that 
+we were able to enact the Water Resources Development Act and then 
+expeditiously move this bill.
+  H.R. 2724 perfects the legislation and addresses new, time-sensitive 
+issues. It deserves the support of all of our colleagues.
+  Mr. Speaker, I reserve the balance of my time.
+  Mr. BORSKI. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, I am pleased to join with the distinguished gentleman 
+from New York (Chairman Boehlert) in support of this bill, H.R. 2724. 
+As the gentleman from New York (Chairman Boehlert) has just suggested, 
+this is a technical corrections bill to the water resources bill. It is 
+bipartisan, noncontroversial. I urge its support.
+  Mr. Speaker, I yield back the balance of my time.
+  Mr. BOEHLERT. Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from New York (Mr. Boehlert) that the House suspend the rules 
+and concur in the Senate amendment to the bill, H.R. 2724.
+  The question was taken; and (two-thirds having voted in favor 
+thereof) the rules were suspended and the Senate amendment was 
+concurred in.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
