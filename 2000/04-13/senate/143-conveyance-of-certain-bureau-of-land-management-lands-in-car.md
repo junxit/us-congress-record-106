@@ -1,0 +1,48 @@
+---
+granule: CREC-2000-04-13-pt2-PgS2797
+date: 2000-04-13
+edition: CREC
+section: SENATE
+page: S2797
+citation: 146 Cong. Rec. S2797
+---
+
+# CONVEYANCE OF CERTAIN BUREAU OF LAND MANAGEMENT LANDS IN CARSON CITY, NEVADA
+
+**Measures:** S. 408
+
+```
+ CONVEYANCE OF CERTAIN BUREAU OF LAND MANAGEMENT LANDS IN CARSON CITY, 
+                                 NEVADA
+
+  The bill (S. 408) to direct the Secretary of the Interior to convey a 
+former Bureau of Land Management administrative site to the City of 
+Carson City, Nevada, for use as a senior center, was considered, 
+ordered to be engrossed for a third reading, read the third time, and 
+passed, as follows:
+
+                                 S. 408
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. CONVEYANCE OF CERTAIN BUREAU OF LAND MANAGEMENT 
+                   LANDS IN CARSON CITY, NEVADA.
+
+       (a) Conveyance.--Not later than 120 days after the date of 
+     enactment of this Act, the Secretary of the Interior, acting 
+     through the Director of the Bureau of Land Management, shall 
+     convey to the City of Carson City, Nevada, without 
+     consideration, all right, title, and interest of the United 
+     States in the property described as Government lot 1 in sec. 
+     8, T. 15 N., R. 20 E., Mount Diablo Meridian, as shown on the 
+     Bureau of Land Management official plat approved October 28, 
+     1996, containing 4.48 acres, more or less, and assorted 
+     uninhabitable buildings and improvements.
+       (b) Use.--The conveyance of the property under subsection 
+     (a) shall be subject to reversion to the United States if the 
+     property is used for a purpose other than the purpose of a 
+     senior assisted living center or a related public purpose.
+
+                          ____________________
+```

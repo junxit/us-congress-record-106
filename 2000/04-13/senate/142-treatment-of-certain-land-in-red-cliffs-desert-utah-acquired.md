@@ -1,0 +1,50 @@
+---
+granule: CREC-2000-04-13-pt2-PgS2796-3
+date: 2000-04-13
+edition: CREC
+section: SENATE
+page: S2796
+citation: 146 Cong. Rec. S2796
+---
+
+# TREATMENT OF CERTAIN LAND IN RED CLIFFS DESERT, UTAH ACQUIRED BY EXCHANGE
+
+**Measures:** H.R. 2863
+
+```
+   TREATMENT OF CERTAIN LAND IN RED CLIFFS DESERT, UTAH ACQUIRED BY 
+                                EXCHANGE
+
+  The bill (H.R. 2863) to clarify the legal effect on the United States 
+of the acquisition of a parcel of land in the Red Cliffs Desert Reserve 
+in the State of Utah, was considered, ordered to a third reading, read 
+the third time, and passed.
+
+                               H.R. 2863
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. TREATMENT OF CERTAIN LAND IN RED CLIFFS DESERT 
+                   RESERVE, UTAH, ACQUIRED BY EXCHANGE.
+
+       (a) Limitation on Liability.--In support of the habitat 
+     conservation plan of Washington County, Utah, for the 
+     protection of the desert tortoise and surrounding habitat, 
+     the transfer of the land described in subsection (b) from the 
+     City of St. George, Utah, to the United States shall convey 
+     no liability on the United States that did not already exist 
+     with the United States on the date of the transfer of the 
+     land.
+       (b) Description of Land.--The land referred to in 
+     subsection (a) is a parcel of approximately 15 acres of land 
+     located within the Red Cliffs Desert Reserve in Washington 
+     County, Utah, that was formerly used as a landfill by the 
+     City of St. George.
+
+[[Page S2797]]
+
+
+
+                          ____________________
+```

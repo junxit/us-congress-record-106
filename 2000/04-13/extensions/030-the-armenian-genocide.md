@@ -1,0 +1,63 @@
+---
+granule: CREC-2000-04-13-pt2-PgE566-2
+date: 2000-04-13
+edition: CREC
+section: EXTENSIONS
+page: E566
+citation: 146 Cong. Rec. E566
+---
+
+# THE ARMENIAN GENOCIDE
+
+**Speaking:** Frelinghuysen, Rodney P. (F000372) [R-NJ]
+
+```
+                         THE ARMENIAN GENOCIDE
+
+                                 ______
+                                 
+
+                               speech of
+
+                      HON. RODNEY P. FRELINGHUYSEN
+
+                             of new jersey
+
+                    in the house of representatives
+
+                       Wednesday, April 12, 2000
+
+  Mr. FRELINGHUYSEN. Mr. Speaker, I am pleased to once again 
+participate in the annual remembrance of the Armenian genocide. This 
+year marks the 85th Anniversary of that terrible tragedy, which claimed 
+the lives of over 1.5 million Armenians between 1915 and 1923.
+  The Armenian Genocide started in 1915, when the Turkish government 
+rounded up and killed Armenian soldiers. Then, on April 24, 1915, the 
+government turned its attention to slaughtering Armenian intellectuals. 
+They were killed because of their ethnicity, the first group in the 
+20th Century killed not for what they did, but for who they were.
+  By the time the bloodshed of the genocide ended, the victims included 
+the aged, women and children who had been forced from their homes and 
+marched to relocation camps, beaten and brutalized along the way. In 
+addition to the 1.5 million dead, over 500,000 Armenians were driven 
+from their homeland.
+  It is important that we make the time, every year, to remember the 
+victims of the Armenian genocide. We hope that, by remembering the 
+bloodshed and atrocities committed against the Armenians, we can 
+prevent this kind of tragedy from repeating itself. Unfortunately, 
+history continues to prove us wrong.
+  So, Mr. Speaker, as we begin this new century, we must not forget the 
+horrors of the past one. It is important to continue to talk about the 
+Armenian genocide. We must keep alive the memory of those who lost 
+their lives during the eight years of bloodshed in Armenia. We must 
+educate other nations who have not recognized that the Armenian 
+genocide occurred. Above all, we must remain vigilant.
+  Mr. Speaker, I commend Armenian-Americans--the survivors and their 
+descendants--who continue to educate the world about the tragedy of the 
+Armenian Genocide and make valuable contributions to our shared 
+American culture. Because of their efforts, the world will not be 
+allowed to forget the memory of the victims of the first 20th Century 
+holocaust.
+
+                          ____________________
+```
