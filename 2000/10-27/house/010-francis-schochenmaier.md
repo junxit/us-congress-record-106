@@ -1,0 +1,65 @@
+---
+granule: CRECB-2000-pt17-Pg25193-3
+date: 2000-10-27
+edition: CRECB
+section: HOUSE
+page: 25193
+---
+
+# FRANCIS SCHOCHENMAIER
+
+```
+                         FRANCIS SCHOCHENMAIER
+
+  The Clerk called the Senate bill (S. 785) for the relief of Francis 
+Schochenmaier and Mary Hudson.
+  There being no objection, the Clerk read the Senate bill as follows:
+
+                                 S. 785
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. RELIEF OF FRANCES SCHOCHENMAIER.
+
+       The Secretary of the Treasury shall pay, out of any moneys 
+     in the Treasury not otherwise appropriated, to Frances 
+     Schochenmaier of Bonesteel, South Dakota, the sum of 
+     $60,567.58 in compensation for the erroneous underpayment to 
+     Herman Schochenmaier, husband of Frances Schochenmaier, 
+     during the period from September 1945 to March 1995, of 
+     compensation and other benefits relating to a service-
+     connected disability incurred by Herman Schochenmaier during 
+     military service in World War II.
+
+     SEC. 2. RELIEF OF MARY HUDSON.
+
+       Notwithstanding section 5121(a) of title 38, United States 
+     Code, or any other provision of law, the Secretary of 
+     Veterans Affairs shall not recover from the estate of Wallace 
+     Hudson, formerly of Russellville, Alabama, or from Mary 
+     Hudson, the surviving spouse of Wallace Hudson, the sum of 
+     $97,253 paid to Wallace Hudson for compensation and other 
+     benefits relating to a service-connected disability incurred 
+     by Wallace Hudson during active military service in World War 
+     II, which payment was mailed by the Secretary to Wallace 
+     Hudson in January 2000 but was delivered after Wallace 
+     Hudson's death.
+
+     SEC. 3. LIMITATION ON FEES.
+
+       (a) In General.--Not more than a total of 10 percent of the 
+     payment required by section 1 or retained under section 2 may 
+     be paid to or received by agents or attorneys for services 
+     rendered in connection with obtaining or retaining such 
+     payment, as the case may be, any contract to the contrary 
+     notwithstanding.
+       (b) Violation.--Any person who violates subsection (a) 
+     shall be fined not more than $1,000.
+
+  The Senate bill was ordered to be read a third time, was read the 
+third time, and passed, and a motion to reconsider was laid on the 
+table.
+
+                          ____________________
+```
