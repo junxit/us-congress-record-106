@@ -1,0 +1,51 @@
+---
+granule: CRECB-1999-pt9-Pg13213-2
+date: 1999-06-16
+edition: CRECB
+section: EXTENSIONS
+page: 13213
+---
+
+# HONORING MOUNT VERNON HEIGHTS CONGREGATIONAL CHURCH
+
+```
+          HONORING MOUNT VERNON HEIGHTS CONGREGATIONAL CHURCH
+
+                                 ______
+                                 
+
+                          HON. ELIOT L. ENGEL
+
+                              of new york
+
+                    in the house of representatives
+
+                        Wednesday, June 16, 1999
+
+  Mr. ENGEL. Mr. Speaker, this year, the good parishioners of the Mount 
+Vernon Heights Congregational Church celebrate the church's 100th 
+anniversary. The history of the church is actually longer when we 
+remember that it was in 1892 that its meetings began in the Garden 
+Avenue School. The church became fully organized in 1896 with the Rev. 
+F.B. Kellogg named pastor of the new church. By the following year the 
+congregation had grown so large that it moved to a barn on Bedford 
+Avenue and, on July 4th of that year, the new church was dedicated.
+  By 1910 the church has become self-supporting and in 1916 
+construction on the current building was started. The church, a New 
+England colonial design reflecting a post Civil War spirit of unity and 
+self determination, was completed by 1922. Subsequently a sanctuary was 
+added as well as tower chime.
+  The Mount Vernon Heights Congregational Church has always practiced 
+community activism as well as charitable works and community projects, 
+such as its youth seminars and elderly centers.
+  The church also is part of the annual pulpit exchanges in which 
+ministers from 19 churches deliver sermons at sister churches.
+  The church is justly proud of its fellowship of many denominations 
+and its ministers of many differing ethnic and social backgrounds. The 
+Rev. Maximilian Bernard Surjadinata, pastor since 1988, was born in 
+Indonesia. I warmly congratulate the Mount Vernon Heights 
+Congregational Church on its centenary and for its wonderful 
+accomplishments in those hundred years.
+
+                          ____________________
+```
