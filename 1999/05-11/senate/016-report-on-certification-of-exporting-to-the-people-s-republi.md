@@ -1,0 +1,36 @@
+---
+granule: CRECB-1999-pt7-Pg9061-4
+date: 1999-05-11
+edition: CRECB
+section: SENATE
+page: 9061
+---
+
+# REPORT ON CERTIFICATION OF EXPORTING TO THE PEOPLE'S REPUBLIC OF CHINA SATELLITE FUELS AND SEPARATION SYSTEMS--MESSAGE FROM THE PRESIDENT--PM 26
+
+```
+REPORT ON CERTIFICATION OF EXPORTING TO THE PEOPLE'S REPUBLIC OF CHINA 
+SATELLITE FUELS AND SEPARATION SYSTEMS--MESSAGE FROM THE PRESIDENT--PM 
+                                   26
+
+  The PRESIDING OFFICER laid before the Senate the following message 
+from the President of the United States, together with an accompanying 
+report; which was referred to the Committee on Armed Services.
+
+To the Congress of the United States:
+  In accordance with the provisions of section 1512 of Public Law 105-
+261, the Strom Thurmond National Defense Authorization Act for Fiscal 
+Year 1999, I hereby certify that the export to the People's Republic of 
+China of satellite fuels and separation systems for the U.S.-origin 
+Iridium commercial communications satellite program:
+  (1) is not detrimental to the United States space launch industry; 
+and
+  (2) the material and equipment, including any indirect technical 
+benefit that could be derived from such export, will not measurably 
+improve the missile or space launch capabilities of the People's 
+Republic of China.
+                                                  William J. Clinton.  
+  The White House, May 10, 1999.
+
+                          ____________________
+```
