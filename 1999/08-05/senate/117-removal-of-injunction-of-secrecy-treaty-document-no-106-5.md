@@ -1,0 +1,66 @@
+---
+granule: CRECB-1999-pt14-Pg20027-2
+date: 1999-08-05
+edition: CRECB
+section: SENATE
+page: 20027
+---
+
+# REMOVAL OF INJUNCTION OF SECRECY--TREATY DOCUMENT NO. 106-5
+
+```
+      REMOVAL OF INJUNCTION OF SECRECY--TREATY DOCUMENT NO. 106-5
+
+  Mr. BROWNBACK. As in executive session, I ask unanimous consent that 
+the injunction of secrecy be removed from the following convention 
+transmitted to the Senate on August 5, 1999, by the President of the 
+United States, that being Convention No. 182 for Elimination of the 
+Worst Forms of Child Labor, Treaty Document 106-5. I further ask that 
+the convention be considered as having been read the first time, that 
+it be referred, with accompanying papers, to the Committee on Foreign 
+Relations, and the President's message be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The message of the President is as follows:
+
+To the Senate of the United States:
+  With a view to receiving the advice and consent of the Senate to 
+ratification of the Convention (No. 182) Concerning the Prohibition and 
+Immediate Action for the Elimination of the Worst Forms of Child Labor, 
+adopted by the International Labor Conference at its 87th Session in 
+Geneva on June 17, 1999, I transmit herewith a certified copy of that 
+Convention. I transmit also for the Senate's information a certified 
+copy of a recommendation (No. 190) on the same subject, adopted by the 
+International Labor Conference on the same date, which amplifies some 
+of the Convention's provisions. No action is called for on the 
+recommendation.
+  The report of the Department of State, with a letter from the 
+Secretary of Labor, concerning the Convention is enclosed.
+  As explained more fully in the enclosed letter from the Secretary of 
+Labor, current United States law and practice satisfy the requirements 
+of Convention No. 182. Ratification of this Convention, therefore, 
+should not require the United States to alter in any way its law or 
+practice in this field.
+  In the interest of clarifying the domestic application of the 
+Convention, my Administration proposes that two understandings 
+accompany U.S. ratification.
+  The proposed understandings are as follows:
+  --The United States understands that Article 3(d) of Convention 182 
+    does not encompass situations in which children are employed by a 
+    parent or by a person standing in the place of a parent on a farm 
+    owned or operated by such parent or person.
+  --The United States understands that the term ``basic education'' in 
+    Article 7 of Convention 182 means primary education plus one year: 
+    eight or nine years of schooling, based on curriculum and not age.
+  These understandings would have no effect on our international 
+obligations under Convention No. 182.
+  Convention No. 182 represents a true breakthrough for the children of 
+the world. Ratification of this instrument will enhance the ability of 
+the United States to provide global leadership in the effort to 
+eliminate the worst forms of child labor. I recommend that the Senate 
+give its advice and consent to the ratification of ILO Convention No. 
+182.
+                                                  William J. Clinton.  
+  The White House, August 5, 1999.
+
+                          ____________________
+```

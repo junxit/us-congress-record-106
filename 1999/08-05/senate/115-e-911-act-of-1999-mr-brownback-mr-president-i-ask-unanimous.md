@@ -1,0 +1,75 @@
+---
+granule: CRECB-1999-pt14-Pg20026
+date: 1999-08-05
+edition: CRECB
+section: SENATE
+page: 20026
+---
+
+# . E-911 ACT OF 1999 Mr. BROWNBACK. Mr. President, I ask unanimous consent the Senate now proceed to the consideration of Calendar No. 255, S. 800. The PRESIDING OFFICER. The clerk will report the bill by title. The assistant legislative clerk read as follows:
+
+```
+.                           E-911 ACT OF 1999
+  Mr. BROWNBACK. Mr. President, I ask unanimous consent the Senate now 
+proceed to the consideration of Calendar No. 255, S. 800.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The assistant legislative clerk read as follows:
+
+       A bill (S. 800) to promote and enhance public safety 
+     through the use of 9-1-1 as the universal emergency 
+     assistance number, further deployment of wireless 9-1-1 
+     service, support of States in upgrading 9-1-1 capabilities 
+     and related functions, encouragement of construction and 
+     operation of seamless, ubiquitous, and reliable networks for 
+     personal wireless services, and for other purposes.
+
+  There being no objection, the Senate proceeded to consider the bill 
+which was reported from the Committee on Commerce, Science, and 
+Transportation, with amendments.
+  Mr. BROWNBACK. I ask unanimous consent that the committee amendments 
+be agreed to, the bill be read a third time and passed, the motion to 
+reconsider be laid upon the table, and any statements be printed in the 
+Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The committee amendments were agreed to.
+  The bill (S. 800), as amended, was read the third time and passed, as 
+follows:
+  [The bill was not available for printing. It will appear in a future 
+issue of the Record.]
+
+
+                           E-911 ACT OF 1999
+
+  Mr. BURNS. Mr. President, I am very pleased that the Senate has 
+unanimously passed the ``e-911 Act of 1999.''
+  The e-911 bill is simple--it makes 911 the universal emergency 
+number. This bill will help save lives and is supported by a broad 
+range of public safety, emergency medical, consumer and citizen groups. 
+These groups represent the operators and users of the 911 system, those 
+with direct experience with the problems with today's system.
+  Over seventy million Americans carry wireless telephones. Many carry 
+them for safety reasons. People count on those phones to be their 
+lifelines in emergencies. In fact, 98,000 people are counting on their 
+wireless phones in emergencies everyday. That is how many wireless 911 
+calls are made a day, 98,000. But there's a problem. In many parts of 
+our country, when the frantic parent or the suddenly disabled older 
+person punches 911 on the wireless phone, nothing happens. In those 
+locations, 911 is not the emergency number. The ambulance and the 
+police won't be coming. You may be facing a terrible emergency, but 
+you're on your own, because you don't know the local number to call for 
+emergencies.
+  ``The e-911 Act of 1999'' will help fix that problem by making 911 
+the number to call in an emergency--anytime, everywhere. The rule in 
+America ought to be uniform and simple--if you have an emergency, 
+wherever you are, dial 911.
+
+[[Page 20027]]
+
+  More and more, wireless communications is the critical link that can 
+help get emergency medical care to those in the ``golden hour'' when 
+timely care can mean the difference between life and death.
+  I thank my colleagues for their hard work in passing this critical 
+legislation.
+
+                          ____________________
+```
