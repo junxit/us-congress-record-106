@@ -1,0 +1,29 @@
+---
+granule: CRECB-1999-pt6-Pg8492
+date: 1999-05-05
+edition: CRECB
+section: SENATE
+page: 8492
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate May 5, 1999:
+
+
+                          DEPARTMENT OF LABOR
+
+       EDWARD B. MONTGOMERY, OF MARYLAND, TO BE AN ASSISTANT 
+     SECRETARY OF LABOR, VICE RICHARD M. MCGAHEY.
+
+
+                          DEPARTMENT OF STATE
+
+       DAVID B. DUNN, OF CALIFORNIA, A CAREER MEMBER OF THE SENIOR 
+     FOREIGN SERVICE, CLASS OF COUNSELOR, TO BE AMBASSADOR 
+     EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED STATES OF 
+     AMERICA TO THE REPUBLIC OF ZAMBIA.
+```
