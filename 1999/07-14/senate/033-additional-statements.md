@@ -1,0 +1,79 @@
+---
+granule: CRECB-1999-pt11-Pg15897
+date: 1999-07-14
+edition: CRECB
+section: SENATE
+page: 15897
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+      TRIBUTE TO EVERETT McKENNEY, LEGION OF HONOR AWARD RECIPIENT
+
+● Ms. SNOWE. Mr. President, I rise to congratulate a courageous 
+World War I veteran from my home state of Maine who on Friday will be 
+awarded the most prestigious honor that France bestows, the National 
+Order of the Legion of Honor.
+  Everett McKenney who has lived in Augusta and Waterville will receive 
+this distinguished honor for the tremendous sacrifices he made to 
+safeguard freedom and democracy while serving in France during the 
+first World War.
+  In 1998, the French Government announced Project 1918-1998. The 
+purpose of Project 1918-1998 is to honor the 80th anniversary of the 
+armistice of World War I, and as part of this undertaking, France 
+announced that it would award the Legion of Honor designation to 
+surviving American veterans who, like Mr. McKenney, served in France 
+between 1914 and 1918. This step is taken in recognition of the 
+decisive support Americans gave to French soldiers as they fought to 
+defend French soil.
+  Up to 1,000 American veterans who served in France during World War I 
+may still be alive today, and there is a search underway to locate as 
+many of these men and women as possible.
+  Private Everett McKenney, who is 104 and a longtime resident of 
+Waterville and Augusta, has two daughters, five grandchildren, four 
+great grandchildren, and one great, great grandchild. He was the 
+youngest of four children and was born in Freedom, Maine in 1895. He 
+enlisted in July 1918 at 23, in Waterville. He was stationed in Fort 
+Devens, Massachusetts and received special training in New Jersey. He 
+was assigned to the 41st Rainbow Division and later was assigned to the 
+101st Field Artillery unit. In New Jersey, he was notified to pack his 
+gear and prepare for an overseas assignment. During a 12-day Atlantic 
+crossing, a flu epidemic broke out and many of his comrades were buried 
+at sea. This would be the first of many trials he would face.
+  I have nothing but the utmost respect for those who have served with 
+courage, honor and distinction when their country--and the world--
+needed them so desperately. Indeed, I am truly honored to represent 
+these men and women as Maine's senior Senator.
+  On November 11, 1918, almost 81 years ago, at the eleventh hour, the 
+Armistice was signed in France that silenced the guns and ended the 
+carnage of World War I. From the War for Independence, to World War I, 
+through the Persian Gulf War and the Balkans more than two hundred 
+years later, Americans like Everett have answered the call to duty--not 
+for the glory or conquest or empire, but to ensure that the flame of 
+liberty burns ever brightly.
+  The debt of gratitude owed to our veterans can never be fully repaid. 
+What we can and must do for those who, like Mr. McKenney, answered the 
+call to duty is keep alive the values of freedom and democracy they 
+have defended, and honor them as the guardians of those ideals.
+  Elmer Runyon once wrote that: ``We will remain the home of the free 
+only as long as we are also the home of the brave.'' Today, America and 
+the world is basking in the shine of freedom because of yesterday's and 
+today's service men and women--who offer nobly to sacrifice in war so 
+that others may live in peace. These are America's true heroes.
+  This occasion reminds us that winning freedom is not the same as 
+keeping it. The cost of safeguarding freedom is high. It requires 
+vigilance and sacrifice. Time and again when freedom has been 
+threatened, men like Everett McKenney emerged as heroes. America's 
+veterans have served our country and the world ably in times of need, 
+and know well the personal sacrifices which the defense of freedom 
+demands. It is a true honor to congratulate Mr. McKenney on a well-
+deserved recognition.●
+
+                          ____________________
+```
