@@ -1,0 +1,38 @@
+---
+granule: CRECB-2000-pt15-Pg22689
+date: 2000-10-12
+edition: CRECB
+section: SENATE
+page: 22689
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate October 12, 2000:
+
+
+                         DEPARTMENT OF DEFENSE
+
+       ROBERT N. SHAMANSKY, OF OHIO, TO BE A MEMBER OF THE 
+     NATIONAL SECURITY EDUCATION BOARD FOR A TERM OF FOUR YEARS.
+       ROBERT B. PIRIE, JR., OF MARYLAND, TO BE UNDER SECRETARY OF 
+     THE NAVY.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+
+
+
+
+             CONGRESSIONAL RECORD 
+
+                United States
+                 of America
+
+
+
+October 12, 2000
+```
