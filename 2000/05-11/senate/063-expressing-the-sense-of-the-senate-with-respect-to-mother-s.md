@@ -1,0 +1,34 @@
+---
+granule: CREC-2000-05-11-pt1-PgS3927-5
+date: 2000-05-11
+edition: CREC
+section: SENATE
+page: S3927
+citation: 146 Cong. Rec. S3927
+---
+
+# EXPRESSING THE SENSE OF THE SENATE WITH RESPECT TO MOTHER'S DAY THAT THE UNITED STATES SENATE SHOULD REJECT THE UNITED NATIONS CONVENTION ON THE ELIMINATION OF DISCRIMINATION AGAINST WOMEN (CEDAW...
+
+**Speaking:** Smith, Gordon H. (S001142) [R-OR]
+
+**Measures:** S.Res. 307
+
+```
+ EXPRESSING THE SENSE OF THE SENATE WITH RESPECT TO MOTHER'S DAY THAT 
+THE UNITED STATES SENATE SHOULD REJECT THE UNITED NATIONS CONVENTION ON 
+ THE ELIMINATION OF DISCRIMINATION AGAINST WOMEN (CEDAW) AS IT DEMEANS 
+            MOTHERHOOD AND UNDERMINES THE TRADITIONAL FAMILY
+
+  Mr. SMITH of Oregon. Mr. President, I ask unanimous consent the 
+Senate now proceed to the consideration of S. Res. 307, submitted 
+earlier by Senator Helms, which expresses the sense of the Senate with 
+respect to Mother's Day, that the U.S. Senate should reject the United 
+Nations Convention on the Elimination of Discrimination Against Women 
+as it demeans motherhood and undermines the traditional family.
+  The PRESIDING OFFICER. Is there objection to proceeding?
+  Mr. SMITH of Oregon. Mr. President, I object to my own request on 
+behalf of the other side of the aisle.
+  The PRESIDING OFFICER. The resolution will lie over under the rule.
+
+                          ____________________
+```
