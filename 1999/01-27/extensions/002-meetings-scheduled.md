@@ -1,0 +1,173 @@
+---
+granule: CRECB-1999-pt1-Pg1451-2
+date: 1999-01-27
+edition: CRECB
+section: EXTENSIONS
+page: 1451
+---
+
+# MEETINGS SCHEDULED
+
+```
+                           MEETINGS SCHEDULED
+
+                               JANUARY 29
+     9 a.m.
+       Budget
+         To hold hearings on the Congressional Budget Office 
+           economic and budget outlook for fiscal year 2000.
+                                                            SD-608
+     9:30 a.m.
+       Foreign Relations
+         To hold hearings on the nomination of Hassan Nemazee, of 
+           New York, to be Ambassador to Argentina.
+                                                    S-116, Capitol
+     10 a.m.
+       Intelligence
+         Closed business meeting to consider pending intelligence 
+           matters.
+                                                            SH-219
+       Veterans' Affairs
+         To hold hearings on the Dole Commission (Commission on 
+           Service Members and Veterans Transition Assistance) 
+           Report, and on Medicare subvention, third-party 
+           collections, and other non-appropriated funding sources 
+           for the Department of Veterans' Affairs.
+                                                            SH-216
+
+                               FEBRUARY 2
+     9:30 a.m.
+       Armed Services
+         To hold hearings, in open and closed (SH-219), on current 
+           and future worldwide threats to the national security 
+           of the United States.
+                                                            SH-216
+       Energy and Natural Resources
+         To hold hearings on the nomination of Carolyn L. Huntoon, 
+           of Virginia, to be an Assistant Secretary of Energy 
+           (Environmental Management).
+                                                            SD-106
+     10 a.m.
+       Finance
+         To hold hearings on the President's proposed budget 
+           request for fiscal year 2000 and tax proposals.
+                                                            SD-215
+       Budget
+         To hold hearings on the President's proposed budget 
+           request for fiscal year 2000.
+                                                            SD-608
+
+                               FEBRUARY 3
+     9:30 a.m.
+       Commerce, Science, and Transportation
+         Business meeting to mark up S. 82, to authorize 
+           appropriations for Federal Aviation Administration.
+                                                            SR-253
+       Armed Services
+         To hold hearings on proposed legislation authorizing 
+           funds for fiscal year 2000 for the Department of 
+           Defense, and the future years defense program.
+                                                            SH-216
+
+                               FEBRUARY 4
+     10 a.m.
+       Energy and Natural Resources
+         To hold oversight hearings to review the Recreation Fee 
+           Demonstration Program of the Department of the 
+           Interior.
+                                                            SD-106
+
+                               FEBRUARY 5
+     8:30 a.m.
+       YEAR 2000 TECHNOLOGY PROBLEM
+         To hold hearings to examine information technology as it 
+           applies to the food sector in the Year 2000.
+                                                            SD-192
+
+                              FEBRUARY 11
+     8:30 a.m.
+       YEAR 2000 TECHNOLOGY PROBLEM
+         To hold hearings to examine information technology as it 
+           applies to the food sector in the Year 2000.
+                                                            SD-192
+
+                              FEBRUARY 12
+     9:30 a.m.
+       Budget
+         To hold hearings on national defense budget issues.
+                                                            SD-608
+
+                              FEBRUARY 24
+     9:30 a.m.
+       Armed Services
+       Readiness Subcommittee
+         To hold hearings on the National Security ramifications 
+           of the Year 2000 computer problem.
+                                                            SH-216
+
+                              FEBRUARY 25
+     9:30 a.m.
+       Veterans' Affairs
+         To hold joint hearings with the House Committee on 
+           Veterans' Affairs to review the legislative 
+           recommendations of the Military Order of the Purple 
+           Heart, the Fleet Reserve, the Retired Enlisted 
+           Association, the Gold Star Wives of America, and the 
+           Air Force Sergeants Association.
+                                               345 Cannon Building
+
+                                MARCH 2
+     9:30 a.m.
+       Veterans' Affairs
+         To hold joint hearings with the House Committee on 
+           Veterans' Affairs to review the legislative 
+           recommendations of the Veterans of Foreign Wars.
+                                               345 Cannon Building
+
+                                MARCH 4
+     9:30 a.m.
+       Veterans' Affairs
+         To hold joint hearings with the House Committee on 
+           Veterans' Affairs to review the legislative 
+           recommendations of the Veterans of World War I of the 
+           USA, Non-Commissioned Officers Association, Paralyzed 
+           Veterans of America, Jewish War Veterans, and the 
+           Blinded Veterans Association.
+                                               345 Cannon Building
+
+                                MARCH 17
+     10 a.m.
+       Veterans' Affairs
+         To hold joint hearings with the House Committee on 
+           Veterans' Affairs to review the legislative 
+           recommendations of the Disabled American Veterans.
+                                               345 Cannon Building
+
+                                MARCH 24
+     10 a.m.
+       Veterans' Affairs
+         To hold joint hearings with the House Committee on 
+           Veterans' Affairs to review the legislative 
+           recommendations of the American Ex-Prisoners of War, 
+           AMVETS, Vietnam Veterans of America, and the Retired 
+           Officers Association.
+                                               345 Cannon Building
+
+                              SEPTEMBER 28
+     9:30 a.m.
+       Veterans' Affairs
+         To hold joint hearings with the House Committee on 
+           Veterans' Affairs to review the legislative 
+           recommendations of the American Legion.
+                                               345 Cannon Building
+
+                             POSTPONEMENTS
+
+                              FEBRUARY 10
+     8:30 a.m.
+       Judiciary
+         Antitrust, Business Rights, and Competition Subcommittee
+         To hold hearings to review competition and antitrust 
+           issues relating to the Telecom Act.
+                                                            SD-226
+```
