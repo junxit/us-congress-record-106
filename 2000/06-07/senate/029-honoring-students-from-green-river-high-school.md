@@ -1,0 +1,45 @@
+---
+granule: CREC-2000-06-07-pt1-PgS4666-3
+date: 2000-06-07
+edition: CREC
+section: SENATE
+page: S4666
+citation: 146 Cong. Rec. S4666
+---
+
+# HONORING STUDENTS FROM GREEN RIVER HIGH SCHOOL
+
+**Speaking:** Thomas, Craig (T000162) [R-WY]
+
+```
+             HONORING STUDENTS FROM GREEN RIVER HIGH SCHOOL
+
+● Mr. THOMAS. Mr. President, on May 6-8, 2000, more than 1200 
+students from across the United States came to Washington, D.C. to 
+compete in the national finals of the We the People . . . The Citizen 
+and the Constitution program. I am proud to announce that the class 
+from Green River High School in Green River, Wyoming, represented my 
+state in this national event. These young scholars worked diligently to 
+reach the national finals and through their experience have gained a 
+deep knowledge and understanding of the fundamental principles and 
+values of our constitutional democracy.
+  The participating students were Richard Baxter, Natalie Binder, 
+Katharine Bracken, Cameron Kelsey, Sandra Newton, Jacque Owen, Jeremy 
+Pitts, Benjamin Potmesil, Meagan Reese, Rachel Ryckman, Ryan Stewart, 
+and Steven Ujvary. I also want to recognize their teacher, Dennis 
+Johnson, who deserves much of the credit for the success of the team.
+  The We the People . . . The Citizen and the Constitution program is 
+the most extensive educational program in the country developed 
+specifically to educate young people about the Constitution and the 
+Bill of Rights. The three-day national competition is modeled after 
+hearings in the United States Congress, during which a panel of judges 
+from a variety of appropriate professional fields probes the students 
+for their depth of understanding and ability to apply their 
+constitutional knowledge.
+  The class from Green River represented the state of Wyoming well 
+during the finals, and I wish these ``constitutional experts'' the best 
+of luck as they continue to cultivate their interest in the principles 
+upon which our great country was founded.●
+
+                          ____________________
+```

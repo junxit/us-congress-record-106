@@ -1,0 +1,41 @@
+---
+granule: CREC-2000-06-07-pt1-PgH3934
+date: 2000-06-07
+edition: CREC
+section: HOUSE
+page: H3934
+citation: 146 Cong. Rec. H3934
+---
+
+# MILLIONS OF AMERICANS MUST CHOOSE BETWEEN FOOD OR MEDICINE
+
+**Speaking:** Hall, Tony P. (H000074) [D-OH]
+
+```
+       MILLIONS OF AMERICANS MUST CHOOSE BETWEEN FOOD OR MEDICINE
+
+  (Mr. HALL of Ohio asked and was given permission to address the House 
+for 1 minute.)
+  Mr. HALL of Ohio. Mr. Speaker, last week, I went on a hunger tour in 
+Appalachia in parts of Ohio, Kentucky, and West Virginia; and I heard 
+about a man by the name of Tom Nelson who is one of the tens of 
+millions of poor Americans we do not see. He was a senior citizen who 
+worked at a food bank in Huntington.
+  A few months ago, the food bank was not able to pay Mr. Nelson, in 
+large measure because it had not received funding promised by the State 
+for nearly a year. To stretch his Social Security check, Mr. Nelson 
+tried to stretch his blood pressure medicine. The cause of his death 
+was listed as a heart attack, but the truth is he died trying to feed 
+his family.
+  The poorest 2\1/2\ percent of Americans rank with the poorest people 
+in the world, according to the World Health Organization. I think the 
+only thing more shameful than that is the fact that too few of us know 
+about people like Mr. Nelson.
+  Mr. Speaker, this is the People's House, and I urge all of us, 
+including the Nation's media, to look harder for the 30 million 
+Americans who go hungry each year, and for many more who every day must 
+make the choice Mr. Nelson made between paying for food or paying for 
+medicine.
+
+                          ____________________
+```

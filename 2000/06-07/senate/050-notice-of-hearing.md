@@ -1,0 +1,45 @@
+---
+granule: CREC-2000-06-07-pt1-PgS4717
+date: 2000-06-07
+edition: CREC
+section: SENATE
+page: S4717
+citation: 146 Cong. Rec. S4717
+---
+
+# NOTICE OF HEARING
+
+**Speaking:** Murkowski, Frank H. (M001085) [R-AK]
+
+**Measures:** S. 2557
+
+```
+[[Page S4717]]
+                           NOTICE OF HEARING
+
+
+               committee on energy and natural resources
+
+  Mr. MURKOWSKI. Mr. President, I would like to announce for the 
+information of the Senate and the public that a hearing has been 
+scheduled before the Committee on Energy and Natural Resources.
+  The hearing will take place Thursday, June 15, 2000, at 9:30 a.m. in 
+room SD-366 of the Dirksen Senate Office Building in Washington, D.C.
+  The purpose of this hearing is to receive testimony on the goals and 
+specific legislative provisions of S. 2557, the National Energy 
+Security Act of 2000. The bill would protect the energy security of the 
+United States and decrease America's dependency on foreign oil sources 
+to 50 percent by the year 2010 by enhancing the use of renewable energy 
+resources, conserving energy resources, improving energy efficiencies, 
+and increasing domestic energy supplies, mitigating the effect of 
+increases in energy prices on the American consumer, including the poor 
+and elderly, and for other purposes.
+  Presentation of oral testimony is by Committee invitation only. 
+However, those who wish to submit written testimony for the hearing 
+record should send two copies of their testimony to the Committee on 
+Energy and Natural Resources, United States Senate, 364 Dirksen Senate 
+Office Building, Washington, D.C. 20510-6150. For further information, 
+please contact Brian Malnak at (202) 224-4971.
+
+                          ____________________
+```

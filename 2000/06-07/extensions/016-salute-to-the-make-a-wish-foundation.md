@@ -1,0 +1,50 @@
+---
+granule: CREC-2000-06-07-pt1-PgE909-3
+date: 2000-06-07
+edition: CREC
+section: EXTENSIONS
+page: E909
+citation: 146 Cong. Rec. E909
+---
+
+# SALUTE TO THE MAKE-A-WISH FOUNDATION
+
+**Speaking:** Norton, Eleanor Holmes (N000147) [D-DC]
+
+```
+                  SALUTE TO THE MAKE-A-WISH FOUNDATION
+
+                                 ______
+                                 
+
+                       HON. ELEANOR HOLMES NORTON
+
+                      of the district of columbia
+
+                    in the house of representatives
+
+                        Wednesday, June 7, 2000
+
+  Ms. NORTON. Mr. Speaker, I rise today to salute the 20th anniversary 
+of the Make-A-Wish Foundation, which has brought happiness and joy to 
+thousands of children around the world. On April 29, a seven-year-old 
+boy in Arizona had one wish: he wanted to become a police officer. 
+Friends and neighbors granted his wish. The boy became an honorary 
+state trooper and received his own uniform. From this boy's experience 
+arose the Make-A-Wish Foundation.
+  Twenty years later, the organization has fulfilled the wishes of more 
+than 500 District of Columbia children and more than 80,000 worldwide. 
+In the last year alone, the Foundation has granted the wishes of 70 
+District children who are fighting life-threatening illnesses.
+  This year, the Make-A-Wish Foundation will grant the wishes of 
+approximately 8,000 children. Some of the popular wishes, of course, 
+include a trip Walt Disney World, computers, shopping sprees and visits 
+with celebrities. But each year, about 25 children ask for trips to our 
+nation's capital, where they witness what District residents have 
+always known--that Washington, D.C., is a beautiful city with kind and 
+generous citizens.
+  Mr. Speaker, I ask my colleagues to join me in this 20th anniversary 
+salute to the Make-A-Wish Foundation for a job well done.
+
+                          ____________________
+```

@@ -1,0 +1,53 @@
+---
+granule: CREC-2000-06-07-pt1-PgS4666-4
+date: 2000-06-07
+edition: CREC
+section: SENATE
+page: S4666
+citation: 146 Cong. Rec. S4666
+---
+
+# REGARDING THE IMPORTANCE OF OUR CONSTITUTION
+
+**Speaking:** Enzi, Michael B. (E000285) [R-WY]
+
+```
+              REGARDING THE IMPORTANCE OF OUR CONSTITUTION
+
+● Mr. ENZI. Mr. President, I want to take a moment to recognize 
+some special students from my home state of Wyoming, Green River to be 
+specific, who have been spending a lot of their time studying our 
+Constitution. They got so good at it, in fact, that they entered a 
+national competition here in Washington to test their knowledge against 
+the best of their peers and had a remarkable result.
+  Earlier this month students from around the country came to the 
+nation's capital to compete on their understanding of our Constitution 
+and our American Government. The students of Green River High School 
+did very well in that event. In fact, their understanding and grasp of 
+the fundamental principles of our Democracy and the meaning of our 
+Constitution was judged to be among the best of the 50 teams that 
+participated.
+  Programs like the one the students of Green River participated in are 
+vital if we are to ensure that our future leaders have an understanding 
+of the principles of our Constitution and the beliefs and values our 
+Founding Fathers brought to the creation of our government. Such an 
+understanding is an important part of our children's education for it 
+will help them understand that the rights and freedoms afforded by our 
+Constitution bring with them certain duties and responsibilities - the 
+duties and responsibilities of citizenship. That will help them 
+understand their role as they become our local, state and national 
+leaders and face the challenges of the new millennium.
+  Good work, Green River High School! Led by their teacher, Dennis 
+Johnson, and supported by their State Coordinator, Dick Kean, and their 
+District Coordinator, Matt Strannigan, they did a great job and made 
+Wyoming proud.
+
+[[Page S4667]]
+
+  I would also like to congratulate each member of the team, which 
+includes: Richard Baxter, Natalie Binder, Katharine Bracken, Cameron 
+Kelsey, Sandra Newton, Jacque Owen, Jeremy Pitts, Benjamin Potmesil, 
+Meagan Reese, Rachel Ryckman, Ryan Stewart and Steven Ujvary.●
+
+                          ____________________
+```

@@ -1,0 +1,44 @@
+---
+granule: CREC-2000-06-07-pt1-PgH3932-7
+date: 2000-06-07
+edition: CREC
+section: HOUSE
+page: H3932
+citation: 146 Cong. Rec. H3932
+---
+
+# REPEAL OF THE DEATH TAX
+
+**Speaking:** Dunn, Jennifer (D000549) [R-WA]
+
+**Measures:** H.R. 8
+
+```
+                        REPEAL OF THE DEATH TAX
+
+  (Ms. DUNN asked and was given permission to address the House for 1
+
+[[Page H3933]]
+
+minute and to revise and extend her remarks.)
+  Ms. DUNN. Mr. Speaker, this week the House will vote on H.R. 8, the 
+Death Tax Elimination Act, a bipartisan bill supported by 244 Members 
+of the House, including 46 Democrats and one Independent.
+  Mr. Speaker, repeal of the death tax is supported by a huge coalition 
+of folks all over this country. The Black Chamber of Commerce, the 
+Hispanic Chamber of Commerce, the National Indian Business Association, 
+many environmental groups and the National Association of Women 
+Business Owners.
+  Twenty-five years ago, women were given access to business loans. 
+Now, many are struggling to pass their life's work on to their 
+children. According to their most recent study, women business owners 
+spend an average of $1,000 a month on estate planning just to prepare 
+for the death tax and keep the family business in the family. With 44 
+million Americans without health insurance, a majority of them working 
+for small businesses, that $1,000 a month could go a long way toward 
+providing benefits for employees.
+  Mr. Speaker, I urge my colleagues to support this important measure. 
+Support repealing the unfair death tax.
+
+                          ____________________
+```

@@ -1,0 +1,36 @@
+---
+granule: CREC-2000-06-07-pt1-PgH4034-2
+date: 2000-06-07
+edition: CREC
+section: HOUSE
+page: H4034
+citation: 146 Cong. Rec. H4034
+---
+
+# SPECIAL ORDERS GRANTED
+
+```
+                         SPECIAL ORDERS GRANTED
+
+  By unanimous consent, permission to address the House, following the 
+legislative program and any special orders heretofore entered, was 
+granted to:
+  (The following Members (at the request of Mr. McNulty) to revise and 
+extend their remarks and include extraneous material:)
+  Mr. Baca, for 5 minutes, today.
+  Mr. Brown of Ohio, for 5 minutes, today.
+  Ms. Millender-McDonald, for 5 minutes, today.
+  Mr. Sherman, for 5 minutes, today.
+  (The following Members (at the request of Mr. Ose) to revise and 
+extend their remarks and include extraneous material:)
+  Mr. Foley, for 5 minutes, today and June 8.
+  Mr. Burton of Indiana, for 5 minutes, June 14.
+  Mrs. Johnson of Connecticut, for 5 minutes, June 8.
+  (The following Members (at their own request) to revise and extend 
+his remarks and include extraneous material:)
+  Mr. Hayworth, for 5 minutes, today.
+  Mr. Davis of Illinois, for 5 minutes, today.
+  Mrs. Clayton, for 5 minutes, today.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2000-06-07-pt1-PgS4665
+date: 2000-06-07
+edition: CREC
+section: SENATE
+page: S4665
+citation: 146 Cong. Rec. S4665
+---
+
+# THE VERY BAD DEBT BOXSCORE
+
+**Speaking:** Helms, Jesse (H000463) [R-NC]
+
+```
+                       THE VERY BAD DEBT BOXSCORE
+
+  Mr. HELMS. Mr. President, at the close of business yesterday, 
+Tuesday, June 6, 2000, the Federal debt stood at $5,647,513,754,741.07 
+(Five trillion, six hundred forty-seven billion, five hundred thirteen 
+million, seven hundred fifty-four thousand, seven hundred forty-one 
+dollars and seven cents).
+  Five years ago, June 5, 1995, the Federal debt stood at 
+$4,904,369,000,000 (Four trillion, nine hundred four billion, three 
+hundred sixty-nine million).
+  Ten years ago, June 5, 1990, the Federal debt stood at 
+$3,127,273,000,000 (Three trillion, one hundred twenty-seven billion, 
+two hundred seventy-three million).
+  Fifteen years ago, June 5, 1985, the Federal debt stood at 
+$1,776,407,000,000 (One trillion, seven hundred seventy-six billion, 
+four hundred seven million).
+  Twenty-five years ago, June 5, 1975, the Federal debt stood at 
+$524,448,000,000 (Five hundred twenty-four billion, four hundred 
+fourty-eight million) which reflects a debt increase of more than $5 
+trillion--$5,123,065,754,741.07 (Five trillion, one hundred twenty-
+three billion, sixty-five million, seven hundred fifty-four thousand, 
+seven hundred forty-one dollars and seven cents) during the past 25 
+years.
+
+                          ____________________
+```
