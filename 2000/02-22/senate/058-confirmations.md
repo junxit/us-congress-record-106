@@ -1,0 +1,25 @@
+---
+granule: CRECB-2000-pt1-Pg1413-7
+date: 2000-02-22
+edition: CRECB
+section: SENATE
+page: 1413
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive Nominations Confirmed by the Senate February 22, 2000:
+
+
+                       DEPARTMENT OF THE INTERIOR
+
+       DAVID J. HAYES, OF VIRGINIA, TO BE DEPUTY SECRETARY OF THE 
+     INTERIOR.
+
+       THE ABOVE NOMINATION APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
