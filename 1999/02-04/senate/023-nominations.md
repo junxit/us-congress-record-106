@@ -1,0 +1,49 @@
+---
+granule: CRECB-1999-pt2-Pg1909-2
+date: 1999-02-04
+edition: CRECB
+section: SENATE
+page: 1909
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Secretary of the Senate on 
+February 3, 1999:
+
+[[Page 1910]]
+
+
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADES 
+     INDICATED IN THE UNITED STATES ARMY AND FOR REGULAR 
+     APPOINTMENT (IDENTIFIED BY AN ASTERISK (*)) UNDER TITLE 10, 
+     U.S.C., SECTIONS 531, 624, 628, AND 3064:
+
+                        To be lieutenant colonel
+
+TIM O. REUTTER, 0000
+JOHN R. SWANSON, 0000
+
+                              To be major
+
+* DAVID A. ERICKSON, 0000
+* JOHN M. GRIFFIN, 0000
+       EXECUTIVE NOMINATION RECEIVED BY THE SECRETARY OF THE 
+     SENATE FEBRUARY 4, 1999, UNDER AUTHORITY OF THE ORDER OF THE 
+     SENATE OF JANUARY 6, 1999:
+
+
+                  COMMODITY FUTURES TRADING COMMISSION
+
+       THOMAS J. ERICKSON, OF THE DISTRICT OF COLUMBIA, TO BE A 
+     COMMISSIONER OF THE COMMODITY FUTURES TRADING COMMISSION FOR 
+     THE TERM EXPIRING APRIL 13, 2003, VICE JOHN E. TULL, JR., 
+     TERM EXPIRED.
+```
