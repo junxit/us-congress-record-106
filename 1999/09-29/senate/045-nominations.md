@@ -1,0 +1,28 @@
+---
+granule: CRECB-1999-pt16-Pg23237-4
+date: 1999-09-29
+edition: CRECB
+section: SENATE
+page: 23237
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate September 29, 1999:
+
+
+                       TENNESSEE VALLEY AUTHORITY
+
+       SKILA HARRIS, OF KENTUCKY, TO BE A MEMBER OF THE BOARD OF 
+     DIRECTORS OF THE TENNESSEE VALLEY AUTHORITY FOR A TERM 
+     EXPIRING MAY 18, 2008, VICE WILLIAM H. KENNOY, TERM EXPIRED.
+       GLENN L. MCCULLOUGH, JR., OF MISSISSIPPI, TO BE A MEMBER OF 
+     THE BOARD OF DIRECTORS OF THE TENNESSEE VALLEY AUTHORITY FOR 
+     THE REMAINDER OF THE TERM EXPIRING MAY 18, 2005, VICE JOHNNY 
+     H. HAYES, RESIGNED.
+
+                          ____________________
+```
