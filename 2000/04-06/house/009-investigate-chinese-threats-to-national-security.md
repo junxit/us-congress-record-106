@@ -1,0 +1,31 @@
+---
+granule: CRECB-2000-pt4-Pg4714-2
+date: 2000-04-06
+edition: CRECB
+section: HOUSE
+page: 4714
+---
+
+# INVESTIGATE CHINESE THREATS TO NATIONAL SECURITY
+
+```
+            INVESTIGATE CHINESE THREATS TO NATIONAL SECURITY
+
+  (Mr. TRAFICANT asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. TRAFICANT. Mr. Speaker, the Justice Department has attacked Bill 
+Gates and Microsoft with a passion, literally trying to destroy the 
+company. Meanwhile, the Justice Department refuses to investigate 
+serious allegations of crimes involving Communist Chinese nationals and 
+top White House officials. Something is wrong here, very wrong. 
+Microsoft may be a threat to software, but China is an absolute threat 
+to hardware and the national security of the United States of America.
+  Now we may never see the day, but I predict unless Congress 
+intervenes, our children and their children may some day meet a massive 
+Chinese military threat armed to their dragon teeth with arms and 
+weapons bought by the American taxpayers no less. Beam me up.
+  I yield back the fact that we need an investigation into these 
+allegations.
+
+                          ____________________
+```
